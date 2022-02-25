@@ -1,3 +1,11 @@
+"""
+Christian Johansson & Michael Norton
+Artificial Intelligence, Homework 4
+3/1/2022
+Professor Silveyra
+This file contains the environment for the agent
+"""
+
 import random
 import math
 
@@ -75,16 +83,16 @@ class Environment:
         else:
             return False
 
-    """
-    Checks if the position of the Agent (through the passed x and y values)
-    @param x the x value of the agent
-    @param y the y value of the agent
-    """
-    def isDirty(self, x, y):
-        if self.grid[x][y][2] == 1:
-            return True
-        else:
-            return False
+    # """
+    # Checks if the position of the Agent (through the passed x and y values)
+    # @param x the x value of the agent
+    # @param y the y value of the agent
+    # """
+    # def isDirty(self, x, y):
+    #     if self.grid[x][y][2] == 1:
+    #         return True
+    #     else:
+    #         return False
 
     # prints environment
     def printEnviro(self):
@@ -92,13 +100,13 @@ class Environment:
             print(self.grid[i])
         [print(key, ':', value) for key, value in self.graph.items()]
 
-    def numDirty(self):
-        self.count = 0
-        for i in range(len(self.grid)):
-            for j in range(len(self.grid[i])):
-                if self.grid[i][j][2] == 1:
-                    self.count += 1
-        return self.count
+    # def numDirty(self):
+    #     self.count = 0
+    #     for i in range(len(self.grid)):
+    #         for j in range(len(self.grid[i])):
+    #             if self.grid[i][j][2] == 1:
+    #                 self.count += 1
+    #     return self.count
 
 
 t = Environment()
