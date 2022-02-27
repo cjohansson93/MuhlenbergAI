@@ -48,3 +48,6 @@ class Agent:
             # Checks if the potential new location is with bounds
             if self.environment.inBounds(self.locationX, self.locationY - 1):
                 self.locationY -= 1
+
+    def printLocation(self):
+        print("(" + str(self.locationX) + ", " + str(self.locationY) + ")")
