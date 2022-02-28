@@ -25,7 +25,7 @@ class Agent:
     """
     Changes the agents position by one in bounds of grid left/right/up/down.
     """
-    def moveLocation(self, direct):
+    def moveLocation(self, location):
         # Produces random int between 1-4
         direction = random.randint(1, 4)
         # Right movement
