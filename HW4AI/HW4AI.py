@@ -58,7 +58,21 @@ def main():
         numSolutions += int(stepsANDsolution[1])
 
     print("A*")
-    print("Times exit found: " + str(numSolutions) + "\nThe average unique nodes visited: " + str(round(numSteps/numSolutions)) + "\n")
+    print("Times exit found: " + str(numSolutions) + "\nThe average unique nodes visited: " + str(round(numSteps/numSolutions)) + "\n" + str(stepsANDsolution[2]) + "\n")
+
+    # A*
+    numSolutions = 0
+    numSteps = 0
+    for test in range(100):
+        greedyEnviro = copy.deepcopy(mainEnviro)
+        greedyEnviro.makeWalls()
+        greedyAgent = Agent.Agent(greedyEnviro)
+        stepsANDsolution = greedy(greedyAgent, (0, 0))
+        numSteps += int(stepsANDsolution[0])
+        numSolutions += int(stepsANDsolution[1])
+
+    print("Greedy")
+    print("Times exit found: " + str(numSolutions) + "\nThe average unique nodes visited: " + str(round(numSteps/numSolutions)) + "\n" + str(stepsANDsolution[2]) + "\n")
 
 
 """
@@ -160,25 +174,52 @@ def aStar(agent, startingPoint):
     start = startingPoint
     numVisited = 0
     if len(aStarEnviro.get(start)) == 0:
-        return 0, 0
+        return 0, 0, 0
     else:
         heapq.heappush(priorityQueue, (0 + [aStarEnviro[[key for key in aStarEnviro[start]][0]].get(start)][0][1], (start, 0)))
     while numVisited < len(aStarEnviro):
         # If the exit is a disconnected node/graph, there is no path and no solution
         if len(priorityQueue) == 0 and (9, 9) not in visitedNodes:
-            return 0, 0
+            return 0, 0, 0
         smallestValue = heapq.heappop(priorityQueue)
         if smallestValue[1][0] not in visitedNodes:
             visitedNodes.append(smallestValue[1][0])
             numVisited += 1
             for node in aStarEnviro[smallestValue[1][0]]:
                 if node == (9, 9):
-                    return numVisited, 1
+                    return numVisited, 1, visitedNodes
                 cost = smallestValue[1][1] + [aStarEnviro[smallestValue[1][0]].get(node)][0][0]
                 value = cost + [aStarEnviro[smallestValue[1][0]].get(node)][0][1]
                 heapq.heappush(priorityQueue, (value, (node, cost)))
 
-    return 0, 0
+    return 0, 0, 0
+
+
+def greedy(agent, startingPoint):
+    greedyAgent = agent
+    greedyEnviro = greedyAgent.environment.graph
+    heap = list()
+    visited = list()
+    start = startingPoint
+    numVisited = 0
+
+    if len(greedyEnviro.get(start)) == 0:
+        return 0, 0, 0
+    else:
+        heapq.heappush(heap, ([greedyEnviro[[key for key in greedyEnviro[start]][0]].get(start)][0][1], start))
+    while numVisited < len(greedyEnviro):
+        if len(heap) == 0 and (9, 9) not in visited:
+            return 0, 0, 0
+        smallestValue = heapq.heappop(heap)
+        if smallestValue[1] not in visited:
+            visited.append(smallestValue[1])
+            numVisited += 1
+            for node in greedyEnviro[smallestValue[1]]:
+                if node == (9, 9):
+                    return numVisited, 1, visited
+                heuristic = [greedyEnviro[smallestValue[1]].get(node)][0][1]
+                heapq.heappush(heap, (heuristic, node))
+    return 0, 0, 0
 
 
 main()

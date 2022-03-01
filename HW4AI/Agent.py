@@ -6,8 +6,6 @@ Professor Silveyra
 This file is the agent, capable of moving both up/down/left/right
 """
 
-import random
-
 
 class Agent:
 
@@ -27,7 +25,7 @@ class Agent:
     """
     def moveLocation(self, location):
         # Produces random int between 1-4
-        direction = random.randint(1, 4)
+        direction = direct
         # Right movement
         if direction == 1:
             # Checks if the potential new location is with bounds
@@ -48,6 +46,10 @@ class Agent:
             # Checks if the potential new location is with bounds
             if self.environment.inBounds(self.locationX, self.locationY - 1):
                 self.locationY -= 1
+
+    """
+        Prints the agent info: x & y location
+        """
 
     def printLocation(self):
         print("(" + str(self.locationX) + ", " + str(self.locationY) + ")")
