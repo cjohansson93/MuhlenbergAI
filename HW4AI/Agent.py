@@ -25,7 +25,7 @@ class Agent:
     """
     def moveLocation(self, location):
         # Produces random int between 1-4
-        direction = direct
+        direction = location
         # Right movement
         if direction == 1:
             # Checks if the potential new location is with bounds
@@ -36,20 +36,19 @@ class Agent:
             # Checks if the potential new location is with bounds
             if self.environment.inBounds(self.locationX - 1, self.locationY):
                 self.locationX -= 1
-        # Up movement
+        # Down movement
         elif direction == 3:
             # Checks if the potential new location is with bounds
             if self.environment.inBounds(self.locationX, self.locationY + 1):
                 self.locationY += 1
-        # Down movement
+        # Up movement
         elif direction == 4:
             # Checks if the potential new location is with bounds
             if self.environment.inBounds(self.locationX, self.locationY - 1):
                 self.locationY -= 1
 
     """
-        Prints the agent info: x & y location
-        """
-
+    Prints the agent info: x & y location
+    """
     def printLocation(self):
         print("(" + str(self.locationX) + ", " + str(self.locationY) + ")")
