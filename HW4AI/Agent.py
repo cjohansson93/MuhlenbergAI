@@ -1,9 +1,9 @@
 """
 Christian Johansson & Michael Norton
 Artificial Intelligence, Homework 4
-3/1/2022
+3/4/2022
 Professor Silveyra
-This file is the agent, capable of moving both up/down/left/right
+This file is the agent, capable of moving both up/down/left/right and printing its location
 """
 
 

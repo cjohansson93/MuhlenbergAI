@@ -1,7 +1,7 @@
 """
 Christian Johansson & Michael Norton
 Artificial Intelligence, Homework 4
-3/1/2022
+3/4/2022
 Professor Silveyra
 This file contains the environment for an agent. Environment is constructed as a grid in which a graph is based upon.
 The width and height is retrievable, as well as determining if something is within bounds and printing the grid & graph.

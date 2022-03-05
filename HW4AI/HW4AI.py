@@ -1,7 +1,7 @@
 """
 Christian Johansson & Michael Norton
 Artificial Intelligence, Homework 4
-3/1/2022
+3/4/2022
 Professor Silveyra
 This file contains methods for preforming a BFS, DFS, Greedy best search and an A* search on a graph.
 It also includes a main for testing the different searches on an agent in an environment. This gives the number
