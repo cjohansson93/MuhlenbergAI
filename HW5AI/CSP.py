@@ -12,62 +12,78 @@ class CSP:
 		self.mostConstraining = mostConstraining
 		self.forwardChecking = forwardChecking
 		self.leastConstraining = leastConstraining
-		self.adjacency = AdjacencyMatrix.AdjacencyMatrix()
+		self.adjacency = AdjacencyMatrix.AdjacencyMatrix(5, 25)
 		self.recursionCounter = 0
-		solveCSP(self.adjacency.matrix, self.mostConstrained, self.mostConstraining,
-				 self.forwardChecking, self.leastConstraining)
 
+	def isSafeColor(self, currentNode, color):
+		for connected in self.adjacency.Alist[currentNode][2]:
+			if color == self.adjacency.Alist[connected][0]:
+				return False
+		return True
 
-def isSafeColor(matrix, currentNode, color):
-	for connected in matrix[currentNode][2]:
-		if color == matrix[connected][0]:
+	def backtracking(self, currentNode):
+		self.recursionCounter += 1
+		if self.recursionCounter > 1000000:
 			return False
-	return True
+		
+		finished = True
+		for n in self.adjacency.Alist:
+			if n[0] == 0:
+				finished = False
+		
+		if finished:
+			return True
 
+		for color in range(1, NumColors+1):
 
-def backtracking(matrix, currentNode, counter, mostConstrained,
-				 mostConstraining, forwardChecking, leastConstraining):
-	innerCounter = counter
-	print(innerCounter)
-	if currentNode >= len(matrix):
-		return True,innerCounter
+			if self.isSafeColor(currentNode, color):
+				self.adjacency.Alist[currentNode][0] = color
+				nextNode = 0
+				if self.mostConstrained:
+					if self.mostConstraining:
+						pass
+					else:
+						constrained = (1, 4)
+						for i in range(len(self.adjacency.Alist)):
+							if self.adjacency.Alist[i][0] == 0:
+								colorsAvailable = [0, 1, 1, 1]
+								for c in self.adjacency.Alist[i][2]:
+									colorsAvailable[self.adjacency.Alist[c][0]] = 0
+								count = 0
+								for j in colorsAvailable:
+									count += j
+								if count < constrained[1]:
+									constrained = (i, count)
+						nextNode = constrained[0]
 
-	visited = list()
-	if currentNode not in visited:
-		visited.append(currentNode)
-		for connection in matrix[currentNode][2]:
-			for color in range(NumColors):
+				elif self.mostConstraining:
+					pass
+				else:
+					nextNode = currentNode + 1
 
-				if isSafeColor(matrix, currentNode, color+1):
-					matrix[currentNode][0] = color+1
-					recursiveResult = backtracking(matrix, connection, counter+1)
-					innerCounter = recursiveResult[1]
-					if recursiveResult[0]:
-						return True,innerCounter
-					matrix[currentNode][0] = 0
+				if self.backtracking(nextNode):
+					return True
+				self.adjacency.Alist[currentNode][0] = 0
+		return False
 
-			return False,innerCounter
+	def solveCSP(self):
+		start = 0
+		new = True
+		if self.mostConstraining:
+			start = self.mostConstrainingVariable(new)
+		result = self.backtracking(start)
+		if not result:
+			print("Solution does not exist")
+			return 0
+		else:
+			print("***** Solution found after "+str(self.recursionCounter)+" recursions *****")
+			return self.recursionCounter
 
-
-def solveCSP(matrix, mostConstrained, mostConstraining,
-				 forwardChecking, leastConstraining):
-	start = 0
-	new = True
-	if mostConstraining:
-		start = mostConstrainingVariable(matrix, new)
-	result = backtracking(matrix, start, 0, mostConstrained, mostConstraining,
-				 forwardChecking, leastConstraining)
-	if not result[0]:
-		print("Solution does not exist")
-	else:
-		print("***** Solution found after "+str(result[1])+" recursions *****")
-		print(matrix, sep="\n")
-
-
-def mostConstrainingVariable(matrix, new):
-	if new:
-		mostConnects = [0,0]
-		for i in range(len(matrix)):
-			if len(matrix[i][2]) > mostConnects[1]:
-				mostConnects = [len(matrix[i][2]), i]
-		return mostConnects[1]
+	def mostConstrainingVariable(self):
+		new = True
+		if new:
+			mostConnects = [0,0]
+			for i in range(len(self.adjacency.Alist)):
+				if len(self.adjacency.Alist[i][2]) > mostConnects[1]:
+					mostConnects = [len(self.adjacency.Alist[i][2]), i]
+			return mostConnects[1]
