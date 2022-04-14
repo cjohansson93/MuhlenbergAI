@@ -9,7 +9,26 @@ import os
 import json
 
 HAM_DIRECTORY = "ham"
+HAM_JSON = "hamWordBag.json"
 SPAM_DIRECTORY = "spam"
+SPAM_JSON = "spamWordBag.json"
+
+
+def getHAM_DIRECTORY():
+    return HAM_DIRECTORY
+
+
+def getHAM_JSON():
+    return HAM_JSON
+
+
+def getSPAM_DIRECTORY():
+    return SPAM_DIRECTORY
+
+
+def getSPAM_JSON():
+    return SPAM_JSON
+
 
 class Learn:
 
@@ -32,12 +51,11 @@ class Learn:
                 for word in text:
                     self.spamDictionary[word] = self.spamDictionary.get(word, 0) + 1
 
-        with open("hamWordBag.json", "w") as outfile:
+        with open(HAM_JSON, "w") as outfile:
             json.dump(self.hamDictionary, outfile)
 
-        with open("spamWordBag.json", "w") as outfile:
+        with open(SPAM_JSON, "w") as outfile:
             json.dump(self.spamDictionary, outfile)
-
 
 # test = Learn()
 # test.training()
