@@ -40,6 +40,7 @@ class Learn:
         for filename in os.listdir(HAM_DIRECTORY):
             with open(os.path.join(HAM_DIRECTORY, filename), 'r', errors='ignore') as f:
                 text = f.read()
+                text = text.lower()
                 text = text.split()
                 for word in text:
                     self.hamDictionary[word] = self.hamDictionary.get(word, 0) + 1
@@ -47,6 +48,7 @@ class Learn:
         for filename in os.listdir(SPAM_DIRECTORY):
             with open(os.path.join(SPAM_DIRECTORY, filename), 'r', errors='ignore') as f:
                 text = f.read()
+                text = text.lower()
                 text = text.split()
                 for word in text:
                     self.spamDictionary[word] = self.spamDictionary.get(word, 0) + 1
