@@ -42,7 +42,7 @@ def main():
                 absCount = len(absLinks)
                 relCount = len(relLinks)
                 # Cleaning out invalid crawl links (external sites, photos, videos, etc)
-                internalLinks = [i for i in allLinks if not ((i.startswith('http') or i.startswith('//')) and "//www.muhlenberg.edu" not in i)]
+                internalLinks = [i for i in allLinks if not ((i.startswith('http') or i.startswith('//'))and "//www.muhlenberg.edu" not in i)]
                 internalLinks = [i for i in internalLinks if i.endswith('/') or i.endswith(".htm") or i.endswith(".html")]
                 # Patch relative links with the current URL so stack only has abs
                 for link in internalLinks:
