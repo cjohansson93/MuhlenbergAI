@@ -9,6 +9,8 @@ import copy
 import os
 import string
 import json
+import math
+import heapq
 import nltk
 from nltk.corpus import stopwords
 from nltk.stem import PorterStemmer
@@ -16,18 +18,19 @@ from nltk.stem import PorterStemmer
 
 REMOVE_STOPWORDS = True
 STEM_WORDS = True
+TOTAL_DOCUMENTS = 10393
 
 
 class SearchEngine:
 
-    def __init__(self, query="Jorge Silveyra"):
+    def __init__(self, query="The current president."):
         self.query = query
         self.invertedIndex = dict()
         self.stopWords = REMOVE_STOPWORDS
         self.stemming = STEM_WORDS
         self.denominator = dict()
         self.numerator = dict()
-        self.maxFrequency = [0] * 10394
+        self.maxFrequency = [0] * (TOTAL_DOCUMENTS+1)
 
     def makeInvertedIndex(self):
         for filename in os.listdir("Text"):
@@ -104,6 +107,53 @@ class SearchEngine:
                     modifiedDict.pop(key)
         return modifiedDict
 
+    def processQuery(self):
+        queryDictionary = dict()
+        modifiedQuery = self.query.lower()
+        modifiedQuery = modifiedQuery.translate(str.maketrans('', '', string.punctuation))
+        modifiedQuery = modifiedQuery.split()
+
+        for word in modifiedQuery:
+            queryDictionary[word] = queryDictionary.get(word, 0) + 1
+
+        if REMOVE_STOPWORDS and STEM_WORDS:
+            queryDictionary = self.filterStopWords(queryDictionary)
+            queryDictionary = self.filterStemming(queryDictionary)
+        elif REMOVE_STOPWORDS:
+            queryDictionary = self.filterStopWords(queryDictionary)
+        elif STEM_WORDS:
+            queryDictionary = self.filterStemming(queryDictionary)
+
+        if len(queryDictionary.values()):
+            self.maxFrequency[0] = max(queryDictionary.values())
+        else:
+            self.maxFrequency[0] = 1
+
+        return queryDictionary
+
+    def results(self):
+        query = self.processQuery()
+        print(query)
+        for term in query:
+            if term in self.invertedIndex:
+                for i in range(query.get(term)):
+                    tfidfQ = (query.get(term)/self.maxFrequency[0]) * math.log10(TOTAL_DOCUMENTS/len(self.invertedIndex[term]))
+                    self.denominator["q"] = self.denominator.get("q", 0) + tfidfQ**2
+                    for doc in self.invertedIndex[term]:
+                        tfidfDoc = (doc[1]/self.maxFrequency[doc[1]]) * math.log10(TOTAL_DOCUMENTS/len(self.invertedIndex[term]))
+                        self.denominator[str(doc[0])] = self.denominator.get(str(doc[0]), 0) + tfidfDoc**2
+                        self.numerator[str(doc[0])] = self.numerator.get(str(doc[0]), 0) + ((tfidfQ**2) * (tfidfDoc**2))
+        heap = []
+        for key in self.numerator:
+            value = self.numerator.get(key) / math.sqrt(self.denominator.get("q") + self.denominator.get(key))
+            heapq.heappush(heap, (value, key))
+
+        for i in range(10):
+            pop = heapq.heappop(heap)
+            with open('Pages/page' + pop[1] + '.txt', 'r', encoding='utf-8') as f:
+                print(str(pop[0]) + ": " + f.read())
+
 
 t = SearchEngine()
 t.makeInvertedIndex()
+t.results()

@@ -1,0 +1,1086 @@
+
+
+
+
+
+
+
+U.S. International Keyboard | Muhlenberg College
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Skip to Main Content
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Muhlenberg College
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Visit
+
+
+
+
+
+
+
+
+
+Apply
+
+
+
+
+
+
+
+
+
+Request Info
+
+
+
+
+
+
+
+
+
+Give
+
+
+
+
+
+
+
+
+
+Menu
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Home
+AcademicsMajors, Minors & CertificationsLanguages, Literatures and CulturesOnline ResourcesWindowsU.S. International Keyboard 
+
+
+
+
+
+
+U.S. International Keyboard
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+U.S. International Keyboard
+
+
+
+
+
+
+
+
+
+
+
+Faculty/Student ResourcesArabic ResourcesChinese ResourcesFrench ResourcesGerman ResourcesHebrew ResourcesItalian Resources
+
+
+
+
+
+
+
+
+
+
+
+Home
+AcademicsMajors, Minors & CertificationsLanguages, Literatures and CulturesOnline ResourcesWindowsU.S. International Keyboard 
+
+
+
+
+
+
+
+
+
+
+
+
+
+Typing Accented Letters and other Foreign Characters
+See the tables below for instructions on how to type non-English characters while using the U.S. International keyboard layout on Windows XP, Vista, or Windows 7, or download the PDF.
+The following tables show sample characters, along with the keyboard shortcuts used to type them with the U.S. International keyboard layout. Note that RightAlt refers to the Alt key on the right-hand side of the keyboard.
+
+Accented Letters
+The keyboard shortcuts listed below will work with any vowel (referred to below as "V"), with some exceptions listed in the notes column. To use the keyboard shortcuts, enter the key or key combination listed before the comma, and then press the final key. Hold down the Shift key when typing the final key if a capital letter is needed.
+Note: When you press the apostrophe ( ' ) key, quotation mark ( " ) key, accent grave ( ` ) key, tilde ( ~ ) key, or accent circumflex, or caret key, ( ^ ), nothing is displayed on the screen until you press a second key. If you press a letter that can take an accent mark, the letter appears with an accent. If you press the space bar, the symbol (apostrophe, quotation mark, accent grave, tilde, accent circumflex or caret) will appear by itself.
+ 
+
+
+AccentExampleKeyboard ShortcutNotes
+
+ 
+
+
+
+Acute
+
+
+ó Ó
+
+
+', V
+
+
+' = apostrophe key
+
+
+
+
+Circumflex
+
+
+ô Ô
+
+
+Shift+^, V
+
+
+ 
+
+
+
+
+Grave
+
+
+ò Ò
+
+
+`, V
+
+
+ 
+
+
+
+
+Tilde
+
+
+ñ Ñ
+
+
+Shift+~, V
+
+
+Only with n,N,o,O,a,A
+
+
+
+
+Umlaut
+
+
+ö Ö
+
+
+", V
+
+
+" = quote key
+
+
+
+
+ 
+Other Foreign Characters
+
+To produce an uppercase symbol, hold down the Shift key when typing the final character in the key combination.
+ 
+
+
+CharacterNameKeyboard Shortcut
+
+ 
+
+
+
+¡
+
+
+Beginning exclamation mark
+
+
+RightAlt+1
+
+
+
+
+¿
+
+
+Beginning question mark
+
+
+RightAlt+?
+
+
+
+
+Ç,ç
+
+
+French C cedille
+
+
+RightAlt+< or '+C,where ' = apostrophe key
+
+
+
+
+Œ,œ
+
+
+French oe liagature
+
+
+Alt-0140 & Alt-0156, or Ctrl+Shift+&,o in MS Word
+
+
+
+
+ß
+
+
+German Sharp/Double S
+
+
+RightAlt+S
+
+
+
+
+Ø,ø
+
+
+O slash
+
+
+RightAlt+L
+
+
+
+
+Å,å
+
+
+A with ring/Angstrom Sign
+
+
+RightAlt+W
+
+
+
+
+Æ,æ
+
+
+AE ligature
+
+
+RightAlt+Z
+
+
+
+
+Þ,þ
+
+
+Icelandic/Old English Thorn 
+
+
+RightAlt+T
+
+
+
+
+Ð,ð
+
+
+Icelandic/Old English eth
+
+
+RightAlt+D
+
+
+
+
+« »
+
+
+Spanish style quote mark
+
+
+RightAlt+[, RightAlt+]
+
+
+
+
+ 
+Currency Symbols
+ 
+
+
+CharacterNameKeyboard Shortcut
+
+ 
+
+
+
+¢
+
+
+Cent sign
+
+
+Shift+RightAlt+C
+
+
+
+
+£
+
+
+British Pound
+
+
+Shift+RightAlt+4
+
+
+
+
+¥
+
+
+Japanese Yen. - = minus key
+
+
+RightAlt+-
+
+
+
+
+€
+
+
+Euro Sign.
+
+
+RightAlt+5
+
+
+
+
+¤
+
+
+Generic Currency
+
+
+RightAlt+4
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Muhlenberg College
+
+
+
+
+
+
+
+
+
+
+Muhlenberg College
+2400 Chew St.
+Allentown, 
+PA
+18104
+
+
+
+
+
+
+
+484-664-3100
+
+
+
+
+
+
+
+
+Maps & Directions
+
+
+
+
+
+Accessibility
+
+
+
+
+
+Library
+
+
+
+
+Title IX
+
+
+
+
+
+Employment
+
+
+
+
+
+A-Z Index
+
+
+
+
+
+Conference & Event Services
+
+
+
+
+
+Diversity & Inclusion
+
+
+
+
+
+
+Weather Update
+
+
+
+
+
+
+
+
+Social
+
+
+
+
+
+
+
+
+Facebook
+
+
+
+
+
+
+
+
+Instagram
+
+
+
+
+
+
+
+
+Twitter
+
+
+
+
+
+
+
+
+YouTube
+
+
+
+
+
+
+
+
+LinkedIn
+
+
+
+
+
+
+
+
+							©
+													
+ Muhlenberg College
+
+
+
+
+
+
+
+
+
+
+
+Muhlenburg College
+
+
+
+
+
+
+
+
+
+
+Search
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Who We Are
+
+
+
+
+
+
+
+
+
+
+
+Diversity and Inclusion
+
+
+
+
+Institutional Initiatives
+
+
+
+
+Office of the President
+
+
+
+
+College History
+
+
+
+
+Campus Map
+
+
+
+
+Directory Search
+
+
+
+
+
+
+Admissions
+
+
+
+
+
+
+
+
+
+
+
+Explore Your Visit Options
+
+
+
+
+Early Decision
+
+
+
+
+Regular Decision
+
+
+
+
+Transfer Students
+
+
+
+
+International Students
+
+
+
+
+Adult Accelerated & Evening Programs
+
+
+
+
+Graduate Studies
+
+
+
+
+Tuition and Fees
+
+
+
+
+Financial Aid
+
+
+
+
+First-Year Experience
+
+
+
+
+
+
+Academics
+
+
+
+
+
+
+
+
+
+
+
+Majors, Minors & Certifications
+
+
+
+
+Adult Accelerated & Evening Programs
+
+
+
+
+Summer Study
+
+
+
+
+Graduate Programs
+
+
+
+
+Preprofessional Programs
+
+
+
+
+Academic Partnerships
+
+
+
+
+Honors Programs
+
+
+
+
+Global Education
+
+
+
+
+Our Faculty
+
+
+
+
+Research & Scholarship
+
+
+
+
+
+
+Student Life
+
+
+
+
+
+
+
+
+
+
+
+Housing
+
+
+
+
+Dining
+
+
+
+
+Getting Involved
+
+
+
+
+Athletics
+
+
+
+
+Student Services
+
+
+
+
+Health & Wellness
+
+
+
+
+Religious & Spiritual Life
+
+
+
+
+
+
+Powerful Outcomes
+
+
+
+
+
+
+
+
+
+
+
+The Career Center
+
+
+
+
+Fellowships & Postgraduate Awards
+
+
+
+
+The Muhlenberg Network
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Visit
+
+
+
+
+
+
+
+
+
+Apply
+
+
+
+
+
+
+
+
+
+Request Info
+
+
+
+
+
+
+
+
+
+Give
+
+
+
+
+
+
+
+Info For:
+
+
+
+
+Current Students
+
+
+
+
+
+Alumni & Friends
+
+
+
+
+
+Faculty & Staff
+
+
+
+
+
+Parents
+
+
+
+
+
+
+
+
+
+News
+
+
+
+
+
+Events
+
+
+
+
+
+Athletics
+
+
+
+
+Arts
+
+
+
+
+
+
+
+
+COVID-19 Info
+
+
+
+ 
+ 
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

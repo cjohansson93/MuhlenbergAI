@@ -1,0 +1,922 @@
+
+
+
+
+
+
+
+Learning Management System | Muhlenberg College
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Skip to Main Content
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Muhlenberg College
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Visit
+
+
+
+
+
+
+
+
+
+Apply
+
+
+
+
+
+
+
+
+
+Request Info
+
+
+
+
+
+
+
+
+
+Give
+
+
+
+
+
+
+
+
+
+Menu
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Home
+Who We AreCollege OfficesInformation TechnologyInstructional Technology and Digital LearningLearning Management System 
+
+
+
+
+
+
+Learning Management System
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Learning Management System
+
+
+
+
+
+
+
+
+
+
+
+About Us and Contact InformationAccessibilityCalendarGolf Cart Pedagogy IntlTechTipsCollaborationMaterialsClassroom TechLearning Management SystemMedia ServicesPodcastsStudent EmploymentTip of the WeekWeb ConferencingVideoFor New Videos
+
+
+
+
+
+
+
+
+
+
+
+Home
+Who We AreCollege OfficesInformation TechnologyInstructional Technology and Digital LearningLearning Management System 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Our learning management system is a space where you can connect with and interact with course content, whether as faculty, staff, or as a student here at Muhlenberg. This can include posting/submitting assignments, constructing course content, taking online quizzes/tests, completing assignment grading, etc.
+The Learning Management System, generally referred to as our LMS, here at Muhlenberg is called Canvas. It is accessed through the Application Portal section of Muhlenberg's website.
+We have designed this webpage into sections based on existing user familiarity with the learning management system as well as the situation bringing you to our resources.
+General Support Information
+I'm new to this
+It's a new semester
+I'm stuck/needing help
+General Support Information
+Please refer to this ITMS worksheet for resources and frequently asked questions related to the new Canvas gradebook. Likewise, we have documentation related to the new Canvas Rich Content Editor here.
+Would you like to request an appointment, a new Canvas shell, maybe merge two existing shells? Please contact us using this Canvas support request form, and we will be happy to assist.
+In addition to the ITMS and OIT team support, you also have access to Canvas support resources 24 hours a day, 7 days a week. Access live chat while logged into Canvas or a particular Canvas course page through the question mark icon in the left sidebar.
+Additionally, you may call Canvas support at 833-716-8415 (faculty/staff) or at 844-725-7349 (students). 
+Likewise, a faculty Canvas guide and the student Canvas user guide are available through the links provided. 
+You may also check on Canvas' status, maintenance, and/or outages through this direct link to Canvas' live status record page.
+The Canvas student and teacher apps for tablets and phones are available for download.
+For those interested in using other tools within Canvas, such as VoiceThread, Zoom, Panopto, etc.,  please note that our new website will ultimately include areas for the Learning Management System, Collaboration Tools, WebConferencing, and Media Services, so that each set of tools will have its own webpage accessible through the main ITMS website.
+ 
+I'm new to this
+Canvas Instructure has a great introductory video at this site (which includes instructions on accessing closed captions and the video transcript too).
+To access the faculty user guide, please use the Canvas faculty user guide. The faculty user guide contains separate hyperlinks for each topic, so it works as an interactive user guide for continual reference as you find yourself with new questions or interests, rather than must read all at once user manual/instruction book. 
+To access the student user guide, please use the Canvas student user guide. This guide contains separate hyperlinks for each topic, making this an adaptable user guide based on your current needs.
+Our team welcomes requests for one on one or group professional development/training on the LMS.
+Having trouble with receiving notices from Canvas courses? This Canvas guide goes through how to set your notification preferences.
+For faculty/staff: here are the instructions for publishing Canvas courses and materials.
+We have additional documentation about bringing videos into My Media, Media Gallery, and into other areas of Canvas (Learning Management System) shells. We also have this worksheet on ways to bring items from outside of Kaltura into Canvas - My Media. Faculty, have too many Canvas shells with the same name? This worksheet on changing shell names helps you remedy that.
+Interested in test and quiz options within Canvas? Get started today with this ITMS video on Canvas Tests and Quizzes.
+It's a new semester
+Faculty, do you need to copy a course but do not remember how? This Canvas document describes how to course copy or import.
+Alternatively, do you need to merge separate course shells within Canvas? Use our guide to merging shells to do this.
+For faculty/staff: here are the instructions for publishing Canvas courses and materials. 
+Interested in test and quiz options within Canvas? Get started today with this ITMS video on Canvas Tests and Quizzes. 
+Before the start of a new semester, you will want to think about your Canvas needs and whether you could benefit from Canvas Blueprint.
+A blueprint is a course shell that you can add to as a semester progresses, and automatically sync content from that shell into other shells where you might need it (such as a multi-section course). Canvas Blueprints acts like a photocopier for you, so that you do not need to manually upload content into multiple shells.
+You may contact us for a demonstration of a Canvas Blueprint and to discuss your specific ideas or needs. Ultimately, the request for the creation of a Blueprint needs to come to us before the semester starts, and before classes have graded assignments etc. underway, as there are limitations in when blueprints can be established within Canvas. We would need your course number and section(s) plus those of any others that you want connected as associated courses.
+You can learn more about Canvas Blueprints through our documentation.
+We additionally have videos introducing Canvas Blueprints, going into a Canvas blueprint in action, and on the sustainability and end of semester items related to Canvas Blueprints.
+For faculty currently using a blueprint: do know that at the end of each semester, you will want to contact us to request your blueprint for the next semester. There are two sustainability options.
+You may either have your blueprint course section copied into a new blueprint connected to your next semester course section(s) OR request that your current blueprint is disconnected from the previous semester's course section(s) prior to having new semester course section(s) added [example: your fall blueprint morphs into your spring blueprint]. Past semester course shells will otherwise receive any synchronization copies of content even if the previous students do not need the new content. The two sustainability options circumvent this known Canvas blueprint issue.
+One additional tool within Canvas of interest is called NameCoach. It helps with proper and preferred pronunciations of names, as users can record themselves saying their own names, and others can play the recording. You may learn more in this ITMS NameCoach documentation and also in the faculty NameCoach and student NameCoach video links as well.  
+I'm stuck/needing help
+Do know that there are many how-to videos for Canvas for both faculty/staff and student sections of Canvas, including these Vimeo presentations about Canvas?
+Faculty, staff, and students: you may use this link for the support desk contact information (for further assistance here at Muhlenberg).
+Have suggestions for additional items for our new Canvas website? Please contact the team at itms@muhlenberg.edu with items you will like included or if something you are seeking is not currently present/available.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Office of Information Technology
+
+Instructional Technology and Media Services (ITMS)
+
+
+
+
+
+
+
+
+
+Email
+
+itms@muhlenberg.edu
+
+
+
+
+
+
+
+Telephone
+
+484-664-3455
+
+
+
+
+
+
+
+Address
+
+Muhlenberg College
+Office of Information Technology
+2400 Chew Street
+Allentown, PA 18104
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Muhlenberg College
+
+
+
+
+
+
+
+
+
+
+Muhlenberg College
+2400 Chew St.
+Allentown, 
+PA
+18104
+
+
+
+
+
+
+
+484-664-3100
+
+
+
+
+
+
+
+
+Maps & Directions
+
+
+
+
+
+Accessibility
+
+
+
+
+
+Library
+
+
+
+
+Title IX
+
+
+
+
+
+Employment
+
+
+
+
+
+A-Z Index
+
+
+
+
+
+Conference & Event Services
+
+
+
+
+
+Diversity & Inclusion
+
+
+
+
+
+
+Weather Update
+
+
+
+
+
+
+
+
+Social
+
+
+
+
+
+
+
+
+Facebook
+
+
+
+
+
+
+
+
+Instagram
+
+
+
+
+
+
+
+
+Twitter
+
+
+
+
+
+
+
+
+YouTube
+
+
+
+
+
+
+
+
+LinkedIn
+
+
+
+
+
+
+
+
+							©
+													
+ Muhlenberg College
+
+
+
+
+
+
+
+
+
+
+
+Muhlenburg College
+
+
+
+
+
+
+
+
+
+
+Search
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Who We Are
+
+
+
+
+
+
+
+
+
+
+
+Diversity and Inclusion
+
+
+
+
+Institutional Initiatives
+
+
+
+
+Office of the President
+
+
+
+
+College History
+
+
+
+
+Campus Map
+
+
+
+
+Directory Search
+
+
+
+
+
+
+Admissions
+
+
+
+
+
+
+
+
+
+
+
+Explore Your Visit Options
+
+
+
+
+Early Decision
+
+
+
+
+Regular Decision
+
+
+
+
+Transfer Students
+
+
+
+
+International Students
+
+
+
+
+Adult Accelerated & Evening Programs
+
+
+
+
+Graduate Studies
+
+
+
+
+Tuition and Fees
+
+
+
+
+Financial Aid
+
+
+
+
+First-Year Experience
+
+
+
+
+
+
+Academics
+
+
+
+
+
+
+
+
+
+
+
+Majors, Minors & Certifications
+
+
+
+
+Adult Accelerated & Evening Programs
+
+
+
+
+Summer Study
+
+
+
+
+Graduate Programs
+
+
+
+
+Preprofessional Programs
+
+
+
+
+Academic Partnerships
+
+
+
+
+Honors Programs
+
+
+
+
+Global Education
+
+
+
+
+Our Faculty
+
+
+
+
+Research & Scholarship
+
+
+
+
+
+
+Student Life
+
+
+
+
+
+
+
+
+
+
+
+Housing
+
+
+
+
+Dining
+
+
+
+
+Getting Involved
+
+
+
+
+Athletics
+
+
+
+
+Student Services
+
+
+
+
+Health & Wellness
+
+
+
+
+Religious & Spiritual Life
+
+
+
+
+
+
+Powerful Outcomes
+
+
+
+
+
+
+
+
+
+
+
+The Career Center
+
+
+
+
+Fellowships & Postgraduate Awards
+
+
+
+
+The Muhlenberg Network
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Visit
+
+
+
+
+
+
+
+
+
+Apply
+
+
+
+
+
+
+
+
+
+Request Info
+
+
+
+
+
+
+
+
+
+Give
+
+
+
+
+
+
+
+Info For:
+
+
+
+
+Current Students
+
+
+
+
+
+Alumni & Friends
+
+
+
+
+
+Faculty & Staff
+
+
+
+
+
+Parents
+
+
+
+
+
+
+
+
+
+News
+
+
+
+
+
+Events
+
+
+
+
+
+Athletics
+
+
+
+
+Arts
+
+
+
+
+
+
+
+
+COVID-19 Info
+
+
+
+ 
+ 
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

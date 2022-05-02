@@ -1,0 +1,877 @@
+
+
+
+
+
+
+
+RET Beth Project | Muhlenberg College
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Skip to Main Content
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Muhlenberg College
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Visit
+
+
+
+
+
+
+
+
+
+Apply
+
+
+
+
+
+
+
+
+
+Request Info
+
+
+
+
+
+
+
+
+
+Give
+
+
+
+
+
+
+
+
+
+Menu
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Home
+AcademicsMajors, Minors & CertificationsBiologyPlant-Insect Interactions NSFResources for EducatorsRET Beth Project 
+
+
+
+
+
+
+RET Beth Project
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+RET Beth Project
+
+
+
+
+
+
+
+
+
+
+
+RET Beth ChartRET Beth ProjectCreating a ChartRET CP DataRET CP ProjectRET Dan DataRET Dan ProjectRET Emily ProjectRET Epimecis HortarisRET Field StudyRET GraphLindera BenzoinRET LinksRET MetricsNematode LessonRET Scientific MethodRET Sean ChartRET Sean DataRET Sean ProjectRET Shauna ProjectSticky Card LessonRET Sticky CardsRET Sticky Cards (cont'd)RET Student ProjectsRET StudentsRET Teachers
+
+
+
+
+
+
+
+
+
+
+
+Home
+AcademicsMajors, Minors & CertificationsBiologyPlant-Insect Interactions NSFResources for EducatorsRET Beth Project 
+
+
+
+
+
+
+
+
+
+
+
+
+
+Tri-Trophic Interactions Between Plants and Insects (Spicebush, Epimecis, and Wasps)
+( Volatile chemistry, rates of parasitism, and rates of herbivory vary with light environment—a case for “top-down regulation”: Tritrophic Interactions)
+The purpose of this experiment is to determine if there is a relationship between the volatile chemistry (spices) of spicebush (Lindera benzoin) and the environment it is exposed to as well as the herbivory activity related specifically to the Epimecis hortaria (caterpillar).
+STATE THE PROBLEM :
+Do the spices in Spicebush change in different habitats? Exploring the interactions taking place between organisms from different trophic levels (think “food chain!”)
+MAKE OBSERVATIONS:
+
+Spicebush smells “spicy.”
+
+
+We see that Spicebush gets eaten more in the shade than in the sun.
+
+Background Information (What questions were you trying to answer?):
+
+
+(1) Does leaf volatile (scents and gases) chemistry of Spicebush change between (a) different light environments (sun vs. shade) and (b) different damage treatments (undamaged vs. leaf clipping vs. damage by herbivores, or caterpillars)?
+
+(2) Does the rate of parasitism of herbivores change in different light environments?
+
+FORM A HYPOTHESIS :
+
+
+If volatiles (Spicebush “spices”- scents and gases) are acting as a cue to parasitoids, then we expect: (1a) more Spicebush volatiles in sunny environments, (1b) more Spicebush volatiles with response to damage by herbivores, and (2) a higher rate of parasitism of herbivores in the sun.
+
+
+EXPERIMENT:
+Materials:
+
+zNose portable gas chromatograph (to smell the Spicebush “spices”)
+laptop computer (to record data)
+generator (to make power for field equipment)
+sticky cards (to catch parasitoids in the sun and shade)
+caterpillars (place in the field to see if they get parasitized)
+cups (to hold caterpillars in the field)
+
+Method:
+
+Determine two field locations within Graver Arboretum. Each location must contain at least six spicebush plants growing in the sun and six spicebush plants growing in the shade.
+Using flagging tape, mark your plants within each location, labeling with your name, date, sun or shade and a plant ID number. You will have a total of 12 plants in each location: 6 will be labeled as shade and 6 will be labeled as sun.
+To determine light vs. shade there are two options: a) Use a light meter and determine values that fall to the higher end as sun and values to the lower as shade. b)Use your judgement, stand next to your plants and look up. If there is little to no tree (canopy) cover directly over head, consider those plants to be in sun. If there is greater than 60 % tree cover, those plants would be in the shade.
+
+On each labeled plant, choose one branch at random and place a sandwich size ziplock bag over it. Zip the bag as far shut as possible without damaging the plant. (The idea behind this is to contain the odors natually emitted by the plant - small openings are ok, but try to seal as tightly as possible.) When choosing branches, try to be consistent with size, number of leaves, position on plant, leaf color, height from ground)
+Wait ten minutes to allow plant odors to build up in the bags.
+Take a baseline reading of the plants natural volatile compounds (odors/ chemicals) from each bagged branch using a zNose gas chromatograph and software. (It may be helpful to assess only one site per day due to sampling time)
+Follwoing baseline readings, apply treatments to plants: the treatments will be no damage (control), mechanical damamge (clipping multiple leaves lightly on each branch), and herbivore damage (placing two epimecis caterpillar on the branch). To apply each treatment:
+Remove ziploc bag. Lable bag with type of treatment being applied to that branch. (be sure to use the same branch that the bag came off of)
+Of your 6 sun plants in location one, two will be no dmamge, two will be mechanical damamge and two will be herbivore damamge. This will be true of your shade plants as wellas your plants in location 2.
+
+Replace ziploc bags and wait ten minutes to allow treatment to take affect.
+Using the zNose, take volatile chemistry readings again, alternating between sun and shade, testing first the no damamge, then the mechanical damamge and finally the herbivore damage.
+If time permits, test all treated plants a second time to gather additional data.
+All data will have been recorded on your zNose software. Return to the lab and begin looking at your data to determine any trends.
+
+Data:
+Example of a Graph
+Leaf volatile chemistry graph:
+  
+This figure shows which “spices” were affected the most in different light environments and when damaged.
+ 
+  
+ 
+This figure shows which “spices” were affected the most when Spicebush was damaged by leaf clipping, damaged by herbivores, or left undamaged.
+Sticky card graph:
+
+This figure shows how many parasitoids of each family were present in sun or shade environments. You can see that parasitoids in the family Chalcididae were more abundant than parasitoids in the Braconidae or Ichneumonidae families.
+DRAW A CONCLUSION :
+Analysis of Data:
+The data show there are differences in Spicebush’s volatile chemicals (“spices”) from the sun and shade. There was more Spice 4 produced in the sun and less C7 and C8 produced in the sun. Also, there was more C8 and C12 produced in the shade. There was also a change in volatile chemicals when Spicebush experienced leaf-clipping damage (Spice 7 and Spice 8 increased; C10 and C14 decreased) and herbivory by caterpillars (Spice 7, Spice 8, C10, and C14 all increased).
+The rate of parasitism for E. hortaria was 2.2% in the sun, 6.5 % in the shade, and 9.2% overall.
+Insects in the family Chalcididae were more abundant than those in Braconidae or Ichneumonidae. There was no significant difference of parasitoid abundance in sun or shade environments.
+Conclusion:
+Spicebush may be attracting parasitoids with VOCs to get rid of the caterpillars, but we need further studies to confirm this. The “spice” chemicals were present in different amounts in sun and shade environments, and could help explain why caterpillars are eating more Spicebush in the shade. Parasitism of the caterpillars did not happen very often in the field.
+ 
+Return to Student Project Page
+Return to NSF-RET Homepage
+This material is based upon work supported by the National Science Foundation under Grant No. 0442049.
+Any opinions, findings, and conclusions or recommendations expressed in this material are those of the author(s) and do not necessarily reflect the views of the National Science Foundation.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Muhlenberg College
+
+
+
+
+
+
+
+
+
+
+Muhlenberg College
+2400 Chew St.
+Allentown, 
+PA
+18104
+
+
+
+
+
+
+
+484-664-3100
+
+
+
+
+
+
+
+
+Maps & Directions
+
+
+
+
+
+Accessibility
+
+
+
+
+
+Library
+
+
+
+
+Title IX
+
+
+
+
+
+Employment
+
+
+
+
+
+A-Z Index
+
+
+
+
+
+Conference & Event Services
+
+
+
+
+
+Diversity & Inclusion
+
+
+
+
+
+
+Weather Update
+
+
+
+
+
+
+
+
+Social
+
+
+
+
+
+
+
+
+Facebook
+
+
+
+
+
+
+
+
+Instagram
+
+
+
+
+
+
+
+
+Twitter
+
+
+
+
+
+
+
+
+YouTube
+
+
+
+
+
+
+
+
+LinkedIn
+
+
+
+
+
+
+
+
+							©
+													
+ Muhlenberg College
+
+
+
+
+
+
+
+
+
+
+
+Muhlenburg College
+
+
+
+
+
+
+
+
+
+
+Search
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Who We Are
+
+
+
+
+
+
+
+
+
+
+
+Diversity and Inclusion
+
+
+
+
+Institutional Initiatives
+
+
+
+
+Office of the President
+
+
+
+
+College History
+
+
+
+
+Campus Map
+
+
+
+
+Directory Search
+
+
+
+
+
+
+Admissions
+
+
+
+
+
+
+
+
+
+
+
+Explore Your Visit Options
+
+
+
+
+Early Decision
+
+
+
+
+Regular Decision
+
+
+
+
+Transfer Students
+
+
+
+
+International Students
+
+
+
+
+Adult Accelerated & Evening Programs
+
+
+
+
+Graduate Studies
+
+
+
+
+Tuition and Fees
+
+
+
+
+Financial Aid
+
+
+
+
+First-Year Experience
+
+
+
+
+
+
+Academics
+
+
+
+
+
+
+
+
+
+
+
+Majors, Minors & Certifications
+
+
+
+
+Adult Accelerated & Evening Programs
+
+
+
+
+Summer Study
+
+
+
+
+Graduate Programs
+
+
+
+
+Preprofessional Programs
+
+
+
+
+Academic Partnerships
+
+
+
+
+Honors Programs
+
+
+
+
+Global Education
+
+
+
+
+Our Faculty
+
+
+
+
+Research & Scholarship
+
+
+
+
+
+
+Student Life
+
+
+
+
+
+
+
+
+
+
+
+Housing
+
+
+
+
+Dining
+
+
+
+
+Getting Involved
+
+
+
+
+Athletics
+
+
+
+
+Student Services
+
+
+
+
+Health & Wellness
+
+
+
+
+Religious & Spiritual Life
+
+
+
+
+
+
+Powerful Outcomes
+
+
+
+
+
+
+
+
+
+
+
+The Career Center
+
+
+
+
+Fellowships & Postgraduate Awards
+
+
+
+
+The Muhlenberg Network
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Visit
+
+
+
+
+
+
+
+
+
+Apply
+
+
+
+
+
+
+
+
+
+Request Info
+
+
+
+
+
+
+
+
+
+Give
+
+
+
+
+
+
+
+Info For:
+
+
+
+
+Current Students
+
+
+
+
+
+Alumni & Friends
+
+
+
+
+
+Faculty & Staff
+
+
+
+
+
+Parents
+
+
+
+
+
+
+
+
+
+News
+
+
+
+
+
+Events
+
+
+
+
+
+Athletics
+
+
+
+
+Arts
+
+
+
+
+
+
+
+
+COVID-19 Info
+
+
+
+ 
+ 
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

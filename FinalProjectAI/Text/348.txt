@@ -1,0 +1,829 @@
+
+
+
+
+
+
+
+Electronic Communications and IT Policy | Muhlenberg College
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Skip to Main Content
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Muhlenberg College
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Visit
+
+
+
+
+
+
+
+
+
+Apply
+
+
+
+
+
+
+
+
+
+Request Info
+
+
+
+
+
+
+
+
+
+Give
+
+
+
+
+
+
+
+
+
+Menu
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Home
+Who We AreCollege OfficesInformation TechnologyAbout ITPolicies and ProceduresElectronic Communications and IT Policy 
+
+
+
+
+
+
+Electronic Communications and IT Policy
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Electronic Communications and IT Policy
+
+
+
+
+
+
+
+
+
+
+
+Cell Phone and Mobile Device Usage PolicyCloud StorageComputer Policy for Faculty and StaffElectronic Communications and IT PolicyEmail and Network Account PolicyGuidelines for Strong PasswordsHEOA P2P ComplianceIT Data and Security Privacy PolicyRemote Employee PolicyStudent Laptop Loaner ProgramStudent ResponsibilitiesWeb Privacy Statement
+
+
+
+
+
+
+
+
+
+
+
+Home
+Who We AreCollege OfficesInformation TechnologyAbout ITPolicies and ProceduresElectronic Communications and IT Policy 
+
+
+
+
+
+
+
+
+
+
+
+
+
+MUHLENBERG COLLEGE ELECTRONIC COMMUNICATIONS AND INFORMATION TECHNOLOGY ACCESS POLICY
+The electronic communication system at Muhlenberg College is to be used primarily for purposes consistent with carrying out the College's educational mission. Examples of this System include, but are not limited to, the central computing facilities, the campus-wide network, local-area networks, attached computers and printers, stored programs and data, electronic mail, discussion forums, access to the Internet, the College telephone facilities including voice mail, departmental networks, campus cctv, and the public computing facilities and related services, including Trexler Library computers. The System also includes any third-party products contracted for by the College such as Software-as-a-Service (SaaS), hosted or cloud solutions. (Note: Above defines System, for subsequent use in the policy).
+
+This policy applies to all Users of this System (including resources owned, leased by, subscribed to, or managed by Muhlenberg College), including but not limited to faculty and visiting faculty, staff, managers, students, guests of the management team, and external organizations and individuals accessing external services, such as the Internet and Library systems, via Muhlenberg's electronic communication system. (Note: Above defines User, for subsequent use in the policy).
+By using this System, Users agree to the policy contained herein.
+Electronic mail and Internet may be used for personal communication, but this may not take priority over intended business and academic uses. Priority for using this System will always be given to members of the College community. Because the College cannot guarantee the privacy of messages or documents stored on the System or transmitted through the System or through the Internet, use of the System for sending confidential or private personal information is discouraged. Users should be aware that electronic mail communications and voice mail communications can be a potential source of evidence in the process of attorney discovery in discrimination lawsuits or other litigation. (Note: Voice Mail should be treated same as e-mail).
+Users of the College's System should not disclose their passwords to others with the exception of OIT as outlined in the Password Requirements for OIT Support document. Documents or information stored in the System should not be accessed by anyone other than the author or recipient, or by the College, as stated below.â
+General policy requirements applicable to the use of the System are as follows: 
+
+Offensive, harassing, defamatory, or otherwise inappropriate communication via the System is prohibited. (Note: Above would address use of chat and other non-email transmissions).
+Use of the System is subject to all legal and College prohibitions against discrimination and harassment based on age, color, disability, gender, gender identity, national or ethnic origin, race, religion, sexual orientation, veteran status, or any other basis protected by applicable federal, state or local laws. Please refer to the Collegeâs Hate/Bias policy for more information.
+Obscene, objectionable or other offensive material, including material that may be interpreted as harassment by others, may not be viewed, downloaded, printed or transmitted via the System in public spaces.
+System users are liable for any action or negligence that directly or indirectly results in adverse effects upon the System or its Users. Users are prohibited from utilizing the System in ways that prevent others from conducting academic work.
+The execution of computer programs intended to gain unauthorized access to, or make unauthorized use of, the System is prohibited. Users must abide by the terms of all software licensing agreements and copyright laws.
+Users of the System are obligated to respect the rights of others, the intellectual rights and the intellectual property rights of others when using these resources. Duplicating and/or distributing information, recordings, or images in violation of applicable copyright laws is not permitted.
+Unless granted proper authority, Users are forbidden to access, transmit or release any information or data of a confidential nature, secured through their position with the College, to a person not authorized to receive such information. Further, the Family Educational Rights and Privacy Act (FERPA) mandates that certain types of student information may not be disclosed and/or distributed to unauthorized persons. This includes information transmitted and stored on the electronic mail system. Additional information relative to the provisions of FERPA is available from the Registrar.
+College policy prohibits acts that are wasteful of System resources. Examples include, but are not limited to: sending or forwarding chain letters; sending mass electronic mailings not directly pertinent to  College  business;  creating  unnecessary  multiple  jobs  or  processes; or creating unnecessary output or printed material.
+The College System may not be used for personal financial gain, inappropriate or illegal activity of any kind. Users may not download to, install upon, create links to, or otherwise place on the System any data or program, which consists of any advertisements for commercial enterprises, without prior approval from OIT.
+The campus email system exists primarily to facilitate business communications between individuals and specific groups. To the extent that there is excessive use of "Everyone Group" messages (or similar mass mailings) to numbers of individuals who, given a choice, would choose not to receive them, the effectiveness of the System is compromised. Such messages must be restricted to campus emergencies and urgent operational messages, notification of campus meetings and events, and notification of College-sponsored events or other events off- campus, which relate to the College's educational goals. Messages such as notice of lost and found articles, promotion of political causes, and listing of personal sale items should not be sent via the campus email system. The âBerg Bulletin is the appropriate vehicle for lost and found and for sale items.
+As is common in business and other organizations, it is the College's current practice that all information stored on this System, including the content of the electronic mail system and the content of the voice mail system, is backed-up utilizing industry-standard tools and methods. (Note: Voice Mail should be treated same as email).
+
+The College is the owner and administrator of this System. As per the Information Technology Data and Security Privacy Policy, the College may exercise the right to access information stored on the System for business purposes such as retrieving College business-related information, troubleshooting problems, responding to complaints of misuse, and in order to comply with legal and regulatory interests. The policy explicitly defines the circumstances under which such access may occur and the process through which users are notified. It is for these and other reasons that the College cannot guarantee the privacy of messages or documents stored on, or transmitted through the System.
+Violations of these policies should be reported either to the Chief Information Officer, the Provost, the Dean of Students, the Vice President of Human Resources, or the Director of Campus Safety and Security. Violations could result in penalties imposed upon the User of the System. These penalties could include disabling of the Userâs account(s), student suspension, student expulsion, employee suspension or termination, termination of access to the System, or liability for expenses incurred by wasteful usage (see point 4 under policy requirements).
+The College maintains the right to monitor network use and discipline users, including faculty, staff members, managers and students, in accordance with established College policies.
+Note on Muhlenberg web pages: Under normal circumstances, links to commercial web sites that advertise and/or promote retail products are generally not allowed.
+The College follows all laws regarding music and other downloading issues. Any organization that is officially recognized by the Dean of Studentsâ Office is eligible for its own distribution list. Mass emails can only be sent with prior approval of the appropriate Dean or Vice President. OIT is available for problems and issues arising with the technology, and is available to train officers to start up and maintain the listserv, but the sole responsibility for maintenance and updating information rests with the individual organizations and its officers.
+Contact: Office of Information Technology, 484-664-3440
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Muhlenberg College
+
+
+
+
+
+
+
+
+
+
+Muhlenberg College
+2400 Chew St.
+Allentown, 
+PA
+18104
+
+
+
+
+
+
+
+484-664-3100
+
+
+
+
+
+
+
+
+Maps & Directions
+
+
+
+
+
+Accessibility
+
+
+
+
+
+Library
+
+
+
+
+Title IX
+
+
+
+
+
+Employment
+
+
+
+
+
+A-Z Index
+
+
+
+
+
+Conference & Event Services
+
+
+
+
+
+Diversity & Inclusion
+
+
+
+
+
+
+Weather Update
+
+
+
+
+
+
+
+
+Social
+
+
+
+
+
+
+
+
+Facebook
+
+
+
+
+
+
+
+
+Instagram
+
+
+
+
+
+
+
+
+Twitter
+
+
+
+
+
+
+
+
+YouTube
+
+
+
+
+
+
+
+
+LinkedIn
+
+
+
+
+
+
+
+
+							©
+													
+ Muhlenberg College
+
+
+
+
+
+
+
+
+
+
+
+Muhlenburg College
+
+
+
+
+
+
+
+
+
+
+Search
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Who We Are
+
+
+
+
+
+
+
+
+
+
+
+Diversity and Inclusion
+
+
+
+
+Institutional Initiatives
+
+
+
+
+Office of the President
+
+
+
+
+College History
+
+
+
+
+Campus Map
+
+
+
+
+Directory Search
+
+
+
+
+
+
+Admissions
+
+
+
+
+
+
+
+
+
+
+
+Explore Your Visit Options
+
+
+
+
+Early Decision
+
+
+
+
+Regular Decision
+
+
+
+
+Transfer Students
+
+
+
+
+International Students
+
+
+
+
+Adult Accelerated & Evening Programs
+
+
+
+
+Graduate Studies
+
+
+
+
+Tuition and Fees
+
+
+
+
+Financial Aid
+
+
+
+
+First-Year Experience
+
+
+
+
+
+
+Academics
+
+
+
+
+
+
+
+
+
+
+
+Majors, Minors & Certifications
+
+
+
+
+Adult Accelerated & Evening Programs
+
+
+
+
+Summer Study
+
+
+
+
+Graduate Programs
+
+
+
+
+Preprofessional Programs
+
+
+
+
+Academic Partnerships
+
+
+
+
+Honors Programs
+
+
+
+
+Global Education
+
+
+
+
+Our Faculty
+
+
+
+
+Research & Scholarship
+
+
+
+
+
+
+Student Life
+
+
+
+
+
+
+
+
+
+
+
+Housing
+
+
+
+
+Dining
+
+
+
+
+Getting Involved
+
+
+
+
+Athletics
+
+
+
+
+Student Services
+
+
+
+
+Health & Wellness
+
+
+
+
+Religious & Spiritual Life
+
+
+
+
+
+
+Powerful Outcomes
+
+
+
+
+
+
+
+
+
+
+
+The Career Center
+
+
+
+
+Fellowships & Postgraduate Awards
+
+
+
+
+The Muhlenberg Network
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Visit
+
+
+
+
+
+
+
+
+
+Apply
+
+
+
+
+
+
+
+
+
+Request Info
+
+
+
+
+
+
+
+
+
+Give
+
+
+
+
+
+
+
+Info For:
+
+
+
+
+Current Students
+
+
+
+
+
+Alumni & Friends
+
+
+
+
+
+Faculty & Staff
+
+
+
+
+
+Parents
+
+
+
+
+
+
+
+
+
+News
+
+
+
+
+
+Events
+
+
+
+
+
+Athletics
+
+
+
+
+Arts
+
+
+
+
+
+
+
+
+COVID-19 Info
+
+
+
+ 
+ 
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

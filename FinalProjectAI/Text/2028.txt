@@ -1,0 +1,897 @@
+
+
+
+
+
+
+
+RET Shauna Project | Muhlenberg College
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Skip to Main Content
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Muhlenberg College
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Visit
+
+
+
+
+
+
+
+
+
+Apply
+
+
+
+
+
+
+
+
+
+Request Info
+
+
+
+
+
+
+
+
+
+Give
+
+
+
+
+
+
+
+
+
+Menu
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Home
+AcademicsMajors, Minors & CertificationsBiologyPlant-Insect Interactions NSFResources for EducatorsRET Shauna Project 
+
+
+
+
+
+
+RET Shauna Project
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+RET Shauna Project
+
+
+
+
+
+
+
+
+
+
+
+RET Beth ChartRET Beth ProjectCreating a ChartRET CP DataRET CP ProjectRET Dan DataRET Dan ProjectRET Emily ProjectRET Epimecis HortarisRET Field StudyRET GraphLindera BenzoinRET LinksRET MetricsNematode LessonRET Scientific MethodRET Sean ChartRET Sean DataRET Sean ProjectRET Shauna ProjectSticky Card LessonRET Sticky CardsRET Sticky Cards (cont'd)RET Student ProjectsRET StudentsRET Teachers
+
+
+
+
+
+
+
+
+
+
+
+Home
+AcademicsMajors, Minors & CertificationsBiologyPlant-Insect Interactions NSFResources for EducatorsRET Shauna Project 
+
+
+
+
+
+
+
+
+
+
+
+
+
+How Light Conditions Affect Plants that Have Seperate Males and Females
+(How Light Conditions Affect Dioecious Plants)
+The purpose of this experiment is to see if amount of light and plant sex affects the amount of fuzz on a plant, protein in a plant, C:N, leaf toughness, and rate of herbivory (amount of leaf eaten).
+STATE THE PROBLEM :
+
+Does a plants sex along with the amount of light it is exposed to affect the physical and chemical characteristics of the plant?
+MAKE OBSERVATIONS:
+
+Female spicebush have berries and male do not.
+
+Background Information (What questions were you trying to answer?):
+
+How does light condition and plant sex affect trichome density, protein, C:N, toughness, and rate of herbivory?
+
+
+What differences occur between male and female Lindera benzoin?
+
+FORM A HYPOTHESIS :
+
+Epimecis hortaria (caterpillars) should eat more leaves on female spicebush ( Lindera benzoin)in both light conditions compared to male and vegetative plants, b/c females are more concerned about berry production.
+
+EXPERIMENT:
+Materials:
+
+Mesh bags
+Epimecis hortaria larva
+clips
+spice bush plants
+tape
+mark -10
+CIAS
+C:N analyzer
+scale
+brown bags.
+
+Method:
+Experiment 1:
+
+Five male, female, and vegetative transects were marked in sun and shade habitats. (30 total)
+All sites were located at the Lee and Virginia Graver Arboretum.
+
+
+•Thirty Epimecis hortaria (Caterpillar), which is the primary herbivore that feeds on Lindera benzoin were starved overnight, weighed, and then each placed on one of the branches of each marked plant.
+
+Prior herbivory to the branch was indicated by circling any sites with a sharpie. Other measurements taken of the branch the larva was placed on were: # of leaves, and # of leaves damaged prior to the larva.
+The larva was enclosed in a mesh bag with a clip to fasten the open end of the bag closed.
+
+•The larvae were allowed to feed for three days. 
+
+
+•The larva were recollected and the final weight of the larva was taken. The dry weight of the larva was taken by baking the larva over night in the oven at 60degrees C.
+
+The branches were all collected and the leaves in each mesh bag were counted again to find the number of damaged and undamaged leaves. Leaf area and percent herbivory was calculated for each leaf using CIAS. Each leaf was also subjected to toughness using a Mark-10.
+
+Experiment 2:
+
+Ten leaves were randomly picked from ten different male, female, and vegetative Lindera benzoin in sun and in shade conditions.
+Each leaf had its wet weight taken. This was done by placing each leaf on an electronic balance and recording the weight.
+Leaf toughness as well as leaf area was measured using a scientific tool called the Mark-10.
+The dry weight was then taken by placing a leaf in a brown bag and letting it bake in the oven for 60 degrees C.
+The ten leaves from each individual plant were collectively ground using the leaf mill. The milled leaves are then used to test C:N and protein.
+
+Example of a Graph
+
+
+
+Figure 1- Previous Years data of 2005, of the percent of leaf area removed in the edge versus interior, lumping all sexes together.
+
+
+
+Figure 2- Previous Years data of 2005, of the percent of leaf area removed in the edge versus interior, lumping all sexes together.
+
+
+Figure 3- There were no significant differences in the male and vegetative trichomes in either location.  There was a significant difference between females in the interior.
+
+
+
+
+ 
+
+
+DRAW A CONCLUSION :
+
+Analysis of Data:
+•There was no significant main effect of habitat type on percent herbivory.  There was a significant interaction between sex and habitat type in percent herbivory (Fig. 3). Males suffered greater damage in the edge environment while females experienced more herbivory in the interior habitat.
+•In past years there have been significant differences in percent of leaf area removed in the edge and interior (Fig. 4).
+•There were no significant differences in the male and vegetative trichome density in either location.  There was a significant difference between females in the interior compared to male and vegetative Lindera benzoin (Fig. 5).
+Conclusion:
+•The objective of this experiment was to determine if there was a difference in leaf hair density between edge and interior spicebush.  Another goal of the experiment was to determine if there was a change in the amount of herbivory between male, female, and vegetative spicebush in edge and interior habitats.  There was significance in leaf hair density in females, in that the interior had a higher density than edge.  Spicebush in general, but especially females may rely more heavily on their induced defenses and phenolics for protection.  While the interior may not express such defensive characteristics due to a lower light intensity, and rely more heavily on leaf hair.
+•The edge habitat showed higher herbivory than the interior habitat overall, which is in contrast to previous findings.  No significance in vegetative leaves may have occurred because their chemical make up are similar at that stage.  Females showed the significance expected between habitats.  Their was also significance between male habitats but in the opposite direction that was anticipated.  Sample size may have been too small to derive at significant data.  The data from 2005 did not examine the effects of herbivory between the sexes.
+ 
+Return to Student Project Page
+Return to NSF-RET Homepage
+ 
+This material is based upon work supported by the National Science Foundation under Grant No. 0442049.
+Any opinions, findings, and conclusions or recommendations expressed in this material are those of the author(s) and do not necessarily reflect the views of the National Science Foundation.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Muhlenberg College
+
+
+
+
+
+
+
+
+
+
+Muhlenberg College
+2400 Chew St.
+Allentown, 
+PA
+18104
+
+
+
+
+
+
+
+484-664-3100
+
+
+
+
+
+
+
+
+Maps & Directions
+
+
+
+
+
+Accessibility
+
+
+
+
+
+Library
+
+
+
+
+Title IX
+
+
+
+
+
+Employment
+
+
+
+
+
+A-Z Index
+
+
+
+
+
+Conference & Event Services
+
+
+
+
+
+Diversity & Inclusion
+
+
+
+
+
+
+Weather Update
+
+
+
+
+
+
+
+
+Social
+
+
+
+
+
+
+
+
+Facebook
+
+
+
+
+
+
+
+
+Instagram
+
+
+
+
+
+
+
+
+Twitter
+
+
+
+
+
+
+
+
+YouTube
+
+
+
+
+
+
+
+
+LinkedIn
+
+
+
+
+
+
+
+
+							©
+													
+ Muhlenberg College
+
+
+
+
+
+
+
+
+
+
+
+Muhlenburg College
+
+
+
+
+
+
+
+
+
+
+Search
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Who We Are
+
+
+
+
+
+
+
+
+
+
+
+Diversity and Inclusion
+
+
+
+
+Institutional Initiatives
+
+
+
+
+Office of the President
+
+
+
+
+College History
+
+
+
+
+Campus Map
+
+
+
+
+Directory Search
+
+
+
+
+
+
+Admissions
+
+
+
+
+
+
+
+
+
+
+
+Explore Your Visit Options
+
+
+
+
+Early Decision
+
+
+
+
+Regular Decision
+
+
+
+
+Transfer Students
+
+
+
+
+International Students
+
+
+
+
+Adult Accelerated & Evening Programs
+
+
+
+
+Graduate Studies
+
+
+
+
+Tuition and Fees
+
+
+
+
+Financial Aid
+
+
+
+
+First-Year Experience
+
+
+
+
+
+
+Academics
+
+
+
+
+
+
+
+
+
+
+
+Majors, Minors & Certifications
+
+
+
+
+Adult Accelerated & Evening Programs
+
+
+
+
+Summer Study
+
+
+
+
+Graduate Programs
+
+
+
+
+Preprofessional Programs
+
+
+
+
+Academic Partnerships
+
+
+
+
+Honors Programs
+
+
+
+
+Global Education
+
+
+
+
+Our Faculty
+
+
+
+
+Research & Scholarship
+
+
+
+
+
+
+Student Life
+
+
+
+
+
+
+
+
+
+
+
+Housing
+
+
+
+
+Dining
+
+
+
+
+Getting Involved
+
+
+
+
+Athletics
+
+
+
+
+Student Services
+
+
+
+
+Health & Wellness
+
+
+
+
+Religious & Spiritual Life
+
+
+
+
+
+
+Powerful Outcomes
+
+
+
+
+
+
+
+
+
+
+
+The Career Center
+
+
+
+
+Fellowships & Postgraduate Awards
+
+
+
+
+The Muhlenberg Network
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Visit
+
+
+
+
+
+
+
+
+
+Apply
+
+
+
+
+
+
+
+
+
+Request Info
+
+
+
+
+
+
+
+
+
+Give
+
+
+
+
+
+
+
+Info For:
+
+
+
+
+Current Students
+
+
+
+
+
+Alumni & Friends
+
+
+
+
+
+Faculty & Staff
+
+
+
+
+
+Parents
+
+
+
+
+
+
+
+
+
+News
+
+
+
+
+
+Events
+
+
+
+
+
+Athletics
+
+
+
+
+Arts
+
+
+
+
+
+
+
+
+COVID-19 Info
+
+
+
+ 
+ 
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

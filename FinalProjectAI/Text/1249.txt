@@ -1,0 +1,829 @@
+
+
+
+
+
+
+
+Research Experiences for Undergraduates | Muhlenberg College
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Skip to Main Content
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Muhlenberg College
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Visit
+
+
+
+
+
+
+
+
+
+Apply
+
+
+
+
+
+
+
+
+
+Request Info
+
+
+
+
+
+
+
+
+
+Give
+
+
+
+
+
+
+
+
+
+Menu
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Home
+AcademicsMajors, Minors & CertificationsMath & Computer ScienceStudentsResearch Experiences for Undergraduates 
+
+
+
+
+
+
+Research Experiences for Undergraduates
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Research Experiences for Undergraduates
+
+
+
+
+
+
+
+
+
+
+
+Math & CS ActivitiesStudent/Faculty ResearchStudent Summer PlansResearch Experiences for UndergraduatesInternshipsStudent AwardsRecent Alumni
+
+
+
+
+
+
+
+
+
+
+
+Home
+AcademicsMajors, Minors & CertificationsMath & Computer ScienceStudentsResearch Experiences for Undergraduates 
+
+
+
+
+
+
+
+
+
+
+
+
+Research Experiences (REU)
+REU Opportunities:
+Students interested in undergraduate research opportunities can click the following link to see what the MAA has made available: Undergraduate Research Opportunities
+
+Previous REU's:
+REU Title: Stochastic Models of an Antibiotic-Resistant Nosocomial Infection
+Nicole Fiorentino (Mathematics Major):
+Organizer:  Dr. Mohammed Yahdi Mathematics Ursinus College Collegeville, PA
+
+Approximately 10% of U.S. hospital patients acquire a clinically significant nosocomial infection. These infections have been linked to increased mortality (about 100,000 deaths per year) and increased costs. About one-third of infections contracted in intensive care units (ICU) are caused by Vancomycin-resistant enterococci (VRE). This project emphasizes the use and comparison of stochastic modeling approaches to derive and analyze models for VRE infections in an intensive care unit. Stochastic models are derived from a deterministic model that incorporates the difference between colonization and infection, the role of special preventive care treatment cycles, the compliance rate, and the effect of antibiotic use. For a dynamical system with small size population, uncertainty in parameters, and variability in transitions, stochastic differential equations can produce more realistic models. Modeling procedures include Discrete-time Markov chains, Continuous-time Markov chains, and Stochastic Differential Equation (SDE) models utilizing various diffusion matrices and Wiener processes. The models account for randomness and simulate transitions between the five population states in an ICU. Computer techniques created simulations to visualize and compare the models. The results were analyzed with the ultimate goal of determining the most efficient and economically favorable strategies to control VRE, preventing outbreaks, and providing an understanding of the VRE dynamic.
+
+REU Title: Software Safety: Methodology, Practice and Research
+Matthew Horn (CS Major):
+Organizer:  Dr. Eric Wong Computer Science University of Texas at Dallas Richardson, TX
+To build software systems with high safety requirements, it is important to approach the process in a certain way to maintain efficiency and ensure with a high degree of confidence that the requirements are met effectively. Software safety standards are commonly used to closely guide the development of such systems. However, given the existence of multiple competing safety standards, it is critical to select the one that is most appropriate for a given project. We have developed a set of 15 criteria to evaluate each standard in terms of usage, strengths and limitations.
+The primary goals of the project were to:
+
+Conduct a cross-comparison of software standards using previously defined criteria and propose new criteria, whenever appropriate
+Create a repository of pragmatic issues related to applying safety standards in practice and lessons learned to help prevent similar mistakes from occurring again in the future
+Perform an analysis of the evolution of safety standards
+
+I worked on this project a team of five people, and we each individually evaluated software standards, such as DO-178 or MIL-STD-00-56.
+
+REU Title: Social Choice Theory: Tournament Solutions
+Melanie Panosian (Mathematics Major):
+Organizer:  Dr. Molly Fenn and Dr. Scott Moser Mathematics North Carolina State University Raleigh, NC
+When a collection of people needs to make a group decision, things can get very complicated. We can sometimes model such collective choice situations with directed graphs. As an example, if we had en election with four candidates, we might model the situation with four vertices, one representing each candidate. Each edge between two vertices would be directed toward the vertex who would win a head-to-head race between the two candidates. If we knew the results of every possible head-to-head match up, the corresponding graph would be a tournament, a complete directed graph.
+Choosing "winners" from a tournament is a subtle problem. This project will study existing approaches as a jumping off point to exploring new and interesting questions. The mathematics involved will be combinatorial and graph theoretic in nature. No prior knowledge is necessary.
+ 
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Muhlenberg College
+
+
+
+
+
+
+
+
+
+
+Muhlenberg College
+2400 Chew St.
+Allentown, 
+PA
+18104
+
+
+
+
+
+
+
+484-664-3100
+
+
+
+
+
+
+
+
+Maps & Directions
+
+
+
+
+
+Accessibility
+
+
+
+
+
+Library
+
+
+
+
+Title IX
+
+
+
+
+
+Employment
+
+
+
+
+
+A-Z Index
+
+
+
+
+
+Conference & Event Services
+
+
+
+
+
+Diversity & Inclusion
+
+
+
+
+
+
+Weather Update
+
+
+
+
+
+
+
+
+Social
+
+
+
+
+
+
+
+
+Facebook
+
+
+
+
+
+
+
+
+Instagram
+
+
+
+
+
+
+
+
+Twitter
+
+
+
+
+
+
+
+
+YouTube
+
+
+
+
+
+
+
+
+LinkedIn
+
+
+
+
+
+
+
+
+							©
+													
+ Muhlenberg College
+
+
+
+
+
+
+
+
+
+
+
+Muhlenburg College
+
+
+
+
+
+
+
+
+
+
+Search
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Who We Are
+
+
+
+
+
+
+
+
+
+
+
+Diversity and Inclusion
+
+
+
+
+Institutional Initiatives
+
+
+
+
+Office of the President
+
+
+
+
+College History
+
+
+
+
+Campus Map
+
+
+
+
+Directory Search
+
+
+
+
+
+
+Admissions
+
+
+
+
+
+
+
+
+
+
+
+Explore Your Visit Options
+
+
+
+
+Early Decision
+
+
+
+
+Regular Decision
+
+
+
+
+Transfer Students
+
+
+
+
+International Students
+
+
+
+
+Adult Accelerated & Evening Programs
+
+
+
+
+Graduate Studies
+
+
+
+
+Tuition and Fees
+
+
+
+
+Financial Aid
+
+
+
+
+First-Year Experience
+
+
+
+
+
+
+Academics
+
+
+
+
+
+
+
+
+
+
+
+Majors, Minors & Certifications
+
+
+
+
+Adult Accelerated & Evening Programs
+
+
+
+
+Summer Study
+
+
+
+
+Graduate Programs
+
+
+
+
+Preprofessional Programs
+
+
+
+
+Academic Partnerships
+
+
+
+
+Honors Programs
+
+
+
+
+Global Education
+
+
+
+
+Our Faculty
+
+
+
+
+Research & Scholarship
+
+
+
+
+
+
+Student Life
+
+
+
+
+
+
+
+
+
+
+
+Housing
+
+
+
+
+Dining
+
+
+
+
+Getting Involved
+
+
+
+
+Athletics
+
+
+
+
+Student Services
+
+
+
+
+Health & Wellness
+
+
+
+
+Religious & Spiritual Life
+
+
+
+
+
+
+Powerful Outcomes
+
+
+
+
+
+
+
+
+
+
+
+The Career Center
+
+
+
+
+Fellowships & Postgraduate Awards
+
+
+
+
+The Muhlenberg Network
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Visit
+
+
+
+
+
+
+
+
+
+Apply
+
+
+
+
+
+
+
+
+
+Request Info
+
+
+
+
+
+
+
+
+
+Give
+
+
+
+
+
+
+
+Info For:
+
+
+
+
+Current Students
+
+
+
+
+
+Alumni & Friends
+
+
+
+
+
+Faculty & Staff
+
+
+
+
+
+Parents
+
+
+
+
+
+
+
+
+
+News
+
+
+
+
+
+Events
+
+
+
+
+
+Athletics
+
+
+
+
+Arts
+
+
+
+
+
+
+
+
+COVID-19 Info
+
+
+
+ 
+ 
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

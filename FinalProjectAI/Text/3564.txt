@@ -1,0 +1,462 @@
+
+
+
+
+Licensed to Fraulo Race Timing - Contractor License       HY-TEK's Meet Manager
+                2011 Muhlenberg Indoor Invitational - 1/28/2011                
+                       Muhlenberg College, Allentown,PA                        
+                                    Results                                    
+ 
+Event 1  Boys Pole Vault
+=========================================================================
+    Name                    Year School                  Seed     Finals 
+=========================================================================
+Finals
+  1 Todd, Andrew                 Keystone               4.10m      4.10m  
+  2 Runciman, Clark              Albright               3.96m      3.95m  
+  3 Hellings, Ryan               Muhlenberg             3.95m      3.80m  
+  4 Mathias, Adam                DeSales                3.65m     J3.80m  
+  5 Krajewski, Dave              Keystone               3.50m      3.05m  
+  6 Morton, Tyler                Delaware Val           2.90m      3.02m  
+ 
+Event 2  Girls Pole Vault
+=========================================================================
+    Name                    Year School                  Seed     Finals 
+=========================================================================
+  1 Saucier, Erin                Muhlenberg             3.09m      2.89m  
+  2 Biondi, Breanne              Muhlenberg             2.79m     J2.89m  
+  3 Fusco, Jessica               Keystone               2.60m      2.59m  
+  4 Photiades, Jennifer          DeSales                2.43m      2.44m  
+  4 Furtick, Keyli               Delaware Val           2.45m      2.44m  
+  6 Webb, Shannon                DeSales                2.74m      2.29m  
+ 
+Event 3  Girls High Jump
+=========================================================================
+    Name                    Year School                  Seed     Finals 
+=========================================================================
+  1 Faust, Colette               Muhlenberg             1.60m      1.57m  
+  2 Miller, Mackenzie            Albright               1.39m      1.37m  
+  3 Bisbing, Lisa                Keystone                          1.32m  
+  3 Loos, Meghan                 Albright               1.42m      1.32m  
+ -- Bollman, Megan               Muhlenberg             1.44m         NH  
+ 
+Event 4  Boys High Jump
+=========================================================================
+    Name                    Year School                  Seed     Finals 
+=========================================================================
+  1 Gewirtz, Justin              Albright               1.93m      1.93m  
+  2 Demko, Mitch                 Keystone               1.80m      1.83m  
+  3 Baer, Michael                Muhlenberg             1.72m      1.68m  
+  3 Parisi, Tyler                DeSales                1.80m      1.68m  
+  5 Runciman, Clark              Albright               1.67m     J1.68m  
+  6 Cruver, Mark                 Keystone                         J1.68m  
+  7 Hellings, Ryan               Muhlenberg             1.72m      1.63m  
+  8 Slinski, Josh                Keystone               1.63m     J1.63m  
+ -- Jokic, Stephan               DeSales                              NH  
+ 
+Event 5  Girls Long Jump
+=========================================================================
+    Name                    Year School                  Seed     Finals 
+=========================================================================
+  1 Keegan, Tara                 Muhlenberg             4.80m      4.75m  
+  2 Carnevale, Stephanie         Muhlenberg             4.64m      4.70m  
+  3 Gadomski, Sarah              Muhlenberg             4.57m      4.68m  
+  4 Pisano, Nicole               Muhlenberg             4.53m      4.60m  
+  5 Greulich, Melissa            Delaware Val           4.65m      4.54m  
+  6 Bates, Yasmeen               Keystone               3.87m      4.26m  
+  7 Olaoluwa, Adeola             Albright               3.96m      3.90m  
+  8 Bisbing, Lisa                Keystone               3.71m      3.69m  
+ 
+Event 6  Boys Long Jump
+=========================================================================
+    Name                    Year School                  Seed     Finals 
+=========================================================================
+  1 Masterson, Thomas            Delaware Val           7.03m      6.59m  
+  2 Brookland, Marc              Muhlenberg             6.72m      6.32m  
+  3 Slater, Brian                Keystone               5.13m      6.25m  
+  4 Zapf, Aaron                  Keystone               6.01m      6.23m  
+  5 Bolden, Michael              Keystone               5.84m      6.00m  
+  6 English, Christian           Keystone               5.46m      5.95m  
+  7 Esterly, Brandon             DeSales                6.00m      5.89m  
+  8 Parisi, Tyler                DeSales                6.01m      5.85m  
+  9 Betts, Naadir                Delaware Val           5.84m      5.78m  
+ 10 Wolfe, Alex                  Muhlenberg             6.07m      5.74m  
+ 11 Ullman, Jake                 Muhlenberg             6.09m      5.72m  
+ 12 Martin, Chad                 Delaware Val                      5.67m  
+ 13 Medvecky, Josh               DeSales                5.79m      5.64m  
+ 14 Petrilak, Jon                Delaware Val           5.65m      5.55m  
+ 15 Demko, Mitch                 Keystone               5.67m      5.42m  
+ 16 Whitmoyer, John              Keystone               5.24m      5.33m  
+ -- Evans, Patrick               Alvernia               5.40m         ND  
+ -- Brown, Jonathan              Muhlenberg             5.19m       FOUL  
+ 
+Event 7  Girls Triple Jump
+=========================================================================
+    Name                    Year School                  Seed     Finals 
+=========================================================================
+  1 kurowski, allison            DeSales                9.50m      9.75m  
+  2 Carnevale, Stephanie         Muhlenberg             9.83m      9.66m  
+  3 Keegan, Tara                 Muhlenberg            10.19m      9.48m  
+ -- Robinson, Kelly              Keystone               9.68m       FOUL  
+ 
+Event 8  Boys Triple Jump
+=========================================================================
+    Name                    Year School                  Seed     Finals 
+=========================================================================
+  1 Masterson, Thomas            Delaware Val                     12.95m  
+  2 Esterly, Brandon             DeSales               12.41m     11.85m  
+  3 Zapf, Aaron                  Keystone              12.27m     11.64m  
+  4 Slinski, Josh                Keystone                         10.28m  
+ -- Brown, Jonathan              Muhlenberg            11.22m       FOUL  
+ -- Brookland, Marc              Muhlenberg            14.07m       FOUL  
+ -- Bolden, Michael              Keystone              11.81m       FOUL  
+ 
+Event 9  Girls Shot Put
+=========================================================================
+    Name                    Year School                  Seed     Finals 
+=========================================================================
+  1 Schmalzer, Erinne            DeSales               11.38m     12.32m  
+  2 Searle, Amanda               Alvernia              10.95m     10.99m  
+  3 wade, ashley                 DeSales               10.90m     10.42m  
+  4 Wimberg, Kathryn             Alvernia              10.00m      9.98m  
+  5 Vega, Jazmyn                 Alvernia              10.00m      9.94m  
+  6 Salem, Rachelle              Delaware Val           9.47m      9.35m  
+  7 moran, Kara                  DeSales               10.41m      9.18m  
+  8 Boyd, Lindsay                Albright               8.83m      9.02m  
+  9 Stengel, Alexandra           Alvernia               9.00m      8.73m  
+ 10 Balutis, Tabitha             Delaware Val           8.70m      8.66m  
+ 11 Strickler, KateLynn          Keystone               9.33m     J8.66m  
+ 12 Clark, Heather               Keystone               8.05m      6.99m  
+ 13 Saucier, Erin                Muhlenberg             9.90m      6.97m  
+ 14 Bollman, Megan               Muhlenberg             8.53m      5.72m  
+ 
+Event 10  Boys Shot Put
+=========================================================================
+    Name                    Year School                  Seed     Finals 
+=========================================================================
+  1 Conklin, Jared               Keystone              14.02m     14.88m  
+  2 Canonico, Dane               Albright              13.71m     13.55m  
+  3 Langton, John                DeSales               13.12m     13.44m  
+  4 Mayes, Jon                   Keystone              12.16m     12.65m  
+  5 Gonzalez, Steffen            Albright              12.80m     12.61m  
+  6 Smith-Chant, Ray             Albright              13.10m     12.53m  
+  7 Devens, Ken                  DeSales               13.12m     12.32m  
+  8 Hershman, Seth               Muhlenberg            12.66m     12.31m  
+  9 Terris, James                Delaware Val          12.67m     11.92m  
+ 10 Miller, Hank                 DeSales               12.28m     11.66m  
+ 11 Ware, Jesse                  Delaware Val                     10.81m  
+ 12 Emery, Dillon                Alvernia              11.00m     10.26m  
+ 13 Schwartz, Michael            Albright              10.36m     10.23m  
+ 14 Gamrat, Jim                  Muhlenberg            10.88m    J10.23m  
+ 15 Theiss, Michael              Delaware Val          10.97m      9.94m  
+ 16 Gerber, Will                 Alvernia               9.56m      9.85m  
+ 17 Jokic, Stephan               DeSales                9.79m      9.79m  
+ 18 Parisi, Tyler                DeSales                9.85m     J9.79m  
+ 19 Wolfe, Andrew                Muhlenberg             9.75m      9.78m  
+ 20 Petrilak, Jon                Delaware Val          10.09m      9.59m  
+ 21 Reutter, Scott               Muhlenberg             9.81m      9.53m  
+ 22 Shea, Cole                   Delaware Val           9.22m      9.17m  
+ 23 Doughty, Brandon             Keystone               8.45m      8.81m  
+ 
+Event 11  Girls 1 Mile Run
+=========================================================================
+    Name                    Year School                  Seed     Finals 
+=========================================================================
+  1 Ugelow, Melissa              Muhlenberg           5:40.24    5:38.28  
+  2 Guth, Cara                   DeSales              5:38.00    5:48.26  
+  3 harmon, cassie               DeSales              5:50.00    5:52.26  
+  4 Greenberg, Ashley            Muhlenberg           5:40.24    5:53.61  
+  5 Mueller, Kendra              Keystone             5:50.00    6:08.94  
+  6 Meeker, Kelli                Muhlenberg           6:10.24    6:15.36  
+  7 Klein, Kristina              DeSales              7:00.00    6:45.26  
+ 
+Event 12  Boys 1 Mile Run
+=========================================================================
+    Name                    Year School                  Seed     Finals 
+=========================================================================
+  1 Clauser, Brent               DeSales              4:28.00    4:31.41  
+  2 Lowrey, William              Muhlenberg           4:35.24    4:33.43  
+  3 Wilson, Ryan                 Muhlenberg           4:34.24    4:37.97  
+  4 Smith, Brendan               Muhlenberg           4:37.24    4:39.73  
+  5 Filanowski, Pat              DeSales              4:38.87    4:40.02  
+  6 Filanowski, Brian            DeSales              4:42.00    4:40.21  
+  7 Ferretti, Andrew             DeSales              4:38.00    4:41.34  
+  8 Dolan, Chris                 Muhlenberg           4:40.24    4:41.72  
+  9 Kline, Charlie               Muhlenberg           4:45.24    4:44.12  
+ 10 Crossette, Nathan            Muhlenberg           4:40.24    4:47.38  
+ 11 McGetrick, Bobby             Muhlenberg           4:34.24    4:47.96  
+ 12 Pavlak, Cain                 Keystone             4:50.00    4:55.68  
+ 13 Piazza, Nick                 DeSales              4:50.00    4:55.83  
+ 14 Sclafani, Gerard             DeSales              4:50.00    4:58.60  
+ 15 Kingsbury, Adam              Muhlenberg           4:50.24    5:00.88  
+ 16 McMillan, Andrew             Delaware Val         4:55.00    5:00.99  
+ 17 Kenny, Christopher           Delaware Val         4:50.00    5:07.49  
+ 18 Pohlig, Steve                Keystone             5:10.00    5:28.45  
+ 19 Demko, Mitch                 Keystone             5:30.00    5:36.63  
+ 20 Mahan, Eric                  Delaware Val         5:20.00    5:40.86  
+ 
+Event 13  Girls 55 Meter Hurdles
+============================================================================
+    Name                    Year School                  Seed     Finals  H#
+============================================================================
+  1 Carnevale, Stephanie         Muhlenberg              9.22       8.97   1 
+  2 Miller, Mackenzie            Albright                9.72       9.45   1 
+  3 Brennan, Amanda              Muhlenberg              9.65       9.50   1 
+  4 Webb, Shannon                DeSales                10.00       9.85   1 
+  5 saylor, Chelsea              DeSales                10.36      10.27   2 
+  6 Sabens, Meredith             DeSales                10.65      10.44   2 
+  7 Pisano, Nicole               Muhlenberg             10.01      10.48   2 
+ 
+Event 14  Boys 55 Meter Hurdles
+============================================================================
+    Name                    Year School                  Seed     Finals  H#
+============================================================================
+  1 Rennie, Oshane               Albright                8.34       8.36   1 
+  2 Jokic, Stephan               DeSales                 8.70       8.54   1 
+  3 Baer, Michael                Muhlenberg              8.75       8.55   1 
+  4 Dagenais, Ryan               DeSales                 8.76       8.72   2 
+  5 Taylor, Dan                  DeSales                 8.80       9.03   2 
+  6 Kurtis, David                Muhlenberg              9.85       9.24   3 
+  7 Todd, Andrew                 Keystone                8.93       9.28   2 
+  8 Reutter, Scott               Muhlenberg              9.15       9.35   2 
+  9 Petrilak, Jon                Delaware Val                       9.46   3 
+ 10 Parisi, Tyler                DeSales                           10.28   3 
+ 
+Event 15  Girls 55 Meter Dash
+============================================================================
+    Name                    Year School                  Seed     Finals  H#
+============================================================================
+  1 Higgs, Danisha               Albright                7.49       7.45   1 
+  2 Diffenderfer, Katlyn         DeSales                 7.90       7.60   2 
+  3 Carnevale, Stephanie         Muhlenberg              7.85       7.87   1 
+  4 Alderfer, Jennifer           Delaware Val            8.05       7.93   3 
+  5 Schmidt, Abigail             Delaware Val            8.08       7.97   3 
+  6 Robinson, Kelly              Keystone                7.87       8.05   1 
+  7 Daniels, Alexandra           Muhlenberg              7.90       8.09   1 
+  8 Greulich, Melissa            Delaware Val            8.15       8.12   3 
+  9 Pisano, Nicole               Muhlenberg              7.95       8.14   2 
+ 10 Tyman, Meghan                Delaware Val            8.34       8.21   4 
+ 11 Fusco, Jessica               Keystone                8.20       8.23   4 
+ 12 Swasey, Krystal              Albright                8.26       8.24   4 
+ 13 Olaoluwa, Adeola             Albright                8.34       8.28   4 
+ 14 Saucier, Erin                Muhlenberg              8.00       8.30   2 
+ 15 Coleman, Stephanie           Alvernia                8.50       8.35   5 
+ 16 Sabens, Meredith             DeSales                 9.10       8.37   6 
+ 17 ellenberger, lisa            DeSales                 8.75       8.66   6 
+ 18 saylor, Chelsea              DeSales                 9.90       8.71   7 
+ 19 Waldron, Michelle            DeSales                 9.50       8.76   6 
+ 19 Bates, Yasmeen               Keystone                9.50       8.76   7 
+ 21 Messner, Candace             Albright                8.64       8.84   5 
+ 22 piger, natalie               DeSales                 9.90       9.04   7 
+ 
+Event 16  Boys 55 Meter Dash
+============================================================================
+    Name                    Year School                  Seed     Finals  H#
+============================================================================
+  1 Rice, Peter                  Muhlenberg              6.96       6.59   3 
+  2 Vaughn, Isaiah               Muhlenberg              6.81       6.69   1 
+  3 Slater, Brian                Keystone                6.84       6.77   2 
+  4 Masterson, Thomas            Delaware Val            6.80       6.81   1 
+  5 Potter, Sean                 Albright                6.82       6.85   1 
+  6 St. Hill, Carl               Keystone                6.94       6.93   2 
+  7 Davis, Darnell               Muhlenberg              6.96       6.95   2 
+  8 Glass, Anthony               Albright                7.14       6.99   4 
+  8 Rennie, Oshane               Albright                7.24       6.99   6 
+ 10 Keri, Carl                   DeSales                 6.96       7.04   3 
+ 11 Betts, Naadir                Delaware Val            6.98       7.06   3 
+ 12 Zapf, Aaron                  Keystone                7.08       7.08   4 
+ 13 Wilson, Robert               Muhlenberg              7.15       7.16   5 
+ 13 Yates, Derek                 Muhlenberg              7.01       7.16   3 
+ 15 Messina, Thomas              Albright                7.24       7.18   6 
+ 16 Martin, Chad                 Delaware Val            7.24       7.22   5 
+ 17 Weiner, Michael              Muhlenberg              7.15       7.25   5 
+ 18 Wolfe, Alex                  Muhlenberg              7.20       7.27   5 
+ 19 Runciman, Clark              Albright                7.26       7.32   6 
+ 20 Scott, Steve                 Keystone                7.54       7.50   7 
+ 20 Whitmoyer, John              Keystone                7.53       7.50   6 
+ 22 Spaide, Tyreek               Albright                7.85       7.90   7 
+ 
+Event 17  Girls 800 Meter Run
+=========================================================================
+    Name                    Year School                  Seed     Finals 
+=========================================================================
+  1 Cronin, Nicole               Muhlenberg           2:26.24    2:26.72  
+  2 Mitchell, Hannah             Muhlenberg           2:28.24    2:27.85  
+  3 Yalango, Kim                 Muhlenberg           2:26.24    2:28.26  
+  4 Mayden, Samantha             Muhlenberg           2:27.24    2:29.62  
+  5 Bash, Erica                  Muhlenberg           2:28.24    2:30.21  
+  6 Guth, Cara                   DeSales              2:30.00    2:39.09  
+  7 Mueller, Kendra              Keystone             2:38.00    2:40.31  
+  8 harmon, cassie               DeSales              2:40.00    2:44.34  
+  9 Stone, Erin                  Alvernia             2:40.00    2:45.91  
+ 10 Drumheller, Rebecca          Keystone             2:40.00    2:45.98  
+ 11 Swasey, Krystal              Albright             2:45.00    2:47.72  
+ 12 Meeker, Kelli                Muhlenberg           2:55.24    2:50.83  
+ 13 Klein, Kristina              DeSales              3:05.00    2:57.37  
+ 
+Event 18  Boys 800 Meter Run
+=========================================================================
+    Name                    Year School                  Seed     Finals 
+=========================================================================
+  1 Clauser, Brent               DeSales              2:00.00    1:59.53  
+  2 Torphy, Bob                  Muhlenberg           1:57.24    2:00.40  
+  3 Dolan, Chris                 Muhlenberg           2:04.24    2:05.49  
+  4 Felix, Jarrett               Muhlenberg           2:05.24    2:05.75  
+  5 Ferretti, Andrew             DeSales              2:06.00    2:05.86  
+  6 Belikove, Tom                Muhlenberg           2:02.24    2:06.29  
+  7 Hamid, Abdul                 Keystone             2:04.50    2:07.50  
+  8 Lowrey, William              Muhlenberg           2:04.24    2:07.70  
+  9 Wilson, Ryan                 Muhlenberg           2:03.24    2:07.95  
+ 10 McGuire, Tom                 Muhlenberg           2:06.24    2:08.89  
+ 11 Piazza, Nick                 DeSales              2:06.00    2:11.60  
+ 12 Evans, Maurice               Keystone             2:08.66    2:12.20  
+ 13 Crossette, Nathan            Muhlenberg           2:08.24    2:13.50  
+ 14 Brice, Matt                  DeSales              2:08.00    2:13.58  
+ 15 Decker, Eric                 DeSales              2:12.00    2:14.77  
+ 16 Henry, Andrew                Muhlenberg           2:08.24    2:17.47  
+ 17 Reals, Sam                   DeSales              2:12.00    2:17.52  
+ 18 Sclafani, Gerard             DeSales              2:12.00    2:18.27  
+ 19 Kanaskie, Andrew             DeSales              2:18.00    2:19.74  
+ 20 McGetrick, Bobby             Muhlenberg           2:06.24    2:19.96  
+ 21 Moreni, Pete                 DeSales              2:14.00    2:32.62  
+ 22 Parisi, Tyler                DeSales                         2:41.44  
+ 
+Event 19  Girls 400 Meter Dash
+============================================================================
+    Name                    Year School                  Seed     Finals  H#
+============================================================================
+  1 Higgs, Danisha               Albright             1:10.00    1:02.80   2 
+  2 Lehew, Katherine             Delaware Val         1:06.00    1:08.20   1 
+  3 Dorf, Carolyn                Muhlenberg           1:07.10    1:08.31   1 
+  4 Kunkle, Renee                DeSales              1:10.00    1:08.42   2 
+  5 Wray, Cassidy                Keystone             1:07.00    1:09.51   1 
+  6 Pearl, Sam                   DeSales              1:10.00    1:09.87   2 
+  7 Olaoluwa, Adeola             Albright             1:15.00    1:15.30   3 
+  8 Buonanno, Rebecca            Muhlenberg           1:10.24    1:16.20   3 
+ 
+Event 20  Boys 400 Meter Dash
+============================================================================
+    Name                    Year School                  Seed     Finals  H#
+============================================================================
+  1 Ullman, Jake                 Muhlenberg             52.95      53.60   1 
+  2 Mickens, Kareem              Keystone               53.74      53.83   1 
+  3 Glass, Anthony               Albright               54.00      54.45   1 
+  4 Baer, Michael                Muhlenberg             55.74      54.61   3 
+  5 Gewirtz, Justin              Albright               55.00      55.27   2 
+  6 Onimus, Andrew               Muhlenberg             54.10      55.64   2 
+  7 Partridge, Connor            Muhlenberg             56.50      56.19   4 
+  8 Harkins, Bobby               Muhlenberg             57.10      56.41   4 
+  9 Phillips, Jeff               Muhlenberg             54.95      56.50   2 
+ 10 Kurtis, David                Muhlenberg             56.24      56.57   3 
+ 11 Price, Alex                  Muhlenberg             55.88      56.62   3 
+ 12 Sikanowicz, Zach             DeSales                54.00      56.96   1 
+ 13 Potter, Sean                 Albright               55.00      57.42   2 
+ 14 Suitovsky, Max               Muhlenberg             55.64      58.27   3 
+ 15 Messina, Thomas              Albright             1:00.00      58.47   5 
+ 16 Keane, Andrew                Keystone               58.34    1:00.14   4 
+ 17 Spaide, Tyreek               Albright             1:05.00    1:07.43   5 
+ 
+Event 21  Girls 200 Meter Dash
+============================================================================
+    Name                    Year School                  Seed     Finals  H#
+============================================================================
+  1 Diffenderfer, Katlyn         DeSales                28.00      27.82   1 
+  2 Daniels, Alexandra           Muhlenberg             27.95      28.32   1 
+  3 Webb, Shannon                DeSales                28.91      28.36   2 
+  4 Alderfer, Jennifer           Delaware Val           28.00      28.77   1 
+  5 Schmidt, Abigail             Delaware Val           29.25      29.83   2 
+  6 Sabens, Meredith             DeSales                32.00      32.05   5 
+  7 saylor, Chelsea              DeSales                31.00      32.11   3 
+  8 Kosmin, Katie                DeSales                34.00      32.53   5 
+  9 ellenberger, lisa            DeSales                32.00      33.33   4 
+ 10 Sanchez, Julissa             Keystone               33.50      37.74   5 
+ 
+Event 22  Boys 200 Meter Dash
+============================================================================
+    Name                    Year School                  Seed     Finals  H#
+============================================================================
+  1 Vaughn, Isaiah               Muhlenberg             23.45      24.02   1 
+  2 Altpeter, Eric               DeSales                24.40      24.35   2 
+  3 Yates, Derek                 Muhlenberg             24.95      24.83   3 
+  4 Davis, Darnell               Muhlenberg             24.20      24.93   2 
+  5 Wilson, Robert               Muhlenberg             25.50      25.57   4 
+  6 Weiner, Michael              Muhlenberg             26.10      26.16   5 
+  7 Keri, Carl                   DeSales                24.00      26.43   1 
+  8 Taylor, Dan                  DeSales                25.30      26.59   4 
+ 
+Event 23  Girls 3000 Meter Run
+=========================================================================
+    Name                    Year School                  Seed     Finals 
+=========================================================================
+  1 Jordan, Alisha               Delaware Val        12:00.00   11:58.27  
+  2 Fancher, Jenna               Keystone            12:10.00   12:13.74  
+  3 Kratzer, Shelley             Keystone            13:17.28   13:01.81  
+  4 Neri, Gabby                  Keystone            12:40.00   13:02.24  
+ 
+Event 24  Boys 3000 Meter Run
+=========================================================================
+    Name                    Year School                  Seed     Finals 
+=========================================================================
+  1 Curry, Mike                  DeSales              9:00.00    8:56.42  
+  2 Tarpey, Jack                 DeSales              9:15.00    9:20.85  
+  3 Megee, Bryan                 DeSales              9:15.00    9:28.82  
+  4 Szilagyi, Dan                DeSales              9:45.00    9:42.60  
+  5 Clemson, Alex                DeSales              9:45.00    9:46.18  
+  6 Guth, Ryan                   DeSales              9:50.00    9:50.69  
+  7 Lykens, Matt                 DeSales              9:50.00   10:04.73  
+  8 Grbas, Robert                DeSales              9:50.00   10:07.78  
+  9 Stonier, Jeremy              Keystone            10:19.88   10:08.02  
+ 10 Hinkel, Eric                 Keystone            11:00.00   10:56.33  
+ 11 Donovan, Colin               Alvernia            11:46.74   11:17.83  
+ 
+Event 25  Girls 4x400 Meter Relay
+============================================================================
+    School                                               Seed     Finals  H#
+============================================================================
+  1 Muhlenberg  'A'                                   4:15.24    4:20.30   1 
+     1) Bash, Erica                     2) Yalango, Kim                   
+     3) Mitchell, Hannah                4) Daniels, Alexandra             
+  2 DeSales  'A'                                      4:50.00    4:27.09   2 
+     1) Diffenderfer, Katlyn            2) Webb, Shannon                  
+     3) Kunkle, Renee                   4) kurowski, allison              
+  3 Muhlenberg  'B'                                   4:30.24    4:42.41   1 
+     1) Mayden, Samantha                2) Cronin, Nicole                 
+     3) Dorf, Carolyn                   4) Buonanno, Rebecca              
+  4 Keystone  'A'                                     4:31.70    4:43.78   1 
+     1) Drumheller, Rebecca             2) Faulkner, Da'Quana             
+     3) Wray, Cassidy                   4) Robinson, Kelly                
+  5 DeSales  'B'                                      5:05.00    4:48.60   2 
+     1) Guth, Cara                      2) Kosmin, Katie                  
+     3) Lipari, Shelly                  4) kuchinskas, Michelle           
+ 
+Event 26  Boys 4x400 Meter Relay
+============================================================================
+    School                                               Seed     Finals  H#
+============================================================================
+  1 Keystone  'A'                                     3:36.12    3:41.05   1 
+     1) Mickens, Kareem                 2) Evans, Maurice                 
+     3) Bolden, Michael                 4) Hamid, Abdul                   
+  2 Muhlenberg  'A'                                   3:30.24    3:43.40   1 
+     1) Rice, Peter                     2) Onimus, Andrew                 
+     3) Ullman, Jake                    4) Torphy, Bob                    
+  3 DeSales  'A'                                      3:38.00    3:44.56   1 
+     1) Altpeter, Eric                  2) Brice, Matt                    
+     3) Moreni, Pete                    4) Reals, Sam                     
+  4 Muhlenberg  'B'                                   3:36.24    3:45.18   1 
+     1) Dolan, Chris                    2) Lysenko, Chris                 
+     3) McGetrick, Bobby                4) Wilson, Ryan                   
+  5 Keystone  'B'                                     3:40.00    3:48.00   2 
+     1) Slater, Brian                   2) St. Hill, Carl                 
+     3) Pavlak, Cain                    4) English, Christian             
+  6 DeSales  'B'                                      3:38.00    3:49.90   2 
+     1) Sikanowicz, Zach                2) Filanowski, Brian              
+     3) Filanowski, Pat                 4) Ecker, Paul                    
+  7 Keystone  'C'                                     3:48.50    3:51.90   3 
+     1) Demko, Mitch                    2) Todd, Andrew                   
+     3) Pohlig, Steve                   4) Scott, Steve                   
+  8 DeSales  'C'                                      3:55.00    4:13.80   3 
+     1) Decker, Eric                    2) Kanaskie, Andrew               
+     3) Nauss, Shane                    4) Ferretti, Andrew               
+
+
+

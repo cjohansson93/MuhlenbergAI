@@ -1,0 +1,969 @@
+
+
+
+
+
+
+
+News | Muhlenberg College
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Skip to Main Content
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Muhlenberg College
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Visit
+
+
+
+
+
+
+
+
+
+Apply
+
+
+
+
+
+
+
+
+
+Request Info
+
+
+
+
+
+
+
+
+
+Give
+
+
+
+
+
+
+
+
+
+Menu
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Home
+AcademicsMajors, Minors & CertificationsMath & Computer ScienceAboutNews 
+
+
+
+
+
+
+News
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+News
+
+
+
+
+
+
+
+
+
+
+
+Learning OutcomesUpcoming EventsNewsFaculty & Staff
+
+
+
+
+
+
+
+
+
+
+
+Home
+AcademicsMajors, Minors & CertificationsMath & Computer ScienceAboutNews 
+
+
+
+
+
+
+
+
+
+
+
+
+Mathematics & Computer ScienceDepartment News
+ 
+Fall 2021 - Spring 2022
+ 
+March 11, 2022
+Linda McGuire , Truman Koehler Professor of Mathematics, published The EPaDel Community (w/ X. Catepillan) in Count Me In: Community & Belonging in Mathematics (D. Dumbaugh & D. Haunsperger, eds), co-published w/ American Mathematical Society & Mathematical Association of America (978-1-4704-6566-7)
+ 
+March 3, 2022
+Spring 2022 Colloquium Series:Murong Xu, Department of Mathematics, University of Scranton
+New DigitalWatermarking Alorithm and its Application.
+Digital watermarking is the process of hiding digital information in a carrier signal. The feature codes (such as hash value or message authentication code) of an object to be authenticated are self-embedded as a watermark, and then feature extracted in the same way will be compared with the watermark retrieved to determine if there are any changes. In such way, the ownership of the copyright of such signal could be identified. Digital watermarking is a very important technique on cryptography study.
+For a grayscale digital image, the value of each pixel is a single sample representing only an amount of light, that is, it carries only intensity information. The pixel value is ranged from 0 to 255, in which Black is 0 and White is 255. So every grayscale digital image watermark can be converted into a matrix and embedded to the digital image. A good watermarking should not only make the hidden watermark invisible to human eyes, but also be robust enough to survive most signal distortions.
+In this talk, a new image digital watermarking algorithm will be introduced and simulation results will be presented as well.
+ 
+February 10, 2022
+Spring 2022 Colloquium Series:John Kriter, Senior Technical Architecture at Accenture (a multinational information technology company)
+Synopsis: For the last 10 years, John has focused his energy on helping organizations around the world implement technology solutions to solve problems. Joining Accenture as a Computer Science Major, he has applied his knowledge and skills working with > 25 different organizations across > 10 countries. As a Technical Architect, John has received numerous certifications from organizations like AWS, Microsoft, Google, Ali, Tencent, and CNCF.  When not toying with some new piece of technology, John is an avid 3D printer & motorcycle enthusiast.
+During this session, we will explore some of the pivotal experiences this career has brought. We will look at some tips on how to learn and grow within the technology space, life working with large brands in corporate environments, and some of the in-demand skillsets in the current job market.
+
+Fall 2020 - Spring 2021
+Spring 2021
+There is a special series of online talks being organized by Muhlenberg's (relatively new) student chapter of the Association for Women in Mathematics (AWM). This year marks the 50th anniversary of the founding of the AWM. To celebrate this milestone, Muhlenbergâs student chapter is organizing a virtual Salon Series for the spring 2021 term. One component of this celebration is a speaker series that will exclusively feature talks by women mathematicians. statisticians, and computer scientists who are currently active in STEM fields. Please contact the department for additional information.
+February 19th at 2PM: Student Panel
+February 26th at 12 PM: Conversation Hour with Muhlenbergâs Women in STEM Club
+March 5th, 2 PM: Dr. Sherli Koshy Chenthittayil, University of Connecticut
+March 19th, 2 PM: Dr. Kari Lock Morgan, Penn State University
+April 8th, 4:30 PM: Dr. Loredana Lanzani, Syracuse University
+April 16th, 3 PM: Dr. Harsha Gwalani, Data Analyst at Twitter
+April 20th at 2 PM: Dr. Chawne Kimber, Lafayette College
+ 
+Spring 2020
+March 2Elyn Rykken, professor of mathematics, and co-author Maureen Carroll were recently featured in the "New Books in Mathematics" podcast for their 2018 book, "Geometry: The Line and the Circle." Read More
+ 
+February 27 - Math/CS Presentation
+Elyn Rykken, Muhlenberg College: Building Community through Problem Solving: Two geometry problems and a national mathematics program 
+This talk begins with a practical home construction question encountered by my father in his volunteer work at Habitat for Humanity.  After considering this and a few related geometry problems, we will discuss the connection between these problems and the goals and aims of the Mathematics Teacherâs Circle Network.
+
+February 26 - Math/CS Presentation
+Linda McGuire, Muhlenberg College: Other Hidden Figures in Mathematics 
+National data trends indicate a critical need to increase representation in the mathematical sciences. By sharing a series of mathematical stories and probing a few mathematical topics, we will consider how issues of identity, visibility, and belonging, influence who does mathematics. We will also discuss ways that we, as a community, might better promote inclusion in the practice of mathematics, statistics, and computer science.
+ 
+January 31 - Math/CS Colloquium Series
+Elizabeth Eisenhauer is a PhD candidate in the Statistics Department at Penn State. She grew up in Cape May County, NJ and earned a BA in mathematics from The College of New Jersey. She currently works with Dr. Ephraim Hanks at Penn State on animal movement modeling.
+A Lattice and Random Intermediate Point Sampling Design for Animal Movement
+Animal movement studies have become ubiquitous in animal ecology for estimation of space use and analysis of movement behavior. In these studies, animal movement data are primarily collected at regular time intervals. We propose an irregular sampling design which could lead to greater efficiency and information gain in animal movement studies. Our novel sampling design, called lattice and random intermediate point (LARI), combines samples at regular and random time intervals. We compare the LARI sampling design to regular sampling designs in an example with common black carpenter ant location data, an example with guppy location data, and a simulation study of movement with a point of attraction. We modify a general stochastic differential equation model to allow for irregular time intervals and use this framework to compare sampling designs. When parameters are estimated reasonably well, regular sampling results in greater precision and accuracy in prediction of missing data. However, in each of the data and simulation examples explored in this paper, LARI sampling results in more accurate and precise parameter estimation, and thus better prediction of missing data as well. This result suggests that researchers might gain greater insight into underlying animal movement processes by choosing LARI sampling over regular sampling.
+ 
+January 17Students from Muhlenberg presented their research at the Joint Mathematics Meeting's Student Research Poster Session, on Friday, January 17, 2020, in Denver Colorado. Brittany Gelb (Class of 2021), Olivia Schwager (2020) and Jordan Segrave (2020) presented their work at the session, which is reserved for undergraduate and first-year graduate students submitting posters on work done while an undergraduate. Posters were viewed during the session and feedback was provided by professionals and mathematicians. The Joint Mathematics Meeting is the largest annual mathematics meeting in the world and offers a variety of sessions that are designed to appeal to undergraduates. 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+January 16First event in the department colloquium series.
+ 
+ Fall 2019
+November 8Chris Herrick, Professor of Political Science and Jorge Silveyra, Assistant Professor of Computer Science co-presented a paper, Chinese Foreign Policy Rhetoric in the Era of Xi Jinping Thought, at the Northeastern Political Science Association conference in Philadelphia on Nov. 8, 2019.
+November 1Math/CS Colloquium Series
+Michael Tait, Villanova University
+The card game SET, finite geometry, and additive combinatorics
+In this talk we will discuss the connection between the card game SET and one of the most famous problems in combinatorics: the cap-set problem.
+The cap-set problem and a generalization of it that we will discuss will foray into the worlds of finite geometry and combinatorial number theory. The talk will be accessible to undergraduate students.
+This is joint work with Alice Huang and Rob Won.
+Dr. Michael Tait is an assistant professor with the Villanova University Department of Mathematics. He completed his PhD in 2016 at UC-San Diego under the direction of Jacques Baudouin Alain Verstraete. Prior to arriving at Villanova University, he completed a postdoctoral fellowship mentored by Po-Shen Loh at Carnegie Mellon University. He recently received a National Science Foundation grant to research algebraic methods in extremal combinatorics. He is an avid runner and sports enthusiast, particularly baseball.
+October 29Linda McGuire, professor of mathematics, recently published the article Promoting Inclusion by Tracing Our Mathematical Roots in The National Teaching and Learning Forum, Wiley Online, Volume 28(5), 2019.
+October 24Michael Huber, Professor of Mathematics, had "How 'Ruthian' was Babe Ruth" and five other chapters published in "Babe Ruth," a definitive statistical and historic collection on the great ballplayer, published by the Society for American Baseball Research, Inc., 2019.
+Friday, October 4Math/CS Colloquium Series
+Dr. William Dunham, Emeritus Truman Koehler Professor of Mathematics
+How Odd are Odd Perfect Numbers?
+Greek mathematicians defined a whole number to be perfect if it is the sum of its proper divisors, where âproperâ means the divisor is smaller than the number itself.   An example is  6 ,  because the sum of its proper divisors is  1 + 2 + 3 = 6 .   Since classical times, 51 perfect numbers have been found â¦ and every one of them is even.
+That raises an obvious question: are there any odd perfect numbers?  To date, no one knows the answer.  It is one of the true mysteries of mathematics.
+In this talk, we trace the history of perfect numbers.  This will lead us to an 1888 argument in which J. J. Sylvester proved that, if an odd perfect number does exist, then it must have at least three different prime factors.   Although this property is far from self-evident, Sylvesterâs elegant proof requires nothing more sophisticated than geometric series.
+So, weâll see a bit of history and a bit of mathematics as we dabble in the challenging realm of number theory.
+William Dunham (Ph. D., Ohio State, 1974) is a historian of mathematics who has authored four books on the subject: Journey Through Genius, The Mathematical Universe, Euler: The Master of Us All, and The Calculus Gallery. After retiring from Muhlenberg College (emeritus, 2014), he has held visiting positions at Harvard, Princeton, Penn, Cornell, and Bryn Mawr, where he and wife Penny currently are Research Associates in Mathematics.
+September 11Michael Allocca, associate professor of mathematics, coauthored and published the chapter "Bugs, Braids and Batching" in The Mathematics of Various Entertaining Subjects: Volume 3
+September 9The Morning Call: Spotted lanternflies connect high school students to college | Muhlenberg professors including Eugene Fiorini are using the invasive insects in a program designed for area high school students called SLIME (Spotted Lanternfly Investigated through Mathematical and Environmental sciences). Read More
+September 6Math/CS Colloquium Series
+How I Spent My Summer Vacationâ¦ Summer Experiences of Math and Computer Science Students: Presentations by: Brittany Gelb, Ryan Hebert, Max Kirin, Sarah Schubert, Olivia Schwager & Will Wamser
+While taking classes is an invaluable part of an education, often in class a student only learns what others have already done. During the summer, students have an opportunity to make new discoveries. In this colloquium event, students from mathematics and computer science will present their research and internship experiences and discuss how they got their summer positions.
+September 4Elyn Rykken, professor of mathematics, had her book "Geometry: The Line and the Circle" reviewed in an article posted to the Mathematical Association of America's website. Read More 
+August 9William Dunham, professor emeritus of mathematics, was named a recipient of a Mathematics Association of America Carl B. Allendoerfer Award, given for excellence in mathematical writing, for "The Early (and Peculiar) History of the Mobius Function."
+August 6Will Gryc, associate professor of mathematics, published the article "Revenue in first-price auctions with a buy-out price and risk-averse bidders" in the Journal of Economics.
+August 5Linda McGuire, professor of mathematics, presented Finding Your Mathematical Roots in the Diversity, Equity and Inclusion paper session at the Mathematical Association of America MathFest in Cincinnati, OH.
+July 22Byungchul Cha, associate professor of mathematics, presented "Intrinsic Diophantine Approximation of Spheres," in a conference "Number Theory and Dynamics," which was held in Gangwondo, South Korea.
+ 
+ Spring 2019
+June 13
+Mike Huber, Professor of Mathematics, had his book, Understanding Sabermetrics: An Introduction to the Science of Baseball Statistics, 2nd Ed., published last week with McFarland & Company, Publishers, Inc., co-authored with Gabriel Costa and John T. Saccoman.
+May 9Byunchul Cha Recognized at 2019 Honors Convocation. Cha, associate professor of mathematics, was awarded both the Donald B. Hoffman Research Fellowship and the Crossette Family Fellowship for International Research.
+April 16Andy Martin '19, Ricky Morash '19 and Adam Cantor '21 won first place at a programming competition at the northeastern region of the national Consortium for Computing Sciences in Colleges at the University of New Hampshire.
+April 16Jorge Silveyra, assistant professor of computer science, presented the paper "Introducing Students to Computer Science and Programming using Data Analytics" at the national Consortium for Computing Sciences in Colleges at the University of New Hampshire.
+March 8Kelly Tornetta '19 Selected to Receive NCAA Postgraduate Scholarship. Tornetta, a physics and math double major and volleyball player, is only the 18th Mule to earn the $10,000 award in the 55 years of the program.
+February 26Rachel Hamelers, Head, Information Literacy Services, and Mike Huber, Mathematics, had "Brooklyn Dodgers 5, New York Yankees 1, New York Giants 0: June 26, 1944," published as an article about the Tri-Cornered Baseball Game in "The Polo Grounds: Essays and Memories of New York City's Historic Ballpark, 1880-1963," edited by Stew Thornley, McFarland & Co, 2019.
+January 24Michael Huber, Professor of Mathematics, has a chapter published in "The Team That Couldn't Hit: The 1972 Texas Rangers," Society of American Baseball Research, 2019.
+January 17Michael Huber, Professor of Mathematics, presented "The Sierpinski Triangle's Italian Ancestors," at the Joint Mathematics Meetings in Baltimore, MD.
+ 
+ Fall 2018
+November 30Math/CS Colloquium Series: Dr. Brenna Curley, Moravian College: "Not Exactly Walking On Sunshine: The complexities of modeling vitamin D" in Trumbower 149.
+November 12The Annual Life After Berg Alumni panel in Shankweiler 440s.
+November 8Math/CS Colloquium Series: Dr. Ricardo Conceicao, Gettysburg College: "A Stroll Through The Garden of Number Theory" in Shankweiler 440s.
+October 12Math/CS Colloquium Series: Dr. Gary Gordon, Lafayette College: "Pick a Tree, Any Tree" in Trumbower 140.
+September 20The Annual Math Club Ice Cream Social was held in the Math/CS/Physics Students Lounge in Trumbower 147.
+September 18Michael Huber, Professor of Mathematics, had three articles published in "Met-rospectives: A Collection of the Greatest Games in New York Me
+September 18Michael Huber, Professor of Mathematics, had three articles published in "Met-rospectives: A Collection of the Greatest Games in New York Mets History," B. Wright and B. Nowlin, editors, Society for American Baseball Research, Inc.: Phoenix, AZ, 2018.
+September 11Clifton Kussmaul, associate professor of computer science, is a grand prize recipient of the 2018 Engagement Excellence Award from the National Center for Women & Information Technology in honor of his work developing Process Oriented Guided Inquiry Learning (POGIL) courses for intro to computer science courses.
+September 7Math/CS Colloquium Series: How I Spent My Summer Vacation... Summer Experiences of Math and Computer Science Students. This year's presentation includes: Adam Clayman, Grace Imanariyo, Ben Lieberman, Andy Martin, Ruby Ortiz, Ann Palma, Drew Verenna, and Luke Wiley.
+Summer 2018
+Aug 7Linda McGuire, professor of mathematics, was an invited panelist in the Project NExT session "Learning to Write and Writing to Learn at all Levels of Mathematics" at MathFest in Denver, CO. Project NExT is a national-level professional development program for new or recent Ph.D.s in the mathematical sciences.
+Aug 6Linda McGuire and Will Gryc co-organized the contributed paper session "A Number is Never an Answer: Developing Mathematical Thinking and Communication Through Writing" at MathFest in Denver, August 1 & 2. Twenty-two math professors each presented a paper in the session detailing how they used writing in one of their courses.
+Spring 2018
+May 3Michael Humber, Professor of Mathematics, has five articles in the new book "Major League Baseball A Mile High: the First Quarter Century of the Colorado Rockies," published by the Society for American Baseball Research (2018).
+April 19Department majors particiapated in the college's ninth annual Innovation Challege.
+The audience favorite was Party DJ, a music playlist app created by Shana Joseph â18 and Michael Kovach â18, both Computer Science majors.
+Marie Grace Imanariyo â20 presented African Rockit, a business where individuals order African-made attire through an app and college-aged ambassadors bring the items to the U.S. Although sheâs skeptical about launching her company on her own, Imanariyo wants to pursue the project.
+âI keep thinking about it since Iâve been part of the competition.â said Imanariyo. âI believe that Iâm not going to let the idea die.â
+More information here.
+April 18Jamee Hood '18 presented "Food Waste at Muhlenberg" to the Mathematical Association of America MD-DC-VA Section Meeting, held at Virginia Military Institute in Lexington, VA. 
+April 7Several mathematics students, including Gianna Barres, Anthony Carracino, Sabrina Di Costanzo, Stephen Dranoff, Ben Lieberman, Chooka Weiss, Tara Werner, Luke Wiley, and Vicky Wrigley, presented posters of their independent research at the Garden State Undergraduate Mathematics Conference on April 7 at Rowan College, NJ. Tara Werner '18 received an Outstanding Poster Presentation award from the New Jersey section of the Mathematical Association of America. Her mathematics CUE research is Chaucer's Mathematics: Modeling the Canterbury Tales.
+February 23Clif Kussmaul, associate professor of computer science, is attending the ACM Special Interest Group in CS Education conference this week in Baltimore. He & collaborators are leading a 1-day event for faculty participants in the NSF IntroCS-POGIL workshop and leading a special session & evening workshop on POGIL.
+February 19Mathematics/Computer Science Colloquium Series:
+Janine Janoski, Kings College - "Impartial Two-Player Games"
+An impartial two-player game is a game where both players have the same set of available moves. We will analyze classic games such as Race to Twenty and Nim. We will then discuss the Sprague Grundy numbers for a variation of Nim played on graphs and a domino tiling game.
+February 9Mathematics/Computer Science Colloquium Series (with support from Lectures and Forum):
+Rebecca Wright, Director of the Center for Discrete Mathematics and Theoretical Computer Science [DIMACS] - "Privacy In Today's World"
+Privacy has become an issue of increasing importance in todayâs world of networked computing, mobile devices, the Internet of Things, and large-scale data analysis. This talk describes several privacy  solutions and challenges. Specifically, we demonstrate the use of  differential privacy in the context of human mobility modeling based on fine-grained mobile telephone data. We also discuss âside channelsâ in Facebook and whether they should be viewed as a privacy problem. Finally, we discuss the potential use of differential privacy in conjunction with secure distributed computation, each of which  provide different kinds of privacy protection.
+January 31Eugene Fiorini, Koehler Professor of Mathematics, was recently invited to participate in the Minority Chairs Breakfast meeting at the Joint Mathematics Meeting in San Diego. Discussions focused on increasing diversity and minority representation in the mathematical sciences.
+January 30Mike Huber, Professor of Mathematics, had two chapters published in "The Whiz Kids Take the Pennant: The 1950 Philadelphia Phillies," SABR (2018), edited by C. Paul Rogers III and Bill Nowlin.
+Eugene Fiorini, Koehler Professor of Mathematics, recently presented a series of lectures and workshops at the University of the Philippines. Lecture topics included the role of mathematics in sustainability, mathematical forensics and research topics in mathematics education.
+January 11-13Byungchul Cha, associate professor of mathematics, presented "Berggren trees, Romik system and Lagrange Theorem" on Saturday, Jan 13, 2018 in San Diego, CA at the Joint Mathematics Meetings, which was joint work with Dong Han Kim, Dongguk University, Seoul, Korea.
+Will Gryc, associate professor of mathematics, presented a talk entitled Strategies for "Buy-It-Now or Make Offer" Auctions on eBay at the Joint Mathematics Meetings in San Diego last Thursday 01/11.
+Linda McGuire, professor of mathematics, gave the paper Understanding Mathematics using Historical, Cultural, and Sociological Perspectives from Feminist Theory at the joint meetings of the American Mathematical Society and the Mathematical Association of America in San Diego, CA.
+Benjamin Lieberman '19 presented his research via poster and presentation entitled "A Monte Carlo measurement of Gerrymandering in Pennsylvania through Random Tessellation." at the joint AMS/MAA meetings in San Diego.
+Max Krueger '18 presented his research poster "Set-Valued Young Tableaux and Product-Coproduct Prographs" at the joint AMS/MAA meetings in San Diego.
+ 
+Fall 2017
+December 11Mike Huber, Professor of Mathematics, had a chapter, "The End of the Bowie Kuhn Era," published in "Baseball's Business: The Winter Meetings, 1958-2016," by the Society for American Baseball Research.
+November 19Linda McGuire, Professor of Mathematics, attended the regional meeting of the Eastern Pennsylvania and Delaware (EPaDel) section of the Mathematical Association of America on Saturday, November 18 at Shippensburg University.
+William Britt '17, Jamie Oliva '16, Brittney Tuff '16, Charli White '17, and William Gryc, associate professor of mathematics, published an article titled "Strategies for Making Best Offers on eBay" in the peer-reviewed American Journal of Undergraduate Research.
+November 16Clif Kussmaul, associate professor of computer science, will serve on the leader team for the Professors Open Source Software Experience (POSSE) workshop from Nov 16-18 at Red Hat Inc, Raleigh, NC.
+November 15Eugene Fiorini, Truman Koehler Professor of Mathematics, recently presented a series of talks on mathematical forensics and summer research opportunities at Appalachian State University.
+November 13Mathematics/Computer Science Colloquium Series:
+Annual Back to'Berg night!
+November 7Mathematics/Computer Science Colloquium Series:
+John E. Hammett III, St. Peter's University - "Accessing Mathematics Through Poetry: Engaging Learners at All Levels"
+Mathematical poetry in its various forms foster opportunities; students can solve problems, investigate content, explore the history of mathematics, explain algorithms and other techniques, engage in recreational mathematics, and enjoy the beauty inherent in the discipline. Math poems can offer differentiated access points to mathematical content for learners of all ability, interest and preparation levels, including majors, minors, pre-service teachers, and general education students. All students and faculty are welcome and encouraged to attend this workshop; come prepared to help compose at least one math poem, either individually or as part of a small group, your choice. You will leave a math poet.
+November 6Mike Huber, professor of mathematics, had seven chapters appear in "Sportsman's Park in St. Louis: Home of the Browns and Cardinals at Grand and Dodier," published 2017 by SABR, Inc.: Phoenix, AZ.
+November 4Clif Kussmaul, associate professor of computer science, led a one-day workshop on Nov 4 at Heidelberg University in Ohio on Process Oriented Guided Inquiry Learning (POGIL).
+October 21Andy Martin and Adam Cantor, the Muhlenberg College team, took third place out of a field of 19 teams in a student programming contest at the 33rd CCSC-Eastern Computer Science Conference over the weekend. This year the conference was hosted by Muhlenberg College.
+October 21Mathematics/Computer Science Colloquium Series (co-sponsored by Lectures and Forum & Public Health):
+Armin Mikler, University of North Texas - "RE-PLAN: A Framework for Responding to Biochemical Emergencies"
+Emergencies stemming from the release of harmful biochemical substances demand a timely response. Therefore, local governments are required to maintain functional plans for receiving medical countermeasures (MCMs) from the Strategic National Stockpile (SNS) and distributing them within federally-mandated timeframes.
+Determining optimal placement of clinics for the distribution of MCMs, requires the integration of geographic, demographic, and transportation data. The design and analysis of these response plans is a complex task. To this end, the RE-PLAN Framework has been developed to facilitate a data-driven response plan design. This talk will provide the highlights of RE-PLAN, a computational framework for placing facilities based on different optimization criteria.
+October 10"Quadratic Forms and Their Berggren Trees," submitted by Byungchul Cha, associate professor of mathematics, Emily Nguyen '16 and Brandon Tauber '15, was accepted for publication by the Journal of Number Theory.
+September 22Eugene Fiorini, Truman Koehler Professor of Mathematics, recently presented his current research on integer sequences associated with the Catalan triangle at the University of Delaware Combinatorics Seminar.
+September 21Math Club hosted the Annual Math Club Ice Cream Social.
+September 15Math/CS Colloquium series: "How I Spent My Summer Vacation: Summer Experiences of Math and Computer Science Students"
+ 
+
+News Archive
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Muhlenberg College
+
+
+
+
+
+
+
+
+
+
+Muhlenberg College
+2400 Chew St.
+Allentown, 
+PA
+18104
+
+
+
+
+
+
+
+484-664-3100
+
+
+
+
+
+
+
+
+Maps & Directions
+
+
+
+
+
+Accessibility
+
+
+
+
+
+Library
+
+
+
+
+Title IX
+
+
+
+
+
+Employment
+
+
+
+
+
+A-Z Index
+
+
+
+
+
+Conference & Event Services
+
+
+
+
+
+Diversity & Inclusion
+
+
+
+
+
+
+Weather Update
+
+
+
+
+
+
+
+
+Social
+
+
+
+
+
+
+
+
+Facebook
+
+
+
+
+
+
+
+
+Instagram
+
+
+
+
+
+
+
+
+Twitter
+
+
+
+
+
+
+
+
+YouTube
+
+
+
+
+
+
+
+
+LinkedIn
+
+
+
+
+
+
+
+
+							©
+													
+ Muhlenberg College
+
+
+
+
+
+
+
+
+
+
+
+Muhlenburg College
+
+
+
+
+
+
+
+
+
+
+Search
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Who We Are
+
+
+
+
+
+
+
+
+
+
+
+Diversity and Inclusion
+
+
+
+
+Institutional Initiatives
+
+
+
+
+Office of the President
+
+
+
+
+College History
+
+
+
+
+Campus Map
+
+
+
+
+Directory Search
+
+
+
+
+
+
+Admissions
+
+
+
+
+
+
+
+
+
+
+
+Explore Your Visit Options
+
+
+
+
+Early Decision
+
+
+
+
+Regular Decision
+
+
+
+
+Transfer Students
+
+
+
+
+International Students
+
+
+
+
+Adult Accelerated & Evening Programs
+
+
+
+
+Graduate Studies
+
+
+
+
+Tuition and Fees
+
+
+
+
+Financial Aid
+
+
+
+
+First-Year Experience
+
+
+
+
+
+
+Academics
+
+
+
+
+
+
+
+
+
+
+
+Majors, Minors & Certifications
+
+
+
+
+Adult Accelerated & Evening Programs
+
+
+
+
+Summer Study
+
+
+
+
+Graduate Programs
+
+
+
+
+Preprofessional Programs
+
+
+
+
+Academic Partnerships
+
+
+
+
+Honors Programs
+
+
+
+
+Global Education
+
+
+
+
+Our Faculty
+
+
+
+
+Research & Scholarship
+
+
+
+
+
+
+Student Life
+
+
+
+
+
+
+
+
+
+
+
+Housing
+
+
+
+
+Dining
+
+
+
+
+Getting Involved
+
+
+
+
+Athletics
+
+
+
+
+Student Services
+
+
+
+
+Health & Wellness
+
+
+
+
+Religious & Spiritual Life
+
+
+
+
+
+
+Powerful Outcomes
+
+
+
+
+
+
+
+
+
+
+
+The Career Center
+
+
+
+
+Fellowships & Postgraduate Awards
+
+
+
+
+The Muhlenberg Network
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Visit
+
+
+
+
+
+
+
+
+
+Apply
+
+
+
+
+
+
+
+
+
+Request Info
+
+
+
+
+
+
+
+
+
+Give
+
+
+
+
+
+
+
+Info For:
+
+
+
+
+Current Students
+
+
+
+
+
+Alumni & Friends
+
+
+
+
+
+Faculty & Staff
+
+
+
+
+
+Parents
+
+
+
+
+
+
+
+
+
+News
+
+
+
+
+
+Events
+
+
+
+
+
+Athletics
+
+
+
+
+Arts
+
+
+
+
+
+
+
+
+COVID-19 Info
+
+
+
+ 
+ 
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

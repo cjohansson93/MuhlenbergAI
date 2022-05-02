@@ -1,0 +1,1168 @@
+
+
+
+
+
+
+
+Creating a Chart | Muhlenberg College
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Skip to Main Content
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Muhlenberg College
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Visit
+
+
+
+
+
+
+
+
+
+Apply
+
+
+
+
+
+
+
+
+
+Request Info
+
+
+
+
+
+
+
+
+
+Give
+
+
+
+
+
+
+
+
+
+Menu
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Home
+AcademicsMajors, Minors & CertificationsBiologyPlant-Insect Interactions NSFResources for EducatorsCreating a Chart 
+
+
+
+
+
+
+Creating a Chart
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Creating a Chart
+
+
+
+
+
+
+
+
+
+
+
+RET Beth ChartRET Beth ProjectCreating a ChartRET CP DataRET CP ProjectRET Dan DataRET Dan ProjectRET Emily ProjectRET Epimecis HortarisRET Field StudyRET GraphLindera BenzoinRET LinksRET MetricsNematode LessonRET Scientific MethodRET Sean ChartRET Sean DataRET Sean ProjectRET Shauna ProjectSticky Card LessonRET Sticky CardsRET Sticky Cards (cont'd)RET Student ProjectsRET StudentsRET Teachers
+
+
+
+
+
+
+
+
+
+
+
+Home
+AcademicsMajors, Minors & CertificationsBiologyPlant-Insect Interactions NSFResources for EducatorsCreating a Chart 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+CREATING A DATA TABLE
+Experimenting is an exciting part of science, but the information gathered from your experiment has little value if it is not properly organized. Organizing your results will allow you and those looking at your work to draw conclusions about the problem you were investigating. There are two steps to organizing this information, or data, that you have gathered. The first is to create a data table and the second is to use that data table to make a graph.
+ 
+What are data tables and why do we use them?
+A data table is an organized arrangement of information in labeled rows and columns. It is a useful way to present and display information or instructions about a group of related facts. Data tables can be used in many situations but are especially useful in recording observations made during a scientific investigation.
+Sample data table:
+
+
+
+
+DATA TABLE I: Tulip Poplar vs. Spicebush
+
+
+
+
+Characteristics
+
+
+Tulip Poplar
+
+
+Spicebush
+
+
+
+
+Height
+
+
+ 
+
+
+ 
+
+
+
+
+Location
+
+
+ 
+
+
+ 
+
+
+
+
+% Herbivory
+
+
+ 
+
+
+ 
+
+
+
+
+Amount of Sunlight
+
+
+ 
+
+
+ 
+
+
+
+
+Number of Leaves
+
+
+ 
+
+
+ 
+
+
+
+
+ 
+How do I make a data table?
+Before you can set up a data table, you will need to determine a few things. You will need to know your control as well as your variables. What does this mean?
+A control is the part of the experiment that all other aspects of the experiment are compared to. For example, suppose you are testing two different light environments to see whether one of them makes Spicebush grow taller. Your control is the Spicebush growing naturally. You would not do anything to alter the way this plant grows. This is the plant that all other results will be compared to.
+What might you be comparing? That brings us to the question of variables. A variable is something that is capapble of being changed, anything that is differnt or a deviation from the normal status. There are independent variables and dependent variables.
+ 
+
+
+
+
+Independent Variable
+
+
+a change in your experiment that you can control
+
+
+
+
+Dependent Variable
+
+
+a change in the experiment as a result of the manipulating variable
+
+
+
+
+ 
+In our Spicebush plant example, the independent variable is the light environment. You can decide what amount of light you want to expose the plants to and have control over how this is done. Your dependent variable is the height of the Spicebush plants. There are many things that you can look at as dependent variables, such as leaf color and leaf size, but let's keep this simple to start.
+You are now ready to organize a data table.
+STEP 1: Give your table a title that identifies your variables. Your title should be placed at the top of your data table.
+
+
+
+
+Spicebush Height vs. Light Environment
+
+
+
+ 
+
+
+ 
+
+
+ 
+
+
+ 
+
+
+
+ 
+STEP 2: Make a table of vertical columns. (The number of columns will depend on how many variables you are testing for.) In your Spicebush experiment, you use a plant growing under a shade cloth, a plant growing under a growth lamp and the control growing in its natural habitat (woodlands). You decide to measure plant height every day for three weeks.
+You will need 4 columns to record your data. Each column should be labeled with the information that will be recorded in it. Be sure to include the units of measure that you are using (In science, it is proper to use metrics.) You might make a table like the one below.
+
+
+
+
+Spicebush Height vs. Light Environment
+
+
+
+
+Time (Days)
+
+
+Height of Plant (cm)
+
+
+
+
+Control Plant
+
+
+Shade
+
+
+Light
+
+
+
+
+Day 1
+
+ 
+ 
+ 
+
+
+
+Day 2
+
+ 
+ 
+ 
+
+
+
+Day 3
+
+ 
+ 
+ 
+
+
+
+Day 4
+
+ 
+ 
+ 
+
+
+
+Once your table is complete, look over it to be sure that you have a place for all of the data you plan to collect. Be sure to check that all column are labeled accurately and include the unit of measure being used in metrics.You may want to record more than one variable for each plant. This can be done by creating another table, or by simply adding colums to your existing table. See the example below.
+
+
+
+
+Spicebush Height vs. Light Environment
+
+
+
+
+Time (Days)
+
+
+Control Plant
+
+
+Shade Plant
+
+
+Light Plant
+
+
+
+
+Height of Plant (cm)
+
+
+Temperature (°C)
+
+
+Height of Plant (cm)
+
+
+Temperature (°C)
+
+
+Height of Plant (cm)
+
+
+Temperature (°C)
+
+
+
+
+Day 1
+
+ 
+ 
+ 
+ 
+ 
+ 
+
+
+
+Day 2
+
+ 
+ 
+ 
+ 
+ 
+ 
+
+
+
+Day 3
+
+ 
+ 
+ 
+ 
+ 
+ 
+
+
+
+Day 4
+
+ 
+ 
+ 
+ 
+ 
+ 
+
+
+
+STEP 3: In order to complete your experiment properly, you will need to have multiple trials. Three trials is the minimum you should ever use. Either subdivide the dependent variable columns in your table to provide space for each trial, or use a new copy of your table each time.
+What is a trial? A trial is one run of your experiment. For example, if you test one Spicebush plant in shade, one in light, and one in its natural environment, that is one trial. The reason more than one trial is needed is due to experimental error. Experimental error can be caused by the environment or by the actual experimenter.
+Say you run one trial of your Spicebush experiment. You hypothesize (this is your educated guess) that the plant in the light will grow the tallest and the plant in the shade will be the shortest. At the end of your experiment, the light plant has not grown at all. You could assume that your hypothesis was incorrect, but in order to be sure that nothing went wrong during experimentation, you would need to run more trials. You may find that your original hypothesis was correct and that you just had a sickly plant for the first trial.
+STEP 4: Complete your experiment and record the data you gather in your table.
+STEP 5: When all trials have been completed, the averages should be calculated. An additional column or row may be needed to enter your averages into your table. See the example below.
+
+
+
+
+Spicebush Height vs. Light Environment
+
+
+
+
+Time (Days)
+
+
+Height of Plant (cm)
+
+
+
+
+Control Plant
+
+
+Shade
+
+
+Light
+
+
+
+
+Day 1
+
+ 
+ 
+ 
+
+
+
+Day 2
+
+ 
+ 
+ 
+
+
+
+Day 3
+
+ 
+ 
+ 
+
+
+
+Day 4
+
+ 
+ 
+ 
+
+
+
+Average Height (cm)
+
+ 
+ 
+ 
+
+
+
+Once you have successfully created a data table and conducted an experiment to generate data, you are ready to move on to step two: Creating a graph.
+ 
+Return to Scientific Method
+Return to Students Page
+ 
+This material is based upon work supported by the National Science Foundation under Grant No. 0442049.
+Any opinions, findings, and conclusions or recommendations expressed in this material are those of the author(s) and do not necessarily reflect the views of the National Science Foundation.
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Muhlenberg College
+
+
+
+
+
+
+
+
+
+
+Muhlenberg College
+2400 Chew St.
+Allentown, 
+PA
+18104
+
+
+
+
+
+
+
+484-664-3100
+
+
+
+
+
+
+
+
+Maps & Directions
+
+
+
+
+
+Accessibility
+
+
+
+
+
+Library
+
+
+
+
+Title IX
+
+
+
+
+
+Employment
+
+
+
+
+
+A-Z Index
+
+
+
+
+
+Conference & Event Services
+
+
+
+
+
+Diversity & Inclusion
+
+
+
+
+
+
+Weather Update
+
+
+
+
+
+
+
+
+Social
+
+
+
+
+
+
+
+
+Facebook
+
+
+
+
+
+
+
+
+Instagram
+
+
+
+
+
+
+
+
+Twitter
+
+
+
+
+
+
+
+
+YouTube
+
+
+
+
+
+
+
+
+LinkedIn
+
+
+
+
+
+
+
+
+							©
+													
+ Muhlenberg College
+
+
+
+
+
+
+
+
+
+
+
+Muhlenburg College
+
+
+
+
+
+
+
+
+
+
+Search
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Who We Are
+
+
+
+
+
+
+
+
+
+
+
+Diversity and Inclusion
+
+
+
+
+Institutional Initiatives
+
+
+
+
+Office of the President
+
+
+
+
+College History
+
+
+
+
+Campus Map
+
+
+
+
+Directory Search
+
+
+
+
+
+
+Admissions
+
+
+
+
+
+
+
+
+
+
+
+Explore Your Visit Options
+
+
+
+
+Early Decision
+
+
+
+
+Regular Decision
+
+
+
+
+Transfer Students
+
+
+
+
+International Students
+
+
+
+
+Adult Accelerated & Evening Programs
+
+
+
+
+Graduate Studies
+
+
+
+
+Tuition and Fees
+
+
+
+
+Financial Aid
+
+
+
+
+First-Year Experience
+
+
+
+
+
+
+Academics
+
+
+
+
+
+
+
+
+
+
+
+Majors, Minors & Certifications
+
+
+
+
+Adult Accelerated & Evening Programs
+
+
+
+
+Summer Study
+
+
+
+
+Graduate Programs
+
+
+
+
+Preprofessional Programs
+
+
+
+
+Academic Partnerships
+
+
+
+
+Honors Programs
+
+
+
+
+Global Education
+
+
+
+
+Our Faculty
+
+
+
+
+Research & Scholarship
+
+
+
+
+
+
+Student Life
+
+
+
+
+
+
+
+
+
+
+
+Housing
+
+
+
+
+Dining
+
+
+
+
+Getting Involved
+
+
+
+
+Athletics
+
+
+
+
+Student Services
+
+
+
+
+Health & Wellness
+
+
+
+
+Religious & Spiritual Life
+
+
+
+
+
+
+Powerful Outcomes
+
+
+
+
+
+
+
+
+
+
+
+The Career Center
+
+
+
+
+Fellowships & Postgraduate Awards
+
+
+
+
+The Muhlenberg Network
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Visit
+
+
+
+
+
+
+
+
+
+Apply
+
+
+
+
+
+
+
+
+
+Request Info
+
+
+
+
+
+
+
+
+
+Give
+
+
+
+
+
+
+
+Info For:
+
+
+
+
+Current Students
+
+
+
+
+
+Alumni & Friends
+
+
+
+
+
+Faculty & Staff
+
+
+
+
+
+Parents
+
+
+
+
+
+
+
+
+
+News
+
+
+
+
+
+Events
+
+
+
+
+
+Athletics
+
+
+
+
+Arts
+
+
+
+
+
+
+
+
+COVID-19 Info
+
+
+
+ 
+ 
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

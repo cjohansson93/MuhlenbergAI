@@ -1,0 +1,721 @@
+
+
+
+
+Licensed to Fraulo Race Timing - Contractor License       HY-TEK's Meet Manager
+                      MUHLENBERG INVITATIONAL - 4/3/2010                       
+                              MUHLENBERG COLLEGE                               
+                                    Results                                    
+ 
+Event 1  Men Javelin Throw
+=========================================================================
+    Name                    Year School                  Seed     Finals 
+=========================================================================
+Finals
+  1 Boland, Matt                 Muhlenberg            50.29m     50.64m  
+  2 Del Piano, Justin            DeSales               54.39m     50.56m  
+  3 Fox, Kyle                    Ursinus               53.34m     49.15m  
+  4 Cruver, Mark                 Keystone              51.81m     48.78m  
+  5 Salaga, Chris                Ursinus                          48.50m  
+  6 Hershman, Seth               Muhlenberg            45.59m     46.31m  
+  7 Hellings, Ryan               Muhlenberg            51.81m     43.90m  
+  8 Harding, Doug                DeSales               48.00m     42.68m  
+  9 Mehmet, Brian                Ursinus                          42.52m  
+ 10 Yespelkis, Charles           Ursinus                          38.70m  
+ 11 Demko, Mitch                 Keystone              42.67m     38.67m  
+ 12 Flint, Jon                   Muhlenberg            44.19m     37.58m  
+ 13 Yokomizo, John               Ursinus                          36.82m  
+ 14 Noll, Ken                    Alfred                34.00m     28.56m  
+ 
+Event 2  Women Discus Throw
+=========================================================================
+    Name                    Year School                  Seed     Finals 
+=========================================================================
+  1 Freund, Jackie               Haverford             40.10m     38.75m  
+  2 Lee-Villanueva, Allison      Bryn Mawr             31.57m     34.27m  
+  3 Meeks, Dominique             Haverford             30.48m     28.07m  
+  4 Steinfeld, Manya             Bryn Mawr             26.52m     26.97m  
+  5 Heffern, Caitlin             Muhlenberg            21.62m     26.72m  
+  6 Kreiger, Hayley              Muhlenberg            19.95m     23.80m  
+  7 Summerville, Kayla           Alfred                24.25m     23.46m  
+  8 Herman, Caroline             Bryn Mawr                        20.46m  
+ 
+Event 3  Men Discus Throw
+=========================================================================
+    Name                    Year School                  Seed     Finals 
+=========================================================================
+  1 Modrow, Steve                DeSales               43.11m     42.79m  
+  2 Miller, Hank                 DeSales               39.00m     41.39m  
+  3 Santiago, Jose               DeSales               46.05m     37.76m  
+  4 Whyte, Donnie                Keystone              32.00m     35.31m  
+  5 Carr, Andrew                 Ursinus               35.99m     35.00m  
+  6 Gamrat, Jim                  Muhlenberg            35.05m     34.52m  
+  7 Baldwin, Robert              Albright              31.69m     33.36m  
+  8 Colder, Karl                 Muhlenberg            36.03m     33.00m  
+  9 Hershman, Seth               Muhlenberg            27.32m     32.38m  
+ 10 Austin, Ben                  Keystone              33.52m     31.82m  
+ 11 Smyers, Brett                Ursinus               29.24m     31.52m  
+ 12 Noll, Ken                    Alfred                30.31m     30.78m  
+ 13 Canonico, Dane               Albright              30.48m     30.33m  
+ 14 Lander-Portnoy, Maury        Haverford             32.00m     29.96m  
+ 15 Baer, Michael                Muhlenberg            25.90m     27.80m  
+ 16 Greene, James                Ursinus                          27.54m  
+ 17 Shuttle, Robert              Ursinus                          26.94m  
+ 18 Yokomizo, John               Ursinus                          15.36m  
+ 
+Event 4  Women Shot Put
+=========================================================================
+    Name                    Year School                  Seed     Finals 
+=========================================================================
+  1 Freund, Jackie               Haverford             12.61m     11.23m  
+  2 Meeks, Dominique             Haverford             10.60m     10.56m  
+  3 Lee-Villanueva, Allison      Bryn Mawr              9.59m      9.66m  
+  4 Summerville, Kayla           Alfred                 8.35m      8.78m  
+  5 Steinfeld, Manya             Bryn Mawr              8.85m      8.27m  
+  6 Goldsby, Aigne               Bryn Mawr              6.71m      6.64m  
+ 
+Event 5  Men Shot Put
+=========================================================================
+    Name                    Year School                  Seed     Finals 
+=========================================================================
+  1 White, Chris                 Unattached                       15.15m  
+  2 Modrow, Steve                DeSales               14.43m     14.19m  
+  3 Carr, Andrew                 Ursinus               14.12m     13.61m  
+  4 Canonico, Dane               Albright              13.53m     13.18m  
+  5 Langton, John                DeSales               12.55m     12.14m  
+  6 Hershman, Seth               Muhlenberg            12.33m     11.78m  
+  7 Santiago, Jose               DeSales               12.50m     11.65m  
+  7 Barron, Eikeem               Ursinus                          11.65m  
+  9 Miller, Hank                 DeSales                          11.42m  
+ 10 Jones, Torrance              Alfred                11.00m     11.00m  
+ 11 Shuttle, Robert              Ursinus               10.60m     10.64m  
+ 12 Smyers, Brett                Ursinus               10.14m     10.45m  
+ 13 Lander-Portnoy, Maury        Haverford             10.21m     10.04m  
+ 14 Gamrat, Jim                  Muhlenberg            10.88m      9.97m  
+ 15 Greene, James                Ursinus               10.10m      8.94m  
+ 
+Event 6  Women Long Jump
+=========================================================================
+    Name                    Year School                  Seed     Finals 
+=========================================================================
+  1 Brennan, Amanda              Muhlenberg             4.78m      4.80m  
+  2 Hovick, Olivia               Ursinus                4.65m     J4.80m  
+  3 Loos, Shannon                Albright               4.77m      4.70m  
+  4 Shaw, Leah                   Ursinus                4.54m      4.30m  
+  5 Larkins, Jordyn              Alfred                 4.30m      4.00m  
+ -- Miranda, Jennifer            Alfred                 4.20m         ND  
+ -- Schaefer, Amy                Ursinus                4.32m         ND  
+ 
+Event 7  Men Long Jump
+=========================================================================
+    Name                    Year School                  Seed     Finals 
+=========================================================================
+  1 Brookland, Marc              Muhlenberg             6.41m      6.61m  
+  2 Bendas, Nick                 Ursinus                6.28m      6.38m  
+  3 Shardlow, Justin             Alfred                 6.17m      6.05m  
+  4 Clifford, Pat                DeSales                5.90m      5.85m  
+  5 Hall, Sean                   Ursinus                6.00m      5.83m  
+  6 Dyer, Joseph                 Muhlenberg             5.83m      5.77m  
+  7 Wolfe, Alex                  Muhlenberg             6.07m      5.70m  
+  8 Roush, Evan                  Alfred                 5.94m      5.66m  
+  9 Bolden, Michael              Keystone               5.78m      5.54m  
+ 10 Vechik, Nick                 Haverford              6.00m      5.47m  
+ 11 Brown, Jonathan              Muhlenberg             5.19m      5.09m  
+ -- Lopez, Chris                 Alfred                 6.20m         ND  
+ -- Smith, Zachary               Haverford              5.90m         ND  
+ 
+Event 8  Women Triple Jump
+=========================================================================
+    Name                    Year School                  Seed     Finals 
+=========================================================================
+  1 Shaw, Leah                   Ursinus                9.99m     10.00m  
+  2 Hovick, Olivia               Ursinus               10.36m    J10.00m  
+ 
+Event 9  Men Triple Jump
+=========================================================================
+    Name                    Year School                  Seed     Finals 
+=========================================================================
+  1 Brookland, Marc              Muhlenberg            13.80m     13.41m  
+  2 Bolden, Michael              Keystone              12.19m     12.15m  
+  3 Clifford, Pat                DeSales               11.60m     11.27m  
+  4 Brown, Jonathan              Muhlenberg            11.09m     10.71m  
+ -- Roush, Evan                  Alfred                13.20m         ND  
+ 
+Event 10  Women Pole Vault
+=========================================================================
+    Name                    Year School                  Seed     Finals 
+=========================================================================
+  1 Faust, Alexandra             Muhlenberg             3.85m      3.51m  
+  2 Ward, Sam                    DeSales                3.04m      3.20m  
+  3 Schaefer, Amy                Ursinus                3.04m      2.75m  
+  4 Biondi, Breanne              Muhlenberg             2.50m     J2.75m  
+  5 Miller, Melissa              Muhlenberg             2.59m      2.59m  
+  6 seigel, amy                  DeSales                2.60m     J2.59m  
+  6 Surman, Lauren               Ursinus                2.65m     J2.59m  
+  8 Zeiters, Erica               Albright               1.98m      2.14m  
+ 
+Event 11  Men Pole Vault
+=========================================================================
+    Name                    Year School                  Seed     Finals 
+=========================================================================
+  1 Oh, Edward                   Haverford              4.25m      4.12m  
+  2 Wei, Andrew                  Haverford              3.81m      3.81m  
+  3 Hong, Inki                   Ursinus                3.75m      3.51m  
+  4 Vlahos, Alex                 Muhlenberg             3.65m      3.05m  
+ 
+Event 12  Women High Jump
+=========================================================================
+    Name                    Year School                  Seed     Finals 
+=========================================================================
+  1 Faust, Colette               Muhlenberg             1.60m      1.53m  
+ 
+Event 13  Men High Jump
+=========================================================================
+    Name                    Year School                  Seed     Finals 
+=========================================================================
+  1 Gewirtz, Justin              Albright               1.87m      1.88m  
+  2 Dyer, Joseph                 Muhlenberg             1.72m      1.78m  
+  3 Demko, Mitch                 Keystone               1.78m     J1.78m  
+ -- Baer, Michael                Muhlenberg             1.70m         NH  
+ 
+Event 15  Women 5000 Meter Run
+=========================================================================
+    Name                    Year School                  Seed     Finals 
+=========================================================================
+  1 Fancher, Jenna               Keystone            21:30.00   20:45.12  
+  2 malseed, beth                DeSales             21:30.00   21:04.44  
+  3 Schadt, Chelsie              Ursinus             20:13.11   21:22.18  
+ 
+Event 16  Men 3000 Meter Steeplechase
+=========================================================================
+    Name                    Year School                  Seed     Finals 
+=========================================================================
+  1 Curry, Mike                  DeSales             10:15.00    9:49.91  
+  2 Ramano, Jim                  Unattached           9:59.14   10:05.77  
+  3 Dye, Tyler                   Philadelphia         9:50.00   10:32.97  
+  4 Cuga, Justin                 DeSales             10:24.97   10:36.78  
+  5 Lykens, Matt                 DeSales                        10:45.90  
+  6 Guischard, James             Albright            12:00.00   13:06.60  
+ 
+Event 17  Women 3000 Meter Steeplechase
+=========================================================================
+    Name                    Year School                  Seed     Finals 
+=========================================================================
+  1 Cabot, Maya                  Haverford           12:20.23   12:15.40  
+  2 Condon, Jayne                Muhlenberg          11:38.24   12:36.69  
+  3 Anderson, Faith              Philadelphia        12:30.00   13:10.12  
+  4 Tetla, Michelle              Ursinus                        13:41.05  
+ 
+Event 18  Women 4x100 Meter Relay
+=========================================================================
+    School                                               Seed     Finals 
+=========================================================================
+  1 Albright  'A'                                       52.03      51.23  
+     1) Miller, Mackenzie               2) Loos, Shannon                  
+     3) Loos, Meghan                    4) Kutz, Taylor                   
+  2 Bryn Mawr  'A'                                      52.85      53.50  
+     1) Stewart, April                  2) Nyame-Mensah, Akua             
+     3) Welch, Tatyiana                 4) Goldsby, Aigne                 
+  3 Alfred  'A'                                         54.20      54.43  
+     1) Morrissey, Amy                  2) Miranda, Jennifer              
+     3) Gaylord, Rachel                 4) Larkins, Jordyn                
+  4 Haverford  'A'                                      53.34      56.79  
+     1) Freund, Jackie                  2) Schall, Anna                   
+     3) Meeks, Dominique                4) McMahon, Heather               
+ 
+Event 20  Men 4x100 Meter Relay
+=========================================================================
+    School                                               Seed     Finals 
+=========================================================================
+  1 Ursinus  'A'                                        43.79      43.61  
+     1) Hall, Sean                      2) Bendas, Nick                   
+     3) Grannum, Jordan                 4) Desiderio, Albert              
+  2 Alfred  'A'                                         43.46      44.02  
+     1) Lopez, Chris                    2) Brito, Randy                   
+     3) Shardlow, Justin                4) Scott, Richard                 
+  3 Keystone  'A'                                       44.50      44.29  
+     1) Stauder, Joe                    2) Fegley, Ryan                   
+     3) Young, Trevor                   4) Slater, Brian                  
+  4 DeSales  'A'                                        44.92      45.18  
+     1) Altpeter, Eric                  2) Del Piano, Justin              
+     3) Moreni, Pete                    4) Jacoby, Pat                    
+  5 DeSales  'B'                                        46.00      46.81  
+     1) Black, Dennis                   2) Leeson, Joe                    
+     3) Reals, Sam                      4) Modesto, John                  
+ 
+Event 21  Men 110 Meter Hurdles
+=========================================================================
+    Name                    Year School                  Seed     Finals 
+=========================================================================
+  1 Rountree, Chris              Ursinus                15.98      15.48  
+  2 Fox, Neal                    DeSales                15.90      15.70  
+  3 Gleason, Cody                Alfred                 18.20      16.88  
+  4 Baer, Michael                Muhlenberg             18.08      17.86  
+  5 Stein, Matt                  Muhlenberg             18.25      18.73  
+ 
+Event 22  Women 100 Meter Hurdles
+=========================================================================
+    Name                    Year School                  Seed     Finals 
+=========================================================================
+  1 Brennan, Amanda              Muhlenberg             17.09      16.82  
+  2 Campbell, LaToya             Keystone               17.00      18.41  
+  3 Faust, Colette               Muhlenberg             17.54      18.56  
+  4 Callahan, Caitlin            Ursinus                18.88      18.69  
+  5 Miller, Mackenzie            Albright               18.94      19.11  
+  6 McMahon, Heather             Haverford              20.00      20.90  
+ 
+Event 23  Women 100 Meter Dash
+============================================================================
+    Name                    Year School                  Seed    Prelims  H#
+============================================================================
+Preliminaries
+  1 Faust, Alexandra             Muhlenberg             12.54      12.90q  1 
+  2 Stewart, April               Bryn Mawr              13.05      13.11q  2 
+  3 Nyame-Mensah, Akua           Bryn Mawr              13.15      13.21q  3 
+  4 Lammers, Lauren              Ursinus                13.43      13.34q  1 
+  4 Laurito, Amanda              Ursinus                13.77      13.34q  3 
+  6 Larkins, Jordyn              Alfred                 13.30      13.57q  3 
+  7 Doyle, Carina                Ursinus                13.60      13.86q  2 
+  8 Walsh, Caitlin               Ursinus                13.60      14.18q  1 
+  9 Drumheller, Rebecca          Keystone               13.70      14.49   3 
+ 10 Surman, Lauren               Ursinus                14.37      14.58   1 
+ 11 Welch, Tatyiana              Bryn Mawr              14.85      14.73   2 
+ 12 Schaefer, Amy                Ursinus                14.64      15.01   1 
+ 13 Biondi, Breanne              Muhlenberg             13.35      15.36   2 
+ 14 Eckrote, Liz                 Keystone               15.00      15.62   3 
+ 15 Miller, Ericka               Keystone               15.00      15.76   3 
+ 16 Miranda, Jennifer            Alfred                 13.80      16.15   2 
+ 
+Event 23  Women 100 Meter Dash
+=========================================================================
+    Name                    Year School               Prelims     Finals 
+=========================================================================
+Finals
+  1 Faust, Alexandra             Muhlenberg             12.90      12.78  
+  2 Stewart, April               Bryn Mawr              13.11      13.16  
+  3 Nyame-Mensah, Akua           Bryn Mawr              13.21      13.22  
+  4 Lammers, Lauren              Ursinus                13.34      13.33  
+  5 Laurito, Amanda              Ursinus                13.34      13.34  
+  6 Larkins, Jordyn              Alfred                 13.57      13.79  
+  7 Walsh, Caitlin               Ursinus                14.18      13.98  
+  8 Doyle, Carina                Ursinus                13.86      14.06  
+Preliminaries
+  9 Drumheller, Rebecca          Keystone               14.49             
+ 10 Surman, Lauren               Ursinus                14.58             
+ 11 Welch, Tatyiana              Bryn Mawr              14.73             
+ 12 Schaefer, Amy                Ursinus                15.01             
+ 13 Biondi, Breanne              Muhlenberg             15.36             
+ 14 Eckrote, Liz                 Keystone               15.62             
+ 15 Miller, Ericka               Keystone               15.76             
+ 16 Miranda, Jennifer            Alfred                 16.15             
+ 
+Event 24  Men 100 Meter Dash
+============================================================================
+    Name                    Year School                  Seed    Prelims  H#
+============================================================================
+  1 Desiderio, Albert            Ursinus                10.96      11.15q  1 
+  2 Grannum, Jordan              Ursinus                11.63      11.62q  3 
+  3 Slater, Brian                Keystone               11.50      11.66q  4 
+  4 Weaver, Jeremy               Alfred                 11.80      11.73q  2 
+  5 Lopez, Chris                 Alfred                 11.60      11.75q  4 
+  6 Altpeter, Eric               DeSales                12.00      11.77q  4 
+  6 Hall, Sean                   Ursinus                11.20      11.77q  2 
+  6 Torain, James                Haverford              11.94      11.77q  3 
+  9 Barron, Eikeem               Ursinus                11.25      11.78   3 
+ 10 Bendas, Nick                 Ursinus                11.67      11.82   2 
+ 11 Jacoby, Pat                  DeSales                12.02      11.86   2 
+ 12 Rennie, Oshane               Albright               12.11      11.94   1 
+ 13 Black, Dennis                DeSales                12.00      11.96   4 
+ 14 Shardlow, Justin             Alfred                 11.70      11.98   1 
+ 15 Consolo, Lee                 Alfred                 11.70      11.99   1 
+ 16 Brito, Randy                 Alfred                 12.20      12.07   4 
+ 17 Modesto, John                DeSales                12.20      12.24   3 
+ 18 Wolfe, Alex                  Muhlenberg             12.01      12.28   3 
+ 19 Vechik, Nick                 Haverford              12.04      12.39   1 
+ 20 Russell, Brandon             Ursinus                12.70      12.50   2 
+ 21 Hong, Inki                   Ursinus                12.35      12.53   4 
+ 22 Moore, DeAndre               Albright               12.98      12.83   3 
+ 23 Amuquandoh, Kevin            Ursinus                           12.87   4 
+ 24 Yokomizo, John               Ursinus                12.81      13.28   1 
+ 25 Oladele, Tolulope            Haverford              12.94      13.37   2 
+ 
+Event 24  Men 100 Meter Dash
+=========================================================================
+    Name                    Year School               Prelims     Finals 
+=========================================================================
+Finals
+  1 Desiderio, Albert            Ursinus                11.15      11.12  
+  2 Grannum, Jordan              Ursinus                11.62      11.54  
+  3 Slater, Brian                Keystone               11.66      11.58  
+  4 Hall, Sean                   Ursinus                11.77      11.79  
+  5 Altpeter, Eric               DeSales                11.77      11.81  
+  6 Torain, James                Haverford              11.77      11.84  
+  7 Lopez, Chris                 Alfred                 11.75      11.85  
+  8 Weaver, Jeremy               Alfred                 11.73      11.89  
+Preliminaries
+  9 Barron, Eikeem               Ursinus                11.78             
+ 10 Bendas, Nick                 Ursinus                11.82             
+ 11 Jacoby, Pat                  DeSales                11.86             
+ 12 Rennie, Oshane               Albright               11.94             
+ 13 Black, Dennis                DeSales                11.96             
+ 14 Shardlow, Justin             Alfred                 11.98             
+ 15 Consolo, Lee                 Alfred                 11.99             
+ 16 Brito, Randy                 Alfred                 12.07             
+ 17 Modesto, John                DeSales                12.24             
+ 18 Wolfe, Alex                  Muhlenberg             12.28             
+ 19 Vechik, Nick                 Haverford              12.39             
+ 20 Russell, Brandon             Ursinus                12.50             
+ 21 Hong, Inki                   Ursinus                12.53             
+ 22 Moore, DeAndre               Albright               12.83             
+ 23 Amuquandoh, Kevin            Ursinus                12.87             
+ 24 Yokomizo, John               Ursinus                13.28             
+ 25 Oladele, Tolulope            Haverford              13.37             
+ 
+Event 25  Women 1500 Meter Run
+=========================================================================
+    Name                    Year School                  Seed     Finals 
+=========================================================================
+Finals
+  1 Lynch, Jennifer              Muhlenberg           4:35.24    4:36.98  
+  2 Miller, Nicolette            Muhlenberg           4:55.24    4:59.17  
+  3 Yanessa, Deb                 Ursinus              5:02.09    5:05.32  
+  4 DiNucci, Anjelica            Philadelphia         5:16.00    5:11.15  
+  5 Kronauer, Kristina           Bryn Mawr            5:20.00    5:12.38  
+  6 Phillips-Jones, Elisabet     Alfred               5:15.00    5:13.56  
+  7 lamastro, alessandra         DeSales              5:18.00    5:16.26  
+  8 Simonetti, Sarah             Philadelphia         5:20.00    5:16.87  
+  9 Donatone, Stephanie          Ursinus              5:23.80    5:18.27  
+ 10 Neri, Gabby                  Keystone             5:40.00    5:22.21  
+ 11 Chan, Jen                    Alfred               5:35.14    5:23.73  
+ 12 Dei Tos, Gabrielle           Philadelphia         5:25.00    5:25.02  
+ 13 Gaylord, Rachel              Alfred               5:20.00    5:25.77  
+ 14 Kellogg, Jordan              Ursinus              5:43.08    5:27.67  
+ 15 Hollenbach, Rebecca          Ursinus              5:46.12    5:29.25  
+ 16 O'Leary, Kaitlin             Philadelphia         5:33.00    5:41.61  
+ 17 Puleo, Ariel                 Bryn Mawr            5:50.00    5:43.04  
+ 18 Melker, Anna                 Bryn Mawr            5:55.00    5:49.94  
+ 19 Pina Chila, Christina        Philadelphia         5:35.00    5:59.14  
+ 20 Hilferty, Vicky              Philadelphia         5:40.00    6:04.33  
+ 21 kantra, noelle               DeSales                         6:10.13  
+ -- Koons, Frances               Unattached           4:30.00        DNF  
+ 
+Event 26  Men 1500 Meter Run
+=========================================================================
+    Name                    Year School                  Seed     Finals 
+=========================================================================
+  1 Torphy, Bob                  Muhlenberg           3:55.24    3:58.20  
+  2 Siqueiros, Ben               Haverford            4:05.00    4:01.60  
+  3 Thornton, Pat                Muhlenberg           4:04.24    4:02.87  
+  4 Arnold, Eric                 Haverford            3:59.00    4:03.29  
+  5 Hess, Pat                    DeSales              4:05.50    4:04.10  
+  6 Riccio, Michael              Haverford            4:05.00    4:04.81  
+  7 Fuentes, Lucas               Haverford            4:00.00    4:06.29  
+  8 Lauletti, Matthew            Muhlenberg           4:05.24    4:06.35  
+  9 Tarpey, Jack                 DeSales              4:10.00    4:07.02  
+ 10 Wilson, Ryan                 Muhlenberg           4:05.24    4:11.95  
+ 11 Koffer, Jake                 Haverford            4:11.00    4:12.27  
+ 12 Ganley, Ryan                 Muhlenberg           4:10.24    4:12.53  
+ 13 D'Andrea, Shawn              Philadelphia         4:15.00    4:13.66  
+ 14 Bacon, Bobby                 DeSales              4:14.00    4:14.67  
+ 15 Piotrowski, Andrew           Philadelphia         4:12.00    4:17.01  
+ 16 Lowrey, William              Muhlenberg           4:12.24    4:18.35  
+ 17 Stortz, Sam                  Ursinus              4:20.18    4:18.42  
+ 18 Dolan, Chris                 Muhlenberg           4:18.24    4:19.36  
+ 19 Smith, Brendan               Muhlenberg           4:12.24    4:21.50  
+ 20 Garavel, Justin              Ursinus              4:15.33    4:23.00  
+ 21 Colletta, David              Haverford            4:08.00    4:24.12  
+ 22 Schuster, Jesse              Alfred               4:20.00    4:26.72  
+ 23 Noll, Ken                    Alfred               4:20.00    4:28.81  
+ 24 Fabbri, Matt                 Keystone             4:32.21    4:29.39  
+ 25 Almy, Amos                   Ursinus              4:42.75    4:33.14  
+ 26 Cohen, Matt                  Haverford            4:25.00    4:33.28  
+ 27 Grbas, Robert                DeSales              4:43.00    4:36.19  
+ 28 Noonan, Geoffrey             Keystone             4:46.77    4:37.57  
+ 29 Kopczynski, Jeff             Philadelphia         4:25.00    4:38.91  
+ 30 Senske, Chris                Ursinus              4:39.44    4:39.06  
+ 31 Matharu, Tegh                Ursinus              4:53.40    4:48.29  
+ 32 Van Meter, Lucas             Haverford            4:30.00    4:49.45  
+ 33 Jones, Harrison              Haverford            4:40.00    4:53.11  
+ 34 Knott, Zachary               Keystone             5:20.00    4:57.20  
+ 35 Leitmeyer, Keith             Muhlenberg           4:58.24    4:59.82  
+ 
+Event 27  Women 400 Meter Dash
+============================================================================
+    Name                    Year School                  Seed     Finals  H#
+============================================================================
+  1 Loos, Shannon                Albright             1:04.00    1:02.57   1 
+  2 Morrissey, Amy               Alfred               1:01.10    1:02.77   1 
+  3 Goldstein, Lauren            Ursinus              1:04.45    1:03.00   1 
+  4 Daniels, Alexandra           Muhlenberg           1:00.94    1:03.10   1 
+  5 Loos, Meghan                 Albright             1:05.00    1:03.21   1 
+  6 Faulkner, Da'Quana           Keystone             1:05.00    1:06.52   1 
+  7 Frederick, Mary              Albright             1:07.00    1:09.14   1 
+  8 Fancher, Jenna               Keystone             1:10.00    1:17.89   2 
+ 
+Event 28  Men 400 Meter Dash
+============================================================================
+    Name                    Year School                  Seed     Finals  H#
+============================================================================
+  1 Scott, Richard               Alfred                 50.39      50.08   1 
+  2 Rice, Peter                  Muhlenberg             50.20      50.51   1 
+  3 Dowlat, Richard              Haverford              51.03      50.57   1 
+  4 Phillips, Matt               Alfred                 52.40      52.32   1 
+  5 Jacoby, Pat                  DeSales                52.46      52.36   1 
+  6 Weaver, Jeremy               Alfred                 53.37      52.47   2 
+  7 Ryan, William                Muhlenberg             51.50      52.76   1 
+  8 Vlahos, Alex                 Muhlenberg             53.85      53.17   2 
+  9 Xiang, Willie                Haverford              54.00      53.57   2 
+ 10 Fegley, Ryan                 Keystone               53.50      53.70   2 
+ 11 Young, Trevor                Keystone               54.50      54.25   3 
+ 12 Altpeter, Eric               DeSales                53.95      54.41   2 
+ 13 Price, Alex                  Muhlenberg             53.95      54.68   2 
+ 14 Lim, Taehyun                 Haverford              54.94      54.73   3 
+ 15 Townsend, Casey              Alfred                 55.40      54.77   3 
+ 16 Pohlig, Steve                Keystone               55.50      54.79   3 
+ 17 Hess, Pat                    DeSales                54.00      55.07   2 
+ 18 Stauder, Joe                 Keystone               54.00      55.25   3 
+ 19 Leeson, Joe                  DeSales                54.00      55.29   2 
+ 20 Vechik, Nick                 Haverford              52.95      55.38   1 
+ 21 Mosher, Ben                  Ursinus                55.51      56.28   3 
+ 22 Amuquandoh, Kevin            Ursinus                           59.25   4 
+ 23 Tucker, Eric                 Ursinus              1:00.74    1:00.08   4 
+ 24 Bedrossian, Dan              Haverford            1:03.11    1:02.51   4 
+ 
+Event 29  Women 800 Meter Run
+=========================================================================
+    Name                    Year School                  Seed     Finals 
+=========================================================================
+  1 Yalango, Kim                 Muhlenberg           2:18.24    2:21.10  
+  2 Lynch, Jennifer              Muhlenberg           2:18.24    2:21.12  
+  3 Bash, Erica                  Muhlenberg           2:28.24    2:27.14  
+  4 Miller, Nicolette            Muhlenberg           2:22.24    2:27.48  
+  5 Yanessa, Deb                 Ursinus              2:27.17    2:30.50  
+  6 Haahr, Melissa               Alfred               2:32.00    2:31.53  
+  7 Kellogg, Jordan              Ursinus              2:38.25    2:33.14  
+  8 Weightman, Leah              Bryn Mawr            2:36.00    2:34.98  
+  9 Mitchell, Hannah             Muhlenberg           2:28.24    2:35.62  
+ 10 Neri, Gabby                  Keystone             2:35.00    2:39.66  
+ 11 Donatone, Stephanie          Ursinus              2:34.00    2:39.97  
+ 12 Goldstein, Lauren            Ursinus              2:26.14    2:40.25  
+ 13 Hollenbach, Rebecca          Ursinus              2:39.93    2:41.63  
+ 14 McMahon, Heather             Haverford            2:38.50    2:42.51  
+ 15 Puleo, Ariel                 Bryn Mawr            2:48.00    2:49.54  
+ 16 Frederick, Mary              Albright             2:50.00    2:50.34  
+ 17 Melker, Anna                 Bryn Mawr            2:52.00    2:51.30  
+ 18 Pina Chila, Christina        Philadelphia         2:54.00    2:51.90  
+ 19 Cantor, Lauren               Bryn Mawr            3:19.29    3:17.18  
+ 20 Herman, Caroline             Bryn Mawr            3:23.00    3:27.28  
+ 
+Event 30  Men 800 Meter Run
+=========================================================================
+    Name                    Year School                  Seed     Finals 
+=========================================================================
+  1 Torphy, Bob                  Muhlenberg           1:56.24    1:57.12  
+  2 Ecker, Paul                  DeSales              1:55.50    1:57.24  
+  3 Consolo, Lee                 Alfred               1:58.00    1:57.98  
+  4 Thornton, Pat                Muhlenberg           1:56.24    1:59.42  
+  5 Krause, Greg                 Haverford            2:01.00    1:59.73  
+  6 Golato, Andrew               Haverford            2:00.50    1:59.75  
+  7 Olshansky, Jacob             Haverford            1:59.00    1:59.89  
+  8 Filanowski, Brian            DeSales              1:59.40    2:00.02  
+  9 Filanowski, Pat              DeSales              1:59.60    2:00.40  
+ 10 Garavel, Justin              Ursinus              2:01.45    2:03.36  
+ 11 Tencate, Kirk                Philadelphia         2:05.00    2:03.67  
+ 12 Schmidt, Chris               Unattached           2:03.75    2:04.41  
+ 13 Esposito, Mike               Muhlenberg           2:05.24    2:04.69  
+ 14 Piazza, Nick                 DeSales              2:07.00    2:04.89  
+ 15 Toye, Dan                    Keystone             2:02.00    2:05.47  
+ 16 Reynolds, Nick               Haverford            2:06.75    2:06.62  
+ 17 Mosher, Ben                  Ursinus              2:04.13    2:06.79  
+ 18 Schuster, Jesse              Alfred               2:10.00    2:07.17  
+ 19 Igoe, Paul                   Alfred               2:08.00    2:07.44  
+ 20 Fabbri, Matt                 Keystone             2:08.95    2:08.50  
+ 21 Godoy, Brett                 Ursinus              2:08.30    2:09.75  
+ 22 Tierno, Ryne                 DeSales              2:08.50    2:09.95  
+ 23 Decker, Eric                 DeSales              2:10.00    2:10.23  
+ 24 Senske, Chris                Ursinus              2:12.80    2:17.13  
+ 25 Almy, Amos                   Ursinus              2:15.77    2:19.48  
+ 26 Kopczynski, Jeff             Philadelphia         2:12.00    2:19.86  
+ 27 Matharu, Tegh                Ursinus              2:25.79    2:23.21  
+ 28 Guischard, James             Albright             2:15.00    2:25.52  
+ 29 Darroch, Ryan                Keystone             2:33.00    2:29.04  
+ 30 Grzenda, John                Keystone             2:30.00    2:31.55  
+ 
+Event 31  Women 400 Meter Hurdles
+=========================================================================
+    Name                    Year School                  Seed     Finals 
+=========================================================================
+  1 Mentrikoski, Janelle         Muhlenberg           1:09.50    1:10.83  
+  2 Gaylord, Rachel              Alfred               1:14.00    1:14.57  
+  3 Callahan, Caitlin            Ursinus              1:15.44    1:14.63  
+  4 Doyle, Carina                Ursinus                         1:16.44  
+  5 Chan, Jen                    Alfred               1:17.40    1:23.04  
+  6 ellenberger, lisa            DeSales                         1:28.12  
+ 
+Event 32  Men 400 Meter Hurdles
+============================================================================
+    Name                    Year School                  Seed     Finals  H#
+============================================================================
+  1 Rountree, Chris              Ursinus                58.88      56.95   1 
+  2 Moreni, Pete                 DeSales                57.80      57.74   1 
+  3 Stein, Matt                  Muhlenberg             58.59      58.38   1 
+  4 Koffer, Alec                 Haverford              59.54      59.43   1 
+  5 Gleason, Cody                Alfred               1:02.00    1:00.75   2 
+  6 Badilla, Ben                 DeSales                58.10    1:00.88   1 
+  7 Rennie, Oshane               Albright             1:00.24    1:00.97   2 
+  8 Krasnomowitz, Justin         DeSales              1:02.00    1:04.08   2 
+ 
+Event 33  Women 200 Meter Dash
+============================================================================
+    Name                    Year School                  Seed     Finals  H#
+============================================================================
+  1 Faust, Alexandra             Muhlenberg             25.85      26.10   1 
+  2 Nyame-Mensah, Akua           Bryn Mawr              26.50      26.81   1 
+  3 Stewart, April               Bryn Mawr              26.75      27.09   1 
+  4 Kutz, Taylor                 Albright               27.56      27.48   1 
+  5 Laurito, Amanda              Ursinus                           27.71   3 
+  6 Morrissey, Amy               Alfred                 28.28      28.30   1 
+  7 Lammers, Lauren              Ursinus                27.19      28.32   1 
+  8 Larkins, Jordyn              Alfred                 28.96      28.85   1 
+  9 Drumheller, Rebecca          Keystone               30.55      29.98   2 
+ 10 Goldsby, Aigne               Bryn Mawr              30.04      30.49   2 
+ 11 roberson, lizzy              DeSales                30.76      31.74   2 
+ 12 Eckrote, Liz                 Keystone               33.00      33.61   3 
+ 13 Miranda, Jennifer            Alfred                 33.86      33.91   3 
+ 14 Miller, Ericka               Keystone               33.00      34.41   2 
+ 
+Event 34  Men 200 Meter Dash
+============================================================================
+    Name                    Year School                  Seed     Finals  H#
+============================================================================
+  1 Desiderio, Albert            Ursinus                22.50      22.40   1 
+  2 Scott, Richard               Alfred                 22.80      22.88   1 
+  3 Rice, Peter                  Muhlenberg             22.95      23.32   1 
+  4 Grannum, Jordan              Ursinus                23.27      23.57   1 
+  5 Dowlat, Richard              Haverford              23.14      23.73   1 
+  6 Altpeter, Eric               DeSales                23.21      23.74   1 
+  7 Jacoby, Pat                  DeSales                23.58      23.77   1 
+  8 Torain, James                Haverford              23.95      23.81   2 
+  9 Rountree, Chris              Ursinus                22.91      23.88   1 
+ 10 Stauder, Joe                 Keystone               24.03      24.04   2 
+ 11 Slater, Brian                Keystone               23.95      24.05   2 
+ 12 Ryan, William                Muhlenberg             23.86      24.10   2 
+ 13 Phillips, Matt               Alfred                 23.60      24.24   2 
+ 14 Bendas, Nick                 Ursinus                24.46      24.62   3 
+ 15 Black, Dennis                DeSales                24.77      24.75   3 
+ 16 Brito, Randy                 Alfred                 24.18      24.84   3 
+ 17 Shardlow, Justin             Alfred                 23.70      24.87   2 
+ 18 Hall, Sean                   Ursinus                24.05      24.90   2 
+ 19 Townsend, Casey              Alfred                 24.90      25.00   3 
+ 20 Lim, Taehyun                 Haverford              24.15      25.10   2 
+ 21 Russell, Brandon             Ursinus                25.66      25.24   3 
+ 22 Modesto, John                DeSales                25.50      25.46   3 
+ 23 Hong, Inki                   Ursinus                24.99      25.73   3 
+ 24 Moore, DeAndre               Albright               26.24      26.20   4 
+ 25 Oladele, Tolulope            Haverford              26.03      26.33   4 
+ 26 Amuquandoh, Kevin            Ursinus                           26.44   4 
+ 27 Tucker, Eric                 Ursinus                27.17      26.56   4 
+ 28 Yokomizo, John               Ursinus                26.73      26.90   4 
+ 29 Bedrossian, Dan              Haverford              26.00      27.62   4 
+ 
+Event 35  Men 5000 Meter Run
+=========================================================================
+    Name                    Year School                  Seed     Finals 
+=========================================================================
+  1 Ferretti, Andrew             DeSales             16:12.45   16:12.92  
+  2 Kirui, Kip                   Philadelphia        16:00.00   16:24.90  
+  3 Stortz, Sam                  Ursinus             16:35.00   16:34.12  
+  4 Shotto, Eric                 Keystone            16:22.08   16:43.09  
+  5 Dimidio, Dante               Ursinus             16:26.90   17:03.15  
+  6 Snyder, David                Philadelphia        16:25.00   17:11.51  
+  7 Smith, Corey                 Alfred              17:04.39   17:13.69  
+  8 Shormann, Eric               Alfred              17:54.63   17:54.99  
+  9 McDevitt, Matt               Philadelphia        17:30.00   19:03.34  
+ 10 Hinkel, Eric                 Keystone            18:01.33   19:52.05  
+ 
+Event 36  Men 4x800 Meter Relay
+=========================================================================
+    School                                               Seed     Finals 
+=========================================================================
+  1 Muhlenberg  'A'                                   8:05.07    8:24.10  
+     1) Lauletti, Matthew               2) Wilson, Ryan                   
+     3) Esposito, Mike                  4) Dolan, Chris                   
+  2 Philadelphia U.  'A'                              8:30.00    8:30.24  
+     1) D'Andrea, Shawn                 2) Tencate, Kirk                  
+     3) Dye, Tyler                      4) Piotrowski, Andrew             
+  3 DeSales  'A'                                      8:25.00    8:38.78  
+     1) Filanowski, Brian               2) Filanowski, Pat                
+     3) Tarpey, Jack                    4) Krasnomowitz, Justin           
+  4 Keystone  'A'                                     8:40.00    8:49.53  
+     1) Demko, Mitch                    2) Pavlak, Cain                   
+     3) Pohlig, Steve                   4) Noonan, Geoffrey               
+  5 DeSales  'B'                                      8:50.00    8:52.55  
+     1) Reals, Sam                      2) Tierno, Ryne                   
+     3) Badilla, Ben                    4) Moreni, Pete                   
+  6 Alfred  'A'                                       8:40.00    9:21.51  
+     1) Igoe, Paul                      2) Noll, Ken                      
+     3) Schuster, Jesse                 4) Shormann, Eric                 
+ 
+Event 37  Women 4x400 Meter Relay
+=========================================================================
+    School                                               Seed     Finals 
+=========================================================================
+  1 Muhlenberg  'B'                                   4:20.24    4:15.91  
+     1) Mentrikoski, Janelle            2) Mitchell, Hannah               
+     3) Lynch, Jennifer                 4) Miller, Nicolette              
+  2 Muhlenberg  'A'                                   4:06.24    4:21.40  
+     1) Daniels, Alexandra              2) Bash, Erica                    
+     3) Yalango, Kim                    4) Faust, Alexandra               
+ 
+Event 38  Men 4x400 Meter Relay
+=========================================================================
+    School                                               Seed     Finals 
+=========================================================================
+  1 Muhlenberg  'A'                                   3:24.24    3:25.77  
+     1) Rice, Peter                     2) Torphy, Bob                    
+     3) Kirk, Brendan                   4) Ryan, William                  
+  2 Alfred  'A'                                       3:25.22    3:26.85  
+     1) Consolo, Lee                    2) Phillips, Matt                 
+     3) Weaver, Jeremy                  4) Scott, Richard                 
+  3 Keystone  'A'                                     3:35.00    3:40.20  
+     1) Fegley, Ryan                    2) Young, Trevor                  
+     3) Fabbri, Matt                    4) Toye, Dan                      
+ -- Muhlenberg  'B'                                   3:34.10        DNF  
+     1) Price, Alex                     2) Vlahos, Alex                   
+     3) Thornton, Pat                   4) Stein, Matt                    
+ 
+Event 39  Women Javelin Throw
+=========================================================================
+    Name                    Year School                  Seed     Finals 
+=========================================================================
+  1 Bartoli, Bianca              Ursinus               35.02m     34.34m  
+  2 Schall, Anna                 Haverford             33.68m     33.59m  
+  3 Massari, Natalie             Ursinus               28.48m     31.32m  
+  4 Heffern, Caitlin             Muhlenberg            33.52m     31.11m  
+  5 Burke, Ryann                 Ursinus               30.62m     30.65m  
+  6 Keegan, Tara                 Muhlenberg            27.43m     29.71m  
+  7 Schaefer, Amy                Ursinus               26.14m     29.36m  
+  8 Maressa, Josie               Ursinus               32.08m    J29.36m  
+  9 Miller, Mackenzie            Albright              28.95m     27.21m  
+ 10 Archibald, Kaitlyn           Muhlenberg            24.86m     23.22m  
+ 11 McMahon, Heather             Haverford             22.27m     21.06m  
+ 12 Miller, Melissa              Muhlenberg            24.38m     15.96m  
+ 13 Goldsby, Aigne               Bryn Mawr                        14.45m  
+ -- Kreiger, Hayley              Muhlenberg            28.90m         ND  
+ 
+Event 40  Women 4x800 Meter Relay
+=========================================================================
+    School                                               Seed     Finals 
+=========================================================================
+  1 Philadelphia U.  'A'                             10:35.00   10:27.73  
+     1) Simonetti, Sarah                2) Dei Tos, Gabrielle             
+     3) Anderson, Faith                 4) DiNucci, Anjelica              
+  2 Alfred  'A'                                      10:20.00   10:34.13  
+     1) Crimmins, Megan                 2) Phillips-Jones, Elisabeth      
+     3) Haahr, Melissa                  4) Gaylord, Rachel                
+  3 Bryn Mawr  'A'                                              11:03.35  
+     1) Kronauer, Kristina              2) Davison, Anne                  
+     3) Puleo, Ariel                    4) Melker, Anna                   
+
+
+

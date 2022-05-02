@@ -1,0 +1,1572 @@
+
+
+ -- 09/30/13 -- Muhlenberg Invitational
+
+
+
+09/30/13 -- Muhlenberg Invitational
+
+
+
+
+Muhlenberg Invitational
+Lehigh Country Club
+Allentown, Pa.
+Dates: 09/30/13
+
+
+Par 70, 6415 yards
+
+
+
+
+
+
+ Team Standings 
+
+
+
+
+
+ Rank 
+ Team
+ Total 
+ Par 
+
+
+ 
+1
+ Rutgers-Camden 
+ 310
+  +30
+
+
+ 
+2
+ Franklin & Marshall 
+ 313
+  +33
+
+
+ 
+3
+ DeSales 
+ 314
+  +34
+
+
+ 
+4
+ Moravian 
+ 318
+  +38
+
+
+ 
+5
+ Messiah 
+ 321
+  +41
+
+
+t
+6
+ Muhlenberg 
+ 323
+  +43
+
+
+t
+6
+ Swarthmore 
+ 323
+  +43
+
+
+ 
+8
+ Alvernia 
+ 328
+  +48
+
+
+ 
+9
+ Penn State Harrisburg 
+ 334
+  +54
+
+
+ 
+10
+ Ursinus 
+ 345
+  +65
+
+
+ 
+11
+ Delaware Valley 
+ 351
+  +71
+
+
+t
+12
+ Albright 
+ 354
+  +74
+
+
+t
+12
+ Lebanon Valley 
+ 354
+  +74
+
+
+ 
+14
+ Penn State Berks 
+ 358
+  +78
+
+
+ 
+15
+ William Paterson 
+ 368
+  +88
+
+
+ 
+16
+ FDU-Florham 
+ 396
+  +116
+
+
+ 
+17
+ Old Westbury 
+ 436
+  +156
+
+
+
+
+
+
+ Player Standings 
+
+
+
+
+
+ Rank 
+ Player
+ Team
+ Total 
+ Par 
+
+
+ 
+1
+ Pete D'Angelo 
+ Rutgers-Camden 
+ 72
+  +2
+
+
+ 
+2
+ Steve Alteri 
+ Franklin & Marshall 
+ 75
+  +5
+
+
+t
+3
+ Evan Dickinson 
+ Moravian 
+ 76
+  +6
+
+
+t
+3
+ Drew Langan 
+ Swarthmore 
+ 76
+  +6
+
+
+t
+3
+ Kevin Sarlo 
+ Rutgers-Camden 
+ 76
+  +6
+
+
+t
+3
+ Clint Williams 
+ DeSales 
+ 76
+  +6
+
+
+t
+7
+ Zach Arsenault 
+ Alvernia 
+ 77
+  +7
+
+
+t
+7
+ Russell Hill 
+ Ursinus 
+ 77
+  +7
+
+
+t
+7
+ Henry Richards 
+ Franklin & Marshall 
+ 77
+  +7
+
+
+t
+10
+ Austin Galaska 
+ Messiah 
+ 78
+  +8
+
+
+t
+10
+ Jonathan Graulich 
+ Muhlenberg 
+ 78
+  +8
+
+
+t
+10
+ Chris McCann 
+ Ursinus 
+ 78
+  +8
+
+
+t
+10
+ Victor Stanzione 
+ DeSales 
+ 78
+  +8
+
+
+t
+14
+ Aaron Brown 
+ Moravian 
+ 79
+  +9
+
+
+t
+14
+ Jared Brown 
+ Franklin & Marshall 
+ 79
+  +9
+
+
+t
+14
+ Justin Sisson 
+ Messiah 
+ 79
+  +9
+
+
+t
+17
+ ChristopherLucarelli 
+ Muhlenberg 
+ 80
+  +10
+
+
+t
+17
+ Greg Hewitt 
+ Muhlenberg 
+ 80
+  +10
+
+
+t
+17
+ Jim Maru 
+ Moravian 
+ 80
+  +10
+
+
+t
+17
+ Kevin McCloskey 
+ FDU-Florham 
+ 80
+  +10
+
+
+t
+17
+ Matt Radziwill 
+ DeSales 
+ 80
+  +10
+
+
+t
+17
+ Cory Schmidt 
+ DeSales 
+ 80
+  +10
+
+
+t
+17
+ Tom Schultice 
+ Rutgers-Camden 
+ 80
+  +10
+
+
+t
+17
+ Tyler Shank 
+ Penn State Harrisburg 
+ 80
+  +10
+
+
+t
+17
+ Chris Van Natta 
+ Alvernia 
+ 80
+  +10
+
+
+t
+26
+ Michael Chen 
+ Swarthmore 
+ 81
+  +11
+
+
+t
+26
+ Chris DiMaio 
+ Muhlenberg 
+ 81
+  +11
+
+
+t
+26
+ Jordan Kirsch 
+ Messiah 
+ 81
+  +11
+
+
+t
+29
+ Nick Baird 
+ Rutgers-Camden 
+ 82
+  +12
+
+
+t
+29
+ David Barkley 
+ Muhlenberg 
+ 82
+  +12
+
+
+t
+29
+ Brett Fernandes 
+ Alvernia 
+ 82
+  +12
+
+
+t
+29
+ John Froberg 
+ Muhlenberg 
+ 82
+  +12
+
+
+t
+29
+ Kyle Huntzberry 
+ Franklin & Marshall 
+ 82
+  +12
+
+
+t
+29
+ Kyle Knapp 
+ Swarthmore 
+ 82
+  +12
+
+
+t
+29
+ Tyler Serres 
+ Penn State Harrisburg 
+ 82
+  +12
+
+
+t
+36
+ Evan Lebo 
+ Messiah 
+ 83
+  +13
+
+
+t
+36
+ Dan Leppert 
+ Moravian 
+ 83
+  +13
+
+
+t
+38
+ Nick Dolimpio 
+ Delaware Valley 
+ 84
+  +14
+
+
+t
+38
+ James Lobb 
+ Moravian 
+ 84
+  +14
+
+
+t
+38
+ Codi Pannebecker 
+ Albright 
+ 84
+  +14
+
+
+t
+38
+ Casey Schermick 
+ DeSales 
+ 84
+  +14
+
+
+t
+38
+ Sam White 
+ Swarthmore 
+ 84
+  +14
+
+
+t
+43
+ Tyler Fasig 
+ Penn State Berks 
+ 85
+  +15
+
+
+t
+43
+ Dave Gilbert 
+ Franklin & Marshall 
+ 85
+  +15
+
+
+t
+43
+ Corey Jackson 
+ Penn State Harrisburg 
+ 85
+  +15
+
+
+t
+43
+ Brian Loesser 
+ Messiah 
+ 85
+  +15
+
+
+t
+43
+ James Nuzzo 
+ William Paterson 
+ 85
+  +15
+
+
+t
+48
+ Christian Foti 
+ William Paterson 
+ 86
+  +16
+
+
+t
+48
+ Connor Lambdin 
+ Penn State Berks 
+ 86
+  +16
+
+
+t
+48
+ Kory Lopata 
+ Lebanon Valley 
+ 86
+  +16
+
+
+t
+48
+ Tyler Massar 
+ Penn State Berks 
+ 86
+  +16
+
+
+t
+52
+ Aaron Brown 
+ Lebanon Valley 
+ 87
+  +17
+
+
+t
+52
+ Jason Long 
+ Penn State Harrisburg 
+ 87
+  +17
+
+
+t
+52
+ Matt Reed 
+ Lebanon Valley 
+ 87
+  +17
+
+
+t
+55
+ Sal Capelli 
+ Albright 
+ 88
+  +18
+
+
+t
+55
+ Samuel Ignatuk 
+ Albright 
+ 88
+  +18
+
+
+t
+55
+ Jeremy Knepper 
+ Delaware Valley 
+ 88
+  +18
+
+
+t
+58
+ RJ Cummings 
+ Alvernia 
+ 89
+  +19
+
+
+t
+58
+ Matt Hoare 
+ Penn State Harrisburg 
+ 89
+  +19
+
+
+t
+58
+ Ben Stermer 
+ Delaware Valley 
+ 89
+  +19
+
+
+t
+61
+ Contreras, Bryan 
+ Old Westbury 
+ 90
+  +20
+
+
+t
+61
+ Steve Dosiak 
+ Delaware Valley 
+ 90
+  +20
+
+
+ 
+63
+ Kevin Anderson 
+ Rutgers-Camden 
+ 92
+  +22
+
+
+ 
+64
+ Anthony Barbine 
+ Ursinus 
+ 93
+  +23
+
+
+t
+65
+ Ryan Carr 
+ Albright 
+ 94
+  +24
+
+
+t
+65
+ Matt Karnas 
+ Lebanon Valley 
+ 94
+  +24
+
+
+t
+67
+ Kyle Behnert 
+ Delaware Valley 
+ 95
+  +25
+
+
+t
+67
+ Josh Spielman 
+ Muhlenberg 
+ 95
+  +25
+
+
+t
+69
+ Dillon McCloskey 
+ FDU-Florham 
+ 96
+  +26
+
+
+t
+69
+ Joseph McNaney 
+ Muhlenberg 
+ 96
+  +26
+
+
+t
+69
+ Jason Misener 
+ FDU-Florham 
+ 96
+  +26
+
+
+t
+72
+ Matthew Eshbach 
+ Lebanon Valley 
+ 97
+  +27
+
+
+t
+72
+ Matt Holmes 
+ Ursinus 
+ 97
+  +27
+
+
+ 
+74
+ Michael Calabro 
+ William Paterson 
+ 98
+  +28
+
+
+ 
+75
+ Dylan Schley 
+ William Paterson 
+ 99
+  +29
+
+
+ 
+76
+ Matt Sherman 
+ Ursinus 
+ 100
+  +30
+
+
+t
+77
+ Shannon Horn 
+ Penn State Berks 
+ 101
+  +31
+
+
+t
+77
+ Alec Klotz 
+ Penn State Berks 
+ 101
+  +31
+
+
+t
+79
+ Corey Crafford 
+ Alvernia 
+ 103
+  +33
+
+
+t
+79
+ Jordan, Brian 
+ Old Westbury 
+ 103
+  +33
+
+
+ 
+81
+ Kyle Stefanic 
+ William Paterson 
+ 105
+  +35
+
+
+ 
+82
+ Han, Alexander 
+ Old Westbury 
+ 113
+  +43
+
+
+ 
+83
+ Jonsin Aybalik 
+ FDU-Florham 
+ 124
+  +54
+
+
+ 
+84
+ Hnatov, Ian 
+ Old Westbury 
+ 130
+  +60
+
+
+ 
+85
+ Habeeb, Randy 
+ Old Westbury 
+ 136
+  +66
+
+
+
+
+ Joe Barlik 
+ FDU-Florham 
+DNF
+
+
+
+
+
+ Payne Baust 
+ Albright 
+DNF
+
+
+
+
+
+
+
+
+
+
+ Team-by-Team Results 
+
+
+
+09/30/13 -- Muhlenberg Invitational
+Lehigh Country Club -- Allentown, Pa.
+Par 70, 6415 yards -- 17 teams, 87 players
+
+ 
+
+
+Albright  
+  354
+   +74
+  t-12th
+
+
+Codi Pannebecker  
+  84
+   +14
+  t-38th
+
+
+Sal Capelli  
+  88
+   +18
+  t-55th
+
+
+Samuel Ignatuk  
+  88
+   +18
+  t-55th
+
+
+Ryan Carr  
+  94
+   +24
+  t-65th
+
+
+Payne Baust  
+
+
+
+ 
+
+
+Alvernia  
+  328
+   +48
+  8th
+
+
+Zach Arsenault  
+  77
+   +7
+  t-7th
+
+
+Chris Van Natta  
+  80
+   +10
+  t-17th
+
+
+Brett Fernandes  
+  82
+   +12
+  t-29th
+
+
+RJ Cummings  
+  89
+   +19
+  t-58th
+
+
+Corey Crafford  
+  103
+   +33
+  t-79th
+
+
+
+ 
+
+
+DeSales  
+  314
+   +34
+  3rd
+
+
+Clint Williams  
+  76
+   +6
+  t-3rd
+
+
+Victor Stanzione  
+  78
+   +8
+  t-10th
+
+
+Matt Radziwill  
+  80
+   +10
+  t-17th
+
+
+Cory Schmidt  
+  80
+   +10
+  t-17th
+
+
+Casey Schermick  
+  84
+   +14
+  t-38th
+
+
+
+ 
+
+
+Delaware Valley  
+  351
+   +71
+  11th
+
+
+Nick Dolimpio  
+  84
+   +14
+  t-38th
+
+
+Jeremy Knepper  
+  88
+   +18
+  t-55th
+
+
+Ben Stermer  
+  89
+   +19
+  t-58th
+
+
+Steve Dosiak  
+  90
+   +20
+  t-61st
+
+
+Kyle Behnert  
+  95
+   +25
+  t-67th
+
+
+
+ 
+
+
+FDU-Florham  
+  396
+   +116
+  16th
+
+
+Kevin McCloskey  
+  80
+   +10
+  t-17th
+
+
+Dillon McCloskey  
+  96
+   +26
+  t-69th
+
+
+Jason Misener  
+  96
+   +26
+  t-69th
+
+
+Jonsin Aybalik  
+  124
+   +54
+  83rd
+
+
+Joe Barlik  
+
+
+
+ 
+
+
+Franklin & Marshall  
+  313
+   +33
+  2nd
+
+
+Steve Alteri  
+  75
+   +5
+  2nd
+
+
+Henry Richards  
+  77
+   +7
+  t-7th
+
+
+Jared Brown  
+  79
+   +9
+  t-14th
+
+
+Kyle Huntzberry  
+  82
+   +12
+  t-29th
+
+
+Dave Gilbert  
+  85
+   +15
+  t-43rd
+
+
+
+ 
+
+
+Lebanon Valley  
+  354
+   +74
+  t-12th
+
+
+Kory Lopata  
+  86
+   +16
+  t-48th
+
+
+Aaron Brown  
+  87
+   +17
+  t-52nd
+
+
+Matt Reed  
+  87
+   +17
+  t-52nd
+
+
+Matt Karnas  
+  94
+   +24
+  t-65th
+
+
+Matthew Eshbach  
+  97
+   +27
+  t-72nd
+
+
+
+ 
+
+
+Messiah  
+  321
+   +41
+  5th
+
+
+Austin Galaska  
+  78
+   +8
+  t-10th
+
+
+Justin Sisson  
+  79
+   +9
+  t-14th
+
+
+Jordan Kirsch  
+  81
+   +11
+  t-26th
+
+
+Evan Lebo  
+  83
+   +13
+  t-36th
+
+
+Brian Loesser  
+  85
+   +15
+  t-43rd
+
+
+
+ 
+
+
+Moravian  
+  318
+   +38
+  4th
+
+
+Evan Dickinson  
+  76
+   +6
+  t-3rd
+
+
+Aaron Brown  
+  79
+   +9
+  t-14th
+
+
+Jim Maru  
+  80
+   +10
+  t-17th
+
+
+Dan Leppert  
+  83
+   +13
+  t-36th
+
+
+James Lobb  
+  84
+   +14
+  t-38th
+
+
+
+ 
+
+
+Muhlenberg  
+  323
+   +43
+  t-6th
+
+
+Jonathan Graulich#  
+  78
+   +8
+  t-10th
+
+
+ChristopherLucarelli  
+  80
+   +10
+  t-17th
+
+
+Greg Hewitt  
+  80
+   +10
+  t-17th
+
+
+Chris DiMaio  
+  81
+   +11
+  t-26th
+
+
+David Barkley  
+  82
+   +12
+  t-29th
+
+
+John Froberg  
+  82
+   +12
+  t-29th
+
+
+Josh Spielman#  
+  95
+   +25
+  t-67th
+
+
+Joseph McNaney#  
+  96
+   +26
+  t-69th
+
+
+
+ 
+
+
+Old Westbury  
+  436
+   +156
+  17th
+
+
+Contreras, Bryan  
+  90
+   +20
+  t-61st
+
+
+Jordan, Brian  
+  103
+   +33
+  t-79th
+
+
+Han, Alexander  
+  113
+   +43
+  82nd
+
+
+Hnatov, Ian  
+  130
+   +60
+  84th
+
+
+Habeeb, Randy  
+  136
+   +66
+  85th
+
+
+
+ 
+
+
+Penn State Berks  
+  358
+   +78
+  14th
+
+
+Tyler Fasig  
+  85
+   +15
+  t-43rd
+
+
+Connor Lambdin  
+  86
+   +16
+  t-48th
+
+
+Tyler Massar  
+  86
+   +16
+  t-48th
+
+
+Shannon Horn  
+  101
+   +31
+  t-77th
+
+
+Alec Klotz  
+  101
+   +31
+  t-77th
+
+
+
+ 
+
+
+Penn State Harrisburg  
+  334
+   +54
+  9th
+
+
+Tyler Shank  
+  80
+   +10
+  t-17th
+
+
+Tyler Serres  
+  82
+   +12
+  t-29th
+
+
+Corey Jackson  
+  85
+   +15
+  t-43rd
+
+
+Jason Long  
+  87
+   +17
+  t-52nd
+
+
+Matt Hoare  
+  89
+   +19
+  t-58th
+
+
+
+ 
+
+
+Rutgers-Camden  
+  310
+   +30
+  1st
+
+
+Pete D'Angelo  
+  72
+   +2
+  1st
+
+
+Kevin Sarlo  
+  76
+   +6
+  t-3rd
+
+
+Tom Schultice  
+  80
+   +10
+  t-17th
+
+
+Nick Baird  
+  82
+   +12
+  t-29th
+
+
+Kevin Anderson  
+  92
+   +22
+  63rd
+
+
+
+ 
+
+
+Swarthmore  
+  323
+   +43
+  t-6th
+
+
+Drew Langan  
+  76
+   +6
+  t-3rd
+
+
+Michael Chen  
+  81
+   +11
+  t-26th
+
+
+Kyle Knapp  
+  82
+   +12
+  t-29th
+
+
+Sam White  
+  84
+   +14
+  t-38th
+
+
+
+ 
+
+
+Ursinus  
+  345
+   +65
+  10th
+
+
+Russell Hill  
+  77
+   +7
+  t-7th
+
+
+Chris McCann  
+  78
+   +8
+  t-10th
+
+
+Anthony Barbine  
+  93
+   +23
+  64th
+
+
+Matt Holmes  
+  97
+   +27
+  t-72nd
+
+
+Matt Sherman  
+  100
+   +30
+  76th
+
+
+
+ 
+
+
+William Paterson  
+  368
+   +88
+  15th
+
+
+James Nuzzo  
+  85
+   +15
+  t-43rd
+
+
+Christian Foti  
+  86
+   +16
+  t-48th
+
+
+Michael Calabro  
+  98
+   +28
+  74th
+
+
+Dylan Schley  
+  99
+   +29
+  75th
+
+
+Kyle Stefanic  
+  105
+   +35
+  81st
+
+
+
+# Indicates individual player
+
+

@@ -1,0 +1,906 @@
+
+
+
+
+
+
+
+Campus Safety Initiatives | Muhlenberg College
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Skip to Main Content
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Muhlenberg College
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Visit
+
+
+
+
+
+
+
+
+
+Apply
+
+
+
+
+
+
+
+
+
+Request Info
+
+
+
+
+
+
+
+
+
+Give
+
+
+
+
+
+
+
+
+
+Menu
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Home
+Who We AreOffice of the PresidentPast PresidentsPast InitiativesArchiveCampus Safety Initiatives 
+
+
+
+
+
+
+Campus Safety Initiatives
+Following the tragedy at Virginia Tech, President Helm convened a group to develop enhanced security measures and improve communication on campus in case of an emergency
+
+
+
+
+
+
+
+
+
+
+
+
+
+Campus Safety Initiatives
+
+
+
+
+
+
+
+
+
+
+
+ A review of campus security measures
+
+
+
+
+
+
+
+
+
+
+
+Home
+Who We AreOffice of the PresidentPast PresidentsPast InitiativesArchiveCampus Safety Initiatives 
+
+
+
+
+
+
+
+
+
+
+
+Campus Emergency Communication Test – 2/22/2008 Summary
+On 2/29, Karen Green, Ken Lupole, Mike Bruckner, Tom Dougherty and Harry Miller met to review the results of the 2/22 test.  The consensus was that the test was a success, and emergency communication systems worked well, overall. 
+Text Messages via E2Campus
+Text messaging via E2Campus was a clear success in performance and in perception by students.  All reported problems were reviewed and resolved as non-E2campus issues.  The test also served to promote this service – with 43 users subscribing in the days leading up to, and immediately following the test. 
+Some concern exists regarding how text messages manifest themselves in many cell phone inboxes.  While some respondents indicated the message in their Inbox was clearly from “911 Muhlenberg Emergency”, many indicated seeing only FR: 70359.  Thus, in a true emergency, many recipients of emergency text messages may initially be unaware of the emergency nature of the message until opening it, and if they are in class or otherwise engaged, may delay opening the message.
+Email via E2Campus
+Email via E2Campus (subscribed to by over 250 users) was delayed in arriving in user’s inboxes.  We already have proposals from E2Campus that should reduce or eliminate this delay.  We will review these proffered options and proceed with the optimum solution.
+Email via Groupwise
+Overall, Groupwise performed well in the test, with 3,700 messages sent within 4 minutes. Simple procedures for universal messaging have been developed that do not rely upon the maintenance of lists, etc… significantly increasing the likelihood that all users will receive the emergency messages.  
+We will revise the procedure somewhat to enhance the visibility of future emergency messages – by highlighting them in red.
+Carillon
+On the day of the test, relative humidity was quite high.  The higher the air moisture content, the more carillon sound is absorbed.  Thus, our conditions on 2/22 were close to ‘worst case’ in this regard.  The siren was judged to have “good projection of sound…”   The only area of campus that was determined to be marginal outdoors was the south end of the Village.  Schulmerich has been asked to provide budgetary pricing for provision and installation of remote emergency alert speakers, for management review. 
+Among students, faculty and staff, there remains expectation that this alarm is meant to penetrate buildings, but that is not the objective set for this device - it is intended to alert those individuals outdoors.  This must be clearly communicated to campus.
+Message Board
+The Message Board performed well – however, the emergency messages lacked the appropriate visibility.  This has already been resolved and will be tested during spring break.
+Emergency Hotline extension 6000
+The emergency hotline performed well – however, Campus Safety reported that their maintenance of this resource, while tending to other priorities (such as contacting 911 services, coordinating response, etc), could be problematic during an emergency.  With the exception of triggering the alert siren, all other campus notifications are tasked to Public Relations.  Current technology requires the maintenance of the 6000 message to be performed from campus.  OIT and Campus Safety are just beginning to discuss possible uses of the Miran technology now available to the College, courtesy of Homeland Security.  This technology may provide more flexibility in the maintenance of the 6000 message, as well as enhance the Call Center’s capability.
+The College is currently deploying emergency phones to campus teaching spaces.  Part of the planned use of these devices is to receive alert messages in an emergency.  While the plan is for these phones to be in a single call distribution list, someone will have to record and sent that message to these classroom phones – and Campus Safety may not be the right choice for this assignment.
+General
+There is concern regarding what access Public Relations staff may have at their disposal in the event of an emergency.  Consideration should be given to upgrading the cell phones of at least two PR staff to allow full web access.
+Consideration should be given to testing the system on an established schedule.
+ 
+Campus Emergency Communication Test – 2/22/2008
+An analysis
+A pre-announced test of the campus’ emergency communication systems was performed on Friday, 2/22/08 at approximately 3:00 p.m.  We received feedback from about 50 campus constituents [many departed campus prior to the test, due to weather conditions].   Following is an analysis of that test, based upon feedback, participant reports, and monitoring by IT.  The report is categorized by the method of emergency communication utilized.
+ E2Campus Text Messaging
+At the time of the test there were 1,685 user accounts, with a few accounts containing more than one cell phone number.  44 new users registered in February prior to the test, 43 of which registered between 2/18 and 2/22 and likely as a result of test-related messages.  10 users have registered since the test.  This suggests that announced testing of this system also promotes it to unsubscribed users.
+ 
+After the test, the vast majority of respondents reported having received the emergency text messages without problem and regardless of their location (including New York and Los Angeles).  Because of the weather conditions, nearly all respondents were either indoors or off campus.  No students reported a text message problem.  Only three problems were reported – and all have been resolved – one was “wrong carrier chosen” during registration, the second was a carrier problem (AT&T) and was resolved by AT&T and the user, and the third was an incomplete registration.
+During the test, the initial text message was entered into E2Campus by Public Relations and ‘sent’ at 3:02.  The system (external to the College) required approximately 3 minutes to send 1,687 text messages.  Most reports indicate the messages were received within 3-5 minutes of the 3:02 timeframe.  One student reported “I got it [the initial text message] a couple of minutes after the alarm started…”  Another reported “…I got all three text messages but about five minutes after everyone else around me got theirs.”  Both students are using Verizon as their carrier, and no other Verizon customers commented upon timing of messages as an issue.
+Of the 1,687 messages sent by Omnilert, 1,683 were sent using the preferred Short Message Peer-to-peer Protocol (SMPP).  This is a telecommunications industry standard protocol, and therefore the preferable and most reliable method for such communication. 
+Only 4 messages were sent using Simple Mail Transfer Protocol (SMTP). This is an unmanaged process, to be utilized only if standard protocols are not supported by a carrier.   It is likely these messages were sent to [small] cell phone carriers whose infrastructure does not allow text message exchange using telecommunication industry standards.
+A complaint was received from one alumni (class of 2007) who received the text messages.  Since the Class of 2007 had been purged from E2Campus last summer, a review was done to determine the cause of this complaint.  It was determined that the former student had not subscribed as a member of the Class of 2007, but rather as a Staff member (she was a Presidential Assistant). 
+Regarding the text messages received, we queried users as to how the message manifested itself in the Inbox on their phones.  Primarily, we wanted to determine if it was evident, prior to opening the text message, that the message was emergency in nature.  For those routinely receiving text messages, would this message present itself (in the Inbox) as an emergency message, deserving of immediate attention?  [note that, since everyone knew of the test, they were expecting such text messages].  We originally configured E2Campus to insert “911 Muhlenberg Emergency” into the “From” segment of the text message. The results from respondents indicate differences among carriers. While some respondents indicated the message in their Inbox was clearly from “911 Muhlenberg Emergency”, many indicated seeing only FR: 70359.  A few reported seeing both.  Nearly all students reported seeing only FR: 70359 in their Inbox.  This 70359 code is a Common Short Code  - a sort of ‘telephone number’ used in text messaging.  This and another short code, 79516, uniquely identify Ominlert as the sender.
+Thus, in a true emergency, many recipients of emergency text messages may initially be unaware of the emergency nature of the message until opening it, and if they are in class or otherwise engaged, they may delay opening the message.
+Students in particular were very pleased with the use of text messaging for emergency messages.  Feedback included comments such as:
+“I think that is the best part of the system because it is a source of information that    I am really able to receive no matter where I am.”
+“The text message system worked great…”
+“I thought the test of the Emergency Text System on Friday went very well! I was happy with the clear messages provided and it was also very clear that it was a test. I think this will be very helpful in the event of any type of emergency.”
+ E2Campus E-Mail Messaging
+Subscribers to E2Campus can optionally choose to receive emergency alert messages via email (instead of, or in addition to, text messages).  They simply submit the email address to which messages should be sent.  During the 2/22 test, 254 email messages were sent by E2Campus.  These emails travel through the public domain, and then compete with thousands of other messages entering the Muhlenberg domain.  The arrival of these email messages was quite late, when compared with other emergency messages in the test – particularly the second and third message.  In the worst instance, an email message via E2Campus trailed the corresponding Groupwise message by 32 minutes! 
+1st email message received from E2Campus at 3:02 (no in house first email message, text at 3:02)
+2nd email message received from E2Campus at 3:42 (in house email received at 3:10, text at 3:08)
+3rd email message received from E2Campus at 3:38 (in house email received at 3:18, text at 3:17)
+We analyzed incoming email traffic (see below) at the time these E2Campus email delays occurred.  The graph below indicates the volume of messages queued and awaiting entry into our email system – and indicates no backlog of significance at our door during the time of the test. 
+ 
+ 
+We do not appear to be culpable in the delay of the E2Campus email messages.
+We have proposed methods to reduce such delays to E2Campus, and they have already responded with the following options:
+ 1) White listing
+If your system allows it, white list our servers by IP address. If you can white list, then your servers might allow the large volume of messages/connections to get through. Problem is, if you make changes to your system security down the road, you have to remember to white list our servers or we're back to the whole deny/retry thing again.
+The sending IP addresses are below:
+208.72.186.42 72.29.84.227 72.29.84.225 72.29.82.224
+The sending email address is  e2Campus@omnilert.net
+ 2) Use S.E.E.D. (Single Entry E-mail Delivery)
+e2Campus provides a feature (Tools -> S.E.E.D.) to allow messages sent to "ALL USERS" to be BCC'd to any given address. Putting a campus-wide distribution address in as the "SEED" address will allow you to BCC any campus-wide alert to that list.
+Some of the benefits of using S.E.E.D. include:
+•            Less traffic hitting your mail system. One single BCC message, as opposed to thousands of individual e-mails might be a bit "friendlier" to your e-mail system.
+•            Greater coverage. Since the S.E.E.D. BCC's an external list (like, such as * @muhlenberg.edu), you'll reach users who haven't even signed up for e2Campus yet.
+•            Added delivery points for users: Since users won't need to subscribe their @muhlenberg.edu account, they've free up an extra e-mail address slot for a yahoo, hotmail, or mom and dad's e-mail, etc.
+ We will review these proffered options and proceed with the optimum solution.
+Unlike the Inbox issue with text messages, these emails were clearly From: 911 Muhlenberg Emergency. 
+Email via E2Campus is likely not of value as a redundant communication method.  For example, if the cause of the emergency also compromised the campus email system, then emails from E2campus would not be an alternate means of delivering emergency email – since, if the campus email system were compromised, it could not be used to receive such emails from E2Campus.  
+ GroupWise Emergency Email
+Overall, Groupwise performed well in the test.  Simple procedures for universal messaging have been developed that do not rely upon the maintenance of lists, etc… significantly increasing the likelihood that all users will receive the emergency messages.   We will revise the procedure somewhat to enhance the visibility of future emergency messages – by highlighting them in red and assigning them High Priority for processing. 
+In the test, only two messages were sent by Public Relations – the first planned message was inadvertently not sent.   Following are details of performance.  Note that, in each instance, 3,700 messages were sent within 4 minutes:
+At 3:10PM "EMERGENCY TEST IS STILL IN PROGRESS" was sent.   It was received by Staff at 3:10PM, and students between 3:12PM and 3:14PM.    
+At 3:18 PM "EMERGENCY TEST IS COMPLETE" was sent.  It was received by Staff at 3:18PM, and by students between 3:20 and 3:22.  
+Since the messages are originating from a Staff account, all Staff accounts, which are in the same Post Office, receive the message first.  Then, the message was automatically (transparent to the sender) delivered to the three student Post Offices, where all accounts in each received the message.
+ Carillon
+On the day of the test, relative humidity was quite high.  The higher the air moisture content, the more sound is absorbed.  Thus, our conditions on 2/22 were close to ‘worst case’ in this regard.  Due to the inclement weather, nearly all respondents were either indoors or off campus.  This also posed worst case in terms of opportunities for feedback judging outdoor audibility.
+The alarm was triggered by a dispatcher from the Campus Safety Office.  The activation was via a fiber-based communication link that is, by procedure, tested at the beginning of each shift within Campus Safety daily.  The procedure tests the communication link and the acknowledgement of the carillon that it is ready to advance to the stage of triggering the alert signal.
+This link is obviously critical – so, a new procedure has been tested, drafted and posted in the tower that provides emergency procedures for triggering the alert locally, should the link from Campus Safety fail.  While this may be inconvenient, it provides an alternative should it be necessary. 
+Additionally, we will pursue changes in the tower system that would allow the siren to be “sounded” in a non-public manner, using switches and a monitor speaker.  This will be pursued in conjunction with Schulmerich.
+Tom Dougherty deployed officers to observe the audibility of the alarm.  His summary follows:
+ 
+
+Brother reported the alert as being faint in the Albright Street Area
+Bill stated that the alert was clear at Cedar Beach but faint at the south end of the Village and undetected near the fire station.
+Hank reported a clear sound heard in the Benfer area and a lower level sound in the Village area
+Jim T. heard the alert at 2442 Tilghman Street and was still able to detect it at 24th and Greenleaf but going east and west on the street reduced the sound level.
+I could hear it very easily in the Prosser Quad, slight sound lost in the Brown Walz Fire Lane and very loud in the Seegers Union lot and able to be heard in front of our office.
+
+The only area of main campus that was determined to be marginal was the south end of the Village. 
+Schulmerich has been asked to provide budgetary pricing for provision and installation of remote emergency alert speakers, for management review. 
+Among students, faculty and staff, there remains expectation that this alarm is meant to penetrate buildings… but that is not the objective set for this device - it was intended to alert those individuals outdoors.  The upgrade performed on the equipment last October raised the Db level to above 120.  If there are areas of campus that are not properly serviced, the likely approach would be to introduce additional remote speakers in such locations.  That approach has been common in other campus environments.
+The audibility of the carillon alert signal within all buildings is seen as an issue by students:
+ 
+
+I live in Martin Luther Hall and was taking a shower during the alarm and was unable to hear the alarm from inside the shower. That could clearly be dangerous, is there any way to make the alarm louder in the future?
+… I could hear the alarm when I was in my dorm (East) but my roommate was sitting next to me and listening to music and could not hear it.
+I was actually in the council office in the basement of Seegers and didn't hear the alarm go off at all.  I guess that could be considered a problem.
+I know it isn't intended to be heard in the buildings, but I was at the Phi Mu house during the test and it was barely audible.
+One of my friends who lives on 3rd Floor ML was not able to hear the siren, even though he had his window open. Apparently any ML rooms located behind the East Dorm is blocked from the sound... figured you'd want to look into that.
+I was in Walz third floor with one window open when the siren went off.  I did notice the siren, however, it wasn’t loud enough to actually get me to stop what I was doing. 
+
+One neighbor confirmed to Public Relations that they heard the siren, and expressed gratitude for the advanced warning.
+Message Board
+The Message Board was first updated by Public Relations before 3:05.  The second update to the Message Board occurred at 3:10.  The third (all clear) update to the Message Board occurred by 3:18.  The process involved here is the same as that used daily – so Public Relations is well-experienced in the procedures used for emergency communication.
+However, the emergency messages on the Message Board did not receive the prominence required.  Changes have already been made to accomplish this, and testing thereof will occur during break week.
+ Emergency Hotline extension 6000
+The College established a special-use voice-mail account on the campus PBX several years ago, to function as a weather-emergency system – students and employees can call extension 6000 from on and off campus and receive official info re any delays or cancellations.  A few years ago, it was expanded to general use.  It provides a theoretical maximum of 50 simultaneous ‘listener paths’, with a practical limit closer to 30.  Changes to the recorded announcement can only be done from on campus, and thus the updating of these messages is tasked to Campus Safety.
+During the 2/22 test Tom Dougherty identified this task as problematic, explaining:
+“…With the phone ringing and people coming to the window with only one person working in the office and all this going on there will be a delay in getting that message [to the 6000 line] posted and sounding the alarm
+He added:
+“The answer may be in the use of the Miran system when we get to look at the capabilities and functions. The other solution may be in looking at some type of software that can change a text message to an audio message to update the line. This is an area of concern because the dispatchers change the message so infrequently that they may not be as familiar with it - there seems to be a greater comfort level if I'm nearby. This area is probably something we need to discuss once more feedback is gained.”
+The College is currently deploying emergency phones to campus teaching spaces.  Part of the planned use of these devices is to receive alert messages in an emergency.  While the plan is for these phones to be in a single call distribution list, someone will have to record and sent that message to these classroom phones – and Campus Safety may not be the right choice for this assignment.
+OIT and Campus Safety are just beginning to discuss possible uses of the Miran technology now available to the College, courtesy of Homeland Security.  It is expected to address the 6000 message maintenance issue as well as enhance the Call Center’s capability.
+A planned monitoring of call volume to the 6000 extension by a telecom engineer did not occur– due to the weather emergency, this non-emergency effort was cancelled by the vendor.
+Additional Information: A review of campus security measures
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Muhlenberg College
+
+
+
+
+
+
+
+
+
+
+Muhlenberg College
+2400 Chew St.
+Allentown, 
+PA
+18104
+
+
+
+
+
+
+
+484-664-3100
+
+
+
+
+
+
+
+
+Maps & Directions
+
+
+
+
+
+Accessibility
+
+
+
+
+
+Library
+
+
+
+
+Title IX
+
+
+
+
+
+Employment
+
+
+
+
+
+A-Z Index
+
+
+
+
+
+Conference & Event Services
+
+
+
+
+
+Diversity & Inclusion
+
+
+
+
+
+
+Weather Update
+
+
+
+
+
+
+
+
+Social
+
+
+
+
+
+
+
+
+Facebook
+
+
+
+
+
+
+
+
+Instagram
+
+
+
+
+
+
+
+
+Twitter
+
+
+
+
+
+
+
+
+YouTube
+
+
+
+
+
+
+
+
+LinkedIn
+
+
+
+
+
+
+
+
+							©
+													
+ Muhlenberg College
+
+
+
+
+
+
+
+
+
+
+
+Muhlenburg College
+
+
+
+
+
+
+
+
+
+
+Search
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Who We Are
+
+
+
+
+
+
+
+
+
+
+
+Diversity and Inclusion
+
+
+
+
+Institutional Initiatives
+
+
+
+
+Office of the President
+
+
+
+
+College History
+
+
+
+
+Campus Map
+
+
+
+
+Directory Search
+
+
+
+
+
+
+Admissions
+
+
+
+
+
+
+
+
+
+
+
+Explore Your Visit Options
+
+
+
+
+Early Decision
+
+
+
+
+Regular Decision
+
+
+
+
+Transfer Students
+
+
+
+
+International Students
+
+
+
+
+Adult Accelerated & Evening Programs
+
+
+
+
+Graduate Studies
+
+
+
+
+Tuition and Fees
+
+
+
+
+Financial Aid
+
+
+
+
+First-Year Experience
+
+
+
+
+
+
+Academics
+
+
+
+
+
+
+
+
+
+
+
+Majors, Minors & Certifications
+
+
+
+
+Adult Accelerated & Evening Programs
+
+
+
+
+Summer Study
+
+
+
+
+Graduate Programs
+
+
+
+
+Preprofessional Programs
+
+
+
+
+Academic Partnerships
+
+
+
+
+Honors Programs
+
+
+
+
+Global Education
+
+
+
+
+Our Faculty
+
+
+
+
+Research & Scholarship
+
+
+
+
+
+
+Student Life
+
+
+
+
+
+
+
+
+
+
+
+Housing
+
+
+
+
+Dining
+
+
+
+
+Getting Involved
+
+
+
+
+Athletics
+
+
+
+
+Student Services
+
+
+
+
+Health & Wellness
+
+
+
+
+Religious & Spiritual Life
+
+
+
+
+
+
+Powerful Outcomes
+
+
+
+
+
+
+
+
+
+
+
+The Career Center
+
+
+
+
+Fellowships & Postgraduate Awards
+
+
+
+
+The Muhlenberg Network
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Visit
+
+
+
+
+
+
+
+
+
+Apply
+
+
+
+
+
+
+
+
+
+Request Info
+
+
+
+
+
+
+
+
+
+Give
+
+
+
+
+
+
+
+Info For:
+
+
+
+
+Current Students
+
+
+
+
+
+Alumni & Friends
+
+
+
+
+
+Faculty & Staff
+
+
+
+
+
+Parents
+
+
+
+
+
+
+
+
+
+News
+
+
+
+
+
+Events
+
+
+
+
+
+Athletics
+
+
+
+
+Arts
+
+
+
+
+
+
+
+
+COVID-19 Info
+
+
+
+ 
+ 
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

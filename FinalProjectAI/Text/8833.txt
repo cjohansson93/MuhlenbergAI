@@ -1,0 +1,848 @@
+
+
+
+
+
+
+
+Frequently Asked Questions | Muhlenberg College
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Skip to Main Content
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Muhlenberg College
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Visit
+
+
+
+
+
+
+
+
+
+Apply
+
+
+
+
+
+
+
+
+
+Request Info
+
+
+
+
+
+
+
+
+
+Give
+
+
+
+
+
+
+
+
+
+Menu
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Home
+Who We AreCollege OfficesInformation TechnologyG SuiteFrequently Asked Questions 
+
+
+
+
+
+
+Frequently Asked Questions
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Frequently Asked Questions
+
+
+
+
+
+
+
+
+
+
+
+Core AppsFrequently Asked QuestionsDocumentationVideo LibraryTraining
+
+
+
+
+
+
+
+
+
+
+
+Home
+Who We AreCollege OfficesInformation TechnologyG SuiteFrequently Asked Questions 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+G Suite Frequently Asked Questions
+
+
+
+This list is derived from the inquiries during training and support tickets. We will be adding to this resource in addition to the G Suite documentation library. 
+Is there a restriction on the number of email addresses I send to in a single email? Does it matter if they are internal or external email addresses?G Suite limits the amount of mail one user can send. Limits restrict the number of messages sent per day and the number of recipients per message.
+If your users exceed a G Suite email sending limit, theyâll see an error message, such as:
+
+You have reached a limit for sending email.
+You reached a Gmail sending limit.
+You exceeded the maximum recipients.
+
+After reaching one of these limits, a user can't send new messages for up to 24 hours. However, they can still access their G Suite account and receive incoming email. The user can also access their other Google services. After this suspension period, sending limits are automatically reset and the user can resume sending mail.
+To learn more about these restrictions read âGmail sending limits in G Suiteâ
+How do I access email Groups (formerly distributed lists in GroupWise)? Distributed email lists are now referred to as "Groups". The ability to add Groups to our muhlenberg.edu directory is not an available feature - they will not auto-populate as you type if it is the first time you are sending to that Group. They are, however, available in the Groups apps, currently visible based on membership. 
+Note: Once you email your Group, they will be added to your Contacts and will auto-populate.
+We are currently working on a new group management model. Departments & offices will be contacted regarding the management of their group's membership. 
+Supporting documentation: Contacting Muhlenberg Groups (formerly distribution list)â
+Do I need to logout of G Suite apps? Yes. There is no imposed timeout on G Suite apps. While we have a 15 minute timeout on the Application Portal, you are still logged into G Suite. It is particularly important that you logout of G Suite (and other apps) accessed via the Application Portal if you wish to end the session. This is critically important when accessing your account on a public computer.
+Supporting documentation: Logging out of GSuite apps
+Can I send an email from an alias? If you want to always send from your other address, you'll need to change both your default "From" and "reply-to" address. If you only change the "From" address, replies will go to your original Gmail address by default.
+Supporting documentation: Sending email from another address or aliasâ
+I sent an email to myself and did not receive. Why? By default, Google does not send an email sent to an alias to your inbox. If you sent an email to yourself using an alias NOT your official muhlenberg email address (firstnamelastname@muhlenberg.edu), it will not be delivered to your inbox. This email will appear in your Sent mail and All Mail. If you wish to send emails to yourself and see them in your inbox, please use your official email address, not an alias.
+How do I set Gmail to be my default email client? You need to set Gmail as your default email client. To do this you will need to install Chrome and walk through a series of steps, after which, Gmail will be the default.
+Supporting documentation: How to set Gmail as your default email clientâ
+Is there an official logo I can use when setting my signature in Gmail? Yes! Please use the following web URL for the official Muhlenberg âMâ: https://www.muhlenberg.edu/media/contentassets/images/about/oit/helpdesk/muhl-email.png
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Muhlenberg College
+
+
+
+
+
+
+
+
+
+
+Muhlenberg College
+2400 Chew St.
+Allentown, 
+PA
+18104
+
+
+
+
+
+
+
+484-664-3100
+
+
+
+
+
+
+
+
+Maps & Directions
+
+
+
+
+
+Accessibility
+
+
+
+
+
+Library
+
+
+
+
+Title IX
+
+
+
+
+
+Employment
+
+
+
+
+
+A-Z Index
+
+
+
+
+
+Conference & Event Services
+
+
+
+
+
+Diversity & Inclusion
+
+
+
+
+
+
+Weather Update
+
+
+
+
+
+
+
+
+Social
+
+
+
+
+
+
+
+
+Facebook
+
+
+
+
+
+
+
+
+Instagram
+
+
+
+
+
+
+
+
+Twitter
+
+
+
+
+
+
+
+
+YouTube
+
+
+
+
+
+
+
+
+LinkedIn
+
+
+
+
+
+
+
+
+							©
+													
+ Muhlenberg College
+
+
+
+
+
+
+
+
+
+
+
+Muhlenburg College
+
+
+
+
+
+
+
+
+
+
+Search
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Who We Are
+
+
+
+
+
+
+
+
+
+
+
+Diversity and Inclusion
+
+
+
+
+Institutional Initiatives
+
+
+
+
+Office of the President
+
+
+
+
+College History
+
+
+
+
+Campus Map
+
+
+
+
+Directory Search
+
+
+
+
+
+
+Admissions
+
+
+
+
+
+
+
+
+
+
+
+Explore Your Visit Options
+
+
+
+
+Early Decision
+
+
+
+
+Regular Decision
+
+
+
+
+Transfer Students
+
+
+
+
+International Students
+
+
+
+
+Adult Accelerated & Evening Programs
+
+
+
+
+Graduate Studies
+
+
+
+
+Tuition and Fees
+
+
+
+
+Financial Aid
+
+
+
+
+First-Year Experience
+
+
+
+
+
+
+Academics
+
+
+
+
+
+
+
+
+
+
+
+Majors, Minors & Certifications
+
+
+
+
+Adult Accelerated & Evening Programs
+
+
+
+
+Summer Study
+
+
+
+
+Graduate Programs
+
+
+
+
+Preprofessional Programs
+
+
+
+
+Academic Partnerships
+
+
+
+
+Honors Programs
+
+
+
+
+Global Education
+
+
+
+
+Our Faculty
+
+
+
+
+Research & Scholarship
+
+
+
+
+
+
+Student Life
+
+
+
+
+
+
+
+
+
+
+
+Housing
+
+
+
+
+Dining
+
+
+
+
+Getting Involved
+
+
+
+
+Athletics
+
+
+
+
+Student Services
+
+
+
+
+Health & Wellness
+
+
+
+
+Religious & Spiritual Life
+
+
+
+
+
+
+Powerful Outcomes
+
+
+
+
+
+
+
+
+
+
+
+The Career Center
+
+
+
+
+Fellowships & Postgraduate Awards
+
+
+
+
+The Muhlenberg Network
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Visit
+
+
+
+
+
+
+
+
+
+Apply
+
+
+
+
+
+
+
+
+
+Request Info
+
+
+
+
+
+
+
+
+
+Give
+
+
+
+
+
+
+
+Info For:
+
+
+
+
+Current Students
+
+
+
+
+
+Alumni & Friends
+
+
+
+
+
+Faculty & Staff
+
+
+
+
+
+Parents
+
+
+
+
+
+
+
+
+
+News
+
+
+
+
+
+Events
+
+
+
+
+
+Athletics
+
+
+
+
+Arts
+
+
+
+
+
+
+
+
+COVID-19 Info
+
+
+
+ 
+ 
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

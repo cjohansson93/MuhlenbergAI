@@ -1,0 +1,853 @@
+
+
+
+
+
+
+
+Courses | Muhlenberg College
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Skip to Main Content
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Muhlenberg College
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Visit
+
+
+
+
+
+
+
+
+
+Apply
+
+
+
+
+
+
+
+
+
+Request Info
+
+
+
+
+
+
+
+
+
+Give
+
+
+
+
+
+
+
+
+
+Menu
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Home
+AcademicsMajors, Minors & CertificationsMath & Computer ScienceComputer ScienceCourses 
+
+
+
+
+
+
+Courses
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Courses
+
+
+
+
+
+
+
+
+
+
+
+CoursesFaculty & StaffMajorMinor
+
+
+
+
+
+
+
+
+
+
+
+Home
+AcademicsMajors, Minors & CertificationsMath & Computer ScienceComputer ScienceCourses 
+
+
+
+
+
+
+
+
+
+
+
+
+
+Computer Science Courses
+CSI 102: Computer Science I: Introduction to Game Programming
+An introduction to Computer Science through the programming of games. Emphasis is given to the creation of arcade style games incorporating animation, user interaction, and sound effects. Students learn to use game development, audio, and image manipulation software in designing and constructing their games. The course is intended for those with no prior experience in computer science but with a desire to hone problem solving and computing skills with a focus on game programming.
+Meets general academic requirement G and effective Fall 2013 RG.
+CSI 104: Computer Science I: Introduction to Robotics
+An introduction to Computer Science through the programming of robots. Mobile robots controlled over wireless communications links are used to investigate basic concepts in both robotics and computing. Students will learn how to control the movement of a robot through its world. This includes sensing surroundings and making decisions on how to modify behaviors to attain prescribed goals. The course is intended for those with no prior experience in computer science, but with a desire to hone problem solving and computing skills with a focus on robotics.
+Meets general academic requirement G and effective Fall 2013 RG.
+CSI 106: Computer Science I: Introduction to Multimedia Computing
+An introduction to Computer Science through multimedia computing. Students will learn to create and use software to manipulate multimedia, including images, sounds, and web sites. Topics also include algorithm design and development, control structures, data types, and testing. Topics may vary from year to year depending on student interests, but will likely include filtering (e.g. color shifting, posterizing, and pitch shifting), music synthesis techniques, reading and writing files, and developing simple graphical user interfaces (GUIâs). This course is intended for those with no prior experience in computer science but with a desire to hone problem solving and computing skills with a focus on multimedia.
+Meets general academic requirement G and effective Fall 2013 RG.
+CSI 109: Computer Science I: Introduction to Data Analysis
+An introduction to Data Analytics. Students will create and implement applications that extract, manipulate, and analyze data. Topics from foundations of computational thinking, i.e., loops, lists, files and data visualization are covered in the context of data analytics and the programming language Python. Intended for students without prior programming or computer science experience, but with a desire to hone problem solving and computing skills with a focus on data science.
+Meets general academic requirement G and effective Fall 2013 RG.
+CSI 111: Computer Science II
+Reviews basic programming language features and introduces advanced features such as inheritance, interfaces, exceptions, and recursion. Explores fundamental data structures and algorithms, including vectors, linked lists, stacks, and queues as well as algorithms for searching and sorting. Students will study, design, and develop programs with multiple files, classes, and objects.
+Prerequisite: Any Computer Science I course with a grade of C- or above.
+Meets general academic requirement G and effective Fall 2013 RG.
+CSI 210: Software Engineering
+A project-based study of the theory, practice, processes, and tools used to design, build, and maintain large software systems. Topics include requirements analysis, system architecture, design, testing, maintenance, and project maintenance, as well as professional practice, risks, intellectual property, and social impact of computing.
+Prerequisite: CSI 111 Computer Science II
+Meets general academic requirement W.
+CSI 220: Data Structures and Algorithms
+A study of data structures and algorithms, their practical applications, and key techniques for designing, analyzing, and reasoning about them. Topics include lists, hash tables, trees, and graphs. Students will study, design, and develop programs that use, implement, and extend classic and novel data structures and algorithms.
+Prerequisite: CSI 111 Computer Science II
+Meets general academic requirement SC.
+CSI 240: Computer Organization
+An introduction to the architecture and operation of a computer system. Topics include data representation, assembly language programming, Boolean algebra, digital logic, and combinational and sequential circuits.
+Prerequisite: CSI 111 Computer Science II
+Meets general academic requirement SC.
+CSI 305: Database Systems
+An introduction to relational database systems. Topics covered include ER diagrams, relational algebra, structured query language (SQL), and fundamental data structures. Modern database management system software is used to implement course projects. Offered in alternate years.
+Prerequisite: CSI 220 Data Structures and Algorithms
+CSI 310: Programming Languages
+A study of the principles that govern the design and implementation of contemporary programming languages. Topics include lexical properties, compilers, interpreters, data structures, control structures, parameter passage, and run-time environments. Procedural, functional, object oriented, and logic programming languages will be considered. Offered in alternate years.
+Prerequisite: CSI 220 Data Structures and Algorithms
+CSI 326: Artificial Intelligence
+An introduction and survey of the opportunities and challenges in solving problems often thought to require human intelligence. Topics may include intelligent agents, searching, learning, planning, natural language processing, machine vision, and robotics. Offered in alternate years.
+Prerequisites: CSI 220 Data Structures and Algorithms and MTH 121 Calculus I
+CSI 345: Web Software Development
+The tools and techniques used to create computer programs having graphical user interfaces (GUIs) making use of the World Wide Web. Topics will include XHTML, Javascript, CGI programming, and AJAX. Course projects will use two and three-tiered network architectures and utilize programming environments such as Java servlets or PHP. Offered in alternate years.
+Prerequisite: CSI 220 Data Structures and Algorithms
+CSI 350: Operating Systems
+Introduction to the management of processes, memory, and I/0 devices in a multiprogramming environment. Topics include file systems, resource sharing, scheduling, interrupts, and concurrency. Alternate years.
+Prerequisites: CSI 220 Data Structures and Algorithms and CSI 240 Computer Organization
+CSI 355: Computer Networks
+The concepts and techniques used to implement communications using computer networks. Topics include the ISO network model, sockets, and the internet protocols of TCP/IP. Link layer protocols such as Ethernet and wireless are also covered. Offered in alternate years.
+Prerequisites: CSI 220 Data Structures and Algorithms and CSI 240 Computer Organization
+CSI 370: CUE: Computer Science Seminar
+Advanced study of selected topics. Students work in teams on a significant software project.
+Prerequisites: CSI 210 Software Engineering, CSI 220 Data Structures and Algorithms, and CSI 240 Computer Organization
+Meets general academic requirement W.
+ CSI 970: CUE: Computer Science Independent Study/Research
+Each independent study/research course is to be designed in consultation with a faculty sponsor. 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Muhlenberg College
+
+
+
+
+
+
+
+
+
+
+Muhlenberg College
+2400 Chew St.
+Allentown, 
+PA
+18104
+
+
+
+
+
+
+
+484-664-3100
+
+
+
+
+
+
+
+
+Maps & Directions
+
+
+
+
+
+Accessibility
+
+
+
+
+
+Library
+
+
+
+
+Title IX
+
+
+
+
+
+Employment
+
+
+
+
+
+A-Z Index
+
+
+
+
+
+Conference & Event Services
+
+
+
+
+
+Diversity & Inclusion
+
+
+
+
+
+
+Weather Update
+
+
+
+
+
+
+
+
+Social
+
+
+
+
+
+
+
+
+Facebook
+
+
+
+
+
+
+
+
+Instagram
+
+
+
+
+
+
+
+
+Twitter
+
+
+
+
+
+
+
+
+YouTube
+
+
+
+
+
+
+
+
+LinkedIn
+
+
+
+
+
+
+
+
+							©
+													
+ Muhlenberg College
+
+
+
+
+
+
+
+
+
+
+
+Muhlenburg College
+
+
+
+
+
+
+
+
+
+
+Search
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Who We Are
+
+
+
+
+
+
+
+
+
+
+
+Diversity and Inclusion
+
+
+
+
+Institutional Initiatives
+
+
+
+
+Office of the President
+
+
+
+
+College History
+
+
+
+
+Campus Map
+
+
+
+
+Directory Search
+
+
+
+
+
+
+Admissions
+
+
+
+
+
+
+
+
+
+
+
+Explore Your Visit Options
+
+
+
+
+Early Decision
+
+
+
+
+Regular Decision
+
+
+
+
+Transfer Students
+
+
+
+
+International Students
+
+
+
+
+Adult Accelerated & Evening Programs
+
+
+
+
+Graduate Studies
+
+
+
+
+Tuition and Fees
+
+
+
+
+Financial Aid
+
+
+
+
+First-Year Experience
+
+
+
+
+
+
+Academics
+
+
+
+
+
+
+
+
+
+
+
+Majors, Minors & Certifications
+
+
+
+
+Adult Accelerated & Evening Programs
+
+
+
+
+Summer Study
+
+
+
+
+Graduate Programs
+
+
+
+
+Preprofessional Programs
+
+
+
+
+Academic Partnerships
+
+
+
+
+Honors Programs
+
+
+
+
+Global Education
+
+
+
+
+Our Faculty
+
+
+
+
+Research & Scholarship
+
+
+
+
+
+
+Student Life
+
+
+
+
+
+
+
+
+
+
+
+Housing
+
+
+
+
+Dining
+
+
+
+
+Getting Involved
+
+
+
+
+Athletics
+
+
+
+
+Student Services
+
+
+
+
+Health & Wellness
+
+
+
+
+Religious & Spiritual Life
+
+
+
+
+
+
+Powerful Outcomes
+
+
+
+
+
+
+
+
+
+
+
+The Career Center
+
+
+
+
+Fellowships & Postgraduate Awards
+
+
+
+
+The Muhlenberg Network
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Visit
+
+
+
+
+
+
+
+
+
+Apply
+
+
+
+
+
+
+
+
+
+Request Info
+
+
+
+
+
+
+
+
+
+Give
+
+
+
+
+
+
+
+Info For:
+
+
+
+
+Current Students
+
+
+
+
+
+Alumni & Friends
+
+
+
+
+
+Faculty & Staff
+
+
+
+
+
+Parents
+
+
+
+
+
+
+
+
+
+News
+
+
+
+
+
+Events
+
+
+
+
+
+Athletics
+
+
+
+
+Arts
+
+
+
+
+
+
+
+
+COVID-19 Info
+
+
+
+ 
+ 
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

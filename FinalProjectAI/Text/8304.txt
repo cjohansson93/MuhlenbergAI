@@ -1,0 +1,847 @@
+
+
+
+
+
+
+
+2018: When Your Textbook Is Free, Thatâs Amore | Muhlenberg College
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Skip to Main Content
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Muhlenberg College
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Visit
+
+
+
+
+
+
+
+
+
+Apply
+
+
+
+
+
+
+
+
+
+Request Info
+
+
+
+
+
+
+
+
+
+Give
+
+
+
+
+
+
+
+
+
+Menu
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Home
+News & EventsNews Archive 2018 
+
+
+
+
+
+
+2018
+
+
+
+
+
+
+
+
+
+
+
+
+
+2018
+
+
+
+
+
+
+
+
+
+
+
+In the MediaFor the MediaOffice of Communications Latest NewsNews Archive 
+
+
+
+
+
+
+
+
+
+
+
+Home
+News & EventsNews Archive 2018 
+
+
+
+
+
+
+
+
+
+
+
+When Your Textbook Is Free, Thatâs Amore
+
+
+
+The Collegeâs introductory Italian course is the first to use a faculty-generated Open Educational Resource instead of a costly textbook.
+
+
+By:
+
+ 
+
+  Meghan Kita  
+
+
+	 Monday, November 19, 2018  08:13 AM
+
+Above, a photo of the town of Pitigliano, Italy, that Daniel Leisawitz and Daniela Viale (both pictured below) took to use in the Open Educational Resource they created for their Elementary Italian I course.
+Most of the students taking Elementary Italian I this fall are first-year students. As such, theyâre relatively new to College Textbook Roulette, an unfortunate reality college students nationwide have faced for decades: Will this semesterâs bill be a few hundred or a few thousand dollars? Guess Iâll find out once classes start!
+Even so, Assistant Professor of Italian Daniel Leisawitz says, âThere were definitely a lot of smiles on the first day of class when we presented the syllabus and said you donât have to buy a textbook.â
+With help from colleagues and a tech-savvy student, Leisawitz and Italian Lecturer Daniela Viale spent the summer creating their own digital textbook for the course. Spunti: Italiano Elementare 1 is an Open Educational Resource (OER), which means itâs publicly available onlineânot just for classroom or personal use, but also to be adapted by creators of other OERs or used as-is, for free, by instructors at other institutions.
+The advent of OERs âchanges the conversation around what gets published, why and how it gets published, so that ideally itâs less about profits for publishers and more about creating easier and more equitable ways to share and collaborate around educational texts and materials,â says Dean of Digital Learning Lora Taub-Pervizpour. âWe want to and weâre prepared to be a leader among liberal arts colleges in this effort.â
+âWhy Not Write Our Own?â
+Previously, Leisawitz and Viale had been using the same textbook for years, and it was okay. It had the challenges that come with all traditional language books: The instructors had to teach in the order the booksâ authors had chosen, since each lesson builds on those before it, and even new editions could fall out of date quickly. They needed to supplement with their own content about Italian culture, which the book lacked. It also had a traditional textbookâs price tag: between $200 and $300.
+âYou feel bound by the textbook because you have the students purchase it, but you want to be more creative and do your own thing,â Viale says. âWe decided, why not write our own materials 100 percent?â
+At first, they considered building this new product on Canvas, a web portal for enrolled students. However, Taub-Pervizpourâwhoâd helped other faculty members explore the use of OERs in their classroomsâwas âvery convincingâ that the OER path was the right one, Leisawitz says.
+âItâs a matter of equity,â he says. âItâs free and open to anyone who wants to use it. Weâre very happy if people outside Muhlenberg want to use it to learn Italian on their own. Since weâre going through the trouble, why not make it available to other people for free so they too can learn Italian?â
+The Challenges of OER Creation
+The answer to this rhetorical question is because, in addition to being a whole lot of work, an OER requires its creators to worry about things like copyright. OERs are licensed through Creative Commons, which means everything an OER author puts out there has to be available to be shared. For Leisawitz and Viale, this meant traveling to Italy to take their own photographsâthey returned with more than 1,000âand partnering with Italian videographers to produce digital audiovisual content.
+Thereâs also a technical learning curve: While the platform Muhlenberg is using for OERs, Pressbooks, is similar to the fairly simple publishing platform Wordpress, the instructors and their digital learning collaborators encountered some problems while working on this initial book.
+Over the summer, Jarrett Azar â20, a computer science and studio art double major whoâs also a digital learning assistant, and Senior Instructional Design Consultant Tim Clarke used images, videos and Microsoft Word files from Leisawitz and Viale to build Spunti. They quickly learned that pasting content into Pressbooks from Wordâtables, especiallyârequired a significant amount of reformatting, and language textbooks include a lot of tables.
+âWe wasted a lot of time that we could have avoided wasting if we just had built everything directly on Pressbooks, which is what weâre doing now,â for the spring-semester book for Elementary Italian II, Viale says.
+The Bookâs Debut
+The first semester of OER use has been successful, if work-intensive, the instructors say. They use it in tandem with Canvas (for quizzes and exercises) and a printed course packet that students can write on.
+âWe seem to be keeping pace to what we used to do with the regular textbook, and we think the course is more interesting and engaging than our old courses were,â Leisawitz says.
+âWeâve been very careful to try to compare how much are they learning compared to before. We touch base every week: How did the week go? Was our approach and the material we developed effective? What can we change for the second iteration of this course?â Viale adds. âBecause our goal is not limited to providing a cost-free course; we also want a more effective experience for the students. Thatâs the ultimate goal: that the students learn just as much if not better.â
+In addition to language instruction, Elementary Italian focuses on contemporary Italian culture, and the flexibility of the OER allows Leisawitz and Viale to add in cultural news as it happens. It also allows them to shift around lessons from week to week and to focus most on what their students are interested inâwhich does create more work for them than they previously had.
+Still, student response has been positive, and though Leisawitz stresses that they arenât trying to poach students, at least one student switched into the class after learning no textbook purchase was required.
+âIdeally, if we can all go textbook-free, then the whole department can really reap the benefits of our âpioneeringâ hard work in Italian,â Viale says.
+The Way Ahead
+This month, Leisawitz and Viale will give a presentation to their colleagues in the Department of Languages, Literatures and Cultures about their experience. The College has signed a one-year contract with Pressbooks, which will give the Office of Information Technology time to build a place to host all future OERs internally. And Taub-Pervizpour is applying for external grants to fund OER development, adaptation and use on a larger scale.
+Clarke notes that OER adoption doesnât always mean creating an entire book from scratch, as Leisawitz and Viale did: âItâs only necessary when a high-quality open textbook doesn't already exist in some form,â he says. âThat's why the Pressbooks platform will be so usefulâit's equally suited to authoring original open textbooks as it is to adapting open textbooks that exist.â
+And given Muhlenbergâs strong tradition of faculty-student collaboration, Clarke anticipates that faculty exploring OERs may want to involve students in the process of adapting existing content and creating new content to be used in the classroom.
+Azar was glad to be the student helper for this initial project: âI knew what an OER was before, but Iâve grown a lot in wanting them to be a big initiative on Muhlenbergâs campus,â he says. âSomething thatâs always been important to me is trying to eliminate those secondary costs of college.â
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Muhlenberg College
+
+
+
+
+
+
+
+
+
+
+Muhlenberg College
+2400 Chew St.
+Allentown, 
+PA
+18104
+
+
+
+
+
+
+
+484-664-3100
+
+
+
+
+
+
+
+
+Maps & Directions
+
+
+
+
+
+Accessibility
+
+
+
+
+
+Library
+
+
+
+
+Title IX
+
+
+
+
+
+Employment
+
+
+
+
+
+A-Z Index
+
+
+
+
+
+Conference & Event Services
+
+
+
+
+
+Diversity & Inclusion
+
+
+
+
+
+
+Weather Update
+
+
+
+
+
+
+
+
+Social
+
+
+
+
+
+
+
+
+Facebook
+
+
+
+
+
+
+
+
+Instagram
+
+
+
+
+
+
+
+
+Twitter
+
+
+
+
+
+
+
+
+YouTube
+
+
+
+
+
+
+
+
+LinkedIn
+
+
+
+
+
+
+
+
+							©
+													
+ Muhlenberg College
+
+
+
+
+
+
+
+
+
+
+
+Muhlenburg College
+
+
+
+
+
+
+
+
+
+
+Search
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Who We Are
+
+
+
+
+
+
+
+
+
+
+
+Diversity and Inclusion
+
+
+
+
+Institutional Initiatives
+
+
+
+
+Office of the President
+
+
+
+
+College History
+
+
+
+
+Campus Map
+
+
+
+
+Directory Search
+
+
+
+
+
+
+Admissions
+
+
+
+
+
+
+
+
+
+
+
+Explore Your Visit Options
+
+
+
+
+Early Decision
+
+
+
+
+Regular Decision
+
+
+
+
+Transfer Students
+
+
+
+
+International Students
+
+
+
+
+Adult Accelerated & Evening Programs
+
+
+
+
+Graduate Studies
+
+
+
+
+Tuition and Fees
+
+
+
+
+Financial Aid
+
+
+
+
+First-Year Experience
+
+
+
+
+
+
+Academics
+
+
+
+
+
+
+
+
+
+
+
+Majors, Minors & Certifications
+
+
+
+
+Adult Accelerated & Evening Programs
+
+
+
+
+Summer Study
+
+
+
+
+Graduate Programs
+
+
+
+
+Preprofessional Programs
+
+
+
+
+Academic Partnerships
+
+
+
+
+Honors Programs
+
+
+
+
+Global Education
+
+
+
+
+Our Faculty
+
+
+
+
+Research & Scholarship
+
+
+
+
+
+
+Student Life
+
+
+
+
+
+
+
+
+
+
+
+Housing
+
+
+
+
+Dining
+
+
+
+
+Getting Involved
+
+
+
+
+Athletics
+
+
+
+
+Student Services
+
+
+
+
+Health & Wellness
+
+
+
+
+Religious & Spiritual Life
+
+
+
+
+
+
+Powerful Outcomes
+
+
+
+
+
+
+
+
+
+
+
+The Career Center
+
+
+
+
+Fellowships & Postgraduate Awards
+
+
+
+
+The Muhlenberg Network
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Visit
+
+
+
+
+
+
+
+
+
+Apply
+
+
+
+
+
+
+
+
+
+Request Info
+
+
+
+
+
+
+
+
+
+Give
+
+
+
+
+
+
+
+Info For:
+
+
+
+
+Current Students
+
+
+
+
+
+Alumni & Friends
+
+
+
+
+
+Faculty & Staff
+
+
+
+
+
+Parents
+
+
+
+
+
+
+
+
+
+News
+
+
+
+
+
+Events
+
+
+
+
+
+Athletics
+
+
+
+
+Arts
+
+
+
+
+
+
+
+
+COVID-19 Info
+
+
+
+ 
+ 
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

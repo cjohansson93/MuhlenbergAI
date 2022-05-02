@@ -1,0 +1,867 @@
+
+
+
+
+
+
+
+A Parallel Universe | Muhlenberg College
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Skip to Main Content
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Muhlenberg College
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Visit
+
+
+
+
+
+
+
+
+
+Apply
+
+
+
+
+
+
+
+
+
+Request Info
+
+
+
+
+
+
+
+
+
+Give
+
+
+
+
+
+
+
+
+
+Menu
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Home
+News & EventsNews Archive 2020A Parallel Universe 
+
+
+
+
+
+
+A Parallel Universe
+Through his work on VR software, Evan Sforza â07 helps create a welcoming place for people from around the world to meet.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Home
+News & EventsNews Archive 2020A Parallel Universe 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+This article originally ran in the Spring 2020 issue of Muhlenberg Magazine, and the introductory paragraph references the print publication.
+By Meghan Kita
+This is the beginning of a story about Evan Sforza â07, a designer at Microsoft who works on virtual reality software called Altspace. You probably read the headline on page 32, and then you flipped over page 33 to find this first paragraph. You know to turn the right-hand-side page to see whatâs next because youâve been reading magazines and books for years. You expect to look at the bottom of this page and see it numbered; you expect to see photos with captions sprinkled throughout the article. There is an established way that humans interact with print media, and this magazine is designed with those conventions in mind. But what happens when a technology is so novel that it has no conventions?
+âDesign in VR is still such a very new thing,â Sforza says. âItâs a lot about empathy, trying to understand the other human being thatâs picking up the device and interfacing with the software you design. Itâs about making sure people from all walks of life have the potential to understand what youâre trying to do.â
+What Altspace is trying to do is to bring early adopters of VR technology into a world where they can interact in a more immersive way than they could via text message, phone or video chat. The term used in the VR industry to describe this is âpresence,â which means âactually feeling like youâre there and feeling like someone is with you,â Sforza says. His job involves figuring out why someone would want to be there, how they might interact with others and what things there are to do in this new environment. A positive user experience plays a critical role in the Altspace teamâs overarching goal: to create a space thatâs worth coming back to again and again.
+What Is VR?
+Most people reading this wonât have experienced VR personallyâwhile upwards of 170 million VR headsets have been sold, theyâre far from commonplace. The main piece of hardware, the headset, provides audiovisual immersion. Most headsets connect to an external computing device (a gaming system, desktop computer or phone), though options with built-in processors (called âstandaloneâ headsets) are starting to come to market. The headsets have two lenses inside, each with their own display. Each display renders a slightly different image, which are offset from one another by the distance from one eye to the other. Audio can be built-in or delivered through connected headphones. Controllers for each hand allow those movements to be reflected in the virtual world. The best-selling hardware brand in Q4 of 2019 was the PlayStationVR, followed by the standalone Oculus Quest. Altspace is software thatâs compatible with most VR headsets.
+
+Sforza, who began working at Altspace in 2016, describes it as âthe next evolution of chat rooms,â a place where strangers can interact. Itâs not unlike a bar or a club, he says: âThis is just a means of doing what humans have been doing for millennia, from the comfort of our own homes, without all the additional effort and baggage that comes with face-to-face interaction.â Users are able to move through different worlds (with names like Mythical Library, Brooklyn Rooftop Hangout and Space Museum) and speak to one another using the microphones on their headsets.
+Putting a bunch of strangers in an environment together comes with both potential delights and definite challenges, one of which is the relatively small number of people who have the technology: Any given userâs real-life friends likely donât have VR headsets of their own, Sforza says. So how can Altspace ensure its 30,000 monthly active usersâa tiny number compared to conventional social media platforms but a large one in the new frontier of VR social applicationsâare having enough fun to be active next month, and the month after that?
+Altspaceâs leadership team is focusing most of its energy on encouraging eventsâ concerts, comedy shows, book launches, even small get-togethers. Sforza has been working to make it easy for users to create an event and invite other people. He and his team are also exploring other ways to bring together users with similar interests.
+But Sforzaâs true passion lies in the little details that make the virtual environment feel more like the real world, that give it âpresence.â For example, heâs working on a new line of avatars with additional features like eye movement, even though none of the hardware currently is able to track eye movement. The idea is to program in the ways humansâ eyes might move in certain situations, like making brief eye contact when you cross paths with someone else.
+âWeâre thinking through, What are the important features of the human body and human socialization that we could turn into computer code or an interface?â Sforza says. âWe want to create an experience thatâs as immersive as possible. We want you to feel like youâre talking to another human being.â
+ The âWhyâ of Design
+Sforzaâs passion for techâmore specifically, for video gamesâis how he ended up as a philosophy major at Muhlenberg. Early in his time at the College, he was perusing job descriptions at Bungie, Inc., the studio that created the popular Halo series. He noticed that their game designer listings said theyâd appreciate candidates with a philosophy background.
+âI really enjoyed going into an environment in Halo and trying to think like a designer,â he says. âI began to look at the construction of the virtual world as being very intentional. I wanted to understand game design and the reason and philosophy behind the design.â
+He always liked drawing, so he added an art minor to figure out where the skills he had could fit into a game development studio. Then, he was inspired to take English courses, enough for a second minor, to explore the reasoning behind narratives and the subtext beneath them. By graduation, he had his sights set on a career as a concept artist, the person who imagines what elements of a game might look like. He had some internships and decided it wasnât for him: âI actually cared more about the âwhyâ than how something looked.â
+He asked a boss where he should go to grad school to make the jump to game design, which is how he ended up at the University of Southern Californiaâs School of Cinematic Artsâ Interactive Media & Games Division. âI originally went there wanting to make first-person shooters and other video games,â he says. âBut, after interacting with the professors and seeing the power of software, how much it could influence human behavior and society at large, I got really interested in social media and social networks.â
+But if there was one opportunity that could pull Sforza back toward games, it was an opening with Halo. Shortly after grad school, he landed a job at 343 Industries, the company that acquired Halo in 2012. There, he was a multiplayer designer, working on the most social element of the game. He helped design a new game mode for Halo 5 called Warzone that combined team play with opportunities to defeat AI characters for points.
+âFor me, there was a certain magic, mystery and allure surrounding Halo, but, when I went to work on it, I discovered that it wasnât exactly fulfilling my desire to connect people through cyberspace,â he says. âI knew VR was going to be important. I needed to work on it.â
+So, he began searching for a new role in that field, one that preferably had a social application, and Altspace fit the bill. He went from working on a team of more than 600 to a team thatâs currently about 30 people. âThe amount of influence any one person gets is a little bigger,â he says.
+
+The Future of VR
+There are some immediate technical challenges with VR that Sforza encounters in his everyday work. For example, the current sensor placement makes it impossible to accurately track a personâs arm and leg movements, which is one reason Altspace avatars just have floating hands. Ideally, more of the human body would be represented in VR, which would likely require hardware with more sensors as well as eye-tracking. Long-term, Sforza envisions the ability for users to create avatars that actually look like them by undergoing high-resolution scans of their bodies.
+In order for VR to become more widely adopted, Sforza says, the hardware needs to evolve. Right now, there are only a small handful of standalone headsets available, and they still cause the user to lose awareness of their surroundings. The future might lie in mixed-use devices that donât yet exist: Currently, there are augmented reality (AR) devices, like Microsoftâs HoloLens, which overlay some digital content onto what youâre seeing in real life, and VR devices, which are completely immersive.
+ âWhen you have this visor over your face, if we color every pixel, youâre in VR. If you see the real world behind it, itâs AR,â Sforza says. âWith the right device, you could go from VR to AR and back again.â
+Such a device would need to be able to color a userâs peripheral vision, but in order for it to be widely adopted, it would probably have to look more like a pair of glasses than a pair of ski goggles. âI donât know how readily people are going to put on a headset with a big glass visor and go to work at Starbucks or any regular place,â Sforza says.
+Right now, some employers are utilizing devices that are currently on the market. For example, the Air Force uses VR to provide some pilot simulation training. In the medical realm, VR and AR technology have been used to help surgeons visualize a problem before operating, to train new doctors and to treat mental health issues in patients. But these largely behind-the-scenes applications wonât necessarily help normalize the technology as part of everyday life. In other words, both VR and AR devices have a long way to go before either becomes the next smartphone.
+âWith your phone, itâs in your pocket. Itâs always on your person. To use it, you reach in, pull it out, hit a button,â Sforza says. âWhen using a VR or AR device is as quick or as simple, thatâs when itâll probably start to become more ubiquitous.â
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Muhlenberg Magazine
+
+
+
+Muhlenberg College
+
+
+
+News and Stories
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Muhlenberg College
+
+
+
+
+
+
+
+
+
+
+Muhlenberg College
+2400 Chew St.
+Allentown, 
+PA
+18104
+
+
+
+
+
+
+
+484-664-3100
+
+
+
+
+
+
+
+
+Maps & Directions
+
+
+
+
+
+Accessibility
+
+
+
+
+
+Library
+
+
+
+
+Title IX
+
+
+
+
+
+Employment
+
+
+
+
+
+A-Z Index
+
+
+
+
+
+Conference & Event Services
+
+
+
+
+
+Diversity & Inclusion
+
+
+
+
+
+
+Weather Update
+
+
+
+
+
+
+
+
+Social
+
+
+
+
+
+
+
+
+Facebook
+
+
+
+
+
+
+
+
+Instagram
+
+
+
+
+
+
+
+
+Twitter
+
+
+
+
+
+
+
+
+YouTube
+
+
+
+
+
+
+
+
+LinkedIn
+
+
+
+
+
+
+
+
+							©
+													
+ Muhlenberg College
+
+
+
+
+
+
+
+
+
+
+
+Muhlenburg College
+
+
+
+
+
+
+
+
+
+
+Search
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Who We Are
+
+
+
+
+
+
+
+
+
+
+
+Diversity and Inclusion
+
+
+
+
+Institutional Initiatives
+
+
+
+
+Office of the President
+
+
+
+
+College History
+
+
+
+
+Campus Map
+
+
+
+
+Directory Search
+
+
+
+
+
+
+Admissions
+
+
+
+
+
+
+
+
+
+
+
+Explore Your Visit Options
+
+
+
+
+Early Decision
+
+
+
+
+Regular Decision
+
+
+
+
+Transfer Students
+
+
+
+
+International Students
+
+
+
+
+Adult Accelerated & Evening Programs
+
+
+
+
+Graduate Studies
+
+
+
+
+Tuition and Fees
+
+
+
+
+Financial Aid
+
+
+
+
+First-Year Experience
+
+
+
+
+
+
+Academics
+
+
+
+
+
+
+
+
+
+
+
+Majors, Minors & Certifications
+
+
+
+
+Adult Accelerated & Evening Programs
+
+
+
+
+Summer Study
+
+
+
+
+Graduate Programs
+
+
+
+
+Preprofessional Programs
+
+
+
+
+Academic Partnerships
+
+
+
+
+Honors Programs
+
+
+
+
+Global Education
+
+
+
+
+Our Faculty
+
+
+
+
+Research & Scholarship
+
+
+
+
+
+
+Student Life
+
+
+
+
+
+
+
+
+
+
+
+Housing
+
+
+
+
+Dining
+
+
+
+
+Getting Involved
+
+
+
+
+Athletics
+
+
+
+
+Student Services
+
+
+
+
+Health & Wellness
+
+
+
+
+Religious & Spiritual Life
+
+
+
+
+
+
+Powerful Outcomes
+
+
+
+
+
+
+
+
+
+
+
+The Career Center
+
+
+
+
+Fellowships & Postgraduate Awards
+
+
+
+
+The Muhlenberg Network
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Visit
+
+
+
+
+
+
+
+
+
+Apply
+
+
+
+
+
+
+
+
+
+Request Info
+
+
+
+
+
+
+
+
+
+Give
+
+
+
+
+
+
+
+Info For:
+
+
+
+
+Current Students
+
+
+
+
+
+Alumni & Friends
+
+
+
+
+
+Faculty & Staff
+
+
+
+
+
+Parents
+
+
+
+
+
+
+
+
+
+News
+
+
+
+
+
+Events
+
+
+
+
+
+Athletics
+
+
+
+
+Arts
+
+
+
+
+
+
+
+
+COVID-19 Info
+
+
+
+ 
+ 
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

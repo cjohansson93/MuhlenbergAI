@@ -1,0 +1,883 @@
+
+
+
+
+
+
+
+Student/Faculty Research | Muhlenberg College
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Skip to Main Content
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Muhlenberg College
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Visit
+
+
+
+
+
+
+
+
+
+Apply
+
+
+
+
+
+
+
+
+
+Request Info
+
+
+
+
+
+
+
+
+
+Give
+
+
+
+
+
+
+
+
+
+Menu
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Home
+AcademicsMajors, Minors & CertificationsMath & Computer ScienceStudentsStudent/Faculty Research 
+
+
+
+
+
+
+Student/Faculty Research
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Student/Faculty Research
+
+
+
+
+
+
+
+
+
+
+
+Math & CS ActivitiesStudent/Faculty ResearchStudent Summer PlansResearch Experiences for UndergraduatesInternshipsStudent AwardsRecent Alumni
+
+
+
+
+
+
+
+
+
+
+
+Home
+AcademicsMajors, Minors & CertificationsMath & Computer ScienceStudentsStudent/Faculty Research 
+
+
+
+
+
+
+
+
+
+
+
+Student Research with Faculty
+
+
+A Selection of Recent Student Research
+
+
+
+Gianna Barres â18Advisor: Dr. William GrycMajors: Biochemistry, MathematicsProject Title: Best Offer Auctions on eBay
+
+
+
+Project Description: Have you ever been shopping on eBay and you find an item that you would like to buy that you can either purchase immediately using the âBuy It Nowâ price or you can submit a âBest Offerâ? What should you do? Gianna Barres mathematically modeled this situation for a semester-long independent study. In her model, she considered how bidders bidding one after another (instead of simultaneously) affect bidding strategies, and found that such âserial biddingâ makes it difficult to find an equilibrium strategy for such a model. 
+
+
+
+Kevin Hagan '20 and Erich Buerkert '20Advisor: Dr. Jorge SilveyraMajor: Computer ScienceProject Title: MuhlenSports: Building a Stronger Community through Athletics
+
+
+
+Project Description: The MuhlenSports App is an iOS phone application that aims to increase the attendance at Muhlenberg College sporting events. The application will reward users who attend any of the Collegeâs sporting events on and off campus. When a user attends a sporting event at a specified date, time, and GPS location for a fixed period of time, they will receive a point. Points can be accumulated and later redeemed for rewards such as Muhlenberg apparel. The app was created using Xcode 9.4, Swift 4, MySQL, and a Strapi API connection.
+
+
+Andrew Verenna '21Advisor: Dr. Jorge SilveyraMajor: Computer ScienceProject Title: Looking for Patterns in Chinese Speeches Using Python
+
+
+Project Description: Determining the reason behind a speech is not always obvious, however, software could be used to discover potential patterns in text. In order to reveal the sentiment of speeches given by Chinese authorities in the past 8 years, an exploratory project was developed this summer. To complete this task, software was developed in which speeches from the past decade were collected using automated techniques and analyzed with the Python package SentiWordNet. This package includes functions to rank words by their positivity, negativity, and objectivity. The software provides a Graphic User Interface in which the rankings were plotted to be analyzed.
+
+
+
+Tara Werner â18Advisor: Dr. Linda McGuire, Professor of MathematicsMajors: English, MathematicsProject Title: Chaucerâs Mathematics: Modeling The Canterbury Tales
+
+
+
+Project Description: In 1907, English mathematician and puzzle-creator Henry Dudeney wrote The Canterbury Puzzles, a collection of over a hundred puzzles inspired by Geoffrey Chaucerâs The Canterbury Tales. Taking the conceit of Chaucerâs tales, that each pilgrim on the journey to Canterbury must tell one tale to entertain their fellow travelers, Dudeney proposes that each of these pilgrims should also propose a puzzle to pass the time. In this project, I reframe Dudeneyâs approach and use the tales told by these pilgrims to create mathematical problems and solution sets for learners at various points of their mathematical journey. These problems use Chaucerâs rich narratives to motivate problems from mathematical topics that include trigonometry, single-variable calculus, combinatorics, graph theory, and probability.
+Research Opportunities for Current Students
+Summer Research Opportunities at Muhlenberg: Each summer, more than 50 Muhlenberg students stay on campus to engage in summer research projects supervised by faculty members from various departments. The funding mechanism to support these students research (for housing and stipend) varies greatly. In the Department of Mathematics and Computer Science, two most common funding sources have been Summer Research Collaborations (funded by the Provost Office) and Summer Research Grants (funded by the Dean of Academic Life).
+To explore these opportunities, students are encouraged to speak with faculty members in the department to explore the possibility as soon as possible. In the past, some Muhlenberg students were funded by these grants to participate in the Muhlenberg REU program (The funding for future REU program at Muhlenberg is pending at the moment.) There may be other non-regular funding opportunities for some years. For most up-to-date, students are encouraged to consult the chair of the department.
+Summer REU programs: There are numerous summer REU programs all over the country in mathematics, statistics and computer sciences, many of which are funded by the NSF. To look for more details, students can begin researching the NSF websites, such ashttps://www.nsf.gov/crssprgm/reu/reu_search.jsphttps://www.nsf.gov/crssprgm/reu/list_result.jsp?unitid=5044 http://www.ams.org/programs/students/emp-reu https://www.mathprograms.org 
+Research During the Academic Year with Muhlenberg Faculty: Faculty members sometimes supervise interested students in independent research projects. These projects could be for credit as a formal registered independent study or to fulfill the mathematics major CUE requirement, or could be more informal arrangement with a professor. Such arrangements could involve just one student or a small group of students. Projects could occur either during either semester or for the entire academic year. Any student who is interested should approach a faculty member and discuss possible research projects as well as the faculty memberâs availability for such a project. The research interests of our faculty are listed below.
+Faculty Research Interests
+Dr. Michael Allocca (Mathematics): My primary research interests can be broadly categorized in algebra, and, most recently, its intersection with combinatorics and molecular biology. I am very interested in exploring student projects related to the use of group theory (and graph theory) in tandem with the combinatorics of genome rearrangements. Motivated by developments in molecular biology, some of my recent projects have focused on sorting strategies for circular permutations and new insights into the presentations of the dihedral group. I am very receptive to pursuing interdisciplinary projects that leverage a studentsâ interests and expertise.
+Dr. Byungchul Cha (Mathematics): My research interests lie in number theory. My recent projects with undergraduates are centered on properties of Pythagorean triples and their relations to Diophantine approximations. To find out what my current interests are and to explore some potential undergraduate research projects, I encourage students to come talk to me.
+Dr. Allison Davidson (Statistics): Most of my work with undergraduates involves applying statistical methods to answer questions using data. Recent projects included analysis of what makes an effective tweet, neurological effects of visual stimuli in flies, ideal conditions for raising isopods in a lab, characteristics of police forces that affect crime rates, and the impact of wasted food in Muhlenbergâs dining hall. Data have been collected via survey, experiments, public domain, or existing datasets. Please feel free to reach out for more information or if you are interested in doing research with data.
+Dr. William Gryc (Mathematics): Most of my recent research students have completed projects involving auction theory. In auction theory, we literally study auctions like those found on eBay or done in auction houses. Using mathematical models we generally ask two fundamental questions of any given auction: how do we expect bidders to bid in the auction, and how much revenue the seller can expect to earn from the auction. Recent previous projects studied bidding behavior for âBuy-It-Nowâ with âBest Offerâ auctions on eBay and revenue in penny auctions (which are the kinds of auctions found on websites such as QuiBids.com). I am open to other research topics that students find of interest. For example, I advised one student doing a project on mathematical models in neuroscience. Feel free to email me if you have any interest in doing a research project with me.
+Dr. Michael Huber (Mathematics): My current interests fall into three areas. First, I try to find unique connections between architecture and mathematics. I have recently found physical examples of fractals in Italian churches, dating back more than 800 years (and in one case, 1400 years). Also in this area, I am researching the use of integration (specifically, trig substitution techniques) in determining areas and volumes of Gothic windows and domes. Second, I study rare events in baseball using continuous distributions, in order to make predictions on the next event. Currently, my focus in on players who have hit for the cycle, but I am open to other baseball events. Third, I am always interested in developing Interdisciplinary Lively Applications Projects (ILAPs) for differential equations. Recently, I have written an ILAP to study the spread of malaria in Central America, developing mathematical models of real-world situations using ODEs.
+Dr. Linda McGuire (Mathematics): My primary mathematical interests are in Combinatorics and Graph Theory, especially applied problems that require graphical models. I enjoy working on questions of optimal design for structures such as mass transit systems, communication systems and computer networks. I also have worked with students on projects involving applied statistics, mathematical modeling, games and puzzles, complex analysis, and applied linear algebra. Inspired by the liberal arts environment at Muhlenberg, I also am interested in topics such as mathematics in the arts, multicultural mathematics, the history of mathematics, and mathematics education. Recent student projects in these areas include exploring connections between group theory and atonal music, using matrix models to mimic the video game Catherine, and developing problem modules based on Chaucerâs The Canterbury Tales.
+Dr. Jim Russell (Statistics): My current research interests focus on applications of methodologies from spatial statistics to real-world problems. I am currently developing a model for the movement behavior of ants within their nests to discover the connection between the movement patterns of individuals and the spread of disease through a population. Another current project aims to measure the level of gerrymandering in the districting plans of PA using simulations. In addition, I've recently worked on a variety of other collaborative research projects with students that involve interesting data sets. For example, I have worked with survey data to gain a better understanding of the use of technology in the classroom, statistical models for making decisions on 4th down in college football, Bayesian methods for measuring the prevalence of infected ticks in PA, and statistical methods for predicting voter turnout in elections in the Lehigh Valley. Stop by my office or send me an email if you're interested in working on a research project with data.
+Dr. Jorge Silveyra (Computer Science): My research predominantly involves computational epidemiology, modeling and simulation, and computational immunology, which are multidisciplinary fields that use computer science, mathematics, public health, chemistry and biochemistry. Specifically, I am interested in investigating how much diseases are affected by a personâs physiology versus by their social and behavioral characteristics. In other words, I am interested in knowing the role an individualâs immune system and the way he behaves impacts the way an epidemic spreads.Lately, I have been expanding my research to include ways to use natural language processing (computers that read human language) and machine learning (the science of getting computers to act without being programmed) to address issues related to epidemiology and political science. These types of programs look for patterns in text that might not be obvious to humans reading the text.
+ 
+Archived Student Faculty Research
+
+2012-2013
+Courtney Hunsberger and Dr. Will Gryc
+
+The theory of loss aversion claims that one is more averse to not meeting a goal or standard than the aspiration to surpass it. We wanted to look for effects of loss aversion in baseball. In particular, does a batter do worse than expected in his fourth at-bat after going three-for-three in his previous three at-bats? We sampled players from the 2012 Major League Baseball season and while we did find that players did worse than expected in the fourth at-bat after going three-for-three, it was not statistically significant.
+ 
+Melanie Panosian and Dr. Will Gryc
+â
+Penny Auctions are online auctions where bidding begins at zero dollars and each bid increases the price of the item by a penny, hence the name. Bidders are required to pay a small amount, typically around fifty cents per bid placed. Toomas Hinnosaar found a Nash equilibrium bidding strategy in which a bidder bids with a fixed probability during each round of the auction. According to Prospect Theory, people tend to overvalue low probabilities and treat them as higher probabilities. In my project with Dr. Gryc, we considered what happens when bidders bid more often than the Nash equilibrium strategy dictates. In particular, we showed that the expected revenue of the seller can increase dramatically with small changes to these bidding frequencies.
+ 
+Bryan McComb and Dr. Linda McGuire
+
+Public debate about providing commuter rail service between eastern Pennsylvania and New Jersey has hinged on factors such as cost, time, predicted usage, and profit. I am conducting research with Dr. McGuire in which we are designing possible rail connections between Easton, PA and existing commuter lines in New Jersey that minimize cost and maximize travel efficiency.
+ 
+Robert Fitzsimmons and Dr. Michael Huber
+
+My research with Dr. Michael Huber focused on sabermetrics, specifically the rare event of hitting a cycle in Major League Baseball. Rare events in baseball can be modeled with the help of various statistical distributions, and through those distributions, we can try to predict when the next event will occur.
+
+2011-2012
+Projects from Software Engineering
+
+Matt Horn, Elizabeth Morash, and Timothy McClung: Smartphone Sobriety Test
+Kristen Goyal, Timothy Gee, and Robert McGetrick: iTutor Website
+Michael Walsh, Nicholas Traini, and Patrick McGinley: Arbitratus-Text Based RPG
+Jon-Frederic Landrigan, Kyle Houston, and Scott Goldstein: Easy Trash
+
+
+2008-2009
+Student Capstone Projects from CSI 370:
+
+Megan Eiser. Audible Alerts for Instant Messaging with Pidgin
+Jeff Levy. Integrating Drupal Content Management System with OpenBravo? Enterprise Resource Planning System
+Kellen Mickley. Exploring Novel Programming Language Features. (portions presented as part of a poster at OOPSLA 2008)
+Chelsea Lobdell, Adam Harrington. Enhanced Headings in the SubjectsPlus? Library Subject Guide
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Muhlenberg College
+
+
+
+
+
+
+
+
+
+
+Muhlenberg College
+2400 Chew St.
+Allentown, 
+PA
+18104
+
+
+
+
+
+
+
+484-664-3100
+
+
+
+
+
+
+
+
+Maps & Directions
+
+
+
+
+
+Accessibility
+
+
+
+
+
+Library
+
+
+
+
+Title IX
+
+
+
+
+
+Employment
+
+
+
+
+
+A-Z Index
+
+
+
+
+
+Conference & Event Services
+
+
+
+
+
+Diversity & Inclusion
+
+
+
+
+
+
+Weather Update
+
+
+
+
+
+
+
+
+Social
+
+
+
+
+
+
+
+
+Facebook
+
+
+
+
+
+
+
+
+Instagram
+
+
+
+
+
+
+
+
+Twitter
+
+
+
+
+
+
+
+
+YouTube
+
+
+
+
+
+
+
+
+LinkedIn
+
+
+
+
+
+
+
+
+							©
+													
+ Muhlenberg College
+
+
+
+
+
+
+
+
+
+
+
+Muhlenburg College
+
+
+
+
+
+
+
+
+
+
+Search
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Who We Are
+
+
+
+
+
+
+
+
+
+
+
+Diversity and Inclusion
+
+
+
+
+Institutional Initiatives
+
+
+
+
+Office of the President
+
+
+
+
+College History
+
+
+
+
+Campus Map
+
+
+
+
+Directory Search
+
+
+
+
+
+
+Admissions
+
+
+
+
+
+
+
+
+
+
+
+Explore Your Visit Options
+
+
+
+
+Early Decision
+
+
+
+
+Regular Decision
+
+
+
+
+Transfer Students
+
+
+
+
+International Students
+
+
+
+
+Adult Accelerated & Evening Programs
+
+
+
+
+Graduate Studies
+
+
+
+
+Tuition and Fees
+
+
+
+
+Financial Aid
+
+
+
+
+First-Year Experience
+
+
+
+
+
+
+Academics
+
+
+
+
+
+
+
+
+
+
+
+Majors, Minors & Certifications
+
+
+
+
+Adult Accelerated & Evening Programs
+
+
+
+
+Summer Study
+
+
+
+
+Graduate Programs
+
+
+
+
+Preprofessional Programs
+
+
+
+
+Academic Partnerships
+
+
+
+
+Honors Programs
+
+
+
+
+Global Education
+
+
+
+
+Our Faculty
+
+
+
+
+Research & Scholarship
+
+
+
+
+
+
+Student Life
+
+
+
+
+
+
+
+
+
+
+
+Housing
+
+
+
+
+Dining
+
+
+
+
+Getting Involved
+
+
+
+
+Athletics
+
+
+
+
+Student Services
+
+
+
+
+Health & Wellness
+
+
+
+
+Religious & Spiritual Life
+
+
+
+
+
+
+Powerful Outcomes
+
+
+
+
+
+
+
+
+
+
+
+The Career Center
+
+
+
+
+Fellowships & Postgraduate Awards
+
+
+
+
+The Muhlenberg Network
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Visit
+
+
+
+
+
+
+
+
+
+Apply
+
+
+
+
+
+
+
+
+
+Request Info
+
+
+
+
+
+
+
+
+
+Give
+
+
+
+
+
+
+
+Info For:
+
+
+
+
+Current Students
+
+
+
+
+
+Alumni & Friends
+
+
+
+
+
+Faculty & Staff
+
+
+
+
+
+Parents
+
+
+
+
+
+
+
+
+
+News
+
+
+
+
+
+Events
+
+
+
+
+
+Athletics
+
+
+
+
+Arts
+
+
+
+
+
+
+
+
+COVID-19 Info
+
+
+
+ 
+ 
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

@@ -1,0 +1,925 @@
+
+
+
+
+
+
+
+WIGHTMAN LAB PAGE | Muhlenberg College
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Skip to Main Content
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Muhlenberg College
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Visit
+
+
+
+
+
+
+
+
+
+Apply
+
+
+
+
+
+
+
+
+
+Request Info
+
+
+
+
+
+
+
+
+
+Give
+
+
+
+
+
+
+
+
+
+Menu
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Home
+AcademicsMajors, Minors & CertificationsBiologyFaculty & StaffBruce WightmanDr. Wightman's PageWIGHTMAN LAB PAGE 
+
+
+
+
+
+
+WIGHTMAN LAB PAGE
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+WIGHTMAN LAB PAGE
+
+
+
+
+
+
+
+
+
+
+
+Research ProgramsProvostFaculty Center for Teaching
+
+
+
+
+
+
+
+
+
+
+
+Home
+AcademicsMajors, Minors & CertificationsBiologyFaculty & StaffBruce WightmanDr. Wightman's PageWIGHTMAN LAB PAGE 
+
+
+
+
+
+
+
+
+
+
+
+ 
+UNDERGRADUATE RESEARCH ON THE MOLECULAR GENETICS OF ANIMAL DEVELOPMENT
+ 
+
+
+
+
+ 
+
+Laboratory of Bruce Wightman, Biology Department
+New Science Building 221
+Our laboratory is studying the mechanisms of animal development, using the nematode Caenorhabditis elegans as a model system. We perform experiments that include Mendelian genetic, molecular genetic, genomic, and biochemical approaches. Research students in our lab learn valuable technologies, help design experiments, interpret data, publish papers and attend scientific conferences.
+
+
+
+
+
+
+
+
+The nuclear hormone receptors are a class of evolutionarily-conserved proteins that regulate transcription of other genes in all known animals, from coral to humans. In a variety of species, nuclear hormone receptors play critical roles in physiology and development. For example, the androgen receptors mediate male sex development, estrogen receptors function in female physiology, and ecdysone receptors control insect morphogenesis. Many, but not all, nuclear receptors are activated in response to small lipophilic hormones, such as estrogen. The small soil-dwelling roundworm C. elegans, like other nematodes, has seen an explosion in the number and variety of nuclear receptors. While humans have only 48 nuclear receptors, C. elegans has over 270. Our lab is focused on the NR2E class of nuclear receptors. In vertebrates, two genes of this class have been studied: PNR (NR2E3), which functions in the development of rod and cone photoreceptor neurons in human retina, and tailless, which functions in the development of adult neural stem cells and limbic system in mice. We are studying the C. elegans versions of these genes: fax-1 (PNR), nhr-67 (tailless), nhr-111 (worm-specific), and nhr-239 (found in most animals except vertebrates). Each nuclear receptor has two important parts (domains) in the protein: the DNA-binding domain (DBD), which is the part that binds to DNA in the promoter of other genes, and the ligand-binding domain (LBD), which is the part that binds a hormone (if there is one) and mediates changes in the rate of transcription of genes that a regulated by the nuclear receptor. In contrast to the DBD, where amino acid sequence is very similar in worms, flies and humans, the sequence of the LBD is very different in worms as compared to other species. Furthermore, our lab showed that the LBD is not required for some functions, suggesting that C. elegans nuclear receptors may sometimes be ligand-independent.
+
+
+Picture of nematode:âNuclear receptors regulate transcription of other genes by binding to promoter DNA sequences
+
+
+
+
+ 
+CURRENT RESEARCH PROJECTS
+
+
+
+
+âFunction of fax-1 in neuronal control of developmental progression and sleep
+âThe FAX-1 nuclear receptor of C. elegans functions in neuron identity and is orthologous to vertebrate PNR nuclear receptor (NR2E3). In humans, mutations in PNR lead to defects in photoreceptor development and subsequent retinal degeneration. fax-1 mutants exhibit a slow growth phenotype, which is a result of a defect in execution of the L1 transition.  Newly hatched C. elegans larvae (L1s) make a developmental decision to either initiate growth or arrest development, based on whether or not food is available.  Arrested L1 animals then resume growth once in the presence of food. fax-1 mutants undergo a temporary L1 arrest when hatching in the presence of food, likely a consequence of fax-1 function in the nervous system. Combining fax-1 or unc-42 (a different type of transcription factor) mutations with a mutation in daf-2 insulin receptor causes all animals to arrest just before hatching or as newly-hatched L1 animals. These animals are asleep! Mutations in a gene required for sleep can reverse the arrest. This has led us to propose the existence of a wake-promoting neural pathway that is involved in insulin-signaling and depends on fax-1 and unc-42- expressing neurons. 
+
+
+
+
+
+
+
+
+
+
+
+
+The function of nhr-67/tailless in uterus development and posterior pattern formation
+In Drosophila, the tailless nuclear receptor functions in orchestrating the patterning of the embryonic termini-- heads and tails. We have genetic evidence that suggests that the nematode equivalent, nhr-67, functions in posterior pattern formation in the embryo, similar to Drosophila. We have also found that nhr-67 plays a key role in regulating the post-embryonic development of the C. elegans uterus. Our current work on this project is focused on placing the function of the nhr-67 gene in the Notch-based signaling pathway that directs formation of the ventral uterus. Understanding the Notch pathway has implications for understanding the molecular basis of Alzheimer Disease: a gene called sel-12 may function upstream of nhr-67. Mutations in a human equivalent of sel-12 lead to an inherited form of Alzheimer Disease. In mice and flies, tailless plays a key role in the development of the brain. Mice that are born with mutations in tailless have a severe loss of limbic system neurons and are hyper-aggressive. Other studies have shown that tailless functions in regulating the differentiation of neural stem cells.The function of unstudied related nuclear receptorsThe nhr-111 and nhr-239 gense are related to fax-1 and more loosely to the other NR2E genes. While C. elegans has an nhr-111 gene, the closely-related nematode C. briggsae does not. Our study of nhr-111 provides an opportunity to study the evolution of nuclear receptor function in species-specific development or behavior. Data suggest that nhr-111 may function as an important regulator of genes that function in metabolism. In contrast, nhr-239 appears to be weakly-conserved in non-vertebrate animals. Mutations in nhr-111 and nhr-239 do not cause dramatic, obvious phenotypes (death, sterility, major developmental defects). A deletion that removes the first exon and promoter of nhr-239 causes an interesting behavioral defect: worms avoid large concentrations of bacteria, suggesting they may be responding adversely to low oxygen environments.
+
+
+
+
+
+
+
+ THE WIGHTMAN LABORATORY
+PERSONNEL
+
+Bruce Wightman, lab head
+Danny Monzo ('22)
+Long Nguyen ('23)
+Isabella van der Weide ('23)
+
+ 
+LAB ALUMNI
+Alumni of the Wightman lab have gone on to pursue graduate and professional study at institutions such as Stanford University, Columbia University, Cornell University, University of Pennsylvania, and Yale University. They have won competitive awards such as the NSF Graduate Fellowship, British Marshall Scholarship, and Fulbright Scholarship.
+
+
+
+
+
+Erika Foerst ('19)
+Zhengying He ('19)
+Arianna Mesrobian ('20)
+Katarina Liberatore ('19)
+Francine Koitz ('19)
+Evan Schlesinger ('20)
+Annu Suresh ('19)
+Olivia Waldron ('19)
+Jack Van Burik ('21)
+
+Genna Albert '03 Peter Alff '02 Christopher Alvaro ('10) Pujah Ahuja (Parkland HS) G. Michael Baer ('12) Jennifer Baldwin '02 Emily Bayer ('14) Sepi Bazel '03 Kelly Berg '03Caroline Berman ('16)Nick Bianco '01Susanna Birnbaum ('18)Shari Bodofsky ('18)Alex Breiding ('11)
+Emily Brennan ('09) David Brightbill '99 Valerie Brown ('10) Ramzy Burns ('14) Nicole Carmean '98 Sara Carr Angela Cenci '05 Andrea Cerrone '02 Genevieve Cheng ('06) Jessica Chu ('12) Melissa Cronin (Dickinson) Christian Davidson '00 Rich DeMarco '98 Stephen DeMeo '04 Rachel Dordal ('14) Bryan Ebert '99 Stephanie Eng ('10) Michael Engels '06 Catherine Ezzio ('13) Jessica Fiske-Baier (Emmaus HS) Evan Fletcher ('13) Amanda Gavin ('12)Jessica Goldberg ('19)Christopher Greco ('15)Jennifer Hall ('12) Rachel Halpern ('14) Heidi Harrington '01 Rebecca Haviland '03 Jason Hauptman '01 Nathaniel Herman ('18)Annie Jilozian '07 Chirag Kalola '99 Sabrina Kamran ('13)Akshara Kartik ('17) Ryan Kennedy '04Michael Kho ('15)Brook Kohrt '00Mackenzie Kramer ('15)Dominic Lapadula (â14)Kimberly Lightfoot ('17)Bryn Lipovsky (Moravian) Emily Lisco ('08) Rebecca Lombel '03 Ryan Martin '02 Sonya Martinez-Hunsicker '06 George McClung ('12) Aaron Miller '00 Simone Moniz (Emmaus HS) Corrie Morris ('16) Elissa Murphy '00 Jason Much (F&M) Ameet Nagpal '03 Jill Neiman '06 Jessica Nesmith ('09) Son Nguyen '98 Rick Oravec '06 Suchi Pandey '99 Anvi Patel ('12)Zoe Peck ('18)Benjamin Perlman ('13)Lauren Pioppo ('12)Doug Prechtel (Virginia Tech)Galina Radzievsky '00Kristy Reinert '02
+Corrine Rennig '06 Rebecca Royce (Virginia Tech)Sydney Saltzman ('16)Brittany Sanford ('11) Gwen Sarver '99 Peter Schartel ('15) John Schocken ('09) Michelle Seif '06 Zachary Shuler ('15) Danielle Silver ('18)Dan Sphilsky ('10) Roxy Sholevar ('11)Katie Skwirut ('16)Dennis Slade '99Eric Smith '02 Danielle Snowflack '03 Matthew Stein (Haverford) Rachel Summer ('12) Tilak Sundaresan '02 Jessica Tanis '02 Tara Tappen ('11) Veronica Taylor ('09) Lily Thompson ('18)Michael Twardzik ('09)Harrison Vener ('17) Eliana Verghese ('08) Jessica Verzella ('12) Aaron Wagner '05 Katie Weber (U. Richmond) Hillel Wiener Tiffany Zehner ('10)
+Sheila Clever, technicianKelly Klampert, technician
+
+
+â
+ 
+ 
+
+ 
+ 
+
+
+
+
+RECENT PUBLICATIONS AND PRESENTATIONS
+Bodofsky, S. (â18),  Liberatore, K. (â19), Pioppo, L. (â12), Lapadula, D. (â14), Thompson, L. (â18), Birnbaum, S. (â18), McClung, G. (â12), Kartik, A. (â17), Clever, S. and Wightman, B., 2018, A tissue-specific enhancer of the C. elegans nhr-67/tailless gene drives coordinated expression in uterine stem cells and the differentiated anchor cell, Gene Expr Patterns, 30: 71-81, doi: 10.1016/j.gep.2018.10.003. PubMed PMID: 30404043.
+Bodofsky, S. ('18), Koitz, F. ('19), and Wightman, B., 2017, Conserved and Exapted Functions of Nuclear Receptors in Animal Development, Nuclear Receptor Research, 4: 1-34, Article ID 101305.
+K. Liberatore (â19) and B. Wightman, 2018, Insulin signaling and neuronal function in arousal in C. elegans, 21st Undergraduate Research Symposium, U. Maryland, Baltimore Co., Baltimore, MD, October 20. Regional Conference. *Second Place Award in Poster Competition*
+Z. He (â19) and B. Wightman, 2018, The role of insulin signaling and neuron function in developmental progression, 21st Undergraduate Research Symposium, U. Maryland, Baltimore Co., Baltimore, MD, October 20. Regional Conference.
+F. Koitz (â19) and B. Wightman, 2018, The C. elegans RevErb gene, nhr-85, is expressed increasingly over the first half of larval development, 21st Undergraduate Research Symposium, U. Maryland, Baltimore Co., Baltimore, MD, October 20. Regional Conference.
+S. Bodofsky (â18), K. Liberatore (â19), and B. Wightman, 2018, Conserved cis-acting elements in the nhr-67 promoter mediate organogenesis in C. elegans, Lehigh Valley Molecular and  Cell Biology Symposium, DeSales University, April 24. Regional Conference.
+F. Koitz (â19) and B. Wightman, 2018, Function of the nhr-85/RevErb gene in C. elegans, Lehigh Valley Molecular and  Cell Biology Symposium, DeSales University, April 24. Regional Conference.
+S. Birnbaum (â18) and B. Wightman, 2018, Neural regulation of sleep-like state by the gene faxâ1 in the nematode C. elegans, Lehigh Valley Molecular and  Cell Biology Symposium, DeSales University, April 24. Regional Conference.
+D. Silver (â18), S. Clever and B. Wightman, 2018, Sleep and Insulin Signaling Pathway in C. elegans, Lehigh Valley Molecular and  Cell Biology Symposium, DeSales University, April 24. Regional Conference.
+L. Thompson (â18) and B. Wightman, 2018, Understanding NHR-67 regulation of genes involved in C. elegans ventral uterine development, Lehigh Valley Molecular and  Cell Biology Symposium, DeSales University, April 24. Regional Conference.
+B. Wightman, 2018, Insulin-dependent quiescence and arrest at hatching, C. elegans Developmental Biology and Gene expression Meeting, Barcelona, Spain, June 13-17. International Conference.
+B. Wightman, K. Lightfoot (â17)  and E. Bayer (â14), 2017, The fax-1 and nhr-85 nuclear receptors of C. elegans function in gonad development, 21st International C. elegans Conferences, UCLA, Los Angeles, June 21-25.
+S. Bodofsky (â18), S. Birnbaum (â18), L. Thompson (â18), S. Clever and B. Wightman, 2017, An nhr-67 promoter element mediates expression in AC and VU uterine cells, 21st International C. elegans Conferences, UCLA, Los Angeles, June 21-25.
+F. Koitz (â19), E. Bayer (â14), S. Clever and B. Wightman, 2017, FAX-1 and UNC-42 transcription factors mediate insulin-dependent quiescence and arrest, 21st International C. elegans Conferences, UCLA, Los Angeles, June 21-25.
+C. Berman (â16), Akshara Kartik (â17), S. Clever, B. Wightman, 2016, A promoter element in the C. elegans nhr-67 tailless gene mediates hlh-2/daughterless regulation of anchor cell differentiation and uterine organogenesis, The Allied Genetics Conference, Orlando, FL, July 13-17. International Conference.
+S. Saltzman (â16), E.  Bayer (â14), S. Clever, B. Wightman, 2016, The fax-1 nuclear receptor of C. elegans functions in gonad development, The Allied Genetics Conference, Orlando, FL, July 13-17. International Conference.
+B. Wightman, E. Bayer (â14), S. Clever, 2016, FAX-1 and UNC-42 Transcription Factors Regulate Developmental Arrest in C. elegans, The Allied Genetics Conference, Orlando, FL, July 13-17. International Conference.
+S. Bodofksy (â18), S. Clever, B. Wightman, 2016, A promoter element in the C. elegans nhr-67 tailless gene mediates regulation of cell differentiation and uterine organogenesis, Lehigh Valley Molecular and  Cell Biology Symposium, DeSales University, April 21. Regional Conference.
+S. Birnbuam (â18), S. Clever, B. Wightman, 2016, The conserved nuclear receptor fax-1 functions in neuronal regulation  of lifecycle progression in C. elegans, Lehigh Valley Molecular and  Cell Biology Symposium, DeSales University, April 21. Regional Conference.
+B. Wightman, 2016, Regulation of developmental arrest in C. elegans by transcription factors that specify neuron identity, invited lecture, Rowan University School of Osteopathic Medicine, Stratford, NJ, March 10.
+B. Wightman, E. Bayer (â14), L. Jerjos (â17), C. Greco (â15), M. Kramer (â15), M. Kho (â15), K. Skwirut (â16), A. Kartik (â17), S. Clever, 2015, The FAX-1 and NHR-67 Nuclear Receptors Function in Gonad Development, presentation (BW) at the 20th International C. elegans Meeting, Los Angeles, CA, June 24-28. International Conference.
+C. Greco, A. Kartik, S. Clever, B. Wightman, 2015, A promoter  element in the C. elegans nhr-67 tailless gene mediates hlh-2/daughterless regulation of uterine organogenesis, presentation (CG and AK) at the 2015 Mid-Atlantic Society for Developmental Biology Meeting, Princeton, NJ, March 27-28. Regional Conference.
+D. Lapadula, P. Ezzio, L. Pioppo, M. Kho, P. Schartel, Z. Shuler, C. Greco, M. Kramer, S. Clever, B. Wightman, 2014, a promoter element in the C. elegans tailless gene links sex-specific regulation with uterine organogenesis, presentation (DL) at the 2014 Mid-Atlantic Society for Developmental Biology Meeting, Baltimore MD, May 30-31.
+E. Bayer, B. Wightman, 2014, the conserved nuclear receptor fax-1 functions in C. elegans cell migration and neuronal regulation of lifecycle, presentation (EB) at the 2014 Mid-Atlantic Society for Developmental Biology Meeting, Baltimore MD, May 30-31.
+E. Bayer, B. Wightman, 2013, Function of the conserved nuclear receptor fax-1 in C. elegans cell migration and sleep regulation presentation (EB) at the 16th Undergraduate Research Symposium, U. Maryland, Baltimore Co., Baltimore, MD, Oct. 26. Regional Conference. *First Place Award in Poster Competition*
+D. Lapadula, P. Ezzio, S. Clever and B. Wightman, 2013, A promoter element in the C. elegans tailless gene links sex-specific regulation with uterine organogenesis, presentation (DL) at the 16th Undergraduate Research Symposium, U. Maryland, Baltimore Co., Baltimore, MD, Oct. 26. Regional Conference. *First Place Award in Poster Competition*
+E. Bayer and B. Wightman, 2013,  fax-1 and prominin function in migration and morphogenesis, presentation (BW) at the 19th International C. elegans Meeting, Los Angeles, CA, June 26-30. International Conference.
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Muhlenberg College
+
+
+
+
+
+
+
+
+
+
+Muhlenberg College
+2400 Chew St.
+Allentown, 
+PA
+18104
+
+
+
+
+
+
+
+484-664-3100
+
+
+
+
+
+
+
+
+Maps & Directions
+
+
+
+
+
+Accessibility
+
+
+
+
+
+Library
+
+
+
+
+Title IX
+
+
+
+
+
+Employment
+
+
+
+
+
+A-Z Index
+
+
+
+
+
+Conference & Event Services
+
+
+
+
+
+Diversity & Inclusion
+
+
+
+
+
+
+Weather Update
+
+
+
+
+
+
+
+
+Social
+
+
+
+
+
+
+
+
+Facebook
+
+
+
+
+
+
+
+
+Instagram
+
+
+
+
+
+
+
+
+Twitter
+
+
+
+
+
+
+
+
+YouTube
+
+
+
+
+
+
+
+
+LinkedIn
+
+
+
+
+
+
+
+
+							©
+													
+ Muhlenberg College
+
+
+
+
+
+
+
+
+
+
+
+Muhlenburg College
+
+
+
+
+
+
+
+
+
+
+Search
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Who We Are
+
+
+
+
+
+
+
+
+
+
+
+Diversity and Inclusion
+
+
+
+
+Institutional Initiatives
+
+
+
+
+Office of the President
+
+
+
+
+College History
+
+
+
+
+Campus Map
+
+
+
+
+Directory Search
+
+
+
+
+
+
+Admissions
+
+
+
+
+
+
+
+
+
+
+
+Explore Your Visit Options
+
+
+
+
+Early Decision
+
+
+
+
+Regular Decision
+
+
+
+
+Transfer Students
+
+
+
+
+International Students
+
+
+
+
+Adult Accelerated & Evening Programs
+
+
+
+
+Graduate Studies
+
+
+
+
+Tuition and Fees
+
+
+
+
+Financial Aid
+
+
+
+
+First-Year Experience
+
+
+
+
+
+
+Academics
+
+
+
+
+
+
+
+
+
+
+
+Majors, Minors & Certifications
+
+
+
+
+Adult Accelerated & Evening Programs
+
+
+
+
+Summer Study
+
+
+
+
+Graduate Programs
+
+
+
+
+Preprofessional Programs
+
+
+
+
+Academic Partnerships
+
+
+
+
+Honors Programs
+
+
+
+
+Global Education
+
+
+
+
+Our Faculty
+
+
+
+
+Research & Scholarship
+
+
+
+
+
+
+Student Life
+
+
+
+
+
+
+
+
+
+
+
+Housing
+
+
+
+
+Dining
+
+
+
+
+Getting Involved
+
+
+
+
+Athletics
+
+
+
+
+Student Services
+
+
+
+
+Health & Wellness
+
+
+
+
+Religious & Spiritual Life
+
+
+
+
+
+
+Powerful Outcomes
+
+
+
+
+
+
+
+
+
+
+
+The Career Center
+
+
+
+
+Fellowships & Postgraduate Awards
+
+
+
+
+The Muhlenberg Network
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Visit
+
+
+
+
+
+
+
+
+
+Apply
+
+
+
+
+
+
+
+
+
+Request Info
+
+
+
+
+
+
+
+
+
+Give
+
+
+
+
+
+
+
+Info For:
+
+
+
+
+Current Students
+
+
+
+
+
+Alumni & Friends
+
+
+
+
+
+Faculty & Staff
+
+
+
+
+
+Parents
+
+
+
+
+
+
+
+
+
+News
+
+
+
+
+
+Events
+
+
+
+
+
+Athletics
+
+
+
+
+Arts
+
+
+
+
+
+
+
+
+COVID-19 Info
+
+
+
+ 
+ 
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

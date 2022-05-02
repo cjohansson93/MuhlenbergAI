@@ -1,0 +1,921 @@
+
+
+
+
+
+
+
+Collaboration | Muhlenberg College
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Skip to Main Content
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Muhlenberg College
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Visit
+
+
+
+
+
+
+
+
+
+Apply
+
+
+
+
+
+
+
+
+
+Request Info
+
+
+
+
+
+
+
+
+
+Give
+
+
+
+
+
+
+
+
+
+Menu
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Home
+Who We AreCollege OfficesInformation TechnologyInstructional Technology and Digital LearningCollaboration 
+
+
+
+
+
+
+Collaboration
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Collaboration
+
+
+
+
+
+
+
+
+
+
+
+About Us and Contact InformationAccessibilityCalendarGolf Cart Pedagogy IntlTechTipsCollaborationMaterialsClassroom TechLearning Management SystemMedia ServicesPodcastsStudent EmploymentTip of the WeekWeb ConferencingVideoFor New Videos
+
+
+
+
+
+
+
+
+
+
+
+Home
+Who We AreCollege OfficesInformation TechnologyInstructional Technology and Digital LearningCollaboration 
+
+
+
+
+
+
+
+
+
+
+
+At Muhlenberg, there are three main ways we augment active learning and engagement with online content: the layering of interactive presentation slides, the sharing of computer screens while working, and the collaborative annotation of common reading documents.
+Three main collaboration tools currently in use at Muhlenberg include VoiceThread, Mirroring360, and Hypothes.is respectively. You may use these collaboration tools as faculty, staff, or as students. 
+We have designed this webpage into sections based on existing user familiarity with the collaboration tools as well as the situation bringing you to our resources. You may use the links below to navigate to the particular section of interest or review all the content on collaboration tools.
+General Support Information
+VoiceThread
+Hypothes.is
+Mirroring 360
+ 
+General Support Information
+VoiceThread is accessed through the Learning Management System, Canvas.
+Additionally, know that Hypothes.is support is available at this Hypothes.is help webpage. 
+Hypothes.is and Mirroring 360 are used as Chrome extensions. To learn more about extensions and how to use them on various devices, do refer to this Google documentation about Chrome Extensions. 
+Hypothes.is readings are housed in Canvas, while annotated using the Hypothes.is Chrome extension.
+Mirroring 360 is also accessed via a Chrome extension and available to use in any of Muhlenberg's techwall rooms.
+For those interested in using other tools within Canvas, such as Zoom, Panopto,  please note that our new ITMS website will ultimately include areas for the Learning Management System, Collaboration Tools, WebConferencing, and Media Services, so that each set of tools will have its own webpage accessible through the ITMS main website.
+ 
+VOICETHREAD TOOL
+I'm new to this (VoiceThread)
+For faculty/staff: We have the following documentation regarding VoiceThread. We also have a new VoiceThread video.
+We have the following documentation regarding VoiceThread within Canvas. Also, VoiceThread has documentation for how to create and grade VoiceThread assignments from within Canvas.
+We also have instructions for captioning VoiceThreads available here.
+If you are looking to create class groups/teams in VoiceThread activities, do refer to this ITMS documentation on subgroups within VoiceThread.
+For students: We have the following student documentation for using VoiceThread to complete assignments. We have a new video on how to create a VoiceThread, and a second new video on how to comment on a VoiceThread activity.
+To review some of the literature on using VoiceThread within courses, please visit the VoiceThread website here.
+To learn more about VoiceThread's features, do review this website of VoiceThread's features.
+Additionally, the team hosted a TechTuesday on the topic of VoiceThread.
+For students: This VoiceThread website walks through the steps of working within VoiceThread from the student perspective.
+ 
+It's a new semester (VoiceThread)
+Looking for additional ways to use VoiceThread? Consider one of VoiceThread's free webinars.
+Have a VoiceThread that you want in your new semester's course and need to re-establish the link? This VoiceThread video will walk you through the steps to copying the VoiceThread in a way that you can re-use it for a new course.
+We also have instructions for captioning VoiceThreads available here.
+If you are looking to create class groups/teams in VoiceThread activities, do refer to this ITMS documentation on subgroups within VoiceThread.
+ 
+I'm stuck/needing help (VoiceThread)
+In addition to Muhlenberg's ITMS team, know that VoiceThread's support team is available via email at support@voicethread.com.
+ 
+HYPOTHES.IS TOOL
+I'm new to this (Hypothes.is)
+There are several ways to use Hypothes.is to annotate documents. Please refer to the Muhlenberg Hypothes.is faculty guide and the Hypothes.is student guide for more details and tips/best practices. 
+Likewise, the ITMS team has a prepared video demonstration of how to create an account and get started. Also, know that there are Hypothes.is user guides for faculty and a Hypothes.is guide for students to navigate the tool.
+For a sample of what Hypothes.is can do, please review the Hypothes.is website. Likewise, Hypothes.is offers details regarding their Hypothes.is tool within education, and user videos on YouTube about Hypothes.is.
+Please check back for any updates regarding further integration with Muhlenberg's Learning Management System, Canvas.
+ 
+It's a new semester (Hypothes.is)
+For faculty/staff: This video offers insights on how to get started with Hypothes.is as well as orientation to it. This Muhlenberg Hypothesis video here discusses how to set up groups within Hypothes.is and how to connect readings to the annotation tool of Hypothes.is. Also, this "educator resource guide" from Hypothes.is discusses ways to use Hypothes.is in coursework.
+We also offer videos on how to create Hypothes.is groups for classes, and on creating Hypothes.is accounts.
+For students: This Muhlenberg how to get started video for Hypothesis discusses how to create a Hypothes.is account and connect with a group or class within the tool.
+ 
+I'm stuck/needing help (Hypothes.is)
+Please refer to the Muhlenberg Hypothes.is faculty guide and the Hypothes.is student guide for more details and tips/best practices. Additionally, the Hypothes.is help website has more resources. 
+ 
+MIRRORING 360 TOOL
+I'm new to this (Mirroring 360)
+Mirroring 360 offers several YouTube videos on getting started and navigating the tool. 
+Also, Mirroring 360's website includes documentation on how Mirroring 360 works.
+The ITMS team at Muhlenberg has prepared an orientation video to Mirroring 360 as well.
+ 
+It's a new semester (Mirroring 360)
+Refresh your recollection on how to install the Chrome extension and on how to work Mirroring 360 with the resources in the "I'm new to this" section above, and remember to check your classroom computer for the Mirroring 360 installation.
+ 
+I'm stuck/needing help (Mirroring 360)
+For ideas on how to use Mirroring 360 within classes, you may learn more about the options through the Mirroring360 website.
+Encountering a problem? Check the Mirroring 360 "Frequently Asked Questions" section.
+ 
+Have suggestions for additional items for our new Collaboration Tools website? Please contact the team at itms@muhlenberg.edu with items you will like included or if something you are seeking is not currently present/available.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Office of Information Technology
+
+Instructional Technology and Media Services (ITMS)
+
+
+
+
+
+
+
+
+
+Email
+
+itms@muhlenberg.edu
+
+
+
+
+
+
+
+Telephone
+
+484-664-3455
+
+
+
+
+
+
+
+Address
+
+Muhlenberg College
+Office of Information Technology
+2400 Chew Street
+Allentown, PA 18104
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Muhlenberg College
+
+
+
+
+
+
+
+
+
+
+Muhlenberg College
+2400 Chew St.
+Allentown, 
+PA
+18104
+
+
+
+
+
+
+
+484-664-3100
+
+
+
+
+
+
+
+
+Maps & Directions
+
+
+
+
+
+Accessibility
+
+
+
+
+
+Library
+
+
+
+
+Title IX
+
+
+
+
+
+Employment
+
+
+
+
+
+A-Z Index
+
+
+
+
+
+Conference & Event Services
+
+
+
+
+
+Diversity & Inclusion
+
+
+
+
+
+
+Weather Update
+
+
+
+
+
+
+
+
+Social
+
+
+
+
+
+
+
+
+Facebook
+
+
+
+
+
+
+
+
+Instagram
+
+
+
+
+
+
+
+
+Twitter
+
+
+
+
+
+
+
+
+YouTube
+
+
+
+
+
+
+
+
+LinkedIn
+
+
+
+
+
+
+
+
+							©
+													
+ Muhlenberg College
+
+
+
+
+
+
+
+
+
+
+
+Muhlenburg College
+
+
+
+
+
+
+
+
+
+
+Search
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Who We Are
+
+
+
+
+
+
+
+
+
+
+
+Diversity and Inclusion
+
+
+
+
+Institutional Initiatives
+
+
+
+
+Office of the President
+
+
+
+
+College History
+
+
+
+
+Campus Map
+
+
+
+
+Directory Search
+
+
+
+
+
+
+Admissions
+
+
+
+
+
+
+
+
+
+
+
+Explore Your Visit Options
+
+
+
+
+Early Decision
+
+
+
+
+Regular Decision
+
+
+
+
+Transfer Students
+
+
+
+
+International Students
+
+
+
+
+Adult Accelerated & Evening Programs
+
+
+
+
+Graduate Studies
+
+
+
+
+Tuition and Fees
+
+
+
+
+Financial Aid
+
+
+
+
+First-Year Experience
+
+
+
+
+
+
+Academics
+
+
+
+
+
+
+
+
+
+
+
+Majors, Minors & Certifications
+
+
+
+
+Adult Accelerated & Evening Programs
+
+
+
+
+Summer Study
+
+
+
+
+Graduate Programs
+
+
+
+
+Preprofessional Programs
+
+
+
+
+Academic Partnerships
+
+
+
+
+Honors Programs
+
+
+
+
+Global Education
+
+
+
+
+Our Faculty
+
+
+
+
+Research & Scholarship
+
+
+
+
+
+
+Student Life
+
+
+
+
+
+
+
+
+
+
+
+Housing
+
+
+
+
+Dining
+
+
+
+
+Getting Involved
+
+
+
+
+Athletics
+
+
+
+
+Student Services
+
+
+
+
+Health & Wellness
+
+
+
+
+Religious & Spiritual Life
+
+
+
+
+
+
+Powerful Outcomes
+
+
+
+
+
+
+
+
+
+
+
+The Career Center
+
+
+
+
+Fellowships & Postgraduate Awards
+
+
+
+
+The Muhlenberg Network
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Visit
+
+
+
+
+
+
+
+
+
+Apply
+
+
+
+
+
+
+
+
+
+Request Info
+
+
+
+
+
+
+
+
+
+Give
+
+
+
+
+
+
+
+Info For:
+
+
+
+
+Current Students
+
+
+
+
+
+Alumni & Friends
+
+
+
+
+
+Faculty & Staff
+
+
+
+
+
+Parents
+
+
+
+
+
+
+
+
+
+News
+
+
+
+
+
+Events
+
+
+
+
+
+Athletics
+
+
+
+
+Arts
+
+
+
+
+
+
+
+
+COVID-19 Info
+
+
+
+ 
+ 
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

@@ -1,0 +1,1221 @@
+
+
+
+
+Licensed to Fraulo Race Timing - Contractor License       HY-TEK's Meet Manager
+                2011 Muhlenberg Spring Invitational - 4/2/2011                 
+                             Muhlenberg College PA                             
+                                    Results                                    
+ 
+Event 1  Men Hammer Throw
+=========================================================================
+    Name                    Year School                  Seed     Finals 
+=========================================================================
+Finals
+  1 Devens, Ken                  DeSales               49.57m     49.12m  
+  2 Miller, Hank                 DeSales               47.16m     48.30m  
+  3 Breidinger, Jeff             DeSales               35.89m     38.82m  
+  4 Stazi, Kyle                  Ithaca                35.52m     35.23m  
+  5 Baldwin, Robert              Albright              37.79m     34.08m  
+  6 Kelly, Ian                   Ithaca                           32.45m  
+  7 Gonzalez, Steffen            Albright              27.43m     30.40m  
+  8 Hettinger, Andrew            Albright              27.43m     29.48m  
+  9 Canonico, Dane               Albright              34.74m     28.90m  
+ 10 Yorlets, Wyatt               Mansfield             25.00m     25.49m  
+ 11 Langton, John                DeSales               33.00m     21.74m  
+ -- Leshko, Derrick              DeSales               35.48m       FOUL  
+ 
+Event 2  Women Hammer Throw
+=========================================================================
+    Name                    Year School                  Seed     Finals 
+=========================================================================
+  1 Wade, Ashley                 DeSales               37.39m     37.31m  
+  2 Edkin, Alicia                Mansfield             35.33m     36.69m  
+  3 Klett, Brooke                Mansfield             25.78m     30.89m  
+  4 Wade, Olivia                 DeSales               27.16m     30.20m  
+  5 Stocks, Kammeron             DeSales               30.63m     29.69m  
+  6 moran, Kara                  DeSales               30.40m     27.99m  
+  7 Boyd, Lindsay                Albright              29.87m     27.80m  
+  8 Pallas, Christine            Albright              24.38m     24.22m  
+  9 Garris, Marissa              Mansfield             28.00m     19.25m  
+ 
+Event 3  Men Javelin Throw
+=========================================================================
+    Name                    Year School                  Seed     Finals 
+=========================================================================
+  1 Taylor, Ryan                 Ithaca                48.65m     52.49m  
+  2 Lester, Tom                  Gettysburg            51.81m     51.12m  
+  3 Dresler, Emmett              Ithaca                50.00m     48.73m  
+  4 Hershman, Seth               Muhlenberg            50.54m     47.95m  
+  5 Fleischner, Jesse            Dickinson             48.39m     46.77m  
+  6 Fegley, Jordan               Albright              46.93m     45.75m  
+  7 Harding, Doug                DeSales               47.25m     45.29m  
+  8 Johnson, Chris               Dickinson             44.22m     44.52m  
+  9 Wolfe, Andrew                Muhlenberg            44.19m     43.96m  
+ 10 Flint, Jon                   Muhlenberg            45.11m     43.65m  
+ 11 Hellings, Ryan               Muhlenberg            48.36m     43.18m  
+ 12 Ford, Robby                  Gettysburg            44.90m     42.54m  
+ 13 Moerman, Neil                Albright              45.72m     41.36m  
+ 14 Bingham, John                Dickinson             47.76m     40.95m  
+ 15 Baer, Michael                Muhlenberg            37.73m     40.82m  
+ 16 Reutter, Scott               Muhlenberg            42.67m     40.40m  
+ 17 Regan, Kevin                 DeSales               32.29m     39.50m  
+ 18 Schwartz, Michael            Albright              39.62m     39.22m  
+ 19 Svoboda, Alec                Ithaca                43.93m     39.10m  
+ 20 Noll, Ken                    Alfred                34.00m     38.34m  
+ 21 Schaeffer, Keenan            Elizabethtow          42.67m     37.09m  
+ 22 Majeed, Jawad                Albright              38.10m     34.95m  
+ 23 Lopez, Chris                 Alfred                33.99m     30.79m  
+ 24 Mealey, Chris                Dickinson             33.42m     30.42m  
+ 25 Polino, Dan                  Nazareth                         28.44m  
+ 26 Hubeishy, Moudi              Nazareth                         13.90m  
+ 
+Event 4  Women Javelin Throw
+=========================================================================
+    Name                    Year School                  Seed     Finals 
+=========================================================================
+  1 Keegan, Tara                 Muhlenberg            31.97m     34.03m  
+  2 Trubic, Elley                Mansfield             30.00m     33.87m  
+  3 Stocks, Kammeron             DeSales               27.46m     33.05m  
+  4 Webb, Shannon                DeSales                          32.99m  
+  5 Kroszner, Eileen             Elizabethtow          26.21m     31.12m  
+  6 Bull, Sarah                  Mansfield             28.00m     29.85m  
+  7 Johnson, Chelsea             Dickinson                        28.43m  
+  8 Van Tuyl, Alexandra          Gettysburg            25.99m     27.74m  
+  9 Andrews, Faith               Dickinson             23.50m     25.98m  
+ 10 Hartz, Celia                 Gettysburg            28.28m     24.54m  
+ 11 DeGeorge, Sarah              Elizabethtow          27.43m     24.47m  
+ 12 Haigler, Daniella            Dickinson             25.00m     24.01m  
+ 13 Beck, Kelly-Jo               Alfred                24.67m     23.92m  
+ 14 Consiglio, Ann Marie         DeSales               21.43m     22.23m  
+ 15 Boyd, Lindsay                Albright              21.33m     22.22m  
+ 16 O'Reilly, Alexandra          Gettysburg            24.08m     21.92m  
+ 17 Murphy, Kayla                Nazareth                         15.07m  
+ 
+Event 5  Men Discus Throw
+=========================================================================
+    Name                    Year School                  Seed     Finals 
+=========================================================================
+  1 Hochard, Jacob               Gettysburg            41.01m     43.64m  
+  2 Miller, Hank                 DeSales               40.00m     42.54m  
+  3 Gordon, Corwyn               Dickinson             37.78m     40.02m  
+  4 Hettinger, Andrew            Albright              35.35m     39.85m  
+  5 Ross, Shawn                  Alfred                40.49m     39.21m  
+  6 Stahley, Joseph              Dickinson             37.98m     38.96m  
+  7 Tucker, Mike                 Dickinson             36.27m     38.13m  
+  8 Gamrat, Jim                  Muhlenberg            38.10m     37.84m  
+  9 Breidinger, Jeff             DeSales               37.32m     37.01m  
+ 10 Devens, Ken                  DeSales               39.29m     36.38m  
+ 11 Layng, Brian                 Elizabethtow          33.00m     35.82m  
+ 12 Colder, Karl                 Muhlenberg            35.05m     35.79m  
+ 13 Lester, Tom                  Gettysburg            30.48m     35.20m  
+ 14 Caslin, Casey                Dickinson             32.00m     35.08m  
+ 15 Gonzalez, Steffen            Albright              33.52m     34.65m  
+ 16 Canonico, Dane               Albright              33.22m     34.60m  
+ 17 Obold, Daniel                Elizabethtow          33.52m     34.25m  
+ 18 Hershman, Seth               Muhlenberg            38.61m     34.12m  
+ 19 Kelly, Ian                   Ithaca                38.64m     33.54m  
+ 20 Dayhoff, Lucas               Elizabethtow          30.48m     32.87m  
+ 21 Taylor, Ryan                 Ithaca                33.90m     32.62m  
+ 22 McCarty, Clay                Mansfield             40.00m     32.52m  
+ 23 Majeed, Jawad                Albright              35.05m     32.28m  
+ 24 Reutter, Scott               Muhlenberg            31.79m     31.87m  
+ 25 Schaeffer, Keenan            Elizabethtow          30.48m     28.44m  
+ 26 Ford, Robby                  Gettysburg            33.49m     28.43m  
+ 27 Svoboda, Alec                Ithaca                27.45m     27.85m  
+ 28 Baer, Michael                Muhlenberg            27.80m     27.10m  
+ 29 Dresler, Emmett              Ithaca                35.00m     25.60m  
+ 30 Jokic, Stephan               DeSales                          23.80m  
+ 31 Polino, Dan                  Nazareth                         23.62m  
+ 32 Yorlets, Wyatt               Mansfield             25.00m     23.08m  
+ 33 Stadtmueller, Shane          Alfred                33.00m     22.54m  
+ 34 Cutler, Nick                 Gettysburg            16.74m     17.46m  
+ 35 Hubeishy, Moudi              Nazareth                         16.52m  
+ 
+Event 6  Women Discus Throw
+=========================================================================
+    Name                    Year School                  Seed     Finals 
+=========================================================================
+  1 Heeren, Emily                Gettysburg            32.61m     35.30m  
+  2 Schmalzer, Erinne            DeSales               29.89m     32.96m  
+  3 Ward, Leslie                 Dickinson             28.85m     31.07m  
+  4 Beck, Kelly-Jo               Alfred                29.79m     30.81m  
+  5 Trubic, Elley                Mansfield             29.00m     30.76m  
+  6 McNamara, Kelly              Alfred                           30.68m  
+  7 Hartz, Celia                 Gettysburg            31.40m     30.61m  
+  8 Kroszner, Eileen             Elizabethtow          28.95m     30.06m  
+  9 Edkin, Alicia                Mansfield             28.77m     29.57m  
+ 10 wade, ashley                 DeSales               30.27m     29.25m  
+ 11 DeGeorge, Sarah              Elizabethtow          32.61m     29.01m  
+ 12 Stocks, Kammeron             DeSales               25.78m     28.16m  
+ 13 Saucier, Erin                Muhlenberg            30.48m     27.94m  
+ 14 Kirsch, Jennifer             Alfred                           27.30m  
+ 15 Kurtz, Carissa               Dickinson             24.50m     25.89m  
+ 16 O'Reilly, Alexandra          Gettysburg            21.32m     25.60m  
+ 17 Pallas, Christine            Albright              27.43m     25.28m  
+ 18 Klett, Brooke                Mansfield             18.98m     24.10m  
+ 19 Davenport, Justine           Dickinson             23.85m     23.85m  
+ 20 Cook, Kirstin                Alfred                27.18m     23.65m  
+ 21 Wade, Olivia                 DeSales               24.27m     23.31m  
+ 22 moran, Kara                  DeSales               24.46m     22.52m  
+ 23 Summerville, Kayla           Alfred                25.14m     20.23m  
+ 24 Bollman, Megan               Muhlenberg            25.90m     19.42m  
+ 25 Consiglio, Ann Marie         DeSales               19.50m     18.76m  
+ 
+Event 7  Men Shot Put
+=========================================================================
+    Name                    Year School                  Seed     Finals 
+=========================================================================
+  1 Ross, Shawn                  Alfred                15.47m     14.39m  
+  2 Tucker, Mike                 Dickinson             15.31m     13.83m  
+  3 Canonico, Dane               Albright              13.84m     13.46m  
+  4 Gordon, Corwyn               Dickinson             14.68m     13.45m  
+  5 McCarty, Clay                Mansfield             12.60m     13.15m  
+  6 Devens, Ken                  DeSales               13.00m     13.12m  
+  6 Dayhoff, Lucas               Elizabethtow          13.10m     13.12m  
+  8 Langton, John                DeSales               13.89m     13.00m  
+  9 Osborne, Jason               Alfred                12.00m     12.88m  
+ 10 Gonzalez, Steffen            Albright              13.03m     12.45m  
+ 11 Caslin, Casey                Dickinson             12.77m     12.22m  
+ 12 Lester, Tom                  Gettysburg            12.72m     12.19m  
+ 13 Breidinger, Jeff             DeSales               12.44m     12.08m  
+ 14 Hershman, Seth               Muhlenberg            13.61m     11.50m  
+ 15 Smith-Chant, Ray             Albright              12.42m     11.40m  
+ 16 Hochard, Jacob               Gettysburg            12.38m     11.10m  
+ 17 Stahley, Joseph              Dickinson             13.43m     10.98m  
+ 18 Kelly, Ian                   Ithaca                12.19m     10.71m  
+ 19 Schaeffer, Keenan            Elizabethtow          11.58m     10.53m  
+ 20 Gamrat, Jim                  Muhlenberg            10.66m     10.41m  
+ 21 Stazi, Kyle                  Ithaca                12.09m     10.12m  
+ 22 Svoboda, Alec                Ithaca                10.79m      9.80m  
+ 23 Baldwin, Robert              Albright              11.27m      9.56m  
+ 24 Yorlets, Wyatt               Mansfield             10.00m      9.41m  
+ 25 Wolfe, Andrew                Muhlenberg             9.78m      8.86m  
+ 26 Ford, Robby                  Gettysburg             9.75m      8.79m  
+ 27 Baer, Michael                Muhlenberg             8.26m      8.77m  
+ 28 Taylor, Ryan                 Ithaca                 9.60m      8.75m  
+ 29 Cutler, Nick                 Gettysburg             8.48m      8.27m  
+ 
+Event 8  Women Shot Put
+=========================================================================
+    Name                    Year School                  Seed     Finals 
+=========================================================================
+  1 Schmalzer, Erinne            DeSales               12.32m     11.10m  
+  2 Wade, Olivia                 DeSales               11.71m     10.56m  
+  3 Kroszner, Eileen             Elizabethtow          10.66m     10.34m  
+  4 McNamara, Kelly              Alfred                10.10m      9.85m  
+  5 wade, ashley                 DeSales               10.42m      9.81m  
+  6 Hartz, Celia                 Gettysburg             9.44m      9.63m  
+  7 Stocks, Kammeron             DeSales               10.09m      9.38m  
+  8 Kurtz, Carissa               Dickinson              9.63m      9.30m  
+  9 Gold, Allie                  Elizabethtow           9.44m      9.29m  
+ 10 Garris, Marissa              Mansfield              9.00m      9.19m  
+ 11 Ward, Leslie                 Dickinson              9.75m      9.08m  
+ 12 Edkin, Alicia                Mansfield             11.00m      9.05m  
+ 13 Davenport, Justine           Dickinson              9.75m      9.00m  
+ 14 Keegan, Tara                 Muhlenberg             9.44m      8.98m  
+ 15 Beck, Kelly-Jo               Alfred                10.12m      8.87m  
+ 16 Kirsch, Jennifer             Alfred                 9.35m      8.86m  
+ 17 moran, Kara                  DeSales               10.41m      8.83m  
+ 18 DeGeorge, Sarah              Elizabethtow           9.44m      8.80m  
+ 19 Pallas, Christine            Albright               8.83m      8.58m  
+ 20 Heeren, Emily                Gettysburg             8.83m      8.40m  
+ 21 Boyd, Lindsay                Albright               8.96m      8.35m  
+ 22 Klett, Brooke                Mansfield              9.07m      8.26m  
+ 23 O'Reilly, Alexandra          Gettysburg             8.00m      7.33m  
+ 24 Summerville, Kayla           Alfred                 8.75m      7.31m  
+ 25 Johnson, Chelsea             Dickinson              6.00m      7.20m  
+ 26 Van Tuyl, Alexandra          Gettysburg             7.92m      6.98m  
+ 27 Goldsby, Aigne               Bryn Mawr              6.50m      6.79m  
+ 28 Hogan, Jessica               Nazareth               6.77m      6.65m  
+ 
+Event 9  Men Long Jump
+=========================================================================
+    Name                    Year School                  Seed     Finals 
+=========================================================================
+  1 Devins, Kyle                 Ithaca                 6.55m      7.19m  
+  2 Maley, Brian                 Ithaca                 6.62m      6.69m  
+  3 Lopez, Chris                 Alfred                 6.25m      6.56m  
+  4 Brookland, Marc              Muhlenberg             6.54m      6.46m  
+  5 Willis, Jake                 Ithaca                 6.47m      6.43m  
+  6 Bingham, John                Dickinson              5.61m      6.19m  
+  7 Esterly, Brandon             DeSales                6.22m      6.08m  
+  8 Schwab, Nick                 Dickinson              5.55m      6.03m  
+  9 Foster-Felder, Ashanti       Gettysburg             6.39m      6.00m  
+ 10 DiLella, Sean                DeSales                           5.88m  
+ 11 MacNiven, Andrew             DeSales                6.10m      5.86m  
+ 12 Johnson, Chris               Dickinson              5.70m      5.84m  
+ 13 Wolfe, Alex                  Muhlenberg             5.74m      5.79m  
+ 14 Ullman, Jake                 Muhlenberg             5.85m      5.74m  
+ 15 Clifford, Pat                DeSales                6.12m      5.69m  
+ 16 Ford, Robby                  Gettysburg             5.73m      5.66m  
+ 17 Aumen, Brendan               Elizabethtow           5.79m      5.58m  
+ 18 Ambrosino, Eric              Ithaca                 6.61m      5.52m  
+ 19 Hultz, Nicholas              Albright               5.18m      5.50m  
+ 20 Fogler, Mike                 Dickinson              5.50m      5.38m  
+ 21 Layng, Brian                 Elizabethtow           5.65m      5.23m  
+ 22 Cassin, Isaiah               Alfred                 5.11m      5.09m  
+ 
+Event 10  Women Long Jump
+=========================================================================
+    Name                    Year School                  Seed     Finals 
+=========================================================================
+  1 Niedermayer, Jenna           Elizabethtow           5.33m      5.20m  
+  2 Van Tuyl, Alexandra          Gettysburg             4.64m      4.92m  
+  3 Carnevale, Stephanie         Muhlenberg             4.70m      4.91m  
+  4 Miller, Mackenzie            Albright               4.57m      4.82m  
+  5 Dunushinghe, Kaushiki        Bryn Mawr              4.83m      4.71m  
+  6 Johnson, Chelsea             Dickinson              3.98m      4.69m  
+  7 Pettit, Corine               Alfred                 4.76m      4.65m  
+  8 Pisani, Nicole               Muhlenberg             4.60m      4.56m  
+  9 McKenzie, Kayla              Elizabethtow           4.57m      4.35m  
+ 10 Miranda, Jennifer            Alfred                 4.20m      4.29m  
+ 11 Gadomski, Sarah              Muhlenberg             4.67m      4.20m  
+ 12 De Monte, Elizabeth          Alfred                 4.36m      4.16m  
+ 13 Minichiello, Elise           Dickinson              3.50m      4.13m  
+ 14 Kahelin, Rachel              Bryn Mawr              3.51m      3.43m  
+ -- kelly, katie                 DeSales                4.17m       FOUL  
+ 
+Event 11  Men Triple Jump
+=========================================================================
+    Name                    Year School                  Seed     Finals 
+=========================================================================
+  1 Fauntleroy, Trevin           Elizabethtow          13.10m     13.55m  
+  2 Roush, Evan                  Alfred                13.02m     13.48m  
+  3 Fox, Austin                  Alfred                12.50m     13.33m  
+  4 Johnson, Travis              Ithaca                12.78m     12.97m  
+  5 Fox, Neal                    DeSales               12.20m     12.84m  
+  5 Purcell, Dan                 Ithaca                12.97m     12.84m  
+  7 Spalding, Les                Ithaca                12.19m     12.77m  
+  8 MacNiven, Andrew             DeSales               12.66m     12.62m  
+  9 Aumen, Brendan               Elizabethtow          12.19m     12.55m  
+ 10 Johnson, Chris               Dickinson             11.90m     12.37m  
+ 11 Gamble, Jonathan             Nazareth                         12.06m  
+ 12 Esterly, Brandon             DeSales               12.41m     11.92m  
+ 13 Clifford, Pat                DeSales               11.86m     11.40m  
+ 14 Mealey, Chris                Dickinson             11.71m     11.36m  
+ 15 Berzon, Marcus               Dickinson             10.64m     10.96m  
+ 16 Wolowski, Nick               Dickinson             10.43m     10.81m  
+ -- Hultz, Nicholas              Albright              10.97m       FOUL  
+ 
+Event 12  Women Triple Jump
+=========================================================================
+    Name                    Year School                  Seed     Finals 
+=========================================================================
+  1 Van Tuyl, Alexandra          Gettysburg            10.21m     10.53m  
+  2 Custer, Kristi               Nazareth              11.12m     10.49m  
+  3 Pettit, Corine               Alfred                 9.89m     10.26m  
+  4 kurowski, allison            DeSales               10.47m     10.06m  
+  5 Miller, Mackenzie            Albright              10.31m      9.96m  
+  6 Carnevale, Stephanie         Muhlenberg             9.82m      9.54m  
+  7 kelly, katie                 DeSales                9.23m      9.46m  
+  8 Heeren, Emily                Gettysburg            10.21m      9.42m  
+  9 McKenzie, Kayla              Elizabethtow           8.83m      9.01m  
+ 
+Event 13  Men Pole Vault
+=========================================================================
+    Name                    Year School                  Seed     Finals 
+=========================================================================
+  1 Brady, Kevin                 Elizabethtow           4.10m      4.19m  
+  2 Runciman, Clark              Albright               3.96m      3.81m  
+  3 Hellings, Ryan               Muhlenberg             3.95m      3.66m  
+  4 Mathias, Adam                DeSales                3.95m     J3.66m  
+  5 Mealey, Chris                Dickinson              3.60m      3.35m  
+  6 Courter, Clayton             Albright               3.20m      3.20m  
+  7 Ford, Robby                  Gettysburg             3.49m      3.05m  
+ 
+Event 14  Women Pole Vault
+=========================================================================
+    Name                    Year School                  Seed     Finals 
+=========================================================================
+  1 Tsiknas, Alexa               Mansfield              3.67m      3.50m  
+  2 Graudons, Rebecca            Alfred                 3.37m      3.20m  
+  3 Loranger, Monica             Elizabethtow           3.10m      3.05m  
+  4 Saucier, Erin                Muhlenberg             3.20m      2.90m  
+  5 Biondi, Breanne              Muhlenberg             2.90m      2.74m  
+  5 Hinkeldey, Eva               Gettysburg             2.89m      2.74m  
+  5 Schmidt, Chelsea             DeSales                2.90m      2.74m  
+  8 Gompers, Nancy               Elizabethtow           2.60m      2.44m  
+  9 Heeren, Emily                Gettysburg             2.89m      2.13m  
+ -- Rubenstein, Jamie            Muhlenberg             1.84m         NH  
+ 
+Event 15  Men High Jump
+=========================================================================
+    Name                    Year School                  Seed     Finals 
+=========================================================================
+  1 Gewirtz, Justin              Albright               2.00m      1.93m  
+  2 Wilkins, Brendan             Ithaca                 1.93m      1.88m  
+  2 MacNiven, Andrew             DeSales                1.98m      1.88m  
+  2 Stahlmann, Chris             Ithaca                 1.84m      1.88m  
+  5 Cassin, Isaiah               Alfred                 1.89m      1.83m  
+  5 Fauntleroy, Trevin           Elizabethtow           1.87m      1.83m  
+  7 Schwab, Nick                 Dickinson              1.70m      1.78m  
+  8 Hultz, Nicholas              Albright               1.72m      1.73m  
+  8 Parisi, Tyler                DeSales                1.83m      1.73m  
+  8 Ferris, Connor               Alfred                 1.60m      1.73m  
+ 11 Senseney, Tom                Gettysburg             1.67m      1.68m  
+ 11 Bingham, John                Dickinson              1.65m      1.68m  
+ 13 Fleischner, Jesse            Dickinson              1.65m      1.58m  
+ -- Ambrosino, Eric              Ithaca                 1.78m         NH  
+ -- Hellings, Ryan               Muhlenberg             1.65m         NH  
+ -- Mealey, Chris                Dickinson              1.59m         NH  
+ 
+Event 16  Women High Jump
+=========================================================================
+    Name                    Year School                  Seed     Finals 
+=========================================================================
+  1 Niebuhr, Melinda             Nazareth               1.63m      1.60m  
+  2 Faust, Colette               Muhlenberg             1.56m      1.58m  
+  3 De Monte, Elizabeth          Alfred                 1.48m      1.53m  
+  4 Graudons, Rebecca            Alfred                 1.53m     J1.53m  
+  5 Johnson, Chelsea             Dickinson              1.45m      1.48m  
+  6 Loranger, Monica             Elizabethtow           1.60m      1.43m  
+  7 Adair, Kate                  Gettysburg             1.37m     J1.43m  
+ 
+Event 17  Women 5000 Meter Run
+=========================================================================
+    Name                    Year School                  Seed     Finals 
+=========================================================================
+  1 Cody, Eileen                 Elizabethtow        17:35.00   17:40.84  
+  2 Tempone, Traci               Elizabethtow        17:35.00   17:43.91  
+  3 O'Brien, Kristen             Elizabethtow        18:45.00   18:19.29  
+  4 Patterson, Sara              Dickinson           19:27.30   18:46.51  
+  5 Chegwidden, Kait             Mansfield           18:28.00   18:48.75  
+  6 Scordino, Jessica            Mansfield           18:45.00   18:49.58  
+  7 Esposito, Christine          Gettysburg          18:20.56   18:58.54  
+  8 Greenberg, Ashley            Muhlenberg          18:45.24   19:16.41  
+  9 Riley, Maeva                 Dickinson           19:45.00   19:19.28  
+ 10 Kronauer, Kristina           Bryn Mawr           19:25.00   19:20.00  
+ 11 Pellowe, Amanda              Gettysburg          19:42.20   19:21.33  
+ 12 Kratz, Becky                 Mansfield           19:09.43   19:23.39  
+ 13 Bull, Alexandra              Gettysburg          19:31.45   19:34.66  
+ 14 Lee, Amy                     Mansfield           19:54.00   19:39.10  
+ 15 Hummel, Kimberly             Albright            20:00.00   20:18.62  
+ 16 Bambling, Margaret           Mansfield           20:59.82   20:38.98  
+ 17 Gillette, Michelle           Nazareth            20:10.59   20:47.19  
+ 18 harmon, cassie               DeSales             20:17.70   20:57.70  
+ 19 Hickok, Samantha             Nazareth                       21:04.02  
+ 20 Althaus, Bethany             Nazareth            20:44.89   21:10.48  
+ 21 costello, colleen            DeSales                        21:43.01  
+ 22 Randall, Megan               Dickinson           21:35.61   21:45.28  
+ 23 Wetzel, Christina            Philadelphia        20:30.00   22:00.51  
+ 24 hughes, sam                  DeSales             22:40.00   23:42.53  
+ -- Constad, Alyssa              Dickinson           19:40.00        DNF  
+ 
+Event 18  Men 3000 Meter Steeplechase
+=========================================================================
+    Name                    Year School                  Seed     Finals 
+=========================================================================
+  1 Greco, Rich                  Elizabethtow         9:48.00    9:55.33  
+  2 Ferretti, Andrew             DeSales             10:10.00   10:00.45  
+  3 Dye, Tyler                   Philadelphia        10:18.00   10:11.52  
+  4 Lykens, Matt                 DeSales             11:00.00   10:39.73  
+  5 Thompson, Chris              King's (Pa.)        12:23.31   11:59.29  
+  6 McAndrew, Jeremy             King's (Pa.)        12:45.00   11:59.73  
+  7 Showalter, Mason             Gettysburg          11:50.45   12:11.66  
+  8 MacNeal, Bob                 King's (Pa.)        12:00.00   12:16.64  
+ 
+Event 19  Women 3000 Meter Steeplechase
+=========================================================================
+    Name                    Year School                  Seed     Finals 
+=========================================================================
+  1 Patton, Megan                Elizabethtow        12:00.00   11:55.65  
+  2 Tursi, Megan                 Elizabethtow        12:00.00   11:57.97  
+  3 Dyroff, Anne                 Dickinson           12:32.48   12:03.58  
+  4 Knight, Emily                Dickinson           12:47.36   12:23.77  
+  5 Borsellino, Lisa             Dickinson           12:30.00   12:26.10  
+  6 Beshore, Teresa              Elizabethtow        12:45.00   12:36.88  
+  7 Nellis, Eliana               Elizabethtow        12:30.00   12:44.59  
+  8 Schneider, Anna              Gettysburg          13:20.00   12:58.49  
+  9 Howard, Jessi                Elizabethtow        12:45.00   13:44.76  
+ 10 Stine, Gabrielle             Albright            13:00.00   13:54.05  
+ 
+Event 20  Women 4x100 Meter Relay
+============================================================================
+    School                                               Seed     Finals  H#
+============================================================================
+  1 Albright  'A'                                       51.10      53.04   2 
+     1) Loos, Shannon                   2) Higgs, Danisha                 
+     3) Loos, Meghan                    4) Kutz, Taylor                   
+  2 Alfred  'A'                                         52.28      53.90   2 
+     1) Larkins, Jordyn                 2) Parker, Eliza                  
+     3) Jeffries, Armoni                4) Miranda, Jennifer              
+  3 DeSales  'A'                                        53.00      54.03   2 
+     1) Sabens, Meredith                2) Kunkle, Renee                  
+     3) Diffenderfer, Katlyn            4) gavin, colleen                 
+  4 Elizabethtown  'A'                                  53.00      54.32   2 
+     1) Lockwood, Ashley                2) Jaraczewski, Pam               
+     3) Fogel, Katy                     4) Gold, Allie                    
+  5 Bryn Mawr  'A'                                      53.50      54.33   2 
+     1) Goldsby, Aigne                  2) Dunushinghe, Kaushiki          
+     3) Kahelin, Rachel                 4) Stewart, April                 
+  6 Muhlenberg  'A'                                     51.80      55.10   2 
+     1) Carnevale, Stephanie            2) Pisani, Nicole                 
+     3) Daniels, Alexandra              4) Keegan, Tara                   
+  7 Nazareth  'A'                                       53.00      55.29   2 
+     1) Niebuhr, Melinda                2) Wyant, Katie                   
+     3) Sudore, Amanda                  4) Custer, Kristi                 
+  8 Alfred  'B'                                                    57.84   2 
+     1) Rojas, Samantha                 2) Garcia, Victoria               
+     3) Pettit, Corine                  4) Hall, Chelsea                  
+ 
+Event 21  Men 4x100 Meter Relay
+============================================================================
+    School                                               Seed     Finals  H#
+============================================================================
+  1 Gettysburg  'A'                                     43.66      44.78   2 
+     1) Dowd, Mitch                     2) Senseney, Tom                  
+     3) Thon, Sean                      4) Bay, Andrew                    
+  2 DeSales  'A'                                        43.93      44.93   2 
+     1) Hastings, Ryan                  2) Phillips, Wendell              
+     3) Altpeter, Eric                  4) Moreni, Pete                   
+  3 Muhlenberg  'A'                                     43.95      45.10   2 
+     1) Davis, Darnell                  2) Onimus, Andrew                 
+     3) Vaughn, Isaiah                  4) Rice, Peter                    
+  4 Alfred  'A'                                         43.95      45.60   2 
+     1) Lopez, Chris                    2) Weaver, Jeremy                 
+     3) Fox, Austin                     4) Scott, Richard                 
+  5 Ithaca  'A'                                         43.21      46.08   2 
+     1) Addicott, Greg                  2) Willis, Jake                   
+     3) Maley, Brian                    4) Moloney, Dan                   
+  6 Nazareth  'A'                                       49.70      46.61   1 
+     1) Mersereau, Marcus               2) Lafaver, Zach                  
+     3) Gamble, Jonathan                4) Lafaver, Jake                  
+  7 Albright  'A'                                       45.42      47.37   1 
+     1) Potter, Sean                    2) Grove, Christopher             
+     3) Rennie, Oshane                  4) Courter, Clayton               
+  8 Ithaca  'C'                                         45.67      47.80   1 
+     1) Johnson, Travis                 2) Ambrosino, Eric                
+     3) Spalding, Les                   4) Stahlmann, Chris               
+  9 Alfred  'B'                                         44.20      48.42   2 
+     1) Echevarria, Derek               2) Hernandez, Roberto             
+     3) Hunter, Derrick                 4) Ferris, Connor                 
+ 10 Ithaca  'B'                                         44.75      48.64   2 
+     1) Moin, Alex                      2) Tapler, Ian                    
+     3) Orenstein, Julian               4) Confer, Matt                   
+ 
+Event 22  Women 100 Meter Hurdles
+============================================================================
+    Name                    Year School                  Seed    Prelims  H#
+============================================================================
+Preliminaries
+  1 Gold, Allie                  Elizabethtow           15.90      16.17q  2 
+  2 Carnevale, Stephanie         Muhlenberg             15.45      16.24q  3 
+  3 Parker, Eliza                Alfred                 17.00      16.81q  3 
+  4 Van Tuyl, Alexandra          Gettysburg             16.80      17.06q  2 
+  5 Brennan, Amanda              Muhlenberg             16.50      17.15q  1 
+  6 Hall, Chelsea                Alfred                 17.20      17.16q  3 
+  7 Miller, Mackenzie            Albright               18.81      17.29q  2 
+  8 Custer, Kristi               Nazareth                          17.37q  1 
+  9 Webb, Shannon                DeSales                           17.38   3 
+ 10 Lipari, Nicole               Elizabethtow           18.00      18.19   1 
+ 11 Pisani, Nicole               Muhlenberg             17.50      18.84   1 
+ 12 Wojtkowski, Amber Lee        Muhlenberg             18.01      19.19   2 
+ 13 De Monte, Elizabeth          Alfred                 17.50      19.21   2 
+ 14 Van Clief, Kelly             Elizabethtow           18.50      19.34   3 
+ 15 Lindstrom, Alyssa            Nazareth                          19.75   2 
+ 16 Keegan, Tara                 Muhlenberg             18.94      19.89   1 
+ 17 Goldsby, Aigne               Bryn Mawr              18.18      20.27   3 
+ 18 ellenberger, lisa            DeSales                19.50      22.29   2 
+ 19 Johnson, Chelsea             Dickinson              20.92      25.29   3 
+ 
+Event 22  Women 100 Meter Hurdles
+=========================================================================
+    Name                    Year School               Prelims     Finals 
+=========================================================================
+Finals
+  1 Gold, Allie                  Elizabethtow           16.17             
+  2 Carnevale, Stephanie         Muhlenberg             16.24             
+  3 Parker, Eliza                Alfred                 16.81             
+  4 Van Tuyl, Alexandra          Gettysburg             17.06             
+  5 Brennan, Amanda              Muhlenberg             17.15             
+  6 Hall, Chelsea                Alfred                 17.16             
+  7 Miller, Mackenzie            Albright               17.29             
+  8 Custer, Kristi               Nazareth               17.37             
+Preliminaries
+  9 Webb, Shannon                DeSales                17.38             
+ 10 Lipari, Nicole               Elizabethtow           18.19             
+ 11 Pisani, Nicole               Muhlenberg             18.84             
+ 12 Wojtkowski, Amber Lee        Muhlenberg             19.19             
+ 13 De Monte, Elizabeth          Alfred                 19.21             
+ 14 Van Clief, Kelly             Elizabethtow           19.34             
+ 15 Lindstrom, Alyssa            Nazareth               19.75             
+ 16 Keegan, Tara                 Muhlenberg             19.89             
+ 17 Goldsby, Aigne               Bryn Mawr              20.27             
+ 18 ellenberger, lisa            DeSales                22.29             
+ 19 Johnson, Chelsea             Dickinson              25.29             
+ 
+Event 23  Men 110 Meter Hurdles
+============================================================================
+    Name                    Year School                  Seed    Prelims  H#
+============================================================================
+  1 Fox, Neal                    DeSales                16.00      15.98q  1 
+  2 Rosenberger, Nick            Gettysburg             15.70      16.02q  1 
+  3 Confer, Matt                 Ithaca                 15.62      16.13q  2 
+  4 Rennie, Oshane               Albright               16.13      16.59q  2 
+  5 Brady, Kevin                 Elizabethtow           17.00      16.83q  1 
+  6 Dagenais, Ryan               DeSales                16.81      17.21q  1 
+  7 Aumen, Brendan               Elizabethtow           17.50      17.60q  2 
+  8 Ford, Robby                  Gettysburg             16.75      17.76q  1 
+  9 Moloney, Dan                 Ithaca                 16.54      17.92   2 
+ 10 Svoboda, Alec                Ithaca                 16.89      18.41   2 
+ 11 Layng, Brian                 Elizabethtow           18.00      18.63   1 
+ 12 Reutter, Scott               Muhlenberg             17.65      18.98   2 
+ 13 Mealey, Chris                Dickinson              18.63      19.10   1 
+ 14 Tapler, Ian                  Ithaca                 17.00      19.46   1 
+ 15 Bingham, John                Dickinson              19.98      19.65   2 
+ 16 Jokic, Stephan               DeSales                16.90      21.40   2 
+ 
+Event 23  Men 110 Meter Hurdles
+=========================================================================
+    Name                    Year School               Prelims     Finals 
+=========================================================================
+Finals
+  1 Rosenberger, Nick            Gettysburg             16.02      15.70  
+  2 Fox, Neal                    DeSales                15.98      15.78  
+  3 Confer, Matt                 Ithaca                 16.13      15.89  
+  4 Rennie, Oshane               Albright               16.59      16.39  
+  5 Dagenais, Ryan               DeSales                17.21      16.58  
+  6 Aumen, Brendan               Elizabethtow           17.60      16.90  
+  7 Brady, Kevin                 Elizabethtow           16.83      17.47  
+  8 Ford, Robby                  Gettysburg             17.76      18.67  
+Preliminaries
+  9 Moloney, Dan                 Ithaca                 17.92             
+ 10 Svoboda, Alec                Ithaca                 18.41             
+ 11 Layng, Brian                 Elizabethtow           18.63             
+ 12 Reutter, Scott               Muhlenberg             18.98             
+ 13 Mealey, Chris                Dickinson              19.10             
+ 14 Tapler, Ian                  Ithaca                 19.46             
+ 15 Bingham, John                Dickinson              19.65             
+ 16 Jokic, Stephan               DeSales                21.40             
+ 
+Event 24  Women 100 Meter Dash
+============================================================================
+    Name                    Year School                  Seed    Prelims  H#
+============================================================================
+  1 Diffenderfer, Katlyn         DeSales                12.82      12.88q  4 
+  2 Higgs, Danisha               Albright               12.99      12.91q  3 
+  3 Good, Caitie                 Mansfield              12.54      13.05q  5 
+  4 Waltz, Abbie                 Mansfield              13.10      13.34q  1 
+  5 Stewart, April               Bryn Mawr              13.05      13.39q  2 
+  6 Larkins, Jordyn              Alfred                 13.29      13.40q  1 
+  6 Kutz, Taylor                 Albright               13.29      13.40q  2 
+  8 Niedermayer, Jenna           Elizabethtow           13.50      13.49q  5 
+  9 Kunkle, Renee                DeSales                           13.57   3 
+ 10 Dunushinghe, Kaushiki        Bryn Mawr              13.40      13.62   5 
+ 11 Jaraczewski, Pam             Elizabethtow           13.30      13.73   3 
+ 12 Jeffries, Armoni             Alfred                 13.40      13.77   4 
+ 13 Lockwood, Ashley             Elizabethtow           13.50      13.78   3 
+ 14 Royce, Marianne              Gettysburg             13.62      13.86   1 
+ 15 Loos, Shannon                Albright               13.57      13.89   2 
+ 16 Taylor, Shelby               King's (Pa.)           13.63      13.98   1 
+ 17 Graudons, Rebecca            Alfred                 13.50      14.65   4 
+ 18 Sabens, Meredith             DeSales                           14.66   4 
+ 19 Sudore, Amanda               Nazareth                          14.68   5 
+ 20 Burton, Jess                 Elizabethtow           14.90      15.01   3 
+ 21 Messner, Candace             Albright               14.29      15.08   2 
+ 22 Minichiello, Elise           Dickinson                         15.42   1 
+ 23 Bonomo, Melia                Dickinson              15.00      15.66   5 
+ 24 Kerl, Clare                  King's (Pa.)           15.00      15.70   4 
+ 25 Smith, Alexandra             Nazareth                          15.83   3 
+ 26 Herman, Caroline             Bryn Mawr              17.20      15.96   2 
+ 27 Harling, Sarah               Nazareth                          16.17   4 
+ 28 Garcia, Victoria             Alfred                 17.23      16.56   1 
+ 29 Giller, Corrinne             Nazareth                          16.63   5 
+ 
+Event 24  Women 100 Meter Dash
+=========================================================================
+    Name                    Year School               Prelims     Finals 
+=========================================================================
+Finals
+  1 Diffenderfer, Katlyn         DeSales                12.88      12.71  
+  2 Higgs, Danisha               Albright               12.91      12.88  
+  3 Good, Caitie                 Mansfield              13.05      12.97  
+  4 Stewart, April               Bryn Mawr              13.39      13.29  
+  5 Larkins, Jordyn              Alfred                 13.40      13.34  
+  6 Waltz, Abbie                 Mansfield              13.34      13.46  
+  7 Kutz, Taylor                 Albright               13.40      13.50  
+  8 Niedermayer, Jenna           Elizabethtow           13.49      13.53  
+Preliminaries
+  9 Kunkle, Renee                DeSales                13.57             
+ 10 Dunushinghe, Kaushiki        Bryn Mawr              13.62             
+ 11 Jaraczewski, Pam             Elizabethtow           13.73             
+ 12 Jeffries, Armoni             Alfred                 13.77             
+ 13 Lockwood, Ashley             Elizabethtow           13.78             
+ 14 Royce, Marianne              Gettysburg             13.86             
+ 15 Loos, Shannon                Albright               13.89             
+ 16 Taylor, Shelby               King's (Pa.)           13.98             
+ 17 Graudons, Rebecca            Alfred                 14.65             
+ 18 Sabens, Meredith             DeSales                14.66             
+ 19 Sudore, Amanda               Nazareth               14.68             
+ 20 Burton, Jess                 Elizabethtow           15.01             
+ 21 Messner, Candace             Albright               15.08             
+ 22 Minichiello, Elise           Dickinson              15.42             
+ 23 Bonomo, Melia                Dickinson              15.66             
+ 24 Kerl, Clare                  King's (Pa.)           15.70             
+ 25 Smith, Alexandra             Nazareth               15.83             
+ 26 Herman, Caroline             Bryn Mawr              15.96             
+ 27 Harling, Sarah               Nazareth               16.17             
+ 28 Garcia, Victoria             Alfred                 16.56             
+ 29 Giller, Corrinne             Nazareth               16.63             
+ 
+Event 25  Men 100 Meter Dash
+============================================================================
+    Name                    Year School                  Seed    Prelims  H#
+============================================================================
+  1 Bay, Andrew                  Gettysburg             11.25      11.38q  5 
+  2 Phillips, Wendell            DeSales                11.35      11.46q  3 
+  3 Willis, Jake                 Ithaca                 11.45      11.48q  1 
+  4 Keri, Carl                   DeSales                11.70      11.62q  1 
+  5 Lopez, Chris                 Alfred                 11.52      11.66q  2 
+  6 Hastings, Ryan               DeSales                11.54      11.67q  3 
+  6 Moist, Dane                  Mansfield              11.64      11.67q  5 
+  8 Dowd, Mitch                  Gettysburg             11.70      11.68q  1 
+  9 Vaughn, Isaiah               Muhlenberg             11.28      11.77   4 
+ 10 Altpeter, Eric               DeSales                11.63      11.79   4 
+ 11 Margolis, Josh               Dickinson              11.70      11.82   2 
+ 12 Yates, Derek                 Muhlenberg             11.85      11.83   5 
+ 13 Potter, Sean                 Albright               11.84      11.91   4 
+ 14 Moin, Alex                   Ithaca                 11.91      11.96   1 
+ 15 Maley, Brian                 Ithaca                 11.90      12.12   4 
+ 16 Grove, Christopher           Albright               12.40      12.14   2 
+ 17 Polino, Dan                  Nazareth                          12.15   2 
+ 18 Brady, Kevin                 Elizabethtow           11.90      12.16   1 
+ 19 Weiner, Michael              Muhlenberg             11.74      12.17   2 
+ 20 Doughty, Pat                 Elizabethtow           11.90      12.20   5 
+ 20 Brookland, Marc              Muhlenberg             11.95      12.20   3 
+ 22 Teribury, Mason              Mansfield              11.95      12.21   2 
+ 22 Mersereau, Marcus            Nazareth                          12.21   3 
+ 24 Fauntleroy, Trevin           Elizabethtow           11.90      12.22   3 
+ 24 Addicott, Greg               Ithaca                 11.75      12.22   3 
+ 26 Echevarria, Derek            Alfred                 12.35      12.23   3 
+ 27 Hunter, Derrick              Alfred                 12.00      12.37   5 
+ 28 Leiwant, Michael             Mansfield              12.10      12.42   5 
+ 29 Faude, Paul                  Dickinson              12.50      12.59   1 
+ 30 Hochard, Jacob               Gettysburg             11.65      12.64   4 
+ 31 Kumor, Dave                  King's (Pa.)           12.45      12.83   1 
+ 
+Event 25  Men 100 Meter Dash
+=========================================================================
+    Name                    Year School               Prelims     Finals 
+=========================================================================
+Finals
+  1 Bay, Andrew                  Gettysburg             11.38      11.31  
+  2 Phillips, Wendell            DeSales                11.46      11.40  
+  3 Lopez, Chris                 Alfred                 11.66      11.54  
+  4 Keri, Carl                   DeSales                11.62      11.58  
+  5 Willis, Jake                 Ithaca                 11.48      11.66  
+  6 Hastings, Ryan               DeSales                11.67      11.67  
+  7 Dowd, Mitch                  Gettysburg             11.68      11.77  
+  8 Moist, Dane                  Mansfield              11.67      11.78  
+Preliminaries
+  9 Vaughn, Isaiah               Muhlenberg             11.77             
+ 10 Altpeter, Eric               DeSales                11.79             
+ 11 Margolis, Josh               Dickinson              11.82             
+ 12 Yates, Derek                 Muhlenberg             11.83             
+ 13 Potter, Sean                 Albright               11.91             
+ 14 Moin, Alex                   Ithaca                 11.96             
+ 15 Maley, Brian                 Ithaca                 12.12             
+ 16 Grove, Christopher           Albright               12.14             
+ 17 Polino, Dan                  Nazareth               12.15             
+ 18 Brady, Kevin                 Elizabethtow           12.16             
+ 19 Weiner, Michael              Muhlenberg             12.17             
+ 20 Doughty, Pat                 Elizabethtow           12.20             
+ 20 Brookland, Marc              Muhlenberg             12.20             
+ 22 Teribury, Mason              Mansfield              12.21             
+ 22 Mersereau, Marcus            Nazareth               12.21             
+ 24 Fauntleroy, Trevin           Elizabethtow           12.22             
+ 24 Addicott, Greg               Ithaca                 12.22             
+ 26 Echevarria, Derek            Alfred                 12.23             
+ 27 Hunter, Derrick              Alfred                 12.37             
+ 28 Leiwant, Michael             Mansfield              12.42             
+ 29 Faude, Paul                  Dickinson              12.59             
+ 30 Hochard, Jacob               Gettysburg             12.64             
+ 31 Kumor, Dave                  King's (Pa.)           12.83             
+ 
+Event 26  Women 1500 Meter Run
+=========================================================================
+    Name                    Year School                  Seed     Finals 
+=========================================================================
+Finals
+  1 Howser, Kathryn              Elizabethtow         4:45.00    4:48.71  
+  2 Miller, Emily                Dickinson            5:00.00    4:51.26  
+  3 Mayden, Samantha             Muhlenberg           4:53.24    4:54.74  
+  4 Cronin, Nicole               Muhlenberg           4:58.24    5:00.03  
+  5 Esposito, Christine          Gettysburg           5:05.00    5:02.17  
+  6 Jamieson, Lauren             Nazareth                        5:05.58  
+  7 Dei Tos, Gabrielle           Philadelphia         5:11.00    5:06.62  
+  8 Braun, Sarah                 DeSales              5:10.00    5:08.46  
+  9 Mitchell, Hannah             Muhlenberg           5:15.24    5:09.14  
+ 10 Blinkhorn, Courtney          Dickinson            5:15.00    5:09.86  
+ 11 Guth, Cara                   DeSales              5:15.00    5:11.05  
+ 12 Phillips-Jones, Elisabet     Alfred               5:13.56    5:12.31  
+ 13 Livingston, Heather          Dickinson            4:55.00    5:14.45  
+ 14 Attaway, Chelsea             Philadelphia         5:15.00    5:14.71  
+ 15 Pellowe, Amanda              Gettysburg           5:09.00    5:17.15  
+ 16 Korn, Alyssa                 Elizabethtow         5:15.00    5:18.24  
+ 17 Hollenbeck, Kelly            Mansfield            5:30.00    5:19.89  
+ 18 Levine, Emily                Bryn Mawr            5:15.00    5:25.36  
+ 19 Johnstone, Erin              Alfred               5:25.00    5:25.92  
+ 20 Krissinger, Lauryn           Elizabethtow         5:15.00    5:26.04  
+ 21 winters, rachel              DeSales              5:25.00    5:31.81  
+ 22 Nicol, Kirstie               King's (Pa.)         5:22.63    5:33.96  
+ 23 Wigfield, Bethany            Mansfield            5:30.00    5:40.55  
+ 24 Giraldo, Tana                Gettysburg           5:25.00    5:46.04  
+ 25 Colosi, Candice              Nazareth                        5:46.30  
+ 26 O'Malley, Jill               King's (Pa.)         5:55.00    5:47.84  
+ 27 Shiland, Cyrena              Dickinson            5:15.00    5:50.22  
+ 28 Centafont, Lauren            Albright             6:00.00    5:52.69  
+ 29 Macholdt, Sarah              Bryn Mawr            6:15.00    5:55.72  
+ 30 Johnson, Crista              Nazareth                        6:02.78  
+ 31 Belasco, Lara                Bryn Mawr            6:21.45    6:23.34  
+ 32 Schiminger, Madeline         King's (Pa.)         6:08.00    6:31.18  
+ 33 French, Maddy                Bryn Mawr            6:50.00    6:44.77  
+ 
+Event 27  Men 1500 Meter Run
+=========================================================================
+    Name                    Year School                  Seed     Finals 
+=========================================================================
+  1 Mynatt, Henry                Dickinson            4:10.00    4:06.22  
+  2 Lowrey, William              Muhlenberg           4:12.24    4:07.47  
+  3 Hutton, Noah                 Philadelphia         4:14.00    4:07.57  
+  4 Sansevere, Robbie            Dickinson            4:10.00    4:08.96  
+  5 Ecker, Paul                  DeSales              4:08.00    4:10.67  
+  6 Wilson, Ryan                 Muhlenberg           4:13.24    4:12.12  
+  7 Einbender-Luks, Eddie        Dickinson            4:15.00    4:13.43  
+  8 Haines, Tim                  DeSales              4:12.00    4:14.97  
+  9 Lauletti, Matthew            Muhlenberg           4:12.24    4:15.44  
+ 10 Moulton, Robert              King's (Pa.)         4:18.00    4:16.35  
+ 11 Morales, Matt                Nazareth                        4:17.48  
+ 12 Smith, Brendan               Muhlenberg           4:13.24    4:17.50  
+ 13 Keith, Tyler                 Gettysburg           4:30.00    4:18.06  
+ 14 Hill, Patrick                Gettysburg           4:24.00    4:22.69  
+ 15 Filanowski, Brian            DeSales              4:14.00    4:22.71  
+ 16 Cook, George                 Albright             4:40.00    4:22.92  
+ 17 Sharp, Joe                   Gettysburg           4:19.00    4:23.88  
+ 18 Crossette, Nathan            Muhlenberg           4:23.24    4:23.91  
+ 19 Noll, Ken                    Alfred               4:20.00    4:25.64  
+ 20 Szilagyi, Dan                DeSales              4:25.00    4:26.51  
+ 21 Zimmerman, Glendon           Mansfield            4:30.00    4:27.06  
+ 22 Rutan, Tim                   Nazareth                        4:28.41  
+ 23 Dennis, Mike                 Mansfield            4:30.00    4:29.31  
+ 24 Williams, John               Mansfield            4:40.00    4:31.92  
+ 25 Lewandowski, Brent           King's (Pa.)         4:30.60    4:33.37  
+ 26 Marcotte, Samuel             Albright             4:40.00    4:37.90  
+ 27 Polino, Dan                  Nazareth                        4:39.33  
+ 28 Glenn, Ryan                  King's (Pa.)         4:45.00    4:43.35  
+ 29 Sutor, John (Cassin)         Gettysburg           4:39.00    4:43.74  
+ 30 Murphy, Scott                Philadelphia         4:30.00    4:43.86  
+ 31 Migatulski, Dan              King's (Pa.)         4:49.00    4:46.63  
+ 32 Selzo, Eric                  Alfred               5:24.72    5:13.77  
+ 33 Cogswell, Dave               Alfred               5:18.18    5:22.61  
+ 
+Event 28  Women 400 Meter Dash
+============================================================================
+    Name                    Year School                  Seed     Finals  H#
+============================================================================
+  1 Koslo, Amanda                Gettysburg           1:01.00    1:01.07   3 
+  2 Yalango, Kim                 Muhlenberg           1:03.28    1:02.24   3 
+  3 Daniels, Alexandra           Muhlenberg           1:00.45    1:02.31   3 
+  4 Kunkle, Renee                DeSales              1:04.00    1:02.33   3 
+  5 Royce, Marianne              Gettysburg           1:05.00    1:03.69   2 
+  6 Morrissey, Amy               Alfred               1:02.77    1:03.72   3 
+  7 Foster, Kelsie               Mansfield            1:02.25    1:04.01   3 
+  8 Brown, Rachel                Dickinson            1:05.00    1:04.59   2 
+  9 Swasey, Krystal              Albright             1:06.00    1:04.67   2 
+ 10 DiPietro, Danielle           Albright             1:09.00    1:07.65   1 
+ 11 Bash, Erica                  Muhlenberg           1:04.24    1:08.72   2 
+ 12 Loos, Meghan                 Albright             1:06.00    1:09.85   2 
+ 13 Taylor, Shelby               King's (Pa.)         1:07.65    1:10.12   1 
+ 14 gavin, colleen               DeSales              1:04.00    1:11.06   2 
+ 15 Rojas, Samantha              Alfred               1:10.00    1:13.18   1 
+ 16 Miranda, Jennifer            Alfred               1:13.32    1:16.69   1 
+ 17 Kahelin, Rachel              Bryn Mawr            1:15.00    1:17.77   1 
+ 
+Event 29  Men 400 Meter Dash
+============================================================================
+    Name                    Year School                  Seed     Finals  H#
+============================================================================
+  1 Foster-Felder, Ashanti       Gettysburg             49.50      49.15   6 
+  2 Rice, Peter                  Muhlenberg             48.65      49.28   6 
+  3 Johnson, Justen              Mansfield              49.72      49.52   6 
+  4 Ofray, Sage                  Dickinson              52.30      51.06   5 
+  5 Senseney, Tom                Gettysburg             52.50      51.30   5 
+  6 Buchman, Jesse               Dickinson              53.00      51.37   4 
+  7 Niles, Chris                 Elizabethtow           51.50      51.79   6 
+  8 Onimus, Andrew               Muhlenberg             52.24      51.90   5 
+  9 Moreni, Pete                 DeSales                51.97      52.10   6 
+ 10 Davis, Darnell               Muhlenberg             53.50      52.47   3 
+ 11 Schierer, Philip             Nazareth               53.50      52.53   4 
+ 12 Marlow, Brandon              Mansfield              51.80      52.57   6 
+ 13 Mansuy, Mike                 Dickinson              52.20      52.62   5 
+ 14 Jackson, Jon                 Dickinson              52.00      52.74   6 
+ 15 Lysenko, Chris               Muhlenberg             53.74      53.01   3 
+ 16 Tanasoca, Paul               Gettysburg             54.08      53.10   3 
+ 17 Orenstein, Julian            Ithaca                 52.34      53.24   5 
+ 18 Taylor, Ryan                 Ithaca                 51.93      53.35   6 
+ 19 Harkins, Bobby               Muhlenberg             54.10      54.05   3 
+ 20 Hurley, Kevin                Ithaca                 53.33      54.07   4 
+ 21 Price, Alex                  Muhlenberg             54.10      54.85   3 
+ 22 Zwolinski, Conrad            Philadelphia           53.00      54.90   4 
+ 23 Suitovsky, Max               Muhlenberg             54.50      54.98   3 
+ 24 Tierno, Ryne                 DeSales                55.00      55.76   2 
+ 25 Bledsoe, Alex                Gettysburg             55.00      57.42   2 
+ 26 Shank, Andrew                Gettysburg             57.00      58.59   2 
+ 27 Hernandez, Roberto           Alfred                 57.20      59.83   2 
+ 28 Nauss, Shane                 DeSales                57.00    1:00.25   2 
+ 
+Event 30  Women 800 Meter Run
+=========================================================================
+    Name                    Year School                  Seed     Finals 
+=========================================================================
+  1 McIntyre, Kelly              Dickinson            2:24.00    2:20.61  
+  2 Richards, Janna              Elizabethtow         2:27.00    2:24.58  
+  3 Mayden, Samantha             Muhlenberg           2:24.24    2:26.18  
+  4 Jones, Laurie                Elizabethtow         2:26.50    2:26.24  
+  5 Sulon, Sarah                 Elizabethtow         2:26.50    2:27.10  
+  6 Addison, Yaa                 Gettysburg           2:29.00    2:28.32  
+  7 Richardson, Hannah           Dickinson            2:25.00    2:29.16  
+  8 Coons, Bethany               Mansfield            2:30.00    2:29.18  
+  9 Mitchell, Hannah             Muhlenberg           2:27.24    2:29.32  
+ 10 Crow, Libby                  Elizabethtow         2:26.50    2:29.94  
+ 11 DiNucci, Anjelica            Philadelphia         2:28.00    2:30.40  
+ 12 Braun, Sarah                 DeSales              2:25.00    2:32.00  
+ 13 Karlovich, Jackie            Mansfield            2:30.00    2:33.65  
+ 14 Angotta, Dana                Dickinson            2:25.00    2:33.72  
+ 15 Dei Tos, Gabrielle           Philadelphia         2:30.00    2:33.94  
+ 16 Murphy, Megan                Gettysburg           2:32.00    2:35.34  
+ 17 Bastian, Emily               Dickinson            2:30.00    2:35.97  
+ 18 McAdorey, Meghan             Philadelphia         2:28.00    2:36.31  
+ 19 Sullivan, Meghan             Mansfield            2:35.00    2:36.66  
+ 20 Lumpkin, Casey               Gettysburg           2:31.30    2:36.84  
+ 21 Jamieson, Lauren             Nazareth             2:35.21    2:37.43  
+ 22 Attaway, Chelsea             Philadelphia         2:28.00    2:37.58  
+ 23 Buttner, Melissa             DeSales              2:25.00    2:38.28  
+ 24 Levine, Emily                Bryn Mawr            2:37.09    2:41.57  
+ 25 Vazzana, Caroline            Albright             2:40.00    2:42.08  
+ 26 Nicol, Kirstie               King's (Pa.)         2:36.48    2:44.85  
+ 27 Schoenborn, Kirsten          Nazareth             2:44.23    2:45.66  
+ 28 Giraldo, Tana                Gettysburg           2:38.00    2:48.85  
+ 29 younger, lydia               DeSales              2:50.00    2:52.89  
+ 30 pruzinsky, amanda            DeSales              2:55.00    2:53.55  
+ 
+Event 31  Men 800 Meter Run
+=========================================================================
+    Name                    Year School                  Seed     Finals 
+=========================================================================
+  1 Rever, Matt                  Elizabethtow         1:54.80    1:54.22  
+  2 Speiden, Russell             Elizabethtow         1:54.50    1:55.68  
+  3 Torphy, Bob                  Muhlenberg           1:56.24    1:57.01  
+  4 Savage, Billy                Ithaca               1:58.12    1:59.19  
+  5 Focht, Aaron                 Elizabethtow         1:55.00    2:00.08  
+  6 Lafaver, Jake                Nazareth             2:00.71    2:00.62  
+  7 Riccardo, Wilson             Dickinson            2:02.00    2:01.67  
+  8 Kastler, Matt                Ithaca               1:59.90    2:02.30  
+  9 Hutton, Noah                 Philadelphia         2:05.00    2:02.44  
+ 10 Ecker, Paul                  DeSales              1:59.80    2:02.84  
+ 11 Morales, Matt                Nazareth             2:03.46    2:02.90  
+ 12 Dolan, Chris                 Muhlenberg           2:02.24    2:03.34  
+ 13 Piazza, Nick                 DeSales              2:04.60    2:03.36  
+ 14 Barjon, Didier               Philadelphia         2:04.00    2:03.60  
+ 15 Henry, Andrew                Muhlenberg           2:04.24    2:04.47  
+ 16 Lauletti, Matthew            Muhlenberg           2:04.24    2:05.19  
+ 17 Strenta, Alex                Dickinson            2:05.43    2:05.39  
+ 18 Felix, Jarrett               Muhlenberg           2:06.24    2:05.41  
+ 19 McGuire, Tom                 Muhlenberg           2:05.24    2:05.49  
+ 20 Dusza, Dave                  DeSales              2:04.10    2:05.69  
+ 21 Klinges, Henry               DeSales              2:03.00    2:05.79  
+ 22 Hill, Patrick                Gettysburg           2:05.95    2:05.88  
+ 23 Keith, Tyler                 Gettysburg           2:06.99    2:05.98  
+ 24 Clark, Greg                  Dickinson            2:05.00    2:06.57  
+ 25 Lafaver, Zach                Nazareth             2:14.70    2:07.29  
+ 26 Partridge, Connor            Muhlenberg           2:07.24    2:07.38  
+ 27 Longfellow, Evan             Gettysburg           2:08.00    2:07.75  
+ 28 Rutan, Tim                   Nazareth             2:10.80    2:09.14  
+ 29 Evans, Bobby                 Dickinson            2:10.00    2:10.94  
+ 30 Sutor, John (Cassin)         Gettysburg           2:14.00    2:11.58  
+ 31 Jallat, Nick                 King's (Pa.)         2:13.00    2:12.15  
+ 32 Noll, Ken                    Alfred               2:08.00    2:13.19  
+ 33 Dormann, Anthony             King's (Pa.)         2:19.00    2:15.36  
+ 34 Murphy, Scott                Philadelphia         2:13.00    2:15.58  
+ 35 Schemel, Gary                King's (Pa.)         2:37.68    2:31.92  
+ 
+Event 32  Women 400 Meter Hurdles
+============================================================================
+    Name                    Year School                  Seed     Finals  H#
+============================================================================
+  1 Waltz, Abbie                 Mansfield            1:08.74    1:06.81   3 
+  2 Parker, Eliza                Alfred               1:08.00    1:07.91   3 
+  3 Fogel, Katy                  Elizabethtow         1:09.00    1:10.74   3 
+  4 Miller, Mackenzie            Albright             1:14.00    1:11.17   2 
+  5 Talbot, Christine            Dickinson            1:14.30    1:12.79   2 
+  6 Christ, Alexandra            Elizabethtow         1:12.00    1:12.92   3 
+  7 Patrick, Jill                Elizabethtow         1:11.00    1:13.53   3 
+  8 Hoffman, Alexis              Nazareth                        1:14.70   1 
+  9 saylor, Chelsea              DeSales                         1:15.34   2 
+ 10 Hall, Chelsea                Alfred               1:11.00    1:16.63   3 
+ 11 Lindstrom, Alyssa            Nazareth                        1:17.28   1 
+ 12 Lipari, Nicole               Elizabethtow         1:15.00    1:17.52   2 
+ 13 Van Clief, Kelly             Elizabethtow         1:13.50    1:17.80   2 
+ 14 Kirgan, Shanna               Elizabethtow         1:13.00    1:18.04   3 
+ 15 Johnstone, Erin              Alfred               1:12.00    1:20.28   3 
+ 16 Hurlburt, Megan              Muhlenberg           1:19.24    1:21.31   2 
+ 17 ellenberger, lisa            DeSales                         1:22.60   1 
+ 
+Event 33  Men 400 Meter Hurdles
+============================================================================
+    Name                    Year School                  Seed     Finals  H#
+============================================================================
+  1 Moloney, Dan                 Ithaca                 55.20      56.65   3 
+  2 Moreni, Pete                 DeSales                57.80      56.96   3 
+  3 Badilla, Ben                 DeSales                58.10      57.14   3 
+  4 Rotenberger, Luke            Elizabethtow           59.00      57.81   2 
+  5 Sikanowicz, Zach             DeSales              1:00.00      58.41   2 
+  6 Teribury, Mason              Mansfield              57.97      58.85   3 
+  7 Kurtis, David                Muhlenberg             59.84      58.96   2 
+  8 Tapler, Ian                  Ithaca               1:00.01      59.22   2 
+  9 Rennie, Oshane               Albright               58.66      59.55   3 
+ 10 Confer, Matt                 Ithaca                 58.68    1:00.23   3 
+ 11 Brice, Matt                  DeSales                59.40    1:00.81   2 
+ 12 Leiwant, Michael             Mansfield            1:00.00    1:01.44   2 
+ 13 Hurley, Kevin                Ithaca                 59.17    1:01.47   2 
+ 14 Phillips, Jeff               Muhlenberg             59.94    1:02.33   2 
+ 15 Fox, Austin                  Alfred                 57.20    1:02.64   3 
+ 16 Demakis, William             Gettysburg           1:05.00    1:04.69   1 
+ 17 Shank, Andrew                Gettysburg           1:06.00    1:05.22   1 
+ 18 Selzo, Eric                  Alfred               1:10.00    1:19.42   1 
+ 
+Event 34  Women 200 Meter Dash
+============================================================================
+    Name                    Year School                  Seed     Finals  H#
+============================================================================
+  1 Diffenderfer, Katlyn         DeSales                26.64      26.36   5 
+  2 Good, Caitie                 Mansfield              26.00      26.43   5 
+  3 Higgs, Danisha               Albright               26.03      26.55   5 
+  4 Kutz, Taylor                 Albright               27.87      27.72   4 
+  5 Royce, Marianne              Gettysburg             28.35      27.87   4 
+  6 Webb, Shannon                DeSales                28.36      28.01   4 
+  7 Koslo, Amanda                Gettysburg             27.50      28.02   5 
+  8 Lockwood, Ashley             Elizabethtow           27.20      28.28   5 
+  9 Jeffries, Armoni             Alfred                 28.89      28.37   3 
+ 10 Dunushinghe, Kaushiki        Bryn Mawr              27.60      28.42   4 
+ 11 Loos, Shannon                Albright               28.81      28.48   3 
+ 12 Faulkner, Kristen            Elizabethtow           28.00      29.15   4 
+ 13 Gadomski, Sarah              Muhlenberg             28.40      29.61   4 
+ 14 Taylor, Shelby               King's (Pa.)           29.10      29.64   3 
+ 15 Swasey, Krystal              Albright               29.00      29.67   3 
+ 16 Brennan, Amanda              Muhlenberg             29.55      29.78   3 
+ 17 Rojas, Samantha              Alfred                 31.03      30.26   2 
+ 18 Goldsby, Aigne               Bryn Mawr              30.04      30.52   2 
+ 19 Burton, Jess                 Elizabethtow           30.00      30.55   3 
+ 20 Miranda, Jennifer            Alfred                 31.48      31.16   2 
+ 21 gavin, colleen               DeSales                28.00      31.20   4 
+ 22 Bonomo, Melia                Dickinson              32.00      32.48   2 
+ 23 Kerl, Clare                  King's (Pa.)           31.86      33.63   2 
+ 24 Giller, Corrinne             Nazareth               33.95      34.16   1 
+ 25 Harling, Sarah               Nazareth                          34.51   1 
+ 26 Castro, Andrea               Alfred                 34.00      34.61   1 
+ 27 Smith, Alexandra             Nazareth               34.60      35.02   1 
+ 
+Event 35  Men 200 Meter Dash
+============================================================================
+    Name                    Year School                  Seed     Finals  H#
+============================================================================
+  1 Orenstein, Max               Ithaca                 22.39      22.72   5 
+  2 Wetmore, Jeff                Ithaca                 22.09      22.73   5 
+  3 Scott, Richard               Alfred                 23.26      22.83   4 
+  4 Vaughn, Isaiah               Muhlenberg             23.25      22.96   4 
+  5 Foster-Felder, Ashanti       Gettysburg             22.70      23.06   5 
+  6 Edmonds, Brennan             Ithaca                 23.20      23.43   4 
+  7 Lafaver, Jake                Nazareth               23.89      23.50   3 
+  8 Altpeter, Eric               DeSales                22.96      23.57   5 
+  9 Ofray, Sage                  Dickinson              23.30      23.62   4 
+ 10 Phillips, Wendell            DeSales                22.98      23.64   5 
+ 11 Potter, Sean                 Albright               23.81      23.66   3 
+ 12 Thon, Sean                   Gettysburg             23.40      23.69   4 
+ 13 Hastings, Ryan               DeSales                23.16      23.77   4 
+ 14 Keri, Carl                   DeSales                23.65      23.79   3 
+ 15 Mastrosimone, Chris          Ithaca                 23.13      23.97   5 
+ 16 Yates, Derek                 Muhlenberg             24.03      23.99   2 
+ 16 Davis, Darnell               Muhlenberg             23.50      23.99   3 
+ 18 Moist, Dane                  Mansfield              23.85      24.03   3 
+ 19 Dowd, Mitch                  Gettysburg             24.10      24.04   2 
+ 20 Margolis, Josh               Dickinson              24.00      24.06   3 
+ 21 Brito, Randy                 Alfred                 24.18      24.42   2 
+ 22 Weiner, Michael              Muhlenberg             24.75      24.90   2 
+ 23 Doughty, Pat                 Elizabethtow           24.00      25.00   2 
+ 24 Lafaver, Zach                Nazareth               25.23      25.07   1 
+ 25 Grove, Christopher           Albright               25.54      25.22   1 
+ 26 Zwolinski, Conrad            Philadelphia           24.60      25.28   2 
+ 27 Ferris, Connor               Alfred                 24.20      25.31   2 
+ 28 Moore, Josh                  Mansfield              23.90      25.88   3 
+ 29 Gamble, Jonathan             Nazareth                          26.41   1 
+ 30 Kumor, Dave                  King's (Pa.)           26.03      26.85   1 
+ 
+Event 36  Men 5000 Meter Run
+=========================================================================
+    Name                    Year School                  Seed     Finals 
+=========================================================================
+  1 Heisey, Chris                Elizabethtow        15:05.00   15:24.71  
+  2 LeFrancois, Paul             Dickinson           15:48.45   15:31.96  
+  3 Tarkoff, Michael             Dickinson           15:15.00   15:34.10  
+  4 Steinbock, Ryan              Dickinson           15:30.00   15:34.79  
+  5 Klein, David                 Dickinson           15:44.36   15:35.15  
+  6 Young, Dennis                Dickinson           15:44.79   15:42.86  
+  7 Welsh, Stephen               Elizabethtow        15:54.00   15:48.61  
+  8 McConville, Alex             Ithaca              15:40.54   15:54.09  
+  9 Daniels, Thomas              Gettysburg          15:58.75   15:57.42  
+ 10 Vorensky, Mark               Ithaca              15:51.10   16:11.88  
+ 11 Derkacz, Adam                Elizabethtow        15:54.00   16:16.95  
+ 12 Brower, Jacob                Ithaca              16:15.00   16:17.70  
+ 13 Pagano, James                Dickinson           15:50.00   16:22.65  
+ 14 Cusworth, Kevin              Mansfield           17:30.00   16:33.71  
+ 15 Kirui, Kip                   Philadelphia        16:03.37   16:50.57  
+ 16 Garman, Zac                  Philadelphia        16:20.00   16:53.95  
+ 17 Clemson, Alex                DeSales             17:00.00   16:57.89  
+ 18 Kellert, Robert              Albright            17:50.00   17:02.06  
+ 19 Bernard, Orion               Mansfield           16:48.30   17:03.35  
+ 20 Frey, Eli                    Albright            18:00.00   17:12.74  
+ 21 Panella, Brian               DeSales                        18:18.83  
+ 22 Overstreet, Franklin         Philadelphia        18:45.00   19:46.93  
+ -- Beard, Alex                  Mansfield           16:40.00        DNF  
+ 
+Event 37  Women 4x800 Meter Relay
+=========================================================================
+    School                                               Seed     Finals 
+=========================================================================
+  1 Dickinson  'A'                                    9:50.00   10:06.85  
+     1) Livingston, Heather             2) Miller, Emily                  
+     3) Brown, Rachel                   4) Blinkhorn, Courtney            
+  2 Philadelphia U.  'A'                             10:27.73   10:20.39  
+     1) Attaway, Chelsea                2) Dei Tos, Gabrielle             
+     3) McAdorey, Meghan                4) DiNucci, Anjelica              
+  3 DeSales  'A'                                     11:00.00   10:37.52  
+     1) Guth, Cara                      2) Kosmin, Katie                  
+     3) kurowski, allison               4) winters, rachel                
+  4 Muhlenberg  'A'                                  10:10.24   10:40.75  
+     1) Yalango, Kim                    2) Bash, Erica                    
+     3) Daniels, Alexandra              4) Haggerty, Samantha             
+  5 Nazareth  'A'                                    12:00.00   11:26.28  
+     1) Murphy, Kayla                   2) Colosi, Candice                
+     3) Johnson, Crista                 4) Losito, Mary                   
+  6 DeSales  'B'                                     11:30.00   12:02.63  
+     1) Webb, Shannon                   2) pruzinsky, amanda              
+     3) saylor, Chelsea                 4) Braun, Sarah                   
+ 
+Event 38  Men 4x800 Meter Relay
+=========================================================================
+    School                                               Seed     Finals 
+=========================================================================
+  1 Dickinson  'A'                                    8:10.00    8:08.55  
+     1) Riccardo, Wilson                2) Buchman, Jesse                 
+     3) Mansuy, Mike                    4) Jackson, Jon                   
+  2 Dickinson  'B'                                    8:10.00    8:21.00  
+     1) Tarkoff, Michael                2) Clark, Greg                    
+     3) Mynatt, Henry                   4) Einbender-Luks, Eddie          
+  3 Muhlenberg  'A'                                   8:45.24    8:29.03  
+     1) Lowrey, William                 2) Smith, Brendan                 
+     3) Esposito, Mike                  4) Wilson, Ryan                   
+  4 Philadelphia U.  'A'                              8:29.00    8:31.38  
+     1) Hutton, Noah                    2) Dye, Tyler                     
+     3) Murphy, Scott                   4) Barjon, Didier                 
+  5 Nazareth  'A'                                     8:30.00    8:36.66  
+     1) Rutan, Tim                      2) DiRenzo, Donato                
+     3) DeWald, Rob                     4) Fedrizzi, Matt                 
+  6 DeSales  'A'                                      8:20.00    8:40.46  
+     1) Haines, Tim                     2) Filanowski, Brian              
+     3) Dusza, Dave                     4) Klinges, Henry                 
+  7 DeSales  'B'                                      8:38.00    8:51.89  
+     1) Decker, Eric                    2) Piazza, Nick                   
+     3) Tierno, Ryne                    4) Szilagyi, Dan                  
+  8 King's (Pa.)  'A'                                 8:48.00    8:57.48  
+     1) Moulton, Robert                 2) Lewandowski, Brent             
+     3) Jallat, Nick                    4) Gramling, Patrick              
+  9 DeSales  'C'                                      8:55.00    8:57.74  
+     1) Ferretti, Andrew                2) Nauss, Shane                   
+     3) Krasnomowitz, Justin            4) Sclafani, Gerard               
+ 10 King's (Pa.)  'B'                                 9:15.00    9:42.53  
+     1) Dormann, Anthony                2) Glenn, Ryan                    
+     3) Migatulski, Dan                 4) MacNeal, Bob                   
+ 11 King's (Pa.)  'C'                                 9:35.00   10:24.03  
+     1) Schemel, Gary                   2) McAndrew, Jeremy               
+     3) Thompson, Chris                 4) Battipaglia, Vincent           
+ 
+Event 39  Women 4x400 Meter Relay
+============================================================================
+    School                                               Seed     Finals  H#
+============================================================================
+  1 Elizabethtown  'A'                                4:09.00    4:10.40   2 
+     1) Lockwood, Ashley                2) Richards, Janna                
+     3) Faulkner, Kristen               4) Howser, Kathryn                
+  2 Dickinson  'A'                                    4:26.44    4:17.50   1 
+     1) Richardson, Hannah              2) McIntyre, Kelly                
+     3) Angotta, Dana                   4) Talbot, Christine              
+  3 Albright  'A'                                     4:20.00    4:20.42   2 
+     1) Loos, Shannon                   2) Swasey, Krystal                
+     3) Kutz, Taylor                    4) Loos, Meghan                   
+  4 Alfred  'A'                                       4:20.31    4:20.47   2 
+     1) Parker, Eliza                   2) Morrissey, Amy                 
+     3) Pettit, Corine                  4) Hall, Chelsea                  
+  5 Elizabethtown  'B'                                4:25.00    4:23.86   2 
+     1) Patrick, Jill                   2) Kirgan, Shanna                 
+     3) Christ, Alexandra               4) Fogel, Katy                    
+  6 Gettysburg  'A'                                   4:23.54    4:24.06   2 
+     1) Murphy, Megan                   2) Royce, Marianne                
+     3) Lumpkin, Casey                  4) Koslo, Amanda                  
+  7 Nazareth  'A'                                     4:20.00    4:39.90   2 
+     1) Hoffman, Alexis                 2) Wyant, Katie                   
+     3) Sudore, Amanda                  4) Custer, Kristi                 
+  8 Gettysburg  'B'                                   4:40.00    4:42.35   1 
+     1) Addison, Yaa                    2) Pellowe, Amanda                
+     3) Esposito, Christine             4) Giraldo, Tana                  
+ 
+Event 40  Men 4x400 Meter Relay
+============================================================================
+    School                                               Seed     Finals  H#
+============================================================================
+  1 Ithaca  'A'                                       3:18.92    3:19.76   2 
+     1) Edmonds, Brennan                2) Mastrosimone, Chris            
+     3) Way, William                    4) Orenstein, Max                 
+  2 Elizabethtown  'A'                                3:26.00    3:26.28   2 
+     1) Niles, Chris                    2) Rever, Matt                    
+     3) Allport, Brian                  4) Rotenberger, Luke              
+  3 DeSales  'A'                                      3:29.00    3:31.38   2 
+     1) Badilla, Ben                    2) Moreni, Pete                   
+     3) Ecker, Paul                     4) Brice, Matt                    
+  4 Muhlenberg  'A'                                   3:27.19    3:32.68   2 
+     1) Onimus, Andrew                  2) Ullman, Jake                   
+     3) Davis, Darnell                  4) Phillips, Jeff                 
+  5 Albright  'A'                                     3:46.00    3:35.45   1 
+     1) Rennie, Oshane                  2) Gewirtz, Justin                
+     3) Potter, Sean                    4) Glass, Anthony                 
+  6 Ithaca  'B'                                       3:29.74    3:36.59   2 
+     1) Kastler, Matt                   2) Orenstein, Julian              
+     3) Savage, Billy                   4) Tapler, Ian                    
+  7 DeSales  'B'                                      3:35.00    3:37.30   1 
+     1) Klinges, Henry                  2) Sikanowicz, Zach               
+     3) Piazza, Nick                    4) Haines, Tim                    
+  8 Nazareth  'A'                                     3:32.12    3:38.51   2 
+     1) Lafaver, Jake                   2) Lafaver, Zach                  
+     3) Nassrelgrgawi, Alex             4) Schierer, Philip               
+  9 Ithaca  'C'                                       3:39.20    3:38.87   1 
+     1) Hurley, Kevin                   2) Taylor, Ryan                   
+     3) Svoboda, Alec                   4) Moloney, Dan                   
+ 10 Gettysburg  'A'                                   3:29.83    3:39.14   2 
+     1) Senseney, Tom                   2) Demakis, William               
+     3) Rosenberger, Nick               4) Foster-Felder, Ashanti         
+ 11 Muhlenberg  'B'                                   3:36.24    3:40.00   1 
+     1) McGuire, Tom                    2) Felix, Jarrett                 
+     3) Partridge, Connor               4) Lysenko, Chris                 
+ 12 DeSales  'C'                                      3:45.00    3:52.43   1 
+     1) Taylor, Dan                     2) Filanowski, Brian              
+     3) Parisi, Tyler                   4) Black, Dennis                  
+ 13 Gettysburg  'B'                                   3:45.00    3:57.09   1 
+     1) Tanasoca, Paul                  2) Sharp, Joe                     
+     3) Shank, Andrew                   4) Keith, Tyler                   
+ -- Muhlenberg  'C'                                   3:36.24        DNF   1 
+     1) Harkins, Bobby                  2) Price, Alex                    
+     3) Suitovsky, Max                  4) Kurtis, David                  
+
+
+

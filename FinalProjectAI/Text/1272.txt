@@ -1,0 +1,939 @@
+
+
+
+
+
+
+
+Major Requirements | Muhlenberg College
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Skip to Main Content
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Muhlenberg College
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Visit
+
+
+
+
+
+
+
+
+
+Apply
+
+
+
+
+
+
+
+
+
+Request Info
+
+
+
+
+
+
+
+
+
+Give
+
+
+
+
+
+
+
+
+
+Menu
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Home
+AcademicsMajors, Minors & CertificationsMath & Computer ScienceMathematicsMajor Requirements 
+
+
+
+
+
+
+Major Requirements
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Major Requirements
+
+
+
+
+
+
+
+
+
+
+
+Faculty & StaffCoursesMajor RequirementsMinor RequirementsWait List PolicyCUE OptionsTransfer Course ApprovalTeacher CertificationTruman Koehler Professorship 
+
+
+
+
+
+
+
+
+
+
+
+Home
+AcademicsMajors, Minors & CertificationsMath & Computer ScienceMathematicsMajor Requirements 
+
+
+
+
+
+
+
+
+
+
+
+
+
+Mathematics Requirements
+
+ 
+Major Requirements:
+Required courses:
+
+MTH 119 Statistical Analysis
+MTH 122 Calculus II
+MTH 223 Calculus III
+MTH 226 Linear Algebra
+MTH 240 Transition to Abstract Mathematics
+Five additional mathematics courses chosen from among ourses numbered 200 or above with only one at the 200-level and to include:
+
+MTH 326 Abstract Algebra or MTH 337 Mathematical Analysis.
+
+
+Any 100 level Computer Science course
+Mathematics CUE Option (described below)
+
+
+A major must maintain a 2.000 grade point average in the courses for the major.
+
+
+ 
+Mathematics CUE Options:
+
+The CUE in mathematics provides each student with the opportunity to engage in an intellectually rigorous experience that draws upon knowledge acquired within the major, while allowing students flexibility to select the type of experience they pursue. Each student who majors in mathematics will select one of the following options: a) The successful completion of one of the following three courses during the senior year: MTH 353 CUE: Landmarks of Mathematics, MTH 370 CUE: The Art of Problem Solving, or MTH-975 CUE: Directed Research. For Information about the CUE Research Options click here. b) Successfully complete MTH-353 CUE: Landmarks of Mathematics during any semester and successfully complete a certification in middle of secondary education, including completing a student teaching semester in mathematics in the senior year.A student who takes MTH 353 CUE: Landmarks of Mathematics or MTH 370 CUE: The Art of Problem Solving previous to these last two semesters will not be able to count such a course as fulfilling the option (a) CUE requirement for the major.
+
+
+ 
+Honors Program:
+At commencement, the Department awards honors in mathematics to qualified students.
+The requirements for honors are:
+
+A GPA in the mathematics major of at least 3.5
+An overall GPA of at least 3.3
+Successful completion of at least two of the following courses:
+
+MTH 326 Abstract Algebra
+ MTH 332 Mathematical Statistics
+MTH 337 Mathematical Analysis
+
+
+Successful completion of at least one 300 level course beyond the major requirements
+
+
+ 
+Teacher Certification:
+Required courses for students seeking certification for teaching mathematics in the secondary schools:
+
+MTH 121 Calculus I 
+MTH 122 Calculus II 
+MTH 223 Calculus III
+MTH 226 Linear Algebra
+MTH 240 Transition to Abstract Mathematics
+MTH 326 Abstract Algebra
+MTH 331 Probability
+MTH 342 Advanced Geometry
+MTH 353 - CUE: Landmarks of Mathematics
+Any 100-level computer science course
+Successful completion of a certification in middle or secondary education, including completing a student teaching smester in mathematics in the senior year.
+
+The student must maintain a 2.50 GPA in courses used to complete the major in order to meet teacher certification requirements.
+ 
+
+Minor in Mathematics Requirements:
+Required courses:
+
+MTH 122 Calculus II 
+MTH 226 Linear Algebra
+
+At least three more courses chosen from among the following:
+
+Any 100-level Computer Science course, MTH 119 Statistical Analysis or Mathematics courses numbered 200 or above
+
+Only one of these three courses may be at the 100-level.
+The student must maintain a 2.000 grade point average in courses for the minor.
+To declare a major or minor in Mathematics, please contact the department secretary, Traci Hilbert at thilbert@muhlenberg.edu.
+ 
+
+Minor in Analytics
+Analytics is the application of quantitative reasoning to real-world problems.  A practitioner of analytics applies mathematical, statistical, and computational theory to solve practical problems that often involve large data sets.  Problems that were infeasible in the past due to the size of the data are now feasible due to the increase in computing power.  Thus, analytics is quickly changing how businesses, industries, and governments make decisions.  A practitioner of analytics needs both a theoretical background in mathematics and statistics to approach problems, as well as computer science knowledge to implement solutions.  The goal of this program is to give students a solid foundation in applied mathematics, statistics, and computer science as well as to have them practice applying these skills to problems in fields outside of the mathematical sciences.  This program provides flexibility that allows for a variety of student interests and culminates in courses that apply quantitative reasoning to real-world problems.
+Required courses:
+To minor in analytics, a student must complete seven courses as given below:
+
+Course with Computer Science I in the title
+MTH 119 - Statistical Analysis 1 course unit OR
+MTH 332 - Mathematical Statistics 1 course unit
+MTH 122 - Calculus II 1 course unit OR
+MTH 223 - Calculus III 1 course unit
+MTH 226 - Linear Algebra 1 course unit
+MTH 318 - Operations Research 1 course unit
+
+One course from Group A below.
+
+CSI 111 - Computer Science II 1 course unit
+200-level statistics course
+
+One course from Group B below.
+
+ACT 334 - Fraud Examination 1 course unit
+BUS 347 - Marketing Research 1 course unit
+CSI 326 - Artificial Intelligence 1 course unit
+ECN 348 - Game Theory & Applications 1 course unit
+ECN 350 - Econometrics 1 course unit
+FIN 311 - Mathematics for Financial Analysis 1 course unit
+MTH 314 - Applied Mathematics & Modeling 1 course unit
+
+NOTE: The student must maintain a 2.00 grade point average in courses required for the minor.  A student cannot simultaneously be declared as both a mathematics minor and an analytics minor, and a student cannot simultaneously be declared as both a statistics minor and an analytics minor.  Also, a student cannot simultaneously be declared as both a mathematics major and an analytics minor.   However, a mathematics major can declare a concentration in analytics within the mathematics major.  Please see the catalog section for Mathematics for more detail.
+ 
+
+Minor in Statistics
+Statistics is the science and art of learning from data, including the collection, analysis, and interpretation of data, as well as effective communication and presentation of results relying on data.  The statistics minor aims to prepare students in both applied and theoretical statistics.  Students will have exposure to articulating research questions and hypotheses, experimental design and effective data collection techniques, processing and analyzing data through R/RStudio, and communicating oral and written results.  Students will be introduced to the mathematical foundations of statistics, including probability distributions which are essential for incorporating uncertainty in statistical models.  Throughout the required coursework, students will apply concepts to real world problems across multiple disciplines.
+Required courses:
+To minor in statistics, a student must complete six course as given below:
+Required Courses:
+
+MTH 119 - Statistical Analysis 1 course unit
+MTH 122 - Calculus II 1 course unit
+MTH 219 - Statistical Models 1 course unit
+MTH 331 - Probability 1 course unit
+
+One of the following:
+
+MTH 332 - Mathematical Statistics 1 course unit
+200- or 300-level Statistics Course
+
+One of the following:
+
+Course not already taken in Group A
+BIO 268 - Freshwater Ecology 1 course unit
+BIO 270 - Ecology 1 course unit
+CHM 311 - Analytical Chemistry I 1 course unit
+100-level Computer Science course in Data Science
+ECN 350 - Econometrics 1 course unit
+PSY 104 - Research Methods in Psychology 1 course unit
+SOC 312 - Quantitative Methods for Social Data 1 course unit
+
+Note: The student must maintain a 2.00 grade point average in courses required for the minor.  A student cannot simultaneously declare a mathematics major and a statistics minor.  If a student declares a mathematics major and satisfies the requirements of a statistics minor, the student can declare a concentration in statistics.  If a student chooses to concentrate/minor in statistics, the student cannot also declare a concentration/minor in mathematics or analytics.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Muhlenberg College
+
+
+
+
+
+
+
+
+
+
+Muhlenberg College
+2400 Chew St.
+Allentown, 
+PA
+18104
+
+
+
+
+
+
+
+484-664-3100
+
+
+
+
+
+
+
+
+Maps & Directions
+
+
+
+
+
+Accessibility
+
+
+
+
+
+Library
+
+
+
+
+Title IX
+
+
+
+
+
+Employment
+
+
+
+
+
+A-Z Index
+
+
+
+
+
+Conference & Event Services
+
+
+
+
+
+Diversity & Inclusion
+
+
+
+
+
+
+Weather Update
+
+
+
+
+
+
+
+
+Social
+
+
+
+
+
+
+
+
+Facebook
+
+
+
+
+
+
+
+
+Instagram
+
+
+
+
+
+
+
+
+Twitter
+
+
+
+
+
+
+
+
+YouTube
+
+
+
+
+
+
+
+
+LinkedIn
+
+
+
+
+
+
+
+
+							©
+													
+ Muhlenberg College
+
+
+
+
+
+
+
+
+
+
+
+Muhlenburg College
+
+
+
+
+
+
+
+
+
+
+Search
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Who We Are
+
+
+
+
+
+
+
+
+
+
+
+Diversity and Inclusion
+
+
+
+
+Institutional Initiatives
+
+
+
+
+Office of the President
+
+
+
+
+College History
+
+
+
+
+Campus Map
+
+
+
+
+Directory Search
+
+
+
+
+
+
+Admissions
+
+
+
+
+
+
+
+
+
+
+
+Explore Your Visit Options
+
+
+
+
+Early Decision
+
+
+
+
+Regular Decision
+
+
+
+
+Transfer Students
+
+
+
+
+International Students
+
+
+
+
+Adult Accelerated & Evening Programs
+
+
+
+
+Graduate Studies
+
+
+
+
+Tuition and Fees
+
+
+
+
+Financial Aid
+
+
+
+
+First-Year Experience
+
+
+
+
+
+
+Academics
+
+
+
+
+
+
+
+
+
+
+
+Majors, Minors & Certifications
+
+
+
+
+Adult Accelerated & Evening Programs
+
+
+
+
+Summer Study
+
+
+
+
+Graduate Programs
+
+
+
+
+Preprofessional Programs
+
+
+
+
+Academic Partnerships
+
+
+
+
+Honors Programs
+
+
+
+
+Global Education
+
+
+
+
+Our Faculty
+
+
+
+
+Research & Scholarship
+
+
+
+
+
+
+Student Life
+
+
+
+
+
+
+
+
+
+
+
+Housing
+
+
+
+
+Dining
+
+
+
+
+Getting Involved
+
+
+
+
+Athletics
+
+
+
+
+Student Services
+
+
+
+
+Health & Wellness
+
+
+
+
+Religious & Spiritual Life
+
+
+
+
+
+
+Powerful Outcomes
+
+
+
+
+
+
+
+
+
+
+
+The Career Center
+
+
+
+
+Fellowships & Postgraduate Awards
+
+
+
+
+The Muhlenberg Network
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Visit
+
+
+
+
+
+
+
+
+
+Apply
+
+
+
+
+
+
+
+
+
+Request Info
+
+
+
+
+
+
+
+
+
+Give
+
+
+
+
+
+
+
+Info For:
+
+
+
+
+Current Students
+
+
+
+
+
+Alumni & Friends
+
+
+
+
+
+Faculty & Staff
+
+
+
+
+
+Parents
+
+
+
+
+
+
+
+
+
+News
+
+
+
+
+
+Events
+
+
+
+
+
+Athletics
+
+
+
+
+Arts
+
+
+
+
+
+
+
+
+COVID-19 Info
+
+
+
+ 
+ 
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

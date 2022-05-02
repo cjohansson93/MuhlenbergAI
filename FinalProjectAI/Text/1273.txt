@@ -1,0 +1,829 @@
+
+
+
+
+
+
+
+Courses | Muhlenberg College
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Skip to Main Content
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Muhlenberg College
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Visit
+
+
+
+
+
+
+
+
+
+Apply
+
+
+
+
+
+
+
+
+
+Request Info
+
+
+
+
+
+
+
+
+
+Give
+
+
+
+
+
+
+
+
+
+Menu
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Home
+AcademicsMajors, Minors & CertificationsMath & Computer ScienceMathematicsCourses 
+
+
+
+
+
+
+Courses
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Courses
+
+
+
+
+
+
+
+
+
+
+
+Faculty & StaffCoursesMajor RequirementsMinor RequirementsWait List PolicyCUE OptionsTransfer Course ApprovalTeacher CertificationTruman Koehler Professorship 
+
+
+
+
+
+
+
+
+
+
+
+Home
+AcademicsMajors, Minors & CertificationsMath & Computer ScienceMathematicsCourses 
+
+
+
+
+
+
+
+
+
+
+
+
+
+Mathematics Courses
+MTH 101: Topics in Mathematics Topics selected from various areas of mathematics such as discrete mathematics, logic, number systems, geometry, probability, and graph theory. The course is designed to give the student an appreciation of mathematics as an integral part of our culture as well as applications to various other disciplines. Meets general academic requirement RG.
+MTH 114: Fundamentals of Mathematics A study of fundamental mathematical principles underlying the concepts of number and shape. Topics include number systems, number theory, measurement systems, geometry, and functions with emphasis on applications and problem solving.  Prerequisite: EDU 101 Foundations of Education Meets general academic requirement RG.
+MTH 116: Symmetry & Shape: Introduction to Geometry An introduction to the geometric concepts underlying elementary mathematics: properties of circles, polygons and polyhedra, measurement systems and indirect measure, scale and proportion, symmetry, congruence, informal Euclidean geometry, geometric constructions, and transformational geometry. Applications feature mathematical patterns found in art and nature: the golden ratio, Platonic solids, tessellations in the plane, frieze and wallpaper patterns, scale drawings, 3-D drawing, one- and two-point perspective, and viewing point. Meets general academic requirement RG.
+MTH 119: Statistical Analysis Designed for students interested in accounting, business administration, economics, finance, psychology, and the natural sciences. Topics include: basic probability, distributions of random variables, sampling distributions, confidence intervals, hypothesis testing, regression analysis, sampling procedures, experimental design, analysis of variance, nonparametric statistics, and research ethics. Students may not receive credit for MTH 104 Statistical Methods after taking MTH 119 Statistical Analysis.Prerequisite: 3.5 years of high school mathematicsMeets general academic requirement RG.
+MTH 121: Calculus I Differentiation of algebraic and transcendental functions, application of the derivative to related rates, max-min problems, and graphing. Introduction to integration, the Fundamental Theorem of Calculus. Four meetings per week. Prerequisite: 3.5 years of high school mathematics Meets general academic requirement RG.
+MTH 122: Calculus II A continuation of MTH 121 Calculus I. Applications of the integral, integration techniques, infinite sequences and series and improper integrals. Four meetings per week. Prerequisite: MTH 121 Calculus I Meets general academic requirement RG.
+MTH 219: Statistical Models This course is an intermediate applied statistics course that builds on the statistical data analysis methods introduced in MTH 119 Statistical Analysis. Emphasis will be placed on the use of statistical software to process data, fit statistical models, and assess the models' preformance. Topics covered will include experimental design, analysis of variance, multiple regression, variable selection, model comparison, and logistic regression.Prerequisite(s): MTH 119 Statistical Analysis or MTH 332 Mathematical Statistics
+MTH 223: Calculus III Geometry of the plane and space, including vectors and surfaces. Multivariable calculus, including partial derivatives, Taylorâs Theorem in two variables, line and surface integrals, and Greenâs Theorem. Four meetings per week. Prerequisite: MTH 122 Calculus IIMeets general academic requirement SC.
+MTH 226: Linear Algebra Matrices and systems of linear equations, determinants, real vector spaces and inner product spaces, linear transformations, eigenvalue problems, and applications. Four meetings per week. Prerequisite: MTH 122 Calculus IIMeets general academic requirement SC.
+MTH 227: Differential Equations A study of the theory, methods of solution, and applications of differential equations and systems of differential equations. Topics will include the Laplace Transform, some numerical methods, and applications from the physical sciences and geometry. Prerequisite: MTH 122 Calculus IIMeets general academic requirement SC.
+MTH 240: Transition to Abstract Mathematics An introduction to abstract mathematical thought with emphasis on understanding and applying definitions, writing arguments to prove valid statements, and providing counterexamples to disprove invalid ones. Topics may include logic, introductory set theory, and elementary number theory, but the focus is on the process of reasoning rather than any particular subject or subdiscipline. It is strongly recommended that mathematics majors complete this course by the end of the sophomore year. Prerequisite: MTH 122 Calculus II Meets general academic requirement W
+MTH 314: Applied Mathematics & Modeling  Models describing physical and economic conditions will be constructed, analyzed, and tested. The computer will be used in model verification. Offered in alternate years.  Prerequisite: Any 200-level MTH course
+MTH 318: Operations Research  Linear programming, the transportation model, dynamic programming, decision analysis, game theory, and inventory and queuing models. Offered in alternate years.  Prerequisite: MTH 226 Linear Algebra
+MTH 326: Abstract Algebra  A study of the algebraic structures of groups, rings, fields, and integral domains. Offered in alternate years.  Prerequisite: MTH 240 Transition to Abstract Mathematics and MTH 226 Linear Algebra
+MTH 328: Codes and Ciphers  This course is an introduction to the classical and modern methods for encoding secret messages (cryptography) and the science of breaking codes and ciphers (cryptanalysis). It blends the history of secret writing, the art of creating codes, and the mathematics underlying the theory and practice of encryption and decryption. Topics include substitution and transposition ciphers, applications of number theory to cryptanalysis, Vigenere and Hill ciphers, statistical methods in cryptanalysis, RSA encryption, and other public-key ciphers. Prerequisite: Any 200-level MTH course
+MTH 331: Probability  Probability, discrete and continuous random variables, the binomial, normal, Poisson, chi-square, t and F distribution.  Prerequisite: MTH 122 Calculus II
+MTH 332: Mathematical Statistics  A continuation of MTH 331 Mathematical Statistics I. Topics will include estimation, hypothesis testing, regression, correlation, and analysis of variance.  Prerequisite: MTH 331 Probability and MTH 119 Mathematical Statistics
+MTH 337: Mathematical Analysis  Rigorous treatment of the real number system, sequence and function limits, continuity, differentiability, intermediate and mean value theorems, uniform continuity, the Riemann integral, and the Fundamental Theorem of Calculus. Offered in alternate years.  Prerequisites: MTH 240 Transition to Abstract Mathematics and MTH 223 Calculus III
+MTH 342: Advanced Geometry  An axiomatic approach to Euclidean geometry. The exploration of non-Euclidean geometries, including hyperbolic geometry. The study of transformational geometries. Offered in alternate years.  Prerequisite: MTH 240 Transition to Abstract Mathematics
+MTH 345: Combinatorics & Graph Theory  This advanced course in discrete mathematics emphasizes counting and finite structures. The material is taken from three broad areas of combinatorics: counting theory, graph theory, and design theory. Topics include fundamental laws of counting, generating functions, recursion, partitions, existence and optimization problems, graphs and digraphs, networks, the relationships between graphical invariants, lattices, simple game theory, Latin squares, design and coding theory, and Ramsey Theory.  Prerequisite: MTH 240 Transition to Abstract Mathematics
+MTH 347: Number Theory Selected clasic topics in elementary number theory will be covered, including divisibility of integers, modular arithmetic, linear congruencies, quadratic reciprocity, continued fractions, and, if time permits, basic theory of elliptic curves. A computational point of view is emphasized. Prerequisite: MTH 240 Transition to Abstract Mathematics
+MTH 353: CUE: Landmarks of Mathematics This course examines major developments in mathematics of historical importance from ancient through modern times. An emphasis is placed on concepts from geometry, algebra, calculus, analysis, number theory, and modern mathematics. The course focuses on the context in which mathematical results were discovered and the lives of the discoverers/creators.  Prerequisite: MTH 122 Calculus II
+MTH 370: CUE: The Art of Problem Solving Intended for students who enjoy solving mathematical problems in a variety of areas and who want to strengthen their creative mathematical skills, as well as their ability to write and present mathematical arguments. Topics include recreational problems (concise intellectual challenges), contest problems (precisely formulated mathematical challenges), logic problems (generally qualitative in measure), and modeling problems (quantitative and posed in a context).Offered in alternate years. Prerequisite: MTH 240 Transition to Abstract Mathematics and at least one 300-level mathematics course
+MTH-381 Special Topic: Mathematical Economics An introduction to the mathematics used to approach, model, and solve certain questions in economics. Topics include optimization problems of microeconomics, static equilibrium problems of macroeconomics, comparative static analysis, dynamic analysis, optimal control theory, and auction theory. No previous knowledge of economics will be assumed. Prerequisite: MTH 226 Linear Algebra  
+MTH-382 Special Topic: Complex Variables The square root of -1, often denoted as i, is an interesting number. It is called, perhaps derisively, an âimaginary number,â and yet its presence leads to many mathematically beautiful results (arguably more beautiful and natural than their real counterparts). In this course, we will explore the algebraic properties of so-called complex numbers (i.e. numbers of the form x + iy where x and y are real numbers), differentiable functions of a complex variable and their properties, extensions of exponential and trigonometric functions to the complex variable and the relationships between such functions, and some classic results such as the maximum-modulus principle, Liouvilleâs Theorem, residue calculus, and the Fundamental Theorem of Algebra. Prerequisite: MTH 240 Transition to Abstract Mathematics
+MTH-385 Special Topic: Chaos and Fractals Study of chaotic dynamical systems and fractal geometry. Topics from discrete dynamical systems theory include iteration, orbits, graphical analysis, fixed and periodic points, bifurcations, symbolic dynamics, Sarkovski's theorem, and the Schwarzian derivative. Topics from fractal geometry include fractal, Hausdorff, and topological dimension, Julia and Mandelbrot sets. Prerequisite: MTH 240 Transition to Abstract Mathematics, MTH 223 Calculus III, MTH 226 Linear Algebra, or MTH 227 Differential Equations
+MTH-387 Special Topic: Number Theory This course covers the classical topics of elementary number theory. We will study divisibility of integers, modular arithmetic, quadratic reciprocity, continued fractions, Diophantine equations, and basic theory of elliptic curves. There will be a strong emphasis on computational number theory. Prerequisite: MTH 240 Transition to Abstract Mathematics, or permission of instructor
+MTH-388 Special Topic: 'The Matrix Revisited' This course is a follow-up course to MTH 226, Linear Algebra focusing on applications, particularly involving large data sets. The course is structured to emphasize ~mathematics in action~ and will have many project-based components. Topics include image and sound compression and manipulation, least squares, non-symmetric Eigenvalue problems, symmetric Eigenvalues and singular value decomposition, principal component analysis, and iterative methods. These are all techniques/topics used in applied business, science, and industry. Prerequisite: MTH 226 Linear Algebra
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Muhlenberg College
+
+
+
+
+
+
+
+
+
+
+Muhlenberg College
+2400 Chew St.
+Allentown, 
+PA
+18104
+
+
+
+
+
+
+
+484-664-3100
+
+
+
+
+
+
+
+
+Maps & Directions
+
+
+
+
+
+Accessibility
+
+
+
+
+
+Library
+
+
+
+
+Title IX
+
+
+
+
+
+Employment
+
+
+
+
+
+A-Z Index
+
+
+
+
+
+Conference & Event Services
+
+
+
+
+
+Diversity & Inclusion
+
+
+
+
+
+
+Weather Update
+
+
+
+
+
+
+
+
+Social
+
+
+
+
+
+
+
+
+Facebook
+
+
+
+
+
+
+
+
+Instagram
+
+
+
+
+
+
+
+
+Twitter
+
+
+
+
+
+
+
+
+YouTube
+
+
+
+
+
+
+
+
+LinkedIn
+
+
+
+
+
+
+
+
+							©
+													
+ Muhlenberg College
+
+
+
+
+
+
+
+
+
+
+
+Muhlenburg College
+
+
+
+
+
+
+
+
+
+
+Search
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Who We Are
+
+
+
+
+
+
+
+
+
+
+
+Diversity and Inclusion
+
+
+
+
+Institutional Initiatives
+
+
+
+
+Office of the President
+
+
+
+
+College History
+
+
+
+
+Campus Map
+
+
+
+
+Directory Search
+
+
+
+
+
+
+Admissions
+
+
+
+
+
+
+
+
+
+
+
+Explore Your Visit Options
+
+
+
+
+Early Decision
+
+
+
+
+Regular Decision
+
+
+
+
+Transfer Students
+
+
+
+
+International Students
+
+
+
+
+Adult Accelerated & Evening Programs
+
+
+
+
+Graduate Studies
+
+
+
+
+Tuition and Fees
+
+
+
+
+Financial Aid
+
+
+
+
+First-Year Experience
+
+
+
+
+
+
+Academics
+
+
+
+
+
+
+
+
+
+
+
+Majors, Minors & Certifications
+
+
+
+
+Adult Accelerated & Evening Programs
+
+
+
+
+Summer Study
+
+
+
+
+Graduate Programs
+
+
+
+
+Preprofessional Programs
+
+
+
+
+Academic Partnerships
+
+
+
+
+Honors Programs
+
+
+
+
+Global Education
+
+
+
+
+Our Faculty
+
+
+
+
+Research & Scholarship
+
+
+
+
+
+
+Student Life
+
+
+
+
+
+
+
+
+
+
+
+Housing
+
+
+
+
+Dining
+
+
+
+
+Getting Involved
+
+
+
+
+Athletics
+
+
+
+
+Student Services
+
+
+
+
+Health & Wellness
+
+
+
+
+Religious & Spiritual Life
+
+
+
+
+
+
+Powerful Outcomes
+
+
+
+
+
+
+
+
+
+
+
+The Career Center
+
+
+
+
+Fellowships & Postgraduate Awards
+
+
+
+
+The Muhlenberg Network
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Visit
+
+
+
+
+
+
+
+
+
+Apply
+
+
+
+
+
+
+
+
+
+Request Info
+
+
+
+
+
+
+
+
+
+Give
+
+
+
+
+
+
+
+Info For:
+
+
+
+
+Current Students
+
+
+
+
+
+Alumni & Friends
+
+
+
+
+
+Faculty & Staff
+
+
+
+
+
+Parents
+
+
+
+
+
+
+
+
+
+News
+
+
+
+
+
+Events
+
+
+
+
+
+Athletics
+
+
+
+
+Arts
+
+
+
+
+
+
+
+
+COVID-19 Info
+
+
+
+ 
+ 
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

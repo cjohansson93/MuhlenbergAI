@@ -1,0 +1,801 @@
+
+
+
+
+
+
+
+Sparks Justin | Muhlenberg College
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Skip to Main Content
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Muhlenberg College
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Visit
+
+
+
+
+
+
+
+
+
+Apply
+
+
+
+
+
+
+
+
+
+Request Info
+
+
+
+
+
+
+
+
+
+Give
+
+
+
+
+
+
+
+
+
+Menu
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Faculty Profiles
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Justin  SparksAssociate Professor, ChemistryChemistryMain Campus > Shankweiler Biology Building > 334S484-664-3681jsparks@muhlenberg.edu
+Education
+
+Ph.D., chemistry, The Pennsylvania State University
+B.S., chemistry, DeSales University
+
+Teaching Interests
+Why are the intricate workings of atoms and molecules relevant to our everyday lives?  Why are certain combinations/arrangements of atoms utilized to fabricate the screen that you are using to read this?  Discussing relatable questions like these in my physical chemistry and materials science courses leads to an impactful, lasting learning experience for each individual learner.  Within this dialogue, I emphasize the interconnected nature of scientific principles to help students organize seemingly complicated topics into a cohesive concept network. Understanding unifying themes also helps students develop both a predictive intuition for solving complex problems and a skill set for independently learning new material.  In the ever-expanding field of science, this capacity for lifelong learning is indispensable. Thus, my objective as a professor is to not only teach the course content in an engaging and enduring manner but to also ingrain a passion and curiosity to continually ask, and seek answers to, "why?".
+Research, Scholarship or Creative/Artistic InterestsTraditionally, chemists follow a familiar tenet where the physical and chemical properties of molecules are controlled by changing the constituent atoms and/or the way in which those atoms are bonded together.  Strong coupling is an alternative paradigm, where, instead, molecular properties are altered without changing the elements, bonds, or geometry in a formal sense. When a molecule is placed in an optical cavity (between two mirrors spaced apart by approximately one tenth of the thickness of your hair), a photon emitted from the molecule has an increased probability of being reflected back, reabsorbed, and emitted again.  This oscillation of energy between the optical cavity and the molecule results in the formation of new quantum states, known as polaritons, that are composed of both light and matter. By coupling, or "mixing", light with matter, my research group modifies the characteristics of molecules in an effort to access novel chemistries that are unattainable by traditional means.
+
+
+Courses Taught Include:Chemistry Independent Study/Research: Quantum Strong Coupling: CUE: Chemistry Capstone Seminar: Dana Scholars Directed Studies: Quantum Strong Coupling: General Chemistry I: Physical Chemistry I: Physical Chemistry II: Spc Top: Scientific Computing: 
+College Honors & Awards
+Summer Research Grant, 2016 and 2017
+Bridge Builder Award, 2016 and 2017
+
+Recent Publications, Presentations & Abstracts(* = Muhlenberg Student)
+
+D. C. Lewczyk*, J. W. Cohan*, M. L. Goetz*, B. L. Trafford*, R. L. Fuller, and J. R. Sparks. Kinetic Treatment of Evaporation via Thermogravimetric Analysis: The Case of d-Limonene,Industrial & Engineering Chemistry Research, (2020), 59, 15069-15074.
+A. T. Hendrickson, S. C. Aro, J. R. Sparks, M. G. Coco, J. P. Krug, C. J. Mathewson, S. A. McDaniel, P. J. A. Sazio, G. Cook, V. Gopalan, and J. V. Badding. Post-Processing ZnSe Optical Fibers with a Micro-Chemical Vapor Transport Technique, Optical Materials Express, (2020), 10, 3125-3136.
+J. R. Sparks, S. C. Aro, R. He, M. L. Goetz*, J. P. Krug, S. A. McDaniel, P. A. Berry, G. Cook, K. L. Schepler, P. J. A. Sazio, V. Gopalan, and J. V. Badding. Chromium Doped Zinc Selenide Optical Fiber Lasers, Optical Materials Express, (2020) 10, 1843-1852.
+I. Imran*, G. E. Nicolai*, N. D. Stavinksi*, and J. R. Sparks. Tuning Vibrational Strong Coupling with Co-Resonators, ACS Photonics, (2019), 6, 2405-2412.
+V. F. Crum*, S. R. Casey*, and J. R. Sparks. Photon-Mediated Hybridization of Molecular Vibrational States, Physical Chemistry Chemical Physics, (2018), 20, 850-857.
+S. R. Casey* and J. R. Sparks. Vibrational Strong Coupling of Organometallic Complexes, The Journal of Physical Chemistry C, (2016), 120, 28138-28143.
+S. R. Casey* and J. R. Sparks. Microfluidic Vibrational Strong Coupling of Organometallic Complexes in Aqueous Solutions, American Chemical Society National Meeting, San Francisco, (April 2017).
+N. Healy, S. Mailis, N. M. Bulgakova, P. J. A. Sazio, T. D. Day, J. R. Sparks, H. Y. Cheng, J. V. Badding, and A. C. Peacock. Extreme Electronic Band-Gap Modification in Laser Crystallized Silicon Optical Fibres, Nature Materials, (2014), 13, 1122-1127.
+C. Peacock, N. Healy, J. R. Sparks, and J. V. Badding. Semiconductor Optical Fibres: Progress and Opportunities, Laser and Photonics Reviews, (2013), 8, 53-72.
+J. R. Sparks, P. J. A. Sazio, V. Gopalan, and J. V. Badding. Templated Chemically Deposited Semiconductor Optical Fiber Materials, Annual Review of Materials Research, (2013), 43, 527-557.
+J. R. Sparks, R. He, N. Healy, S. Chaudhuri, T. C. Fitzgibbons, A. C. Peacock, P. J. A. Sazio, and J. V. Badding. Conformal Coating by High Pressure Chemical Deposition for Patterned Microwires of II-VI Semiconductors, Advanced Functional Materials, (2013), 23, 1647-1654.
+R. He, P. J. A. Sazio, A. C. Peacock, N. Healy, J. R. Sparks, V. Gopalan, and J. V. Badding, Integration of GHz Bandwidth Semiconductor Devices inside Microstructured Optical Fibres, Nature Photonics, (2012), 6, 174-179.
+N. F. Baril, R. He, T. D. Day, J. R. Sparks, B. Keshavarzi, M. Krishnamurthi, A. Borhan, V. Gopalan, P. J. A. Sazio, and J. V. Badding. Confined High Pressure Chemical Deposition of Amorphous Hydrogenated Silicon, Journal of the American Chemical Society, (2012), 134, 19-22.
+J. R. Sparks, R. He, N. Healy, M. Krishnamurthi, A. C. Peacock, P. J. A. Sazio, V. Gopalan, and J. V. Badding. Zinc Selenide Optical Fibers, Advanced Materials, (2011), 23, 1647-1651.
+
+ 
+
+Professional Websitemuhlenbergchem.com/sparks/
+Go Back to Search >>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Muhlenberg College
+
+
+
+
+
+
+
+
+
+
+Muhlenberg College
+2400 Chew St.
+Allentown, 
+PA
+18104
+
+
+
+
+
+
+
+484-664-3100
+
+
+
+
+
+
+
+
+Maps & Directions
+
+
+
+
+
+Accessibility
+
+
+
+
+
+Library
+
+
+
+
+Title IX
+
+
+
+
+
+Employment
+
+
+
+
+
+A-Z Index
+
+
+
+
+
+Conference & Event Services
+
+
+
+
+
+Diversity & Inclusion
+
+
+
+
+
+
+Weather Update
+
+
+
+
+
+
+
+
+Social
+
+
+
+
+
+
+
+
+Facebook
+
+
+
+
+
+
+
+
+Instagram
+
+
+
+
+
+
+
+
+Twitter
+
+
+
+
+
+
+
+
+YouTube
+
+
+
+
+
+
+
+
+LinkedIn
+
+
+
+
+
+
+
+
+							©
+													
+ Muhlenberg College
+
+
+
+
+
+
+
+
+
+
+
+Muhlenburg College
+
+
+
+
+
+
+
+
+
+
+Search
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Who We Are
+
+
+
+
+
+
+
+
+
+
+
+Diversity and Inclusion
+
+
+
+
+Institutional Initiatives
+
+
+
+
+Office of the President
+
+
+
+
+College History
+
+
+
+
+Campus Map
+
+
+
+
+Directory Search
+
+
+
+
+
+
+Admissions
+
+
+
+
+
+
+
+
+
+
+
+Explore Your Visit Options
+
+
+
+
+Early Decision
+
+
+
+
+Regular Decision
+
+
+
+
+Transfer Students
+
+
+
+
+International Students
+
+
+
+
+Adult Accelerated & Evening Programs
+
+
+
+
+Graduate Studies
+
+
+
+
+Tuition and Fees
+
+
+
+
+Financial Aid
+
+
+
+
+First-Year Experience
+
+
+
+
+
+
+Academics
+
+
+
+
+
+
+
+
+
+
+
+Majors, Minors & Certifications
+
+
+
+
+Adult Accelerated & Evening Programs
+
+
+
+
+Summer Study
+
+
+
+
+Graduate Programs
+
+
+
+
+Preprofessional Programs
+
+
+
+
+Academic Partnerships
+
+
+
+
+Honors Programs
+
+
+
+
+Global Education
+
+
+
+
+Our Faculty
+
+
+
+
+Research & Scholarship
+
+
+
+
+
+
+Student Life
+
+
+
+
+
+
+
+
+
+
+
+Housing
+
+
+
+
+Dining
+
+
+
+
+Getting Involved
+
+
+
+
+Athletics
+
+
+
+
+Student Services
+
+
+
+
+Health & Wellness
+
+
+
+
+Religious & Spiritual Life
+
+
+
+
+
+
+Powerful Outcomes
+
+
+
+
+
+
+
+
+
+
+
+The Career Center
+
+
+
+
+Fellowships & Postgraduate Awards
+
+
+
+
+The Muhlenberg Network
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Visit
+
+
+
+
+
+
+
+
+
+Apply
+
+
+
+
+
+
+
+
+
+Request Info
+
+
+
+
+
+
+
+
+
+Give
+
+
+
+
+
+
+
+Info For:
+
+
+
+
+Current Students
+
+
+
+
+
+Alumni & Friends
+
+
+
+
+
+Faculty & Staff
+
+
+
+
+
+Parents
+
+
+
+
+
+
+
+
+
+News
+
+
+
+
+
+Events
+
+
+
+
+
+Athletics
+
+
+
+
+Arts
+
+
+
+
+
+
+
+
+COVID-19 Info
+
+
+
+ 
+ 
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

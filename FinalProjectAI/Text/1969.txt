@@ -1,0 +1,911 @@
+
+
+
+
+
+
+
+IT Data and Security Privacy Policy | Muhlenberg College
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Skip to Main Content
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Muhlenberg College
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Visit
+
+
+
+
+
+
+
+
+
+Apply
+
+
+
+
+
+
+
+
+
+Request Info
+
+
+
+
+
+
+
+
+
+Give
+
+
+
+
+
+
+
+
+
+Menu
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Home
+Who We AreCollege OfficesInformation TechnologyAbout ITPolicies and ProceduresIT Data and Security Privacy Policy 
+
+
+
+
+
+
+IT Data and Security Privacy Policy
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+IT Data and Security Privacy Policy
+
+
+
+
+
+
+
+
+
+
+
+FAQs
+
+
+
+
+
+
+
+
+
+
+
+Home
+Who We AreCollege OfficesInformation TechnologyAbout ITPolicies and ProceduresIT Data and Security Privacy Policy 
+
+
+
+
+
+
+
+
+
+
+
+Information Technology Data and Security Privacy Policy
+Preamble
+Freedom of expression and respect for privacy are ideals central to the Muhlenberg mission to develop âindependent critical thinkersâ within the context of an âinclusive and diverse campus.â Private communication, intellectual property, scholarship and creative activity that occurs on or by way of College-owned devices or hardware are protected to the same extent as other forms of private communication, scholarship or creative activity. Personal information, including personal data on individuals and their activities that are acquired or transmitted by way of College-owned devices or hardware, is also considered confidential, protected information.
+We affirm that members of the Muhlenberg community have an expectation of security when operating on College-owned devices or networks. The College has a responsibility to protect users of College-owned devices or networks from the vulnerabilities of electronic communication, such as the filtering of email-borne viruses. Similarly, members of the community (faculty, staff and students) have a responsibility to use equipment and devices responsibly.
+Scope
+This policy addresses  how College faculty, staff and students interact with the information flowing through or stored on College-owned devices or hardware, including College owned computers and servers, and information that flows via the College-owned network to or from personal devices as well as interaction with the network itself (both wired and wireless), and includes policy affecting all users of such devices. It also includes applications and data, electronic mail, discussion lists and forums, shared resources such as network and cloud storage, the College telephone system including voicemail, and any third-party products contracted by the College such as Software-as-a-Service hosted or cloud solutions. We collectively refer to these entities as College-provided devices and services or the System. This includes both College-owned as well as personal devices to various extents, as per the policy specifics listed below.
+This policy does not govern the users of confidential information. Refer to FERPA and our Data Standards Policy for handling of covered data and personal identifying information. 
+Expectation of Privacy
+While the College cannot guarantee universal privacy, users of College-provided devices and services can be confident that their privacy is respected and protected. We do not regularly or pro-actively monitor communications, traffic or activity from any specific users or group of users. However, many events on the System are passively logged in various locations, and system administrators can access these records if needed and under certain situations specified below. In addition, automated alerts and data visualization dashboards are used to actively determine the status of our network firewalls, malware and other violations of our Acceptable User or Electronic Communications Policies. These include but are not limited to  usersâ  logging on  or off certain components of the System (for example, email, or a computer),  traffic patterns (peer-to-peer file sharing applications that create different types of data than web traffic), and the Internet Protocol (IP) address assigned to a userâs device. Passive logging does not include data content downloaded by a user.
+The Office of Information Technology (OIT) also logs devices connected to the System via our wireless network by MAC address. Passive logging identifies the IP address assigned to a device. Because IP addresses are generally specific to campus buildings, OIT is able to  determine the location of a device based on the network logs. However, we do not monitor user activity (see Monitoring below for more details).
+OIT staff are not allowed to log on to a userâs various accounts on the System, access a userâs files or otherwise act as the user without the express permission of the user, except under the following conditions  
+
+
+When reasonable grounds exist for concern regarding public safety
+
+
+When there are reasonable grounds to believe that the System is being used unlawfully and/or in violation of College policy
+
+
+When reasonable grounds exist to believe that user activity is relevant to an existing disciplinary investigation
+
+
+When required by law or court order*
+
+
+The specific conditions for determination of these grounds varies according to the role of the campus constituent and are explicated below: 
+Faculty
+If the user is a faculty member, and there is reason to believe that one of the above conditions has been met, the guidelines for ethical violations (Faculty Handbook 4.1.3) and/or Suspension or Termination for Cause (Faculty Handbook 3.10) take effect. In the case of policy violations and misconduct, section 4.1.3 is most applicable. In the case where there is the possibility of imminent threat or immediate danger, section 3.10 will be invoked. Reports of imminent threat, gross misconduct and/or ethical violation are made to the Provost (as per 4.1.3) and the President (as per 3.10). Either the Provost (as dictated in 4.1.3) or the President (as dictated in 3.10) will make the decision and then inform the CIO that it is necessary to access the System or monitor a faculty userâs activities without permission. The Provost and/or President must consider the preservation of academic freedom when deciding âreasonable groundsâ exist to access faculty user information or activity on the System without permission. As outlined in the faculty handbook (4.2 and in particular, 3.10.1.b), it is unacceptable for access or threat of System access under this policy to ârestrain or interfere with faculty members, visiting faculty members, or adjunct faculty members in their exercise of academic freedom or rights of citizenship.â  The decision to access the System in this way must be documented in writing, and must specifically identify the items to be accessed or activities to be monitored. This documentation will become part of the separate confidential disciplinary file pertaining to the investigation of the faculty member (Faculty handbook 4.1.3.c).Informing the faculty member under investigation is the responsibility of the Provost (Faculty handbook 4.1.3). 
+Student
+If the user is a student, and there is reason to believe that one of the above conditions has been met, the guidelines for Code of Conduct violations take effect; disciplinary investigation proceeds as outlined in the social code, and in the case where there is the possibility of imminent threat or immediate danger, the Dean of Students may, without notice, immediately suspend a student and initiate an investigation. Reports of imminent threat, misconduct and/or violation are made to the Dean of Students as outlined in the Student Code of Conduct. The Dean of Students will then inform the CIO that it is necessary  to access the System or monitor a student userâs activities without permission. Informing the student user under investigation is the responsibility of the Dean of Studentsâ Office (Social Code, Section 11.0). The decision to access the System in this way must be documented in writing, and must specifically identify the items to be accessed or activities to be monitored. This documentation will become part of the disciplinary case file pertaining to the investigation of the student user (Social Code, ref - disciplinary case file). 
+Staff
+If the user is a staff member, and there is reason to believe one of the above conditions has been met, guidelines for Discipline (1.8) and Disciplinary Layoff (1.9) in the Support Staff Handbook take effect as appropriate. Any complaint regarding unacceptable use of the System by a staff member must go to the VP of Human Resources who will consult with the staff memberâs supervisor. The VP of Human Resources and CIO must agree that must agree that reasonable grounds exist to access the System or monitor a userâs activities without permission. 
+Informing the staff member under investigation is at the discretion of the VP of Human Resources or his/her delegates. The decision to access the System in this way must be documented in writing, and must specifically identify the items to be accessed or activities to be monitored. This documentation will become part of the staff memberâs personnel file. 
+Imminent Threat
+In the rare instance where there is an imminent threat of or immediate physical danger to faculty, student or staff member that originates from within or without the College, where the user in danger has not violated any college policy or law, the request to access the System in order to possibly determine the userâs location must be made directly to the President or to his or her delegate. The President will consult with Campus Safety and the CIO and if necessary, the President will make the decision and then inform the CIO to access the System or monitor a userâs activities without permission. The decision to access the System in this way must be documented in writing, and must specifically identify the items to be accessed or activities to be monitored. This documentation will be stored at campus safety and at OIT. Campus Safety will notify the user that the System was accessed at the request of the President.
+*Please refer to our policies regarding the Digital Millennium Copyright Act (DMCA) for how OIT responds to copyright violation notifications and the FERPA laws which govern the handling of student information. 
+Monitoring
+OIT utilizes various tools to monitor the health of our network and the overall System. For example, we monitor whether a network switch is online or not (which affects network availability) and whether servers are performing properly. We also use automated system alerts and data visualization dashboards that read from passively collected logs to identify possible malware activity or violations of our Acceptable Use and Electronic Communication Policies. For example, when a computer is infected with a known virus, we receive notification of that specific machineâs status. Our dashboards show us the state of our network security âat a glanceâ including number of intrusion attempts, currently spam activity indicators, and other metrics. Many applications log activity internally, e.g. log on and off, application launch and closure, etc. We do not actively look at these logs for individual users, and would examine them only as per the guidelines above. To ensure the System does not suffer performance breakdowns, we do monitor certain application logs in specific, peak-usage situations.
+We do passively monitor where devices are on our wireless networks; for instance, we can tell whether a device is in one building or another. We do not, however, track activity from these devices.  
+College-Provided Devices and Services
+The College is the administrator of the System. College-owned devices are provided to faculty, staff and students at the discretion of administration for producing work for the College and to facilitate scholarly and creative activity (see below). College work includes all files, communications, email, chats and other data acquired while a user performs their job at the College. The product of College work on College-owned devices or the System should be considered property of the College, and it is expected that all faculty and staff use College-provided devices for College work. Some personal use of College-owned devices is expected and tolerated but not protected or guaranteed.  Finally, while all College work is considered property of the College, access of user data or accounts is not permitted other than for the reasons cited above
+College ownership of data and work product does not extend to academic scholarship or creative activity; the intellectual property for which is owned solely by the creator(s). Scholarly and creative activity is not only associated with the professional lives of faculty members as scholars, artists and researchers, but it also occurs within the context of classroom instruction and required or independent study by students. The College does not impose any ownership rights to the materials or products of scholarly and creative activity created or stored on the System. 
+Device Management
+In order to ensure the security of the System and confidential information contained therein, and in order to effectively maintain software and system updates on College-owned devices, OIT manages College-owned computers and devices connected to the System. This includes but is not restricted to:
+
+
+Deployment of business applications (e.g. Microsoft Office, SPSS, etc)
+
+
+Confirmation of security updates and settings
+
+
+Deployment of software patches (e.g. Flash, Acrobat, etc)
+
+
+Deployment of drivers for printers and other peripherals
+
+
+Remote data wipe capabilities in case of device theft or loss
+
+
+Tracking of licensed software
+
+
+Users are not permitted to interfere with or disable management tools on College-provided devices as doing so can compromise System stability and possibly affect institutional data security.
+At no point shall OIT utilize management tools to install any applications that in any way compromise or expose personal information, scholarly or creative activity or intellectual property for any user except for the reasons cited above in Expectation of Privacy.
+OIT will also endeavor whenever possible to manage updates to college-owned devices in a way that minimizes interference with the daily activities of work and life at the College. 
+Personal Devices
+Personal devices and any data on such devices connected to the System are the sole property of that individual, excepting College data stored on personal devices.
+College Data includes but is not limited to:
+
+
+FERPA and/or HIPAA covered data
+
+
+Other students records such as grades or courses
+
+
+Financial Aid data
+
+
+Admissions applications
+
+
+Employee records
+
+
+Financial information
+
+
+Data as per the above examples belong to the College, even if stored on a personal device (for additional information on best practices for handling College data, please see the Data Standards Policy). We strongly urge users not to store College data on personal devices.  
+The College does not retain ownership nor dominion over any personal data or other items stored on any personally-owned devices connected to the System. Moreover, the College does not pursue any visibility into devices on the network, nor can it access a personally-owned device without the express permission of the user. The System is capable, through passive logging, of determining specific activity in specific situations. For instance, peer-to-peer file sharing traffic is different than web traffic.
+The College does reserve the right to remove network access for personally-owned devices that are acting in violation of College policy. Examples include but are not limited to:
+
+
+Repeated violation of our DMCA policy
+
+
+Repeated violation of our Acceptable Use Policy
+
+
+Periodic Review
+The periodic review of this policy will take place in committee (i.e. CCTDL) at least once per calendar year. A recommendation for review can be made at any time by the chair of CCTDL or the Chief Information Officer. 
+Definitions
+MAC address
+Unique hardware identification number for network adapters. This is a 16-digit alphanumeric serial number. Each desktop, laptop, wifi device, or anything else that can connect to a network has at least one adapter with a unique MAC address.
+Software-as-a-Service 
+Also known as SaaS, this is a solution fully hosted and maintained by a 3rd party. We have no control over the software other than the data contained therein. Examples of SaaS solutions include Google Suite for Education.
+Hosted
+Hosted solutions are still managed (updates, configuration changes, etc) by Muhlenberg OIT, but are housed on servers outside of campus, by a third party.
+Cloud solutions
+Catch-all for solutions housed on third-party servers, either managed or unmanaged. This covers any solution not explicitly listed as Software-as-a-Service or hosted.
+Scholarship; creative activity
+Scholarly and creative activity can include one or more of the following: the application of knowledge from a profession to address consequential problems facing society and its institutions; the presentation of performing, fine, and/or literary arts in public venues; the accumulation and dissemination of new knowledge to practitioners within the profession; the integration of knowledge by giving meaning to isolated facts, putting them in perspective, making connections across disciplines, placing specialties in larger context, illuminating data in a revealing way, and educating non-specialists; and the analysis and application of innovative pedagogies within a discipline. (This definition is taken from the Faculty Handbook, section 3.5.2.2, but we understand that students produce scholarship and creative activity as well)
+Frequently Asked Questions
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Muhlenberg College
+
+
+
+
+
+
+
+
+
+
+Muhlenberg College
+2400 Chew St.
+Allentown, 
+PA
+18104
+
+
+
+
+
+
+
+484-664-3100
+
+
+
+
+
+
+
+
+Maps & Directions
+
+
+
+
+
+Accessibility
+
+
+
+
+
+Library
+
+
+
+
+Title IX
+
+
+
+
+
+Employment
+
+
+
+
+
+A-Z Index
+
+
+
+
+
+Conference & Event Services
+
+
+
+
+
+Diversity & Inclusion
+
+
+
+
+
+
+Weather Update
+
+
+
+
+
+
+
+
+Social
+
+
+
+
+
+
+
+
+Facebook
+
+
+
+
+
+
+
+
+Instagram
+
+
+
+
+
+
+
+
+Twitter
+
+
+
+
+
+
+
+
+YouTube
+
+
+
+
+
+
+
+
+LinkedIn
+
+
+
+
+
+
+
+
+							©
+													
+ Muhlenberg College
+
+
+
+
+
+
+
+
+
+
+
+Muhlenburg College
+
+
+
+
+
+
+
+
+
+
+Search
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Who We Are
+
+
+
+
+
+
+
+
+
+
+
+Diversity and Inclusion
+
+
+
+
+Institutional Initiatives
+
+
+
+
+Office of the President
+
+
+
+
+College History
+
+
+
+
+Campus Map
+
+
+
+
+Directory Search
+
+
+
+
+
+
+Admissions
+
+
+
+
+
+
+
+
+
+
+
+Explore Your Visit Options
+
+
+
+
+Early Decision
+
+
+
+
+Regular Decision
+
+
+
+
+Transfer Students
+
+
+
+
+International Students
+
+
+
+
+Adult Accelerated & Evening Programs
+
+
+
+
+Graduate Studies
+
+
+
+
+Tuition and Fees
+
+
+
+
+Financial Aid
+
+
+
+
+First-Year Experience
+
+
+
+
+
+
+Academics
+
+
+
+
+
+
+
+
+
+
+
+Majors, Minors & Certifications
+
+
+
+
+Adult Accelerated & Evening Programs
+
+
+
+
+Summer Study
+
+
+
+
+Graduate Programs
+
+
+
+
+Preprofessional Programs
+
+
+
+
+Academic Partnerships
+
+
+
+
+Honors Programs
+
+
+
+
+Global Education
+
+
+
+
+Our Faculty
+
+
+
+
+Research & Scholarship
+
+
+
+
+
+
+Student Life
+
+
+
+
+
+
+
+
+
+
+
+Housing
+
+
+
+
+Dining
+
+
+
+
+Getting Involved
+
+
+
+
+Athletics
+
+
+
+
+Student Services
+
+
+
+
+Health & Wellness
+
+
+
+
+Religious & Spiritual Life
+
+
+
+
+
+
+Powerful Outcomes
+
+
+
+
+
+
+
+
+
+
+
+The Career Center
+
+
+
+
+Fellowships & Postgraduate Awards
+
+
+
+
+The Muhlenberg Network
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Visit
+
+
+
+
+
+
+
+
+
+Apply
+
+
+
+
+
+
+
+
+
+Request Info
+
+
+
+
+
+
+
+
+
+Give
+
+
+
+
+
+
+
+Info For:
+
+
+
+
+Current Students
+
+
+
+
+
+Alumni & Friends
+
+
+
+
+
+Faculty & Staff
+
+
+
+
+
+Parents
+
+
+
+
+
+
+
+
+
+News
+
+
+
+
+
+Events
+
+
+
+
+
+Athletics
+
+
+
+
+Arts
+
+
+
+
+
+
+
+
+COVID-19 Info
+
+
+
+ 
+ 
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

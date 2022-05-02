@@ -1,0 +1,877 @@
+
+
+
+
+
+
+
+Connect | Muhlenberg College
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Skip to Main Content
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Muhlenberg College
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Visit
+
+
+
+
+
+
+
+
+
+Apply
+
+
+
+
+
+
+
+
+
+Request Info
+
+
+
+
+
+
+
+
+
+Give
+
+
+
+
+
+
+
+
+
+Menu
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Home
+Who We AreCollege OfficesInformation TechnologyConnect 
+
+
+
+
+
+
+Connect
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Connect
+
+
+
+
+
+
+
+
+
+
+
+About ITGet HelpCampus TechnologyFaculty and Staff ComputingStudent ComputingWeb ResourcesG SuiteInstructional Technology and Digital Learning
+
+
+
+
+
+
+
+
+
+
+
+Home
+Who We AreCollege OfficesInformation TechnologyConnect 
+
+
+
+
+
+
+
+
+
+
+
+
+
+Connecting Your Computer
+Getting Connected
+
+
+Turn the computer OFF.
+Locate the network jack. Generally it is found on the same wall unit which houses the cable connection as well as the phone connector. The network jack resembles a telephone jack, except it is wider.
+Connect one end of the blue network cable (provided by the College) to the wall socket.
+Plug the remaining end of the blue network cable into the appropriate outlet on your computer.
+Turn the computer ON.
+
+Preparing Your Computer for Campus Network Access
+To connect your computer to ResNet, a network setting called DHCP must be enabled so your computer will obtain its IP address (network address). Here are the instructions on how to enable DHCP. (Further details for authenticating to the campus network will be provided in your “move-in” packet when you arrive on campus.)
+NOTE: Please perform the following instructions before departing for campus. Changing this setting could cause a lost connection with your current Internet Service Provider.
+
+
+Go to Start --> Settings --> Control Panel
+Double-click on “Network Connections” for Windows XP or “Network and Dial-up Connections” or Windows 2000.
+Right Click on your Local Area Network Connection and choose “Properties”.
+In the box click on “Internet Protocol (TCP/IP) and click “Properties”.
+Make sure the “Obtain an IP address automatically” and “Obtain DNS server address automatically” radio buttons are checked.
+Click “OK” and “Close”. There is no need to restart your computer.
+
+Registering Your Computer
+Freshman :
+
+
+Turn on your PC
+You will get to your desktop
+Open Internet Browser
+You will see the following image (if you get Page Cannot Be Displayed, click Refresh or F5)
+Login with your college provided NETWORK ID AND NETWORK PASSWORD (Information is included in the packet  that will be sent to your home in July) User Name Password Select HW Description - choose laptop or desktop
+Click Apply
+On the screen that pops up, check the "Don’t" box, then click NO
+You will see an image, please read the information under Notice. (local area connection unplugged message may pop on bottom right, this is ok)
+As it says, close all windows & restart your PC    
+
+You now should have full Internet Access. If after following these directions, you experience problems – contact the Student Help Desk at x3375 .
+Configuring Your Computer to Print to the Residence Hall Lab Printer
+Before beginning this process, please have your NETWORK INFORMATION sheet located in the  white #10 envelope of your move-in packet handy for reference.
+The following instructions will configure your computer to print to the nearest residence hall lab printer. The instructions are for both Windows 2000 and Windows XP.
+
+
+Go to Start --> Control Panel --> Administrative Tools --> Computer Management
+Double-click on “Local Users & Groups”
+Double-click on “Users”
+Right-click on your “User Name” and choose “Rename”
+Rename your User Name to your “ NETWORK ID ” (refer to the Network Information sheet in your move-in packet for this information).
+Double-click on your NETWORK ID and press “Enter”
+Close the “Computer Management” Window
+Windows XP Users: Go to Start --> Settings --> Control Panel Click on “Network and Internet Connections” Click on “Network Connections”
+Windows 2000 Users: Go to Start --> Settings --> Network & Dial-up Connections
+Right-click on “Local Area Network” Click on “Properties”
+Click on “Install” Highlight “Client” and Click on “Add”
+Highlight “Client Service for Netware” and Click “OK”
+This will install files and prompt you to reboot your computer. Respond “Yes” to rebooting your computer.
+Delete default username. Enter your NETWORK ID in username box. DO NOT enter a password.
+Click on “OK” and login Select “Select Default Tree and Context”
+Enter “MUHLENBERG” in the Tree box (MUST be typed in UPPERCASE)
+Enter “.STUDENTS.ACADEMIC” in the Context box (MUST be typed in UPPERCASE)
+Click in the “Run Login Script” box to add a check mark.
+Click on “OK”
+Enter NETWORK PASSWORD promptly. (refer to your move-in packet for this information). There is a timeout on this password login screen. If the box disappears, don’t panic. Go to Start, click logoff. You will get the “are you sure you want to logoff” message, click Yes. Now, restart at step #16 above.
+At this point your computer will start the login process to ResNet. Once the your computer connects to ResNet you can continue with the following instructions.
+Go to Start --> Settings --> Printers & Faxes
+Click on “Add a Printer” then click on “Next”
+Uncheck box for “Automatically detect and install my Plug and Play Printer” then select “Next”
+In “Use the Following Port” box , select “LPT2: (Printer Port)” and Select “Next”
+Under “Manufacturer” Select “HP”
+Under “Printers” Select “HP Laserjet 4Plus”
+Click on “Next”
+Click on “Next”
+Select “Yes” to print a test page, then click on “Next”
+Click on “Next”
+Click on “Finish”
+Click on “OK”
+Check the residence hall lab printer for your test page.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Muhlenberg College
+
+
+
+
+
+
+
+
+
+
+Muhlenberg College
+2400 Chew St.
+Allentown, 
+PA
+18104
+
+
+
+
+
+
+
+484-664-3100
+
+
+
+
+
+
+
+
+Maps & Directions
+
+
+
+
+
+Accessibility
+
+
+
+
+
+Library
+
+
+
+
+Title IX
+
+
+
+
+
+Employment
+
+
+
+
+
+A-Z Index
+
+
+
+
+
+Conference & Event Services
+
+
+
+
+
+Diversity & Inclusion
+
+
+
+
+
+
+Weather Update
+
+
+
+
+
+
+
+
+Social
+
+
+
+
+
+
+
+
+Facebook
+
+
+
+
+
+
+
+
+Instagram
+
+
+
+
+
+
+
+
+Twitter
+
+
+
+
+
+
+
+
+YouTube
+
+
+
+
+
+
+
+
+LinkedIn
+
+
+
+
+
+
+
+
+							©
+													
+ Muhlenberg College
+
+
+
+
+
+
+
+
+
+
+
+Muhlenburg College
+
+
+
+
+
+
+
+
+
+
+Search
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Who We Are
+
+
+
+
+
+
+
+
+
+
+
+Diversity and Inclusion
+
+
+
+
+Institutional Initiatives
+
+
+
+
+Office of the President
+
+
+
+
+College History
+
+
+
+
+Campus Map
+
+
+
+
+Directory Search
+
+
+
+
+
+
+Admissions
+
+
+
+
+
+
+
+
+
+
+
+Explore Your Visit Options
+
+
+
+
+Early Decision
+
+
+
+
+Regular Decision
+
+
+
+
+Transfer Students
+
+
+
+
+International Students
+
+
+
+
+Adult Accelerated & Evening Programs
+
+
+
+
+Graduate Studies
+
+
+
+
+Tuition and Fees
+
+
+
+
+Financial Aid
+
+
+
+
+First-Year Experience
+
+
+
+
+
+
+Academics
+
+
+
+
+
+
+
+
+
+
+
+Majors, Minors & Certifications
+
+
+
+
+Adult Accelerated & Evening Programs
+
+
+
+
+Summer Study
+
+
+
+
+Graduate Programs
+
+
+
+
+Preprofessional Programs
+
+
+
+
+Academic Partnerships
+
+
+
+
+Honors Programs
+
+
+
+
+Global Education
+
+
+
+
+Our Faculty
+
+
+
+
+Research & Scholarship
+
+
+
+
+
+
+Student Life
+
+
+
+
+
+
+
+
+
+
+
+Housing
+
+
+
+
+Dining
+
+
+
+
+Getting Involved
+
+
+
+
+Athletics
+
+
+
+
+Student Services
+
+
+
+
+Health & Wellness
+
+
+
+
+Religious & Spiritual Life
+
+
+
+
+
+
+Powerful Outcomes
+
+
+
+
+
+
+
+
+
+
+
+The Career Center
+
+
+
+
+Fellowships & Postgraduate Awards
+
+
+
+
+The Muhlenberg Network
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Visit
+
+
+
+
+
+
+
+
+
+Apply
+
+
+
+
+
+
+
+
+
+Request Info
+
+
+
+
+
+
+
+
+
+Give
+
+
+
+
+
+
+
+Info For:
+
+
+
+
+Current Students
+
+
+
+
+
+Alumni & Friends
+
+
+
+
+
+Faculty & Staff
+
+
+
+
+
+Parents
+
+
+
+
+
+
+
+
+
+News
+
+
+
+
+
+Events
+
+
+
+
+
+Athletics
+
+
+
+
+Arts
+
+
+
+
+
+
+
+
+COVID-19 Info
+
+
+
+ 
+ 
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

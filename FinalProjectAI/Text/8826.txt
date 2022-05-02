@@ -1,0 +1,1140 @@
+
+
+
+
+
+
+
+Incoming Students | Muhlenberg College
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Skip to Main Content
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Muhlenberg College
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Visit
+
+
+
+
+
+
+
+
+
+Apply
+
+
+
+
+
+
+
+
+
+Request Info
+
+
+
+
+
+
+
+
+
+Give
+
+
+
+
+
+
+
+
+
+Menu
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Home
+Who We AreCollege OfficesInformation TechnologyStudent ComputingIncoming Students 
+
+
+
+
+
+
+Incoming Students
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Incoming Students
+
+
+
+
+
+
+
+
+
+
+
+Application PortalG Suite (Google)Incoming StudentsInstructional Technology and Digital LearningPrinting ServicesPurchasesWiFi at Muhlenberg
+
+
+
+
+
+
+
+
+
+
+
+Home
+Who We AreCollege OfficesInformation TechnologyStudent ComputingIncoming Students 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Welcome to Muhlenberg
+What do you need to know OR do before you arrive on campus? Learn more about each topic by selecting the tabs below. 
+
+
+
+
+
+
+
+
+
+
+
+          Log in to the Muhlenberg OneLogin Application Portal
+  
+
+
+
+
+
+
+
+
+
+Using the Muhlenberg credentials shared in your Admission Application Portal, go to the OneLogin Application Portal and sign in. Watch this video about logging into your account for the first time.
+2-Factor Authentication - For added security, 2FA is required for off-campus access to the OneLogin Application Portal. For full details including video tutorials and an FAQ on how to set up a second factor. Go to: https://www.muhlenberg.edu/main/aboutus/oit/2factor.html.
+
+
+
+
+
+
+
+          Register for Omnilert (emergency messaging system)
+  
+
+
+
+
+
+
+
+
+Omnilert is Muhlenbergâs emergency notification and messaging system. We use it to provide vital information to students, faculty, and staff in the event of an emergency in which swift communication is of critical importance. All students are required to register their cell phones with Omnilert prior to arriving on campus.
+To register your phone, click on the Omnilert tile (shown below) in the Application Portal (login.muhlenberg.edu)
+
+
+In the top section titled SMS Numbers, Click Add new
+Add mobile number
+Your phone should receive a text message that will include a 4-digit validation code
+Type that number in the area provided on the web page
+Click Validate. (if you do not validate with this code, you will not be fully registered.)
+The SMS number will now appear. You have the option to âInactivateâ or âDeleteâ at any time.
+
+Need help? Watch the video tutorial on how to register your mobile device. 
+
+
+
+
+
+
+          Computer Recommendations
+  
+
+
+
+
+
+
+
+
+All computers are supported by Muhlenberg and its courses. The majority of students at Muhlenberg have devices running the macOS or Windows. 
+Warranty Services:
+Although all computers are supported by Muhlenberg. It is useful to know that certain types of computers can have repairs done right here on campus!
+
+Lenovo Business Machines
+Apple Computers
+HP Computers
+
+Be sure to purchase the warranty in order to have repairs done in house. We strongly recommend extended warranties with the inclusion of accidental damage, if available.
+If you have any questions feel free to contact the help desk.
+ 
+
+
+
+
+
+
+          Supported Devices (on campus)
+  
+
+
+
+
+
+
+
+
+What devices are supported on the campus network? 
+
+Desktops and laptops (all operating systems)
+Tablets
+Smart phones
+Smart TV
+Gaming systems
+Streaming devices
+Printers (hardwired)Must be connected via cable to your computer in order to work. If you need information about what cable to purchase to connect your printer to your computer, please contact OIT at 484-664-3566 or helpdesk@muhlenberg.edu. 
+
+What devices are NOT supported? 
+
+Wireless printers
+Smart home devices* (e.g., Google Nest, Alexa, Chromecast, etc...)
+
+What devices are NOT allowed?
+
+WiFi routers
+Any devices that have DHCP turned on
+
+*Many consumer oriented devices are designed to communicate with one another and require the devices to be on the same network. At Muhlenberg College the WiFi network spans across multiple VLANs (Virtual Local Area Networks). That means even if you have two devices on MuhlenbergWiFi they are not necessarily on the same exact network and therefore cannot communicate directly over WiFi. In addition, the security and privacy of consumer oriented products cannot be guaranteed on enterprise networks.
+ 
+
+
+
+
+
+
+          Student Software Discounts
+  
+
+
+
+
+
+
+
+
+
+Students can find many discounts by visiting the JourneyED site.
+
+
+Muhlenberg provides the MS Office suite free for all students. Go to msoffice.muhlenberg.edu and follow the directions for creating an account.
+
+
+
+
+
+
+
+          Student Information System (Workday) and Registration
+  
+
+
+
+
+
+
+
+
+What is Workday?Workday Student is the student information system for Muhlenberg College. As a student at Muhlenberg,  you will be able to view, access, and register for courses in Workday, as well as view personal information and your academic progress and history on your journey towards graduation.
+When will I have access to Workday? The Workday app will be available in the OneLogin portal. What do I need to do in Workday? As an incoming student, you will have âonboardingâ tasks in your Workday inbox the first time you log into Workday, like confirming your contact information.  See: New Student Onboarding help guide. In addition to onboarding, you will be building an academic plan and registering for the Fall semester in this system. 
+How can I get help navigating Workday? The Office of Information Technology and the Registrarâs Office will be running live workshops during Summer Advising. In addition, there are help guides and video tutorials that provide step-by-step instruction that will walk you through onboarding, building your academic plan, registration and more. 
+Want a sneak peek at Course Offerings? Visit https://www.muhlenberg.edu/courseofferings to see what is being offered this Fall!
+To learn more about Workday, visit muhlenberg.edu/workday. 
+ 
+
+
+
+
+
+
+          Download the iMuhlenberg app
+  
+
+
+
+
+
+
+
+
+The iMuhlenberg app offers "one-stop shopping". Choose the Incoming Students persona to gain instant access to relevant content, tapping directly into up-to-the-minute campus announcements and information.  Learn more about the app!
+-  Complete the Daily Self-Assessment (Symptom Checker)
+-  Access Campus health & safety guidelines through "Return To Campus"
+-  Search the course schedule for upcoming semesters
+-  Access the Canvas mobile app
+-  Receive campus emergency alerts and special announcements through push notifications
+-  Access athletics schedule and news
+-  Tap directly into the admissions, and School of Continuing Studies sites
+-  Obtain contact information for faculty, staff and students through the campus directory
+-  Find out what's happening through the Campus Calendar
+-  And so much more!
+
+
+
+
+
+
+          Register your Device on MuhlenbergWiFi  (on campus)
+  
+
+
+
+
+
+
+
+
+Registering your devices to the MuhlenbergWiFi network with your Muhlenberg credentials (same as OneLogin). Visit Wifi at Muhlenberg to learn how. 
+
+
+
+
+
+
+          Google Workspace
+  
+
+
+
+
+
+
+
+
+
+Once you receive your network credentials, be sure to check your email frequently by clicking the Google Workspace app in the application portal
+Utilize Gmail, Chat, Spaces, Meet and other Google apps for communication and collaboration
+Drive for Desktop - If you want to work on files from your desktop, install Drive for Desltop. All your Drive files appear and can be streamed on demand, so they donât take up all your storage space on your computer.
+
+
+
+
+
+
+
+          Canvas
+  
+
+
+
+
+
+
+
+
+
+Canvas is Muhlenberg's learning management system. Learn more about how to use this tool. 
+
+
+
+
+
+
+
+          Printing Services
+  
+
+
+
+
+
+
+
+
+PaperCut is the College's print management solution for students, faculty and staff providing services such a secure print, follow me printing, scan to email and more to the campus community. 
+TOUCH-FREE PRINT RELEASE ENABLED ON EVERY PRINTER! SEND YOUR PRINT JOB TO THE QUEUE, WALK UP TO A RICOH PRINTER ON CAMPUS, TAP YOUR CARD AND YOUR PRINTS WILL BE RELEASED! 
+Learn more about how to print with Papercut
+
+
+
+
+
+
+          Cyber Security
+  
+
+
+
+
+
+
+
+
+Students, now more than ever, must be aware of malicious attacks to steal their identity and their data.
+
+
+For added security, 2FA is required for off-campus access to the OneLogin Application Portal.For full details including video tutorials and an FAQ on how to set up a second factor, visit 2-Factor Authentication.
+
+
+Be sure to have anti-virus software installed on your computer before coming to campus. Learn more about computer viruses.
+
+What is Phishing? And how to avoid being phished!
+
+
+
+
+
+
+
+          Student Policies & Procedures
+  
+
+
+
+
+
+
+
+
+
+Cloud Storage
+Electronic Communications and IT Policy
+HEOA P2P Compliance
+IT Data and Security Privacy Policy
+Student Laptop Loaner Program
+Students are required to comply with the copyright infringment policy at Muhlenberg. For more information visit Copyright Infringment and You and Your Computer.
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Muhlenberg College
+
+
+
+
+
+
+
+
+
+
+Muhlenberg College
+2400 Chew St.
+Allentown, 
+PA
+18104
+
+
+
+
+
+
+
+484-664-3100
+
+
+
+
+
+
+
+
+Maps & Directions
+
+
+
+
+
+Accessibility
+
+
+
+
+
+Library
+
+
+
+
+Title IX
+
+
+
+
+
+Employment
+
+
+
+
+
+A-Z Index
+
+
+
+
+
+Conference & Event Services
+
+
+
+
+
+Diversity & Inclusion
+
+
+
+
+
+
+Weather Update
+
+
+
+
+
+
+
+
+Social
+
+
+
+
+
+
+
+
+Facebook
+
+
+
+
+
+
+
+
+Instagram
+
+
+
+
+
+
+
+
+Twitter
+
+
+
+
+
+
+
+
+YouTube
+
+
+
+
+
+
+
+
+LinkedIn
+
+
+
+
+
+
+
+
+							©
+													
+ Muhlenberg College
+
+
+
+
+
+
+
+
+
+
+
+Muhlenburg College
+
+
+
+
+
+
+
+
+
+
+Search
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Who We Are
+
+
+
+
+
+
+
+
+
+
+
+Diversity and Inclusion
+
+
+
+
+Institutional Initiatives
+
+
+
+
+Office of the President
+
+
+
+
+College History
+
+
+
+
+Campus Map
+
+
+
+
+Directory Search
+
+
+
+
+
+
+Admissions
+
+
+
+
+
+
+
+
+
+
+
+Explore Your Visit Options
+
+
+
+
+Early Decision
+
+
+
+
+Regular Decision
+
+
+
+
+Transfer Students
+
+
+
+
+International Students
+
+
+
+
+Adult Accelerated & Evening Programs
+
+
+
+
+Graduate Studies
+
+
+
+
+Tuition and Fees
+
+
+
+
+Financial Aid
+
+
+
+
+First-Year Experience
+
+
+
+
+
+
+Academics
+
+
+
+
+
+
+
+
+
+
+
+Majors, Minors & Certifications
+
+
+
+
+Adult Accelerated & Evening Programs
+
+
+
+
+Summer Study
+
+
+
+
+Graduate Programs
+
+
+
+
+Preprofessional Programs
+
+
+
+
+Academic Partnerships
+
+
+
+
+Honors Programs
+
+
+
+
+Global Education
+
+
+
+
+Our Faculty
+
+
+
+
+Research & Scholarship
+
+
+
+
+
+
+Student Life
+
+
+
+
+
+
+
+
+
+
+
+Housing
+
+
+
+
+Dining
+
+
+
+
+Getting Involved
+
+
+
+
+Athletics
+
+
+
+
+Student Services
+
+
+
+
+Health & Wellness
+
+
+
+
+Religious & Spiritual Life
+
+
+
+
+
+
+Powerful Outcomes
+
+
+
+
+
+
+
+
+
+
+
+The Career Center
+
+
+
+
+Fellowships & Postgraduate Awards
+
+
+
+
+The Muhlenberg Network
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Visit
+
+
+
+
+
+
+
+
+
+Apply
+
+
+
+
+
+
+
+
+
+Request Info
+
+
+
+
+
+
+
+
+
+Give
+
+
+
+
+
+
+
+Info For:
+
+
+
+
+Current Students
+
+
+
+
+
+Alumni & Friends
+
+
+
+
+
+Faculty & Staff
+
+
+
+
+
+Parents
+
+
+
+
+
+
+
+
+
+News
+
+
+
+
+
+Events
+
+
+
+
+
+Athletics
+
+
+
+
+Arts
+
+
+
+
+
+
+
+
+COVID-19 Info
+
+
+
+ 
+ 
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

@@ -1,0 +1,1020 @@
+
+
+
+
+
+
+
+WiFi Troubleshooting | Muhlenberg College
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Skip to Main Content
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Muhlenberg College
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Visit
+
+
+
+
+
+
+
+
+
+Apply
+
+
+
+
+
+
+
+
+
+Request Info
+
+
+
+
+
+
+
+
+
+Give
+
+
+
+
+
+
+
+
+
+Menu
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Home
+Who We AreCollege OfficesInformation TechnologyCampus TechnologyWirelessWiFi Troubleshooting 
+
+
+
+
+
+
+WiFi Troubleshooting
+
+
+
+
+
+
+
+
+
+
+
+
+
+WiFi Troubleshooting
+
+
+
+
+
+
+
+
+
+
+
+Application PortalAppstream Virtual LabSoftwareG Suite (Google)Lab Locations and HoursMedia ServicesPrintingTeaching & Meeting PlacesTelephone and TV Services Wireless
+
+
+
+
+
+
+
+
+
+
+
+Home
+Who We AreCollege OfficesInformation TechnologyCampus TechnologyWirelessWiFi Troubleshooting 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+WiFi: Troubleshoot Your Connection
+There are several reasons that your WiFi connection may not be working as expected.  See the most common questions below along with information on how to resolve the issue.
+You may Report a WiFi Connectivity Issue through the IT Support Portal. 
+Having trouble in a web conference (Zoom or Google Meet)? Report a Web Conferencing Issue in the IT Support Portal. 
+
+
+
+
+
+
+
+
+
+
+
+          Known issue for iOS devices and private networks
+
+  
+
+
+
+
+
+
+
+
+Do you have an Iphone or Ipad with The latest version of iOS?
+A new feature of iOS is "private addresses" in which a new MAC address is issued per private network by default. This feature is affecting previously registered devices on our network.  
+Apple published that this was done to reduce this privacy risk, iOS devices use a different MAC address for each Wi-Fi network. This unique, static MAC address is your device's private Wi-Fi address for that network only.
+The link below explains how you can turn this feature off  for the Muhlenberg WiFi network to avoid losing connection. 
+https://support.apple.com/en-us/HT211227
+
+
+
+
+
+
+          Are you on the correct WiFi network?
+  
+
+
+
+
+
+
+
+
+Do you have a Muhlenberg College network account? Connect to MuhlenbergWiFi
+Are you a guest on campus? Connect to MuhlenbergGuest
+
+
+
+
+
+
+          Have you rebooted today?
+  
+
+
+
+
+
+
+
+
+You are probably thinking one of two things - âSeriously, reboot...of course I did!â âRebootâ¦you mean turn my device off? I donât do that.â You would be amazed how much good a reboot can do. There are often processes running in the background causing issues. A quick reboot will give your device a fresh start and will allow us to eliminate that step from troubleshooting if the issue persists. 
+
+
+
+
+
+
+          Has your device been off campus for more than 9 months? 
+  
+
+
+
+
+
+
+
+
+If a device has been off the campus network for more than nine months, you will need to re-register to MuhlenbergWiFi when you return. Visit WiFi at Muhlenberg on the OIT website and click on "I have Muhlenberg College network credentials". Note: If you have an Apple mobile device (iPhone, iPad or Apple Watch), you will need to turn off Private Address in your WiFi settings. Visit Apple support to learn how. 
+
+
+
+
+
+
+          Is your device WiFi on? 
+
+  
+
+
+
+
+
+
+
+
+I know, I know...basic. Check it anyway. 
+
+
+
+
+
+
+          Do you have bandwidth-hungry applications running in the background?
+
+
+  
+
+
+
+
+
+
+
+
+If your Zoom or Google Meet is struggling and you are also doing any (or all) of the things below, you will want to close the apps/browsers to see if your performance improves.  
+
+Streaming Netflix
+Playing games
+Browsing in Chrome and keeping lots of tabs open
+
+Report a Web Conferencing Issue through the IT Support Portal
+
+
+
+
+
+
+          Is the device supported on the College network? 
+
+
+  
+
+
+
+
+
+
+
+
+What devices are supported on the campus network? 
+
+Desktops and laptops (all operating systems)
+Tablets
+Smart phones
+Smart TV
+Gaming systems
+Streaming devices
+Printers (hardwired)Must be connected via cable to your computer in order to work. If you need information about what cable to purchase to connect your printer to your computer, please contact OIT at 484-664-3566 or helpdesk@muhlenberg.edu. 
+
+What devices are NOT supported? 
+
+Wireless printers
+Smart home devices* (e.g., Google Nest, Alexa, Chromecast, etc...)
+
+What devices are NOT allowed?
+
+WiFi routers
+Any devices that have DHCP turned on
+
+*Many consumer oriented devices are designed to communicate with one another and require the devices to be on the same network. At Muhlenberg College the WiFi network spans across multiple VLANs (Virtual Local Area Networks). That means even if you have two devices on MuhlenbergWiFi they are not necessarily on the same exact network and therefore cannot communicate directly over WiFi. In addition, the security and privacy of consumer oriented products cannot be guaranteed on enterprise networks.
+
+
+
+
+
+
+          Personal WiFi Routers are NOT allowed on campus 
+
+
+  
+
+
+
+
+
+
+
+
+Personal WiFi Routers are NOT allowed on campus, because they cause interference and disruption to those in close proximity. If these devices are found on our network they will be disconnected. 
+
+
+
+
+
+
+          How to report a WiFi connectivity issue
+
+
+  
+
+
+
+
+
+
+
+
+Report the issue online via the IT Support Portal and we will work together to resolve the matter as quickly as possible. Donât suffer in silence. 
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Muhlenberg College
+
+
+
+
+
+
+
+
+
+
+Muhlenberg College
+2400 Chew St.
+Allentown, 
+PA
+18104
+
+
+
+
+
+
+
+484-664-3100
+
+
+
+
+
+
+
+
+Maps & Directions
+
+
+
+
+
+Accessibility
+
+
+
+
+
+Library
+
+
+
+
+Title IX
+
+
+
+
+
+Employment
+
+
+
+
+
+A-Z Index
+
+
+
+
+
+Conference & Event Services
+
+
+
+
+
+Diversity & Inclusion
+
+
+
+
+
+
+Weather Update
+
+
+
+
+
+
+
+
+Social
+
+
+
+
+
+
+
+
+Facebook
+
+
+
+
+
+
+
+
+Instagram
+
+
+
+
+
+
+
+
+Twitter
+
+
+
+
+
+
+
+
+YouTube
+
+
+
+
+
+
+
+
+LinkedIn
+
+
+
+
+
+
+
+
+							©
+													
+ Muhlenberg College
+
+
+
+
+
+
+
+
+
+
+
+Muhlenburg College
+
+
+
+
+
+
+
+
+
+
+Search
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Who We Are
+
+
+
+
+
+
+
+
+
+
+
+Diversity and Inclusion
+
+
+
+
+Institutional Initiatives
+
+
+
+
+Office of the President
+
+
+
+
+College History
+
+
+
+
+Campus Map
+
+
+
+
+Directory Search
+
+
+
+
+
+
+Admissions
+
+
+
+
+
+
+
+
+
+
+
+Explore Your Visit Options
+
+
+
+
+Early Decision
+
+
+
+
+Regular Decision
+
+
+
+
+Transfer Students
+
+
+
+
+International Students
+
+
+
+
+Adult Accelerated & Evening Programs
+
+
+
+
+Graduate Studies
+
+
+
+
+Tuition and Fees
+
+
+
+
+Financial Aid
+
+
+
+
+First-Year Experience
+
+
+
+
+
+
+Academics
+
+
+
+
+
+
+
+
+
+
+
+Majors, Minors & Certifications
+
+
+
+
+Adult Accelerated & Evening Programs
+
+
+
+
+Summer Study
+
+
+
+
+Graduate Programs
+
+
+
+
+Preprofessional Programs
+
+
+
+
+Academic Partnerships
+
+
+
+
+Honors Programs
+
+
+
+
+Global Education
+
+
+
+
+Our Faculty
+
+
+
+
+Research & Scholarship
+
+
+
+
+
+
+Student Life
+
+
+
+
+
+
+
+
+
+
+
+Housing
+
+
+
+
+Dining
+
+
+
+
+Getting Involved
+
+
+
+
+Athletics
+
+
+
+
+Student Services
+
+
+
+
+Health & Wellness
+
+
+
+
+Religious & Spiritual Life
+
+
+
+
+
+
+Powerful Outcomes
+
+
+
+
+
+
+
+
+
+
+
+The Career Center
+
+
+
+
+Fellowships & Postgraduate Awards
+
+
+
+
+The Muhlenberg Network
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Visit
+
+
+
+
+
+
+
+
+
+Apply
+
+
+
+
+
+
+
+
+
+Request Info
+
+
+
+
+
+
+
+
+
+Give
+
+
+
+
+
+
+
+Info For:
+
+
+
+
+Current Students
+
+
+
+
+
+Alumni & Friends
+
+
+
+
+
+Faculty & Staff
+
+
+
+
+
+Parents
+
+
+
+
+
+
+
+
+
+News
+
+
+
+
+
+Events
+
+
+
+
+
+Athletics
+
+
+
+
+Arts
+
+
+
+
+
+
+
+
+COVID-19 Info
+
+
+
+ 
+ 
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

@@ -1,0 +1,805 @@
+
+
+
+
+
+Licensed to Wil-Time Event Management - Contractor License
+                                       HY-TEK's Meet Manager 1/14/2011 10:45 PM
+                 Kutztown Collegiate Invitational - 1/14/2011                  
+                              Kutztown University                              
+                                    Results                                    
+ 
+Women 55 Meter Dash
+============================================================================
+    Name                    Year School                  Seed    Prelims  H#
+============================================================================
+Preliminaries
+  1 Higgs, Danisha               Albright                7.60       7.56q  2 
+  2 Ruff, Melanie                West Chester            7.72       7.62q  5 
+  2 Pierantozzi, Rachel          East Strouds            7.68       7.62q  6 
+  4 Laurito, Amanda              Ursinus                 7.69       7.64q  6 
+  4 Mathews, Brooke              Kutztown                7.49       7.64q  1 
+  6 Hannan, Lauren               East Strouds            7.68       7.79q  5 
+  7 Lauro, Mackenzie             West Chester            7.80       7.80   1 
+  8 Rupp, Alyssa                 East Strouds            7.62       7.91   3 
+  9 Lammers, Lauren              Ursinus                 7.88       7.92   3 
+ 10 Messner, Sarah               Kutztown                7.68       7.94   4 
+ 11 Loos, Shannon                Albright                8.02       8.00   5 
+ 11 Ryan, Regina                 Kutztown                7.75       8.00   3 
+ 13 McCarthy, Morgan             East Strouds            7.90       8.04   4 
+ 14 Kutz, Taylor                 Albright                8.03       8.05   4 
+ 14 Siegrist, Henley             Franklin & M            7.76       8.05   2 
+ 16 Foye, Brittany               West Chester            7.83       8.08   2 
+ 17 Reaves, Nicole               West Chester            7.80       8.10   1 
+ 18 Loos, Meghan                 Albright                8.04       8.15   3 
+ 19 Miller, Mackenzie            Albright                8.14       8.16   1 
+ 20 Regan, Caitlin               Franklin & M            7.97       8.22   6 
+ 21 Sable, Alex                  Kutztown                7.95       8.33   6 
+ 22 Schaeffer, Rachel            Kutztown                7.95       8.52   5 
+ 23 Melhem, Chalice              Alvernia                8.10       8.55   2 
+ 24 Coleman, Stephanie           Alvernia                8.25       8.56   1 
+ 25 Schaefer, Amy                Ursinus                 8.49       8.66   6 
+ 26 Birnbrauer, Amanda           Ursinus                            8.67   2 
+ 27 Wildermuth, Taylor           Alvernia                8.55       8.84   5 
+ 28 Schaefer, Rebecca            Immaculata              8.34       9.06   3 
+ 29 Miller-Schaeffer, Kaley      Ursinus                            9.17   3 
+ 30 McIntosh, Megan              Ursinus                 8.88       9.23   4 
+ 31 Ciesla, Jessica              Alvernia                8.45       9.29   6 
+ 32 Vonjo, Immah                 Immaculata              8.42       9.43   4 
+ 33 Buonanno, Rebecca            Muhlenberg              8.28       9.45   2 
+ 34 Jones, Brittany              East Strouds            7.75       9.58   4 
+ 35 Ransake, Heather             Immaculata              8.44      10.11   5 
+ 
+Women 55 Meter Dash
+================================================================================
+    Name                    Year School               Prelims     Finals  Points
+================================================================================
+Finals
+  1 Pierantozzi, Rachel          East Strouds            7.62       7.49   10   
+  2 Higgs, Danisha               Albright                7.56       7.53    8   
+  3 Ruff, Melanie                West Chester            7.62       7.58    6   
+  4 Laurito, Amanda              Ursinus                 7.64       7.59    5   
+  5 Mathews, Brooke              Kutztown                7.64       7.67    4   
+  6 Hannan, Lauren               East Strouds            7.79       7.81    3   
+ 
+Women 200 Meter Dash
+===================================================================================
+    Name                    Year School                  Seed     Finals  H# Points
+===================================================================================
+  1 Hunte, Rachel                Kutztown               26.50      27.30   1  10   
+  2 Higgs, Danisha               Albright               26.53      27.66   1   8   
+  3 Mathews, Brooke              Kutztown               26.19      27.69   1   6   
+  4 Goodenough, Victoria         Ursinus                27.98      27.76   2   5   
+  5 Pierantozzi, Rachel          East Strouds           26.75      28.08   1   4   
+  6 Laurito, Amanda              Ursinus                28.00      28.29   3   3   
+  7 Robinson, Faith              Unattached             28.50      28.35   4   2   
+  8 Williams, Aniyah             East Strouds           26.82      28.43   1   1   
+  9 Lammers, Lauren              Ursinus                28.30      28.79   3 
+ 10 Loos, Shannon                Albright               28.62      28.81   4 
+ 11 Kutz, Taylor                 Albright               28.66      28.83   4 
+ 12 Messner, Sarah               Kutztown               27.11      28.90   2 
+ 13 Siegrist, Henley             Franklin & M           26.16      28.96   1 
+ 14 Rupp, Alyssa                 East Strouds           27.10      29.06   2 
+ 15 McCarthy, Morgan             East Strouds           27.65      29.07   2 
+ 16 Jones, Brittany              East Strouds           27.75      29.17   2 
+ 17 Spence, Victoria             Kutztown               27.15      29.19   2 
+ 18 Knowles, Brittany            East Strouds           28.00      29.29   3 
+ 19 Loos, Meghan                 Albright               28.92      29.40   5 
+ 20 Zohrabian, Sylvia            Franklin & M           29.92      29.62   5 
+ 21 Swasey, Krystal              Albright               28.92      29.63   5 
+ 22 Doyle, Carina                Ursinus                28.81      29.70   4 
+ 23 Littrell, Kayla              East Strouds           28.67      29.92   4 
+ 24 Serafin, Aly                 Kutztown               28.50      30.67   4 
+ 25 Marshall, Claire             Franklin & M           29.87      30.74   5 
+ 26 Coleman, Stephanie           Alvernia               29.00      30.96   5 
+ 27 Melhem, Chalice              Alvernia               28.00      31.29   3 
+ 28 Pisano, Nicole               Muhlenberg             28.50      31.62   3 
+ 29 Ciesla, Jessica              Alvernia               31.50      34.29   7 
+ 30 Miller-Schaeffer, Kaley      Ursinus                33.49      34.91   7 
+ 31 Buonanno, Rebecca            Muhlenberg             31.20      35.05   6 
+ 32 McIntosh, Megan              Ursinus                33.38      35.21   6 
+ 33 Schaefer, Rebecca            Immaculata             30.11      35.25   5 
+ 34 Vonjo, Immah                 Immaculata             33.40      37.52   7 
+ 35 Ransake, Heather             Immaculata             34.20      40.41   7 
+ 
+Women 400 Meter Dash
+===================================================================================
+    Name                    Year School                  Seed     Finals  H# Points
+===================================================================================
+  1 Smith, Nicole                West Chester           59.50      59.50   1  10   
+  2 Spence, Victoria             Kutztown             1:01.00    1:02.62   1   8   
+  3 Ruff, Melanie                West Chester         1:00.00    1:03.62   1   6   
+  4 Roth, Tori                   West Chester         1:02.00    1:04.40   1   5   
+  5 Daniels, Alexandra           Muhlenberg           1:01.05    1:04.82   1   4   
+  6 Cardillo, Christy            East Strouds         1:02.75    1:04.92   2   3   
+  7 Dorf, Carolyn                Muhlenberg           1:04.30    1:08.75   2   2   
+  8 Stone, Erin                  Alvernia             1:05.50    1:12.90   2   1   
+  9 Callahan, Caitlin            Ursinus              1:16.58    1:14.38   2 
+ 10 Cragg, Alison                Ursinus              1:16.61    1:16.39   2 
+ 
+Women 500 Meter Dash
+================================================================================
+    Name                    Year School                  Seed     Finals  Points
+================================================================================
+  1 Johnson, Jasmine             East Strouds         1:18.35    1:21.64   10   
+  2 Doyle, Carina                Ursinus                         1:24.52    8   
+  3 Erbe, Janice                 East Strouds                    1:33.50    6   
+ 
+Women 800 Meter Run
+================================================================================
+    Name                    Year School                  Seed     Finals  Points
+================================================================================
+  1 Brown, Keri                  Kutztown             2:19.00    2:24.89   10   
+  2 Fergus, Carolyn              Kutztown             2:29.00    2:29.35    8   
+  3 Cleary, Jen                  Kutztown             2:22.00    2:29.47    6   
+  4 Kostishion, Jill             Kutztown             2:30.11    2:32.01    5   
+  5 Mayer, Lauren                Kutztown             2:30.00    2:33.53    4   
+  6 Albershardt, Rachel          Ursinus              2:30.00    2:35.21    3   
+  7 Huber, Jessie                Kutztown             2:28.00    2:35.38    2   
+  8 Getz, Tara                   East Strouds         2:36.00    2:35.45    1   
+  9 Kramer, Brianna              Ursinus              2:30.00    2:39.81  
+ 10 Vazzana, Caroline            Albright             2:45.00    2:40.42  
+ 11 Granteed, Julie              East Strouds         2:35.00    2:42.21  
+ 12 Goldstein, Lauren            Ursinus              2:31.00    2:42.34  
+ 13 Miller, Erin                 Kutztown             2:30.00    2:42.94  
+ 14 Morales, Chelsea             East Strouds         2:30.00    2:44.70  
+ 15 Steffen, Lindsay             Unattached           2:40.00    2:47.38  
+ 16 Trently, Sarah               Immaculata           2:42.00    2:57.07  
+ 17 Zirolli, Samantha            Immaculata           2:45.00    3:04.97  
+ 18 Mastriana, Angela            Immaculata           2:45.00    3:18.28  
+ 19 White, Nicole                Middlesex CC         3:35.72    3:22.26  
+ 
+Women 1000 Meter Run
+================================================================================
+    Name                    Year School                  Seed     Finals  Points
+================================================================================
+  1 Cronin, Nicole               Muhlenberg           3:12.24    3:12.34   10   
+  2 Mitchell, Hannah             Muhlenberg           3:15.24    3:12.71    8   
+  3 Bash, Erica                  Muhlenberg           3:12.24    3:13.34    6   
+  4 McCarron, Bridget            East Strouds         3:10.00    3:13.69    5   
+  5 Yalango, Kim                 Muhlenberg           3:12.24    3:14.63    4   
+  6 Lowry, Kim                   East Strouds         3:15.00    3:18.36    3   
+  7 Wernerspach, Kim             East Strouds         3:15.00    3:19.36    2   
+  8 Hummel, Kimberly             Albright             3:28.00    3:32.49    1   
+  9 Kerchner, Kristin            East Strouds         3:28.00    3:34.65  
+ 
+Women 1 Mile Run
+================================================================================
+    Name                    Year School                  Seed     Finals  Points
+================================================================================
+  1 Fitzgerald, Corinne          East Strouds         5:25.00    5:17.74   10   
+  2 Mayden, Samantha             Muhlenberg           5:35.24    5:28.02    8   
+  3 Gawbill, Mary                West Chester         5:40.00    5:38.69    6   
+  4 Ray, Lindsey                 Kutztown             5:35.00    5:49.43    5   
+  5 Marron, Lauren               Kutztown             5:45.00    5:57.03    4   
+  6 Kramer, Brianna              Ursinus                         5:57.95    3   
+  7 Wysocki, Sarah               East Strouds         5:45.00    6:00.02    2   
+  8 McManus, Kim                 West Chester         5:40.00    6:04.38    1   
+  9 McLaughlin, Liz              Kutztown             5:45.00    6:07.62  
+ 10 Callahan, Brittany           East Strouds         5:35.00    6:08.63  
+ 11 Hurlburt, Megan              Muhlenberg           6:15.24    6:19.72  
+ 12 Meeker, Kelli                Muhlenberg           6:25.24    6:29.92  
+ 13 Cragg, Alison                Ursinus              6:21.11    6:36.08  
+ 14 Mastriana, Angela            Immaculata           6:10.00    7:00.66  
+ 15 Elyer, Paige                 Immaculata           6:30.00    7:32.46  
+ 
+Women 3000 Meter Run
+================================================================================
+    Name                    Year School                  Seed     Finals  Points
+================================================================================
+  1 Ratasiewicz, Lyndsey         West Chester        11:20.00   10:57.69   10   
+  2 Albershardt, Rachel          Ursinus                        11:24.65    8   
+  3 Carpenter, Kaitlin           West Chester        11:20.00   11:38.03    6   
+  4 Haws, Emily                  East Strouds        12:00.00   11:45.76    5   
+  5 Lacorazza, Cassandra         East Strouds        11:40.00   11:45.78    4   
+  6 Rushing, Kelly               Unattached          12:00.00   11:54.28    3   
+  7 Lower, Lisa                  East Strouds        12:00.00   12:01.48    2   
+  8 Galvin, Allison              East Strouds        12:15.00   12:31.99    1   
+ 
+Women 55 Meter Hurdles
+============================================================================
+    Name                    Year School                  Seed    Prelims  H#
+============================================================================
+Preliminaries
+  1 Goodenough, Victoria         Ursinus                 8.92       8.68q  3 
+  2 Wentz, Melinda               West Chester            8.90       8.80q  2 
+  3 Ventrella, Lauren            East Strouds            8.40       8.87q  1 
+  4 Williams, Aniyah             East Strouds            9.35       8.90q  1 
+  5 Knowles, Brittany            East Strouds            9.01       8.91q  3 
+  6 Carnevale, Stephanie         Muhlenberg              9.40       9.22q  2 
+  7 Dieter, Adrienne             East Strouds            9.10       9.27   2 
+  8 Galvin, Amy                  Ursinus                            9.54   1 
+  9 Coleman, Stephanie           Alvernia                9.60       9.91   2 
+ 10 Robinson, Faith              Unattached              9.75       9.99   1 
+ 11 Serafin, Aly                 Kutztown                9.36      10.02   1 
+ 12 Gable, Ally                  Kutztown                9.70      10.16   1 
+ 13 Howell, Danielle             West Chester           10.50      10.19   3 
+ 14 Pisano, Nicole               Muhlenberg              9.50      10.47   3 
+ 15 Marshall, Claire             Franklin & M                      10.58   2 
+ 16 Nygren, Linsday              West Chester           10.00      10.84   2 
+ 17 Callahan, Caitlin            Ursinus                10.16      12.26   3 
+ 18 Gallagher, Brigid            West Chester            9.49      18.73   3 
+ 
+Women 55 Meter Hurdles
+================================================================================
+    Name                    Year School               Prelims     Finals  Points
+================================================================================
+Finals
+  1 Ventrella, Lauren            East Strouds            8.87       8.74   10   
+  2 Goodenough, Victoria         Ursinus                 8.68       8.75    8   
+  3 Wentz, Melinda               West Chester            8.80       8.81    6   
+  4 Knowles, Brittany            East Strouds            8.91       8.85    5   
+  5 Williams, Aniyah             East Strouds            8.90       8.93    4   
+  6 Carnevale, Stephanie         Muhlenberg              9.22       9.49    3   
+ 
+Women 4x400 Meter Relay
+===================================================================================
+    School                                               Seed     Finals  H# Points
+===================================================================================
+  1 West Chester  'A'                                 4:05.00    4:09.18   1  10   
+     1) Ruff, Melanie                   2) Roth, Tori                     
+     3) Smith, Nicole                   4) Wentz, Melinda                 
+  2 Kutztown  'A'                                     4:10.00    4:15.34   1   8   
+     1) Spence, Victoria                2) Brown, Keri                    
+     3) Mathews, Brooke                 4) Hunte, Rachel                  
+  3 East Stroudsburg  'A'                             4:15.00    4:17.45   1   6   
+     1) Dieter, Adrienne                2) Ventrella, Lauren              
+     3) Ragard, Meghan                  4) Getz, Tara                     
+  4 Muhlenberg  'A'                                   4:12.24    4:20.63   1   5   
+     1) Daniels, Alexandra              2) Bash, Erica                    
+     3) Mitchell, Hannah                4) Yalango, Kim                   
+  5 West Chester  'B'                                 4:14.00    4:26.75   1   4   
+     1) Gallagher, Brigid               2) Howell, Danielle               
+     3) Nygren, Linsday                 4) Lauro, Mackenzie               
+  6 Kutztown  'B'                                     4:16.00    4:32.37   1   3   
+     1) Messner, Sarah                  2) Cleary, Jen                    
+     3) Miller, Erin                    4) Fergus, Carolyn                
+  7 Immaculata  'A'                                   4:40.00    5:19.47   2   2   
+     1) Drumgoole, Caroline             2) Elyer, Paige                   
+     3) Zirolli, Samantha               4) Trently, Sarah                 
+ 
+Women 4x800 Meter Relay
+================================================================================
+    School                                               Seed     Finals  Points
+================================================================================
+  1 East Stroudsburg  'A'                            10:20.00   10:12.20   10   
+     1) McCarron, Bridget               2) Wernerspach, Kim               
+     3) Lowry, Kim                      4) Fitzgerald, Corinne            
+  2 West Chester  'A'                                 9:45.00   10:33.33    8   
+     1) Carpenter, Kaitlin              2) Gawbill, Mary                  
+     3) McManus, Kim                    4) Ratasiewicz, Lyndsey           
+  3 East Stroudsburg  'B'                            10:20.00   10:52.04    6   
+     1) Morales, Chelsea                2) Johnson, Jasmine               
+     3) Brown, Nicole                   4) Granteed, Julie                
+  4 Kutztown  'A'                                    10:00.00   10:52.88    5   
+     1) McLaughlin, Liz                 2) Huber, Jessie                  
+     3) Marron, Lauren                  4) Ray, Lindsey                   
+ 
+Women High Jump
+================================================================================
+    Name                    Year School                  Seed     Finals  Points
+================================================================================
+  1 Mayer, Lynn                  East Strouds           1.77m      1.73m   10   
+  2 Emerich, Devyn               East Strouds           1.63m      1.60m    7   
+  2 Eshleman, Rachel             Kutztown               1.60m      1.60m    7   
+  4 Kimsey, Sarah                Kutztown               1.54m      1.55m    5   
+  5 Sooksatan, Celina            Ursinus                1.52m      1.50m    2.50
+  5 Galvin, Amy                  Ursinus                1.67m      1.50m    2.50
+  5 Zook, Jennifer               Kutztown               1.52m      1.50m    2.50
+  5 Horn, Theresa                East Strouds           1.52m      1.50m    2.50
+ -- Bollman, Megan               Muhlenberg             1.44m         NH  
+ 
+Women Pole Vault
+================================================================================
+    Name                    Year School                  Seed     Finals  Points
+================================================================================
+  1 Feldenbomb, Melissou         Unattached                        3.30m   10   
+  2 Beimfohr, Laura              East Strouds           3.35m     J3.30m    8   
+  3 Schrann, Kamber              West Chester           3.30m     J3.30m    6   
+  4 Sable, Alex                  Kutztown               3.04m      3.15m    5   
+  5 Schaefer, Amy                Ursinus                3.04m      3.00m    4   
+  6 Weber, Steph                 East Strouds           2.90m     J3.00m    3   
+  7 Ryan, Regina                 Kutztown               3.20m     J3.00m    1.50
+  7 Saucier, Erin                Muhlenberg             3.35m     J3.00m    1.50
+  8 Zohrabian, Sylvia            Franklin & M           3.03m     J3.00m  
+  9 Gable, Ally                  Kutztown               2.74m     J2.85m  
+ 10 Biondi, Breanne              Muhlenberg             2.74m     J2.70m  
+ 11 Craft, Heather               Kutztown               2.89m     J2.56m  
+ -- Schaeffer, Rachel            Kutztown               3.20m         NH  
+ -- Allison, Katie               Franklin & M           3.03m         NH  
+ 
+Women Long Jump
+================================================================================
+    Name                    Year School                  Seed     Finals  Points
+================================================================================
+  1 Wentz, Melinda               West Chester           5.18m      5.30m   10   
+  2 Foye, Brittany               West Chester           5.10m      5.22m    8   
+  3 Hannan, Lauren               East Strouds           5.15m      5.03m    6   
+  4 Lauro, Mackenzie             West Chester           5.00m      4.99m    5   
+  5 Kimsey, Sarah                Kutztown               4.87m      4.81m    4   
+  6 Brown, Nicole                East Strouds           5.10m      4.79m    3   
+  7 Eshleman, Rachel             Kutztown               4.57m      4.73m    2   
+  8 Reaves, Nicole               West Chester           5.00m      4.65m    1   
+  9 Carnevale, Stephanie         Muhlenberg             4.87m      4.60m  
+ 10 Dietrich, Dana               West Chester           5.00m      4.58m  
+ 11 Alpers, Jenn                 East Strouds           5.09m      4.51m  
+ 12 Keegan, Tara                 Muhlenberg             4.80m      4.44m  
+ 13 Pisano, Nicole               Muhlenberg             4.72m      4.34m  
+ 14 Gadomski, Sarah              Muhlenberg             4.27m      4.32m  
+ 14 Goodenough, Victoria         Ursinus                4.53m      4.32m  
+ 16 Sooksatan, Celina            Ursinus                4.54m      4.23m  
+ 17 Hovick, Olivia               Ursinus                4.83m      4.21m  
+ 18 Shaw, Leah                   Ursinus                4.54m      4.05m  
+ 19 Schaefer, Amy                Ursinus                4.42m      3.97m  
+ -- Erbe, Janice                 East Strouds           4.74m       FOUL  
+ 
+Women Triple Jump
+================================================================================
+    Name                    Year School                  Seed     Finals  Points
+================================================================================
+  1 Foye, Brittany               West Chester          11.23m     11.05m   10   
+  2 Lauro, Mackenzie             West Chester          10.20m     10.33m    8   
+  3 Dietrich, Dana               West Chester          10.94m     10.23m    6   
+  4 Miller, Mackenzie            Albright               9.95m     10.21m    5   
+  5 Alpers, Jenn                 East Strouds          10.65m     10.12m    4   
+  6 Reaves, Nicole               West Chester          10.75m     10.01m    3   
+  7 Shaw, Leah                   Ursinus               10.26m      9.87m    2   
+  8 Carnevale, Stephanie         Muhlenberg            10.05m      9.83m    1   
+  9 Ragard, Meghan               East Strouds           9.64m      9.45m  
+ 10 Horn, Theresa                East Strouds           9.80m      9.43m  
+ -- Melhem, Chalice              Alvernia               9.14m       FOUL  
+ -- Hovick, Olivia               Ursinus               10.36m       FOUL  
+ -- Kimsey, Sarah                Kutztown              10.36m       FOUL  
+ 
+Women Shot Put
+================================================================================
+    Name                    Year School                  Seed     Finals  Points
+================================================================================
+  1 Doyle, April                 Kutztown              12.19m     13.18m   10   
+  2 Pinter, Ashley               Kutztown              12.19m     11.87m    8   
+  3 Berthlesen, Jackie           East Strouds          11.84m     11.77m    6   
+  4 Stefaniak, Martha            Franklin & M          10.63m     10.79m    5   
+  5 Wentz, Melinda               West Chester           9.89m     10.42m    4   
+  6 Searle, Amanda               Alvernia              10.95m     10.27m    3   
+  7 Birnbrauer, Amanda           Ursinus                9.99m     10.18m    2   
+  8 Hoover, Maria                Kutztown              10.66m     10.06m    1   
+  9 Spangler, Erin               West Chester          10.30m      9.95m  
+ 10 Vega, Jazmyn                 Alvernia               9.45m      9.93m  
+ 11 Williams, Katie              Ursinus               10.36m      9.90m  
+ 12 Madden, Elizabeth            East Strouds          10.11m      9.88m  
+ 13 Deretchin, Danielle          East Strouds           9.77m      9.68m  
+ 14 Farrell, Rosealine           Kutztown              10.66m      9.61m  
+ 15 Koren, Michelle              Kutztown              10.66m      9.46m  
+ 16 Wimberg, Kathryn             Alvernia              11.00m      9.07m  
+ 17 Boyd, Lindsay                Albright               9.22m      8.64m  
+ 18 Stengel, Alexandra           Alvernia               9.45m      8.57m  
+ 19 McEliece, Bridget            Franklin & M           9.15m      7.20m  
+ 
+Women Weight Throw
+================================================================================
+    Name                    Year School                  Seed     Finals  Points
+================================================================================
+  1 Pinter, Ashley               Kutztown              14.02m     15.52m   10   
+  2 Doyle, April                 Kutztown              12.64m     14.08m    8   
+  3 Hoover, Maria                Kutztown              12.49m     12.99m    6   
+  4 Madden, Elizabeth            East Strouds          12.39m     12.21m    5   
+  5 Farrell, Rosealine           Kutztown              12.19m     11.76m    4   
+  6 Koren, Michelle              Kutztown              12.19m     10.63m    3   
+  7 McEliece, Bridget            Franklin & M          10.54m     10.45m    2   
+  8 Deretchin, Danielle          East Strouds           9.22m      9.82m    1   
+  9 Stengel, Alexandra           Alvernia                          8.85m  
+ 10 Boyd, Lindsay                Albright               7.54m      8.10m  
+ 11 Wimberg, Kathryn             Alvernia                          7.75m  
+ -- Keen, Caitlin                East Strouds          11.80m       FOUL  
+ 
+Men 55 Meter Dash
+============================================================================
+    Name                    Year School                  Seed    Prelims  H#
+============================================================================
+Preliminaries
+  1 Melhorn, Ian                 East Strouds            6.67       6.60q  5 
+  2 Ashfield, Asher              East Strouds            6.59       6.64q  1 
+  3 Crawford, Greg               Kutztown                6.60       6.67q  2 
+  4 Cannell, Matt                Kutztown                6.68       6.70q  6 
+  5 Rountree, Chris              Ursinus                            6.75q  5 
+  6 Michaelis, Nils              Franklin & M            6.72       6.77q  7 
+  7 swain, devaughn              Harcum                             6.78   1 
+  8 Grannum, Jordan              Ursinus                 6.67       6.80   4 
+  9 bangura, morlai              Harcum                             6.82   7 
+  9 Potter, Sean                 Albright                6.86       6.82   5 
+ 11 Craig, Bob                   Kutztown                7.10       6.86   7 
+ 12 Baranello, Jim               Immaculata                         6.88   3 
+ 12 Jackson, Anthony             West Chester            6.75       6.88   7 
+ 14 Battaglia, Dan               Unattached              6.95       6.91   3 
+ 15 Mannino, Brian               Kutztown                7.20       6.92   5 
+ 16 Dohrmann, Mike               Franklin & M            6.89       7.01   3 
+ 17 Yates, Derek                 Muhlenberg              6.94       7.05   1 
+ 18 Tillman, Tim                 Franklin & M            6.89       7.09   4 
+ 18 Johnson, Tanner              Ursinus                            7.09   6 
+ 20 Espenshade, Craig            West Chester            7.00       7.10   6 
+ 21 Cooper, Rashon               Middlesex CC            8.50       7.17   5 
+ 22 Butler, Lovell               Unattached              7.00       7.19   5 
+ 23 Russell, Brandon             Ursinus                 7.33       7.22   1 
+ 24 Johnson, Leighon             West Chester            6.62       7.24   3 
+ 25 Grove, Christopher           Albright                7.28       7.30   1 
+ 26 Ibeh, Chukwuka               Middlesex CC            8.50       7.36   6 
+ 27 Wilson, Robert               Muhlenberg              6.98       7.44   4 
+ 28 lee, jordan                  Harcum                             7.46   4 
+ 28 Weiner, Michael              Muhlenberg              6.95       7.46   2 
+ 30 Caruso, Nate                 Kutztown                7.15       7.59   6 
+ 31 Yokomizo, John               Ursinus                 7.41       7.60   3 
+ 32 Evans, Patrick               Alvernia                7.20       7.72   4 
+ 33 Spaide, Tyreek               Albright                7.48       7.85   4 
+ 34 Tucker, Eric                 Ursinus                            8.31   2 
+ -- Jones, Lance                 Ursinus                 6.90         DQ   1 
+ 
+Men 55 Meter Dash
+================================================================================
+    Name                    Year School               Prelims     Finals  Points
+================================================================================
+Finals
+  1 Melhorn, Ian                 East Strouds            6.60       6.60   10   
+  2 Ashfield, Asher              East Strouds            6.64       6.65    8   
+  3 Crawford, Greg               Kutztown                6.67       6.68    6   
+  4 Cannell, Matt                Kutztown                6.70       6.69    5   
+  5 Rountree, Chris              Ursinus                 6.75       6.80    4   
+  6 Michaelis, Nils              Franklin & M            6.77       6.86    3   
+ 
+Men 200 Meter Dash
+===================================================================================
+    Name                    Year School                  Seed     Finals  H# Points
+===================================================================================
+  1 Melhorn, Ian                 East Strouds           22.50      22.54   1  10   
+  2 Crawford, Greg               Kutztown               22.30      22.97   1   8   
+  3 Grannum, Jordan              Ursinus                22.76      23.55   1   6   
+  4 Ashfield, Asher              East Strouds           22.75      24.02   1   5   
+  5 Jones, Lance                 Ursinus                23.90      24.23   3   4   
+  6 Potter, Sean                 Albright               24.70      24.24   4   3   
+  7 Baranello, Jim               Immaculata             25.43      24.33   5   2   
+  8 Tillman, Tim                 Franklin & M           23.67      24.37   2   1   
+  9 Dohrmann, Mike               Franklin & M           23.18      24.48   1 
+ 10 Mannino, Brian               Kutztown               23.95      24.60   3 
+ 11 Bailey, Matt                 Kutztown               23.50      24.66   2 
+ 12 Black, Nate                  East Strouds           24.25      24.77   4 
+ 13 Crump, Sean                  Unattached             24.00      24.80   3 
+ 14 Flemming, Lawrence           CC of Philad           23.50      24.89   1 
+ 15 Rivera, Brian                Franklin & M           23.56      25.03   2 
+ 16 Yates, Derek                 Muhlenberg             23.80      25.09   2 
+ 17 Longmore, TJ                 Unattached             24.00      25.11   3 
+ 18 Craig, Bob                   Kutztown               23.65      25.16   2 
+ 19 Caruso, Nate                 Kutztown               24.50      25.43   4 
+ 20 Allen, Mark                  CC of Philad                      25.53   7 
+ 21 Ibeh, Chukwuka               Middlesex CC           26.11      25.87   5 
+ 22 Grove, Christopher           Albright               25.72      26.25   5 
+ 23 Russell, Brandon             Ursinus                25.28      26.28   5 
+ 24 Huggins, Anthony             Immaculata             26.20      26.43   5 
+ 25 Wilson, Robert               Muhlenberg             23.95      26.72   3 
+ 26 Yokomizo, John               Ursinus                26.22      26.87   6 
+ 27 Scott, Dean                  Ursinus                26.68      27.15   6 
+ 28 Weiner, Michael              Muhlenberg             24.70      27.55   4 
+ 29 Spaide, Tyreek               Albright               25.92      27.85   5 
+ 30 Grammig, Dustin              Immaculata             29.13      30.93   6 
+ 
+Men 400 Meter Dash
+===================================================================================
+    Name                    Year School                  Seed     Finals  H# Points
+===================================================================================
+  1 Rice, Peter                  Muhlenberg             50.85      50.94   1  10   
+  2 Parker-Washington, Keith     East Strouds           51.75      51.38   1   8   
+  3 Crump, Sean                  Unattached             54.50      52.06   3   6   
+  4 Thiry, Tim                   West Chester           51.00      52.32   1   5   
+  5 Walker, Chris                Unattached             53.00      52.40   2   4   
+  6 Touhy, Kyle                  East Strouds           52.45      52.66   1   3   
+  7 Heath, Adam                  West Chester           52.50      52.89   2   2   
+  8 Espenshade, Craig            West Chester           51.80      53.64   1   1   
+  9 Ullman, Jake                 Muhlenberg             54.10      54.60   3 
+ 10 Akins, Eric                  West Chester           53.00      55.03   2 
+ 11 Michaelis, Nils              Franklin & M           51.27      55.20   1 
+ 12 Glass, Anthony               Albright               53.20      55.32   2 
+ 13 Flemming, Lawrence           CC of Philad           53.00      55.78   2 
+ 14 Price, Alex                  Muhlenberg             55.04      56.61   3 
+ 15 Partridge, Connor            Muhlenberg             56.20      56.64   4 
+ 16 Harkins, Bobby               Muhlenberg             55.20      57.42   3 
+ 17 Strawitz, Joe                Franklin & M           55.96      57.80   3 
+ 18 Tucker, Eric                 Ursinus                57.69      58.73   4 
+ 19 McHugh, Joe                  Immaculata             55.12    1:01.92   3 
+ 20 McClean, Daniel              Alvernia                        1:02.73   4 
+ 
+Men 500 Meter Dash
+===================================================================================
+    Name                    Year School                  Seed     Finals  H# Points
+===================================================================================
+  1 Graham, Negus                East Strouds         1:05.97    1:05.38   1  10   
+  2 Pammer, Greg                 East Strouds         1:07.50    1:07.43   1   8   
+  3 Meshaw, Kori                 Kutztown             1:06.54    1:07.98   1   6   
+  4 Weeks, Eli                   Unattached           1:08.00    1:09.65   1   5   
+  5 Byrne, Jonathan              Kutztown             1:09.00    1:09.71   1   3.50
+  5 Meehan, Terrance             Unattached           1:11.00    1:09.71   2   3.50
+  7 Harvey, Shane                Kutztown             1:08.00    1:12.46   1   2   
+  8 Phillips, Jeff               Muhlenberg           1:15.20    1:13.03   3   1   
+  9 Myers, Aaron                 Franklin & M         1:11.58    1:13.27   2 
+ 10 Wiggins, Ian                 Ursinus                         1:13.58   3 
+ 11 Kurtis, David                Muhlenberg           1:14.25    1:15.06   2 
+ 12 Cashour, Reid                Kutztown             1:13.00    1:15.32   2 
+ 
+Men 800 Meter Run
+================================================================================
+    Name                    Year School                  Seed     Finals  Points
+================================================================================
+  1 Werley, Steve                Unattached           2:04.00    2:02.52   10   
+  2 Garavel, Jeremy              Ursinus              2:03.00    2:02.56    8   
+  3 Hagel, Dylan                 Unattached                      2:03.84    6   
+  4 Perry, Kyle                  West Chester         2:00.00    2:06.74    5   
+  5 Mosher, Ben                  Ursinus              1:59.31    2:06.95    4   
+  6 Esposito, Mike               Muhlenberg           2:04.24    2:08.11    3   
+  7 Pulgiano, Frank              Unattached           2:04.00    2:08.16    2   
+  8 Lysenko, Chris               Muhlenberg           2:06.24    2:08.38    1   
+  9 Gofus, Tyler                 Ursinus              2:02.00    2:08.91  
+ 10 Moyer, Tim                   Unattached           2:11.00    2:10.38  
+ 11 Fields, Tim                  Unattached           2:04.00    2:12.10  
+ 12 Lisachenko, Bogdan           Ursinus              2:08.87    2:12.88  
+ 13 Moore, Kevin                 Immaculata           2:06.00    2:14.35  
+ 14 Devolites, Sean              West Chester         2:11.00    2:14.40  
+ 15 Grab, Stash                  Immaculata           2:02.00    2:14.55  
+ 16 Pane, Nick                   Ursinus              2:14.05    2:16.74  
+ 17 Cole, Momo                   CC of Philad                    2:20.84  
+ 18 Ravenfield, Kurt             Immaculata           2:10.00    2:33.93  
+ 
+Men 1000 Meter Run
+================================================================================
+    Name                    Year School                  Seed     Finals  Points
+================================================================================
+  1 Saparito, Mike               East Strouds         2:37.00    2:37.54   10   
+  2 Lowrey, William              Muhlenberg           2:42.24    2:41.33    8   
+  3 Felix, Jarrett               Muhlenberg           2:40.24    2:41.70    6   
+  4 Belikove, Tom                Muhlenberg           2:40.24    2:42.62    5   
+  5 Holland, Ed                  Kutztown             2:38.00    2:43.24    4   
+  6 Janssen, Sam                 East Strouds         2:48.00    2:43.55    3   
+  7 Dolan, Chris                 Muhlenberg           2:38.24    2:44.78    2   
+  8 Brittingham, Ed              West Chester         2:50.00    2:55.76    1   
+  9 Kellert, Robert              Albright             3:00.00    2:56.44  
+ 10 Centafont, Jeffrey           Ursinus              2:59.70    3:10.73  
+ 11 Mitchell, Sean               Franklin & M                    3:13.10  
+ 
+Men 1 Mile Run
+================================================================================
+    Name                    Year School                  Seed     Finals  Points
+================================================================================
+  1 Aldeen, Amr                  East Strouds         4:30.00    4:25.68   10   
+  2 Zadroga, Chris               East Strouds         4:30.29    4:33.74    8   
+  3 Moyer, Tim                   Unattached           4:40.00    4:34.12    6   
+  4 McGetrick, Bobby             Muhlenberg           4:40.24    4:36.60    5   
+  5 Dyas, Joe                    Kutztown             4:40.00    4:40.21    4   
+  6 McGuire, Tom                 Muhlenberg           4:50.24    4:45.66    3   
+  7 Perry, Jacob                 West Chester         4:40.00    4:46.69    2   
+  8 Stortz, Sam                  Ursinus              4:40.38    4:50.55    1   
+  9 Pane, Nick                   Ursinus              4:53.81    4:51.56  
+ 10 Grab, Stash                  Immaculata           4:35.00    4:52.23  
+ 11 Moore, Kevin                 Immaculata           4:40.00    4:55.17  
+ 12 Gapinski, Mark               Ursinus              4:45.97    4:56.25  
+ 13 Strawitz, Joe                Franklin & M         4:55.07    5:08.58  
+ 14 Cole, Momo                   CC of Philad                    5:25.34  
+ 15 Leitmeyer, Keith             Muhlenberg           5:10.24    5:27.38  
+ 16 Bakey, James                 Immaculata           5:35.00    6:21.66  
+ 
+Men 3000 Meter Run
+================================================================================
+    Name                    Year School                  Seed     Finals  Points
+================================================================================
+  1 Torphy, Bob                  Muhlenberg           8:50.24    8:51.38   10   
+  2 Stortz, Sam                  Ursinus              9:14.07    9:13.82    8   
+  3 Wilson, Ryan                 Muhlenberg           9:00.24    9:14.03    6   
+  4 Zarnoch, Tom                 East Strouds         9:20.00    9:15.50    5   
+  5 Fleming, Zach                Kutztown             9:20.00    9:15.82    4   
+  6 Smith, Brendan               Muhlenberg           8:53.24    9:20.21    3   
+  7 Sebeck, Sean                 West Chester         9:30.00    9:22.08    2   
+  8 Romano, Jim                  East Strouds         9:20.00    9:28.49    1   
+  9 Crossette, Nathan            Muhlenberg           9:22.24    9:28.89  
+ 10 Schneider, Chris             Unattached           9:35.00    9:31.28  
+ 11 Malejko, Mike                West Chester         9:30.00    9:33.27  
+ 12 Kneebone, Curran             Unattached           9:20.00    9:34.48  
+ 13 Brittingham, Ed              West Chester         9:30.00    9:37.03  
+ 14 Gapinski, Mark               Ursinus              9:49.31    9:39.68  
+ 15 Hinrichs, Andrew             Kutztown             9:40.00    9:50.84  
+ 16 Lisachenko, Bogdan           Ursinus              9:44.65    9:55.08  
+ 17 Wilson, Jared                East Strouds         9:20.00    9:56.89  
+ 18 Austin, Jake                 Kutztown             9:40.00   10:03.13  
+ 19 Kimbrough, Justin            East Strouds         9:30.00   10:07.31  
+ 20 Teshome, Dagmawi             West Chester         9:30.00   10:15.44  
+ 21 Centafont, Jeffrey           Ursinus              9:47.31   10:21.72  
+ 22 Sabatino, Joe                Kutztown             9:40.00   10:21.79  
+ 23 Geigle, Nick                 Unattached           9:30.00   10:23.41  
+ 24 Pagiere, Max                 Unattached           9:45.00   10:44.44  
+ 25 DiVincent, Nick              Kutztown             9:40.00   11:31.11  
+ 26 Donovan, Colin               Alvernia                       12:21.91  
+ 
+Men 55 Meter Hurdles
+============================================================================
+    Name                    Year School                  Seed    Prelims  H#
+============================================================================
+Preliminaries
+  1 Young, Corey                 East Strouds            7.75       7.84q  1 
+  2 Michaelis, Nils              Franklin & M            7.78       7.91q  2 
+  3 Soden, Kyle                  East Strouds            7.90       7.93q  3 
+  4 Harvey, Shane                Kutztown                7.93       7.98q  3 
+  5 Longmore, TJ                 Unattached              8.10       8.16q  1 
+  6 Meshaw, Kori                 Kutztown                8.12       8.18q  1 
+  7 Rountree, Chris              Ursinus                 8.09       8.19   2 
+  8 Bailey, Matt                 Kutztown                8.27       8.24   2 
+  9 Akins, Eric                  West Chester            8.31       8.29   3 
+ 10 Rennie, Oshane               Albright                8.69       8.51   2 
+ 11 Hontz, Josh                  East Strouds            8.50       8.53   2 
+ 12 Dohrmann, Mike               Franklin & M            8.29       8.54   3 
+ 13 Black, Nate                  East Strouds            8.60       8.69   1 
+ 14 Baer, Michael                Muhlenberg              8.55       8.83   1 
+ 15 Scott, Dean                  Ursinus                 8.73       9.10   3 
+ 16 Reutter, Scott               Muhlenberg              8.70      14.18   3 
+ 
+Men 55 Meter Hurdles
+================================================================================
+    Name                    Year School               Prelims     Finals  Points
+================================================================================
+Finals
+  1 Young, Corey                 East Strouds            7.84       7.77   10   
+  2 Michaelis, Nils              Franklin & M            7.91       7.84    8   
+  3 Harvey, Shane                Kutztown                7.98       7.93    5.50
+  3 Soden, Kyle                  East Strouds            7.93       7.93    5.50
+  5 Longmore, TJ                 Unattached              8.16       7.98    4   
+  6 Meshaw, Kori                 Kutztown                8.18       8.36    3   
+ 
+Men 4x400 Meter Relay
+===================================================================================
+    School                                               Seed     Finals  H# Points
+===================================================================================
+  1 Kutztown  'A'                                     3:24.00    3:25.74   1  10   
+     1) Cannell, Matt                   2) Berry, Percell                 
+     3) Crawford, Greg                  4) Meshaw, Kori                   
+  2 East Stroudsburg  'A'                             3:30.00    3:29.54   1   8   
+     1) Pammer, Greg                    2) Touhy, Kyle                    
+     3) Parker-Washington, Keith        4) Young, Corey                   
+  3 West Chester  'A'                                 3:26.00    3:29.75   1   6   
+     1) Johnson, Leighon                2) Espenshade, Craig              
+     3) Perry, Kyle                     4) Thiry, Tim                     
+  4 Unattached  'A'                                   3:35.00    3:33.47   2   5   
+     1) Crump, Sean                     2) Battaglia, Dan                 
+     3) Meehan, Terrance                4) Rowles, Jason                  
+  5 Muhlenberg  'C'                                   3:39.10    3:35.50   2   4   
+     1) Felix, Jarrett                  2) Baer, Michael                  
+     3) Partridge, Connor               4) Phillips, Jeff                 
+  6 Kutztown  'B'                                     3:30.00    3:38.57   1   3   
+     1) Byrne, Jonathan                 2) Weeks, Eli                     
+     3) Holland, Ed                     4) Craig, Bob                     
+  7 Muhlenberg  'B'                                   3:34.10    3:47.92   2   2   
+     1) Lysenko, Chris                  2) Esposito, Mike                 
+     3) Harkins, Bobby                  4) Kurtis, David                  
+  8 Muhlenberg  'A'                                   3:25.24    3:50.76   1   1   
+     1) Rice, Peter                     2) Dolan, Chris                   
+     3) Ullman, Jake                    4) Price, Alex                    
+  9 Immaculata  'A'                                   3:52.00    4:04.75   2 
+     1) Farrell, Chris                  2) Moore, Kevin                   
+     3) Grab, Stash                     4) McHugh, Joe                    
+ 
+Men 4x800 Meter Relay
+================================================================================
+    School                                               Seed     Finals  Points
+================================================================================
+  1 East Stroudsburg  'A'                             8:05.00    8:21.00   10   
+     1) Saparito, Mike                  2) Janssen, Sam                   
+     3) Graham, Negus                   4) Zadroga, Chris                 
+  2 Muhlenberg  'A'                                   8:20.24    8:41.41    8   
+     1) Torphy, Bob                     2) Smith, Brendan                 
+     3) Crossette, Nathan               4) Wilson, Ryan                   
+  3 West Chester  'A'                                 8:20.00    8:45.34    6   
+     1) Malejko, Mike                   2) Perry, Jacob                   
+     3) Sebeck, Sean                    4) Teshome, Dagmawi               
+  4 Kutztown  'A'                                     8:10.00    8:52.25    5   
+     1) Fleming, Zach                   2) Reich, Ryan                    
+     3) Hinrichs, Andrew                4) Dyas, Joe                      
+ 
+Men High Jump
+================================================================================
+    Name                    Year School                  Seed     Finals  Points
+================================================================================
+  1 Gewirtz, Justin              Albright               1.93m      2.02m   10   
+  2 Soden, Kyle                  East Strouds           2.00m      1.90m    8   
+  3 Pachuta, Stephen             Kutztown               1.87m     J1.90m    6   
+  4 Allen, Mark                  CC of Philad           1.98m      1.85m    5   
+  5 Devolites, Sean              West Chester           1.85m      1.75m    4   
+ -- Baer, Michael                Muhlenberg             1.72m         NH  
+ -- Scott, Dean                  Ursinus                1.80m         NH  
+ 
+Men Pole Vault
+================================================================================
+    Name                    Year School                  Seed     Finals  Points
+================================================================================
+  1 Germani, Justin              Kutztown               4.87m      4.82m   10   
+  2 Berry, Percell               Kutztown               4.41m      4.53m    8   
+  3 Homola, James                East Strouds           4.25m      4.38m    6   
+  4 Runciman, Clark              Albright               3.65m      4.08m    5   
+  5 Hellings, Ryan               Muhlenberg             3.95m      3.63m    4   
+  6 Courter, Clayton             Albright               2.99m      3.05m    3   
+ -- Buck, Lanny                  Unattached             4.26m         NH  
+ 
+Men Long Jump
+================================================================================
+    Name                    Year School                  Seed     Finals  Points
+================================================================================
+  1 Cannell, Matt                Kutztown               6.85m      7.06m   10   
+  2 Heath, Adam                  West Chester           6.25m      6.83m    8   
+  3 Brooks, Tyler                Kutztown               6.62m      6.71m    6   
+  4 Allen, Mark                  CC of Philad           6.76m      6.70m    5   
+  5 Kresge, Corey                East Strouds           6.61m      6.50m    4   
+  6 Johnson, Leighon             West Chester           6.90m      6.34m    3   
+  7 Battaglia, Dan               Unattached             6.10m      6.33m    2   
+  8 Brookland, Marc              Muhlenberg             6.72m      6.20m    1   
+  9 Jackson, Anthony             West Chester           6.45m      6.08m  
+ 10 Rountree, Chris              Ursinus                6.62m      6.00m  
+ 11 Fromell, Nicholas            Franklin & M           5.91m      5.90m  
+ 12 Rivera, Brian                Franklin & M           6.06m      5.81m  
+ 13 Johnson, Tanner              Ursinus                5.76m      5.79m  
+ 14 Cooper, Rashon               Middlesex CC           5.01m      5.73m  
+ 15 Wolfe, Alex                  Muhlenberg             6.07m      5.72m  
+ 16 Ibeh, Chukwuka               Middlesex CC           5.01m      5.08m  
+ 17 Evans, Patrick               Alvernia               5.85m      4.59m  
+ 
+Men Triple Jump
+================================================================================
+    Name                    Year School                  Seed     Finals  Points
+================================================================================
+  1 Rountree, Chris              Ursinus               14.00m     13.76m   10   
+  2 Brooks, Tyler                Kutztown              13.10m     13.61m    8   
+  3 Brookland, Marc              Muhlenberg            14.07m     12.98m    6   
+  4 Allen, Mark                  CC of Philad          13.36m     12.86m    5   
+  5 Jackson, Anthony             West Chester          12.80m     12.52m    4   
+  6 Cooper, Rashon               Middlesex CC          10.05m     12.42m    3   
+  7 Heath, Adam                  West Chester          12.80m     12.26m    2   
+  8 Fromell, Nicholas            Franklin & M          12.18m     11.96m    1   
+ -- Rivera, Brian                Franklin & M          11.86m         ND  
+ 
+Men Shot Put
+================================================================================
+    Name                    Year School                  Seed     Finals  Points
+================================================================================
+  1 White, Chris                 Unattached            18.20m     15.01m   10   
+  2 Senatore, Greg               Kutztown              14.02m     14.59m    8   
+  3 Carr, Andrew                 Ursinus               14.21m     14.17m    6   
+  4 Canonico, Dane               Albright              13.66m     13.69m    5   
+  5 Stramara, Max                Kutztown              13.71m     13.47m    4   
+  6 Cheshire, Mike               Kutztown              13.71m     13.06m    3   
+  7 Kraft, Justin                Kutztown              14.32m     12.88m    2   
+  8 Breiner, William             West Chester          12.20m     11.96m    1   
+  9 Rohlhausen, Tyler            Unattached            13.72m     11.73m  
+ 10 Clancy, Brian                Ursinus               12.25m     11.68m  
+ 11 Foster, Quincy               Middlesex CC          11.55m     11.66m  
+ 12 Baldwin, Robert              Albright              11.12m     11.44m  
+ 13 Hershman, Seth               Muhlenberg            12.66m     11.32m  
+ 14 Barna, Steve                 Franklin & M          11.98m     11.23m  
+ 15 Porter, Stephan              CC of Philad          10.78m     11.02m  
+ 16 Shuttle, Robert              Ursinus               11.58m     10.97m  
+ 17 Gamrat, Jim                  Muhlenberg            10.88m     10.44m  
+ 18 Emery, Dillon                Alvernia              10.57m     10.16m  
+ 19 Yokomizo, John               Ursinus               10.01m      9.97m  
+ 20 Reutter, Scott               Muhlenberg            10.36m      9.81m  
+ 21 Pierre-Francois, Marc-Al     CC of Philad           8.66m      9.73m  
+ 22 McClean, Daniel              Alvernia               9.56m      9.51m  
+ 23 Wolfe, Andrew                Muhlenberg            10.36m      9.10m  
+ 24 Gerber, Will                 Alvernia               9.09m      9.08m  
+ -- Luchon, Paul                 Ursinus                              ND  
+ 
+Men Weight Throw
+================================================================================
+    Name                    Year School                  Seed     Finals  Points
+================================================================================
+  1 Senatore, Greg               Kutztown              14.63m     14.78m   10   
+  2 Stramara, Max                Kutztown              14.63m     14.77m    8   
+  3 Kraft, Justin                Kutztown              14.93m     14.04m    6   
+  4 Rohlhausen, Tyler            Unattached            12.80m     13.44m    5   
+  5 Canonico, Dane               Albright              11.50m     12.66m    4   
+  6 Hettinger, Andrew            Albright              12.49m     12.29m    3   
+  7 Baldwin, Robert              Albright              11.27m     11.53m    2   
+  8 Pellechia, Brian             West Chester          13.01m     11.47m    1   
+  9 Emery, Dillon                Alvernia                          8.99m  
+ 10 Gerber, Will                 Alvernia                          8.62m  
+
+
+

@@ -1,0 +1,578 @@
+
+
+
+
+Licensed to C.F.P.I. Timing & Data - Contractor License
+                                       Hy-Tek's Meet Manager 1/25/2008 10:27 PM
+                  Muhlenberg Indoor Invitational - 1/25/2008                   
+                       Muhlenberg College, Allentown, PA                       
+                                    Results                                    
+ 
+Event 1  Men Pole Vault
+=================================================================================
+ NCAA 3 Auto: A 5.06m                                                          
+ NCAA 3 Prov: P 4.70m                                                          
+    American: R 5.96m  2001        Lawrence Johnson, adidas                    
+  Collegiate: C 5.85m  1999        Jacob Davis, Texas                          
+    Name                    Year School                  Finals            Points
+=================================================================================
+Finals
+  1 Anderson, Kevin              DeSales               12-06.00R     3.81m 
+  2 Staats, Nick                 DeSales               12-00.00R     3.65m 
+  3 Kim, Phil                    Haverford             10-06.00R     3.20m 
+  4 Wei, Andrew                  Haverford            J10-06.00R     3.20m 
+  5 Ecker, Paul                  DeSales              J10-06.00R     3.20m 
+ -- Achey, Pete                  Misericordia                NH            
+ -- McGrath, Patrick             Delaware Valley             NH            
+ -- Doboni, Vitale               Misericordia                NH            
+ 
+Event 2  Women Pole Vault
+=================================================================================
+ NCAA 3 Auto: A 3.75m                                                          
+ NCAA 3 Prov: P 3.45m                                                          
+    American: R 4.81m  2004        Stacy Dragila, Nike                         
+  Collegiate: C 4.53m  2002        Amy Linnen, Arizona                         
+    Name                    Year School                  Finals            Points
+=================================================================================
+  1 Faust, Alexandra             Muhlenberg            11-09.00R     3.58m 
+  2 Ward, Sam                    DeSales               10-06.00R     3.20m 
+  3 Nylander, Melissa            Haverford              9-00.00R     2.74m 
+  4 Webb, Shannon                DeSales                8-06.00R     2.59m 
+  5 Weidmann, Lindsey            Muhlenberg            J8-06.00R     2.59m 
+  6 Kreiger, Hayley              Muhlenberg             7-00.00R     2.13m 
+  7 Wright, Lauren               Delaware Valley        6-06.00R     1.98m 
+ -- Zeiters, Erica               Albright                    NH            
+ 
+Event 3  Women High Jump
+=================================================================================
+ NCAA 3 Auto: A 1.71m                                                          
+ NCAA 3 Prov: P 1.65m                                                          
+    American: R 2.01m  1998        Tisha Waller, unattached                    
+  Collegiate: C 1.97m  1995        Acuff/ Aldrich/ Gyoffy, UCLA/ TX/ Harvard   
+    Name                    Year School                  Finals            Points
+=================================================================================
+  1 Belden, Jessie               Haverford              5-00.00R     1.52m 
+  2 Williams, Rebekah            Misericordia           4-10.00R     1.47m 
+  3 Koop, Erika                  Muhlenberg            J4-10.00R     1.47m 
+  4 Reiss, Eliza                 Haverford             J4-10.00R     1.47m 
+  5 Valesek, Brianna             DeSales                4-08.00R     1.42m 
+  6 Razawich, Robin              Misericordia          J4-08.00R     1.42m 
+  6 Rau, Emily                   DeSales               J4-08.00R     1.42m 
+  8 Kreiger, Hayley              Muhlenberg             4-04.00R     1.32m 
+  9 Procino, Nicola              Delaware Valley        4-00.00R     1.21m 
+ -- Heagy, Greta                 Delaware Valley             NH            
+ 
+Event 4  Men High Jump
+=================================================================================
+ NCAA 3 Auto: A 2.09m                                                          
+ NCAA 3 Prov: P 2.01m                                                          
+    American: R 2.40m  1991        Hollis Conway, Nike International           
+  Collegiate: C 2.37m  1989        Hollis Conway, LA. Lafayette                
+    Name                    Year School                  Finals            Points
+=================================================================================
+  1 Schappert, Jude              Misericordia           6-00.00R     1.82m 
+  2 Carter, Adam                 Muhlenberg             5-10.00R     1.77m 
+  3 Dyer, Joseph                 Muhlenberg            J5-10.00R     1.77m 
+  4 Rogers, Eric                 Misericordia           5-08.00R     1.72m 
+  5 Jones, Justin                Albright              J5-08.00R     1.72m 
+ 
+Event 5  Men Long Jump
+=================================================================================
+ NCAA 3 Auto: A 7.24m                                                          
+ NCAA 3 Prov: P 6.96m                                                          
+    American: R 8.79m  1984        Carl Lewis, S. Monica T.C.                  
+  Collegiate: C 8.59m  2002        Miguel Pate, Alabama                        
+    Name                    Year School                  Finals            Points
+=================================================================================
+  1 Rogers, Eric                 Misericordia             6.58m   21-07.25 
+  2 Donisi, Christopher          Albright                 6.54m   21-05.50 
+  3 Schappert, Jude              Misericordia             5.95m   19-06.25 
+  4 Karchner, Mike               Muhlenberg               5.83m   19-01.50 
+  5 Kegelman, Paul               Muhlenberg               4.95m   16-03.00 
+ 
+Event 6  Women Long Jump
+=================================================================================
+ NCAA 3 Auto: A 5.70m                                                          
+ NCAA 3 Prov: P 5.43m                                                          
+    American: R 7.13m  1994        Jackie Joyner- Kersee, Honda                
+  Collegiate: C 6.91m  2002        Elva Goulbourne, Auburn                     
+    Name                    Year School                  Finals            Points
+=================================================================================
+  1 Miller, Mara                 Haverford                5.06m   16-07.25 
+  2 Alderfer, Jennifer           Delaware Valley          4.48m   14-08.50 
+  3 Webb, Shannon                DeSales                  4.38m   14-04.50 
+  4 Williams, Rebekah            Misericordia             4.32m   14-02.25 
+  5 Conway, Renisha              Albright                 4.18m   13-08.75 
+ 
+Event 7  Men Triple Jump
+=================================================================================
+ NCAA 3 Auto: A 14.64m                                                         
+ NCAA 3 Prov: P 14.00m                                                         
+    American: R 17.76m  1987        Mike Conley, Tyson T.C.                    
+  Collegiate: C 17.50m  1986        Charlie Simpkins, Baptist                  
+    Name                    Year School                  Finals            Points
+=================================================================================
+  1 Rogers, Eric                 Misericordia            13.25m   43-05.75 
+  2 Schappert, Jude              Misericordia            12.43m   40-09.50 
+  3 Dyer, Joseph                 Muhlenberg              11.70m   38-04.75 
+ 
+Event 8  Women Triple Jump
+=================================================================================
+ NCAA 3 Auto: A 11.78m                                                         
+ NCAA 3 Prov: P 11.18m                                                         
+    American: R 14.23m  1995        Sheila Hudson, Reebok                      
+  Collegiate: C 14.25m  1997        Suzette Lee, L.S.U.                        
+    Name                    Year School                  Finals            Points
+=================================================================================
+  1 Mallory, De'on               Albright                10.07m   33-00.50 
+  2 Short, Ashley                DeSales                  7.93m   26-00.25 
+ -- Smith, Jen                   DeSales                   FOUL            
+ 
+Event 9  Men Shot Put
+=================================================================================
+ NCAA 3 Auto: A 17.00m                                                         
+ NCAA 3 Prov: P 15.54m                                                         
+    American: R 22.66m  1989        Randy Barnes, Mazda T. C.                  
+  Collegiate: C 21.50m  1977        Terry Albritton, Stanford                  
+    Name                    Year School                  Finals            Points
+=================================================================================
+  1 Awantang, Joe                Haverford               15.77mP  51-09.00 
+  2 Rosado, Elvis                Haverford               13.55m   44-05.50 
+  3 Searles, Doug                DeSales                 13.13m   43-01.00 
+  4 Pellegrino, Anthony          Albright                12.74m   41-09.75 
+  5 Sheppard, Evan               Muhlenberg              12.46m   40-10.50 
+  6 Scribner, Grant              Haverford               12.43m   40-09.50 
+  7 Devens, Ken                  DeSales                 12.42m   40-09.00 
+  8 Alabi, Timothy               Albright                11.14m   36-06.75 
+  9 Hettinger, Andrew            Albright                10.79m   35-05.00 
+ 10 Pupa, Art                    Misericordia            10.58m   34-08.50 
+ 11 Karpich, Kyle                Misericordia             9.56m   31-04.50 
+ 12 Weber, Kevin                 Delaware Valley          8.79m   28-10.25 
+ 13 Bausch, Ryan                 Albright                 8.75m   28-08.50 
+ 
+Event 10  Women Shot Put
+=================================================================================
+ NCAA 3 Auto: A 13.95m                                                         
+ NCAA 3 Prov: P 12.80m                                                         
+    American: R 19.83m  1987        Ramona Pagel, Mazda T.C.                   
+  Collegiate: C 18.83m  1998        Teri Tunks, S.M.U.                         
+    Name                    Year School                  Finals            Points
+=================================================================================
+  1 Crockett, Debra              Muhlenberg              10.85m   35-07.25 
+  2 Heisey, Becky                Delaware Valley         10.75m   35-03.25 
+  3 Freund, Jackie               Haverford               10.63m   34-10.50 
+  4 Weber, Meghan                DeSales                 10.47m   34-04.25 
+  5 Koop, Erika                  Muhlenberg              10.25m   33-07.50 
+  6 Pavlichko, Natasha           Misericordia             9.40m   30-10.25 
+  7 Balutis, Tabitha             Delaware Valley          9.04m   29-08.00 
+  8 Constable, Maggie            Misericordia             8.53m   28-00.00 
+  9 Danilowicz, Justine          Misericordia             8.52m   27-11.50 
+ 10 Fryer, Amber                 DeSales                  8.44m   27-08.25 
+ 11 Fry, Kristen                 Misericordia             7.25m   23-09.50 
+ 12 McMahon, Heather             Haverford                6.82m   22-04.50 
+ 
+Event 11  Men 4x1600 Meter Relay
+=======================================================================
+    School                                               Finals  Points
+=======================================================================
+  1 Haverford  'B'                                     18:15.72  
+     1) Hulleberg, Anders               2) Donnelly, Patrick              
+     3) Southwick, Chris                4) Costigan-Humes, Reilly         
+  2 Haverford  'A'                                     18:18.74  
+     1) Jablin, Michael                 2) Carpenter, Joseph              
+     3) Lanham, Andrew                  4) Jablin, James                  
+  3 Muhlenberg  'A'                                    18:33.01  
+     1) Thornton, Pat                   2) Chorney, David                 
+     3) Van Syckle, Tim                 4) Udis, Stuart                   
+  4 Haverford  'C'                                     18:57.05  
+     1) Oaks, Jason                     2) Walker, Benjamin               
+     3) Marsden, Ben                    4) Ackroyd-Isales, Alan           
+  5 Haverford  'D'                                     20:10.07  
+     1) Reynolds, Nick                  2) Kist, Morgan                   
+     3) Marsico, Richard                4) Hildner, Mike                  
+ 
+Event 12  Women 4x1600 Meter Relay
+=======================================================================
+    School                                               Finals  Points
+=======================================================================
+  1 Haverford  'A'                                     22:59.67  
+     1) Edelstein, Lena                 2) Letts, Emily                   
+     3) Bretscher, Heidi                4) Lo, Emma                       
+  2 Muhlenberg  'A'                                    23:11.80  
+     1) Mitchell, Hannah                2) Bier, Kim                      
+     3) Simons, Abby                    4) Conicella, Lauren              
+  3 Haverford  'B'                                     24:20.32  
+     1) Din, Deirdre                    2) Bonney, Megan                  
+     3) Levenson, Chloe                 4) O'Malley, Hayley               
+  4 DeSales  'A'                                       24:25.97  
+     1) Lamastro, Alessandra            2) Durso, Laura                   
+     3) walsh, Jeanine                  4) Sell, Amanda                   
+  5 Misericordia  'A'                                  24:37.89  
+     1) Weaver, Kayla                   2) Ostrum, Ali                    
+     3) Cusatis, Marcie                 4) McAndrew, Heather              
+  6 Muhlenberg  'B'                                    25:03.55  
+     1) Niedzwiecki, Kathryn            2) Clinton, Laura                 
+     3) Mahoney, Kate                   4) Ferretti, Alaina               
+  7 Haverford  'C'                                     25:54.79  
+     1) Hubbeling, Harper               2) Zych, Natalie                  
+     3) Peters, Hana                    4) Scholom, Elizabeth             
+ 
+Event 13  Men 1 Mile Run
+=======================================================================
+ NCAA 3 Auto: A 4:11.50                                                        
+ NCAA 3 Prov: P 4:16.50                                                        
+    American: R 3:51.8h  1981        Steve Scott, Sub 4 T.C.                   
+  Collegiate: C 3:55.0h  1974        Tony Waldrop, North Carolina              
+    Name                    Year School                  Finals  Points
+=======================================================================
+  1 Frisbee, Ben                 Haverford              4:34.61  
+  2 Henderson, Luke              Haverford              4:37.33  
+  3 Hess, Pat                    DeSales                4:39.26  
+  4 Ecker, Paul                  DeSales                4:43.06  
+  5 Troxel, Adam                 DeSales                4:43.68  
+  6 Kingsbury, Adam              Muhlenberg             4:47.41  
+  7 McClatchy, Frank             DeSales                4:47.49  
+  8 Nastus, John                 DeSales                4:47.81  
+  9 Guest, Mike                  Misericordia           4:48.34  
+ 10 Cuga, Justin                 DeSales                4:49.98  
+ 11 Tarpey, Jack                 DeSales                4:51.79  
+ 12 Yeager, Eric                 DeSales                4:52.69  
+ 13 Filanowski, Pat              DeSales                4:53.20  
+ 14 Curry, Mike                  DeSales                4:57.45  
+ 15 hefner, wayne                Holy Family            5:03.15  
+ 16 Gwinn, Kevin                 DeSales                5:05.44  
+ 17 Zubko, Steve                 Misericordia           5:10.83  
+ 18 McCoy, Kevin                 Delaware Valley        5:11.87  
+ 19 Blaskiewicz, Pat             Misericordia           5:15.21  
+ 20 Simmons, Alex                Haverford              5:15.87  
+ 21 O ' Neill, Brian             Misericordia           5:22.66  
+ 22 Leitmeyer, Keith             Muhlenberg             5:26.41  
+ 23 Garges, Ryan                 Misericordia           5:35.69  
+ 24 Verzella, Dave               Misericordia           5:50.74  
+ 
+Event 14  Women 1 Mile Run
+=======================================================================
+ NCAA 3 Auto: A 4:55.90                                                        
+ NCAA 3 Prov: P 5:05.40                                                        
+    American: R 4:20.5h  1982        Mary Slaney, Athletics West               
+  Collegiate: C 4:28.31  1988        Vicki Huber, Villanova                    
+    Name                    Year School                  Finals  Points
+=======================================================================
+  1 Lunne, Darian                Haverford              5:25.91  
+  2 Ostrum, Ali                  Misericordia           5:28.14  
+  3 Letts, Emily                 Haverford              5:36.71  
+  4 Edelstein, Lena              Haverford              5:37.11  
+  5 Din, Deirdre                 Haverford              5:40.93  
+  6 Bretscher, Heidi             Haverford              5:42.18  
+  7 Lo, Emma                     Haverford              5:43.40  
+  8 walsh, Jeanine               DeSales                5:50.41  
+  9 Lamastro, Alessandra         DeSales                5:53.89  
+ 10 Malseed, Beth                DeSales                5:55.22  
+ 11 Levenson, Chloe              Haverford              5:57.75  
+ 12 O'Malley, Hayley             Haverford              5:58.26  
+ 13 Mahoney, Kate                Muhlenberg             6:01.64  
+ 14 Bonney, Megan                Haverford              6:05.14  
+ 15 Hubbeling, Harper            Haverford              6:14.79  
+ 16 Radishofski, Amanda          Misericordia           6:14.99  
+ 17 Scholom, Elizabeth           Haverford              6:15.53  
+ 18 Peters, Hana                 Haverford              6:16.29  
+ 19 Weaver, Kayla                Misericordia           6:17.48  
+ 20 Karish, Talesha              Delaware Valley        6:17.75  
+ 21 Zych, Natalie                Haverford              6:28.35  
+ 22 Slaybaugh, Beth              DeSales                6:42.60  
+ 23 Gross, Stephanie             Muhlenberg             6:43.37  
+ 24 Montalbano, Kathryn          Haverford              6:48.20  
+ 25 Telesca, Lauren              Misericordia           7:20.08  
+ 
+Event 15  Men 55 Meter Hurdles
+==========================================================================
+ NCAA 3 Auto: A  7.55                                                          
+ NCAA 3 Prov: P  7.75                                                          
+    Name                    Year School                  Finals  H# Points
+==========================================================================
+  1 Carter, Adam                 Muhlenberg                8.56   2 
+  2 Karchner, Mike               Muhlenberg                8.80   2 
+  3 Stein, Matt                  Muhlenberg                9.22   2 
+  4 Swope, Kery                  Delaware Valley           9.32   2 
+  5 Hoban, Tim                   Misericordia              9.50   1 
+  6 Meyers, David                Misericordia             10.05   1 
+  7 Kegelman, Paul               Muhlenberg               11.43   1 
+  8 Weber, Kevin                 Delaware Valley          11.54   1 
+ 
+Event 16  Women 55 Meter Hurdles
+==========================================================================
+ NCAA 3 Auto: A  8.27                                                          
+ NCAA 3 Prov: P  8.55                                                          
+    Name                    Year School                  Finals  H# Points
+==========================================================================
+  1 Reiss, Eliza                 Haverford                 9.06   3 
+  2 Miller, Mara                 Haverford                 9.22   3 
+  3 Pellegrino, Stephanie        Misericordia              9.60   3 
+  4 Brock, Lucy                  Muhlenberg                9.63   2 
+  5 Finley, Shannon              Albright                  9.84   2 
+  6 Mentrikoski, Janelle         Muhlenberg               10.00   2 
+  7 Heisey, Becky                Delaware Valley          10.00   1 
+  8 Barr, Amanda                 Delaware Valley          11.14   1 
+  9 Derrickson, Jessica          Delaware Valley          11.22   2 
+ 10 Procino, Nicola              Delaware Valley          11.62   1 
+ 11 Koop, Erika                  Muhlenberg               12.40   1 
+ 
+Event 17  Men 55 Meter Dash
+==========================================================================
+ NCAA 3 Auto: A  7.14                                                          
+ NCAA 3 Prov: P  6.47                                                          
+    Name                    Year School                  Finals  H# Points
+==========================================================================
+  1 Lachaud, Jeremiah            Muhlenberg                6.73A  3 
+  2 Rogers, Eric                 Misericordia              6.91A  3 
+  3 Petrilak, Jon                Delaware Valley           6.96A  3 
+  4 gilmore, rasheed             Holy Family               7.01A  3 
+  4 Kenney, Robert               Albright                  7.01A  2 
+  6 Donisi, Christopher          Albright                  7.04A  2 
+  7 Gori, Adam                   DeSales                   7.07A  1 
+  8 Gonczi, Andrew               Haverford                 7.14A  2 
+  9 Onderjka, Dennis             Holy Family               7.31   2 
+ 10 Doboni, Vitale               Misericordia              7.51   1 
+ 11 Achey, Pete                  Misericordia              7.68   1 
+ 12 Bear, Andrew                 Delaware Valley           8.12   1 
+ 
+Event 18  Women 55 Meter Dash
+==========================================================================
+ NCAA 3 Auto: A  7.32                                                          
+ NCAA 3 Prov: P  7.32                                                          
+    Name                    Year School                  Finals  H# Points
+==========================================================================
+  1 Miller, Mara                 Haverford                 7.80   6 
+  2 Genter, Brianne              Albright                  7.81   6 
+  3 Welch, Zoe                   Haverford                 7.86   7 
+  4 McGinnis, Bridgette          DeSales                   7.89   7 
+  5 Bochnovich, Susan            Misericordia              7.91   7 
+  6 Reiss, Eliza                 Haverford                 7.92   7 
+  7 Karel, Emily                 Muhlenberg                7.98   5 
+  8 Webb, Shannon                DeSales                   7.99   3 
+  9 Lozier, Jenn                 Misericordia              8.02   6 
+ 10 Alderfer, Jennifer           Delaware Valley           8.07   4 
+ 11 Loos, Meghan                 Albright                  8.07   5 
+ 12 Weidmann, Lindsey            Muhlenberg                8.25   5 
+ 13 Cherry, Christina            Holy Family               8.26   3 
+ 14 Belden, Jessie               Haverford                 8.27   6 
+ 15 Brock, Lucy                  Muhlenberg                8.30   4 
+ 16 Tyman, Meghan                Delaware Valley           8.49   3 
+ 17 Martini, Amanda              Muhlenberg                8.51   4 
+ 18 Ward, Sam                    DeSales                   8.51   2 
+ 19 Valesek, Brianna             DeSales                   8.55   1 
+ 20 Kirton, Marie                Haverford                 8.58   5 
+ 21 Dielmann, Julie              DeSales                   8.62   3 
+ 22 Derrickson, Jessica          Delaware Valley           8.72   1 
+ 23 Igweatu, Enuma               Haverford                 8.82   4 
+ 24 Velez, Alex                  Misericordia              9.14   1 
+ 25 Smith, Jen                   DeSales                   9.50   2 
+ 
+Event 19  Men 800 Meter Run
+==========================================================================
+ NCAA 3 Auto: A 1:53.30                                                        
+ NCAA 3 Prov: P 1:55.40                                                        
+    American: R 1:45.00  1992        Johnny Gray, S. Monica T.C.               
+  Collegiate: C 1:44.84  1989        Paul Ereng, Virginia                      
+    Name                    Year School                  Finals  H# Points
+==========================================================================
+  1 Udis, Stuart                 Muhlenberg             1:59.28   3 
+  2 Redmond, Frank               Misericordia           1:59.85   3 
+  3 Bisceglio, Paul              Haverford              2:00.74   3 
+  4 Tousley, Elias               Haverford              2:01.31   3 
+  5 Thornton, Pat                Muhlenberg             2:01.41   3 
+  6 Fuentes, Lucas               Haverford              2:02.57   3 
+  7 Dolan, Chris                 Muhlenberg             2:05.36   3 
+  8 Frisbee, Ben                 Haverford              2:08.18   3 
+  9 Filanowski, Brian            DeSales                2:09.85   2 
+ 10 Wilson, Ryan                 Muhlenberg             2:10.09   2 
+ 11 Noonan, Pat                  Misericordia           2:10.48   2 
+ 12 mcfadden, john               Holy Family            2:12.57   2 
+ 13 Brumbaugh, Charles           Delaware Valley        2:14.28   1 
+ 14 Decker, Eric                 DeSales                2:16.04   1 
+ 15 Barachie, Dave               Misericordia           2:17.12   2 
+ 16 Grubbey, Mike                Holy Family            2:18.30   2 
+ 17 Fenstermacher, Daniel        Delaware Valley        2:24.32   1 
+ 18 Tully, Andrew                Holy Family            2:25.44   2 
+ 
+Event 20  Women 800 Meter Run
+==========================================================================
+ NCAA 3 Auto: A 2:14.15                                                        
+ NCAA 3 Prov: P 2:17.20                                                        
+    American: R 1:58.71  2002        Nicole Terer, Nike Farm Team              
+  Collegiate: C 2:00.75  2005        Nicole Cook, Tennessee                    
+    Name                    Year School                  Finals  H# Points
+==========================================================================
+  1 Simons, Abby                 Muhlenberg             2:27.54   2 
+  2 Tully, Caitlin               Haverford              2:29.68   2 
+  3 Bier, Kim                    Muhlenberg             2:32.39   2 
+  4 Walker, Sarah                Haverford              2:34.26   2 
+  5 Heyison, Caila               Haverford              2:37.36   2 
+  6 Dorgan, Caitlin              Delaware Valley        2:39.05   1 
+  7 McAndrew, Heather            Misericordia           2:40.46   1 
+  8 kurowski, allison            DeSales                2:40.86   1 
+  9 Rau, Emily                   DeSales                2:41.14   1 
+ 10 Durso, Laura                 DeSales                2:45.44   1 
+ 11 Spilove, Liah                Muhlenberg             2:48.98   1 
+ 12 Keogh, Aileen                Haverford              2:57.19   2 
+ 13 Plourde, Melissa             Delaware Valley        3:13.55   1 
+ 
+Event 21  Men 400 Meter Dash
+==========================================================================
+ NCAA 3 Auto: A 48.70                                                          
+ NCAA 3 Prov: P 49.90                                                          
+    American: R 44.57  2005        Kerron Clement, Florida                     
+  Collegiate: C 44.57  2005        Kerron Clement, Florida                     
+    Name                    Year School                  Finals  H# Points
+==========================================================================
+  1 Hurley, Mike                 Holy Family              53.74   4 
+  2 Adige, Sunil                 Haverford                54.10   4 
+  3 Ecker, Paul                  DeSales                  55.03   3 
+  4 Steinhart, Dan               Muhlenberg               55.08   4 
+  5 Ryan, William                Muhlenberg               55.68   4 
+  6 Toohey, Shane                Delaware Valley          56.71   2 
+  7 Filanowski, Pat              DeSales                  56.73   2 
+  8 Stein, Matt                  Muhlenberg               56.92   3 
+  9 Jayne, Brandon               Misericordia             57.18   2 
+ 10 Goldstein, Dan               Muhlenberg               59.38   3 
+ 11 Kegelman, Paul               Muhlenberg             1:00.86   2 
+ 12 Holtz, Tom                   Muhlenberg             1:01.06   1 
+ 13 Weber, Kevin                 Delaware Valley        1:02.08   1 
+ 14 Swope, Kery                  Delaware Valley        1:03.52   1 
+ 
+Event 22  Women 400 Meter Dash
+==========================================================================
+ NCAA 3 Auto: A 56.95                                                          
+ NCAA 3 Prov: P 58.70                                                          
+    American: R 50.64  1991        Diane Dixon, Atoms TC                       
+  Collegiate: C 51.05  1991        Maicel Malone, AZ. State                    
+    Name                    Year School                  Finals  H# Points
+==========================================================================
+  1 Faust, Alexandra             Muhlenberg             1:01.43   3 
+  2 Annucci, Lauren              DeSales                1:06.99   3 
+  3 Cain, June                   Holy Family            1:07.02   1 
+  4 Joseph, Kendra               Muhlenberg             1:07.41   1 
+  5 Fitzpatrick, Amy             DeSales                1:07.85   2 
+  6 McClurkin, Cortney           DeSales                1:09.21   3 
+  7 Ratcliffe, Kristy            DeSales                1:10.26   2 
+  8 Niedzwiecki, Kathryn         Muhlenberg             1:10.61   1 
+  9 collins, taryn               DeSales                1:10.94   3 
+ 10 Bannon, Sarah                DeSales                1:11.79   1 
+ 11 Barr, Amanda                 Delaware Valley        1:14.46   2 
+ 
+Event 23  Men 200 Meter Dash
+==========================================================================
+    American: R 20.10  2005        Wallace Spearmon, Arkansas                  
+  Collegiate: C 20.10  2005        Wallace Spearmon, Arkansas                  
+    Name                    Year School                  Finals  H# Points
+==========================================================================
+  1 Lachaud, Jeremiah            Muhlenberg               24.01   4 
+  2 Kenney, Robert               Albright                 24.69   4 
+  3 Ryan, William                Muhlenberg               25.04   4 
+  4 Goldstein, Dan               Muhlenberg               25.22   3 
+  5 Petrilak, Jon                Delaware Valley          25.22   2 
+  6 Razler, Nick                 DeSales                  25.25   2 
+  7 Meyers, David                Misericordia             25.70   1 
+  8 Onderjka, Dennis             Holy Family              25.79   4 
+  9 Gori, Adam                   DeSales                  25.96   1 
+ 10 McCrimons, Sam               Haverford                26.25   3 
+ 11 Gonczi, Andrew               Haverford                26.47   2 
+ 12 Holtz, Tom                   Muhlenberg               27.61   2 
+ 13 Hoban, Tim                   Misericordia             28.29   1 
+ 14 Toohey, Shane                Delaware Valley          28.30   3 
+ 15 Bear, Andrew                 Delaware Valley          28.80   1 
+ 
+Event 24  Women 200 Meter Dash
+==========================================================================
+    American: R 22.33  1996        Gwen Torrence, Nike                         
+  Collegiate: C 22.49  2003        Muna Lee, L.S.U.                            
+    Name                    Year School                  Finals  H# Points
+==========================================================================
+  1 Neilson, Christina           Haverford                28.24   9 
+  2 Welch, Zoe                   Haverford                28.24   8 
+  3 Bochnovich, Susan            Misericordia             28.31   9 
+  4 Lozier, Jenn                 Misericordia             28.33   9 
+  5 Genter, Brianne              Albright                 28.34   8 
+  6 Karel, Emily                 Muhlenberg               28.61   8 
+  7 Alderfer, Jennifer           Delaware Valley          28.81   8 
+  8 Loos, Meghan                 Albright                 29.03   5 
+  9 Annucci, Lauren              DeSales                  29.09   7 
+ 10 Miller, Mara                 Haverford                29.11   6 
+ 11 Pellegrino, Stephanie        Misericordia             29.28   7 
+ 12 Cain, June                   Holy Family              29.57   6 
+ 13 Weidmann, Lindsey            Muhlenberg               30.08   7 
+ 14 Kirton, Marie                Haverford                30.82   5 
+ 15 Martini, Amanda              Muhlenberg               30.87   6 
+ 16 Finley, Shannon              Albright                 31.04   4 
+ 17 Tyman, Meghan                Delaware Valley          31.34   4 
+ 18 Brock, Lucy                  Muhlenberg               31.35   5 
+ 19 Cherry, Christina            Holy Family              32.33   4 
+ 20 Igweatu, Enuma               Haverford                32.45   6 
+ 21 Dielmann, Julie              DeSales                  32.55   4 
+ 22 Zapata, Erica                Albright                 32.67   1 
+ 23 Fitzpatrick, Amy             DeSales                  33.48   5 
+ 24 Derrickson, Jessica          Delaware Valley          33.84   7 
+ 25 Velez, Alex                  Misericordia             34.36   1 
+ 26 Smith, Jen                   DeSales                  34.63   1 
+ 27 Procino, Nicola              Delaware Valley          34.97   2 
+ 28 Short, Ashley                DeSales                  36.32   2 
+ 
+Event 25  Men 4x400 Meter Relay
+==========================================================================
+ NCAA 3 Auto: A 3:17.90                                                        
+ NCAA 3 Prov: P 3:21.70                                                        
+    American: R 3:01.96  2006        National Team, U.S.A.                     
+  Collegiate: C 3:03.51  2005        Florida, Florida                          
+    School                                               Finals  H# Points
+==========================================================================
+  1 Muhlenberg  'A'                                     3:40.30   2 
+     1) Steinhart, Dan                  2) Ryan, William                  
+     3) Kirk, Brendan                   4) Stein, Matt                    
+  2 Haverford  'A'                                      3:40.35   2 
+     1) Bisceglio, Paul                 2) Fuentes, Lucas                 
+     3) Tousley, Elias                  4) Adige, Sunil                   
+  3 Holy Family  'A'                                    3:43.45   1 
+     1) gilmore, rasheed                2) Hurley, Mike                   
+     3) Grubbey, Mike                   4) Tully, Andrew                  
+  4 DeSales  'A'                                        3:48.77   2 
+     1) Ecker, Paul                     2) McClatchy, Frank               
+     3) Yeager, Eric                    4) Hess, Pat                      
+  5 Misericordia  'A'                                   3:52.56   2 
+     1) Redmond, Frank                  2) Guest, Mike                    
+     3) Noonan, Pat                     4) O ' Neill, Brian               
+  6 DeSales  'C'                                        4:03.17   1 
+     1) Decker, Eric                    2) Nastus, John                   
+     3) Nauss, Shane                    4) Tarpey, Jack                   
+  7 Muhlenberg  'B'                                     4:03.35   1 
+     1) Goldstein, Dan                  2) Carter, Adam                   
+     3) Dolan, Chris                    4) Kegelman, Paul                 
+  8 Misericordia  'B'                                   4:14.33   1 
+     1) Barachie, Dave                  2) Zubko, Steve                   
+     3) Blaskiewicz, Pat                4) Jayne, Brandon                 
+ 
+Event 26  Women 4x400 Meter Relay
+=======================================================================
+ NCAA 3 Auto: A 3:54.30                                                        
+ NCAA 3 Prov: P 4:00.80                                                        
+    American: R 3:27.59  1999        National Team, U.S.A.                     
+  Collegiate: C 3:27.66  2003        Texas, Texas                              
+    School                                               Finals  Points
+=======================================================================
+  1 Haverford  'B'                                      4:20.09  
+     1) Belden, Jessie                  2) Heyison, Caila                 
+     3) Lunne, Darian                   4) Tully, Caitlin                 
+  2 Haverford  'A'                                      4:20.23  
+     1) Reiss, Eliza                    2) Keogh, Aileen                  
+     3) Neilson, Christina              4) Walker, Sarah                  
+  3 Muhlenberg  'A'                                     4:23.65  
+     1) Faust, Alexandra                2) Karel, Emily                   
+     3) Joseph, Kendra                  4) Mentrikoski, Janelle           
+  4 DeSales  'A'                                        4:44.52  
+     1) Ratcliffe, Kristy               2) collins, taryn                 
+     3) McGinnis, Bridgette             4) McClurkin, Cortney             
+  5 DeSales  'B'                                        4:47.35  
+     1) Rau, Emily                      2) Fitzpatrick, Amy               
+     3) Webb, Shannon                   4) Gahagan, Kathleen              
+
+
+

@@ -1,0 +1,1099 @@
+
+
+
+
+
+
+
+Onboarding | Muhlenberg College
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Skip to Main Content
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Muhlenberg College
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Visit
+
+
+
+
+
+
+
+
+
+Apply
+
+
+
+
+
+
+
+
+
+Request Info
+
+
+
+
+
+
+
+
+
+Give
+
+
+
+
+
+
+
+
+
+Menu
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Home
+Who We AreCollege OfficesInformation TechnologyFaculty and Staff ComputingOnboarding 
+
+
+
+
+
+
+Onboarding
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Onboarding
+
+
+
+
+
+
+
+
+
+
+
+Support DeskEmail2-Factor AuthenticationPhishingPrinting
+
+
+
+
+
+
+
+
+
+
+
+Home
+Who We AreCollege OfficesInformation TechnologyFaculty and Staff ComputingOnboarding 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Welcome to Muhlenberg
+What do you need to know OR do before you arrive on campus? Learn more about each topic by selecting the tabs below. 
+The Client Support Services Support Desk can be reached by sending e-mail to supportdesk@muhlenberg.edu, visit the IT Support Portal in the OneLogin application portal (login required), OR calling us at 484-664-3566. On campus location: Ettinger 002 Suite. 
+
+
+
+
+
+
+
+
+
+
+
+          Logon to the Muhlenberg Application Portal
+  
+
+
+
+
+
+
+
+
+ 
+
+Using the network credentials sent via mail, go to the Application Portal and sign in. 
+This is the main hub to reach the main Muhlenberg Applications.Be sure to explore all of the different applications that Muhlenberg uses. With special attention to Canvas and G Suite.
+Then don't forget to change your network password. If you have a College issued device Windows device, please follow the steps outlined in document linked below. https://docs.google.com/document/d/1gzkg0Rucdl9Zge9tg2cjjU9NwfyYKqcESZrPD8JDdHI/edit?usp=sharing
+
+
+
+
+
+
+
+          Workday 
+  
+
+
+
+
+
+
+
+
+Workday is Muhlenberg Collegeâs application for several pertinent campus business process, including the Student Information System, Human Capital Management (HCM), and Finances.
+Once you start your employment, you will complete most of your new hire documentation through Workday. 
+The Workday Training site provides self help guides and tutorials to assist in the use of the Workday application and are available for self paced learning at https://sites.google.com/muhlenberg.edu/workdaytraining/. 
+ 
+
+
+
+
+
+
+          Register your mobile device for campus alerts 
+  
+
+
+
+
+
+
+
+
+
+Omnilert is Muhlenberg's campus alert system. 
+Login to the application portal and click on the Omnilert tile
+Enter your preferred SMS number(s) to receive emergency notifications via text message. Your Muhlenberg email address will receive these notifications by default.
+
+Watch the video tutorial for step by step instruction. 
+
+
+
+
+
+
+          Register your Device on MuhlenbergWiFi
+  
+
+
+
+
+
+
+
+
+
+Muhlenberg supports wifi on all devices campus wide. Follow the directions on this page to register your device. It is important to remember to use MuhlenbergWifi and not MuhlenbergGuest. 
+
+
+
+
+
+
+
+          College-owned devices
+  
+
+
+
+
+
+
+
+
+The Office of Information Technology is the sole provider of computing equipment for the college. For standard equipment â computers, printers, etc â all purchases go through OIT. In some cases purchases are identified through the programmatic needs of a specific department, but approval is still routed through OIT prior to acquisition.
+To learn more about computer allocation, visit Computer Policy for Faculty and Staff. 
+
+
+
+
+
+
+          Classroom Technology
+  
+
+
+
+
+
+
+
+
+The campus standard for technology in the classroom is the âtechwallâ. Techwalls include a presentation computer, audio visual control system, projector, media players, and a campus standard set of software. For more details, please attend the classroom tour during the Micro-brew.
+
+
+
+
+
+
+          G Suite 
+  
+
+
+
+
+
+
+
+
+G Suite for Education Core Apps
+G Suite Core Services are Gmail, Calendar, Chrome Sync, Classroom, Contacts, Drive, Docs, Forms, Groups, Sheets, Sites, Slides, Talk/Hangouts and Vault.  
+The following G Suite Core Apps are supported by the Office of Information Technology - Gmail, Calendar, Contacts, Drive, Groups, Docs, Sheets, Slides and Forms. 
+Once you receive your network credentials from Human Resources, be sure to check your email frequently by clicking the G Suite tile in the application portal. 
+One quick to-do! Set your timezone by opening up Google Calendar in a web browser.  You need only do this ONCE. 
+Learn more about G Suite.
+
+
+
+
+
+
+          Canvas
+  
+
+
+
+
+
+
+
+
+Canvas is the learning management system at Muhlenberg used for on-campus, online, and hybrid course construction. Canvas provides avenues for student interaction and engagement with course content, communication with faculty and peers, and provides 1-source for grading assignments. Included in Canvas are tools to help manage all aspects of course engagement from assignment and quiz creation/facilitation to video conferencing. Most of all, Canvas keeps course items and students organized. Want to learn more? Visit the Learning Management Site. 
+
+
+
+
+
+
+          Printing
+  
+
+
+
+
+
+
+
+
+PaperCut is a print management solution.  The PaperCut software allows Faculty and Staff to be able to release print jobs at any Ricoh copier. It also introduces new print accounting functionality that is critical to the Treasurerâs office operations.
+Visit Printing to learn more. 
+
+
+
+
+
+
+          Software Discounts
+  
+
+
+
+
+
+
+
+
+Office 365 is available for free with a valid school email address. Visit msoffice.muhlenberg.edu to setup an account. 
+As part of our Microsoft Campus Agreement, Muhlenberg College employees have the legal right to obtain Microsoft software such as Office 2016 Pro and Windows 10 Upgrade on home computers for work-related purposes. Our Microsoft software vendor, JourneyEd, administers the Microsoft work at home rights program.
+Software can be ordered at http://www.journeyed.com/select/go/CAMUHLEN
+After you place the order online, you will be required to fax or email a copy of your ID badge to JourneyEd. They will send you instructions for sending the verification by email once you have placed the order through their site. Once you have submitted your ID, you will receive either a license code and a link (download) or a physical DVD media set.
+
+
+
+
+
+
+          Cyber Security
+  
+
+
+
+
+
+
+
+
+Latest cyber security update: 2-Factor Authenication is now required for off-campus access to the application portal. Have you registered a second factor yet? For video tutorials and documentation, visit 2-Factor Authentication. 
+Information and cyber security is one of the highest priority items for OIT. Now more than ever, must be aware of malicious attacks to steal their identity and their data. Check out the IT blog to learn more about how IT Protects! 
+What is Phishing? And how to avoid being phished!
+ 
+
+
+
+
+
+
+          IT Policies
+  
+
+
+
+
+
+
+
+
+
+Cloud Storage
+Computer Policy for Faculty and Staff
+Electronic Communications and IT Policy
+Email and Network Account Policy
+IT Data and Security Privacy Policy
+Password Requirements for OIT Support
+
+Complete list of IT Policies and Procedures
+
+
+
+
+
+
+          Useful links
+  
+
+
+
+
+
+
+
+
+
+Staff Tools siteThe Staff Tools site is a respository of content for STAFF ONLY. Links to various departmental forms and information is available. 
+Faculty & Staff GatewayMake this your "start" page for convenient access to commonly used web pages, campus messages, campus calendar feed and more.
+Initiate a support request online by clicking on the IT Support Portal app in OneLogin. 
+
+Click on the Service Catalog
+Report an Issue
+Once an incident has been created, you may check the status by clicking on "My Items"
+
+
+Want to drop us a note or suggestion, or perhaps you are unable to login? Report an Issue (no login required)
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Muhlenberg College
+
+
+
+
+
+
+
+
+
+
+Muhlenberg College
+2400 Chew St.
+Allentown, 
+PA
+18104
+
+
+
+
+
+
+
+484-664-3100
+
+
+
+
+
+
+
+
+Maps & Directions
+
+
+
+
+
+Accessibility
+
+
+
+
+
+Library
+
+
+
+
+Title IX
+
+
+
+
+
+Employment
+
+
+
+
+
+A-Z Index
+
+
+
+
+
+Conference & Event Services
+
+
+
+
+
+Diversity & Inclusion
+
+
+
+
+
+
+Weather Update
+
+
+
+
+
+
+
+
+Social
+
+
+
+
+
+
+
+
+Facebook
+
+
+
+
+
+
+
+
+Instagram
+
+
+
+
+
+
+
+
+Twitter
+
+
+
+
+
+
+
+
+YouTube
+
+
+
+
+
+
+
+
+LinkedIn
+
+
+
+
+
+
+
+
+							©
+													
+ Muhlenberg College
+
+
+
+
+
+
+
+
+
+
+
+Muhlenburg College
+
+
+
+
+
+
+
+
+
+
+Search
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Who We Are
+
+
+
+
+
+
+
+
+
+
+
+Diversity and Inclusion
+
+
+
+
+Institutional Initiatives
+
+
+
+
+Office of the President
+
+
+
+
+College History
+
+
+
+
+Campus Map
+
+
+
+
+Directory Search
+
+
+
+
+
+
+Admissions
+
+
+
+
+
+
+
+
+
+
+
+Explore Your Visit Options
+
+
+
+
+Early Decision
+
+
+
+
+Regular Decision
+
+
+
+
+Transfer Students
+
+
+
+
+International Students
+
+
+
+
+Adult Accelerated & Evening Programs
+
+
+
+
+Graduate Studies
+
+
+
+
+Tuition and Fees
+
+
+
+
+Financial Aid
+
+
+
+
+First-Year Experience
+
+
+
+
+
+
+Academics
+
+
+
+
+
+
+
+
+
+
+
+Majors, Minors & Certifications
+
+
+
+
+Adult Accelerated & Evening Programs
+
+
+
+
+Summer Study
+
+
+
+
+Graduate Programs
+
+
+
+
+Preprofessional Programs
+
+
+
+
+Academic Partnerships
+
+
+
+
+Honors Programs
+
+
+
+
+Global Education
+
+
+
+
+Our Faculty
+
+
+
+
+Research & Scholarship
+
+
+
+
+
+
+Student Life
+
+
+
+
+
+
+
+
+
+
+
+Housing
+
+
+
+
+Dining
+
+
+
+
+Getting Involved
+
+
+
+
+Athletics
+
+
+
+
+Student Services
+
+
+
+
+Health & Wellness
+
+
+
+
+Religious & Spiritual Life
+
+
+
+
+
+
+Powerful Outcomes
+
+
+
+
+
+
+
+
+
+
+
+The Career Center
+
+
+
+
+Fellowships & Postgraduate Awards
+
+
+
+
+The Muhlenberg Network
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Visit
+
+
+
+
+
+
+
+
+
+Apply
+
+
+
+
+
+
+
+
+
+Request Info
+
+
+
+
+
+
+
+
+
+Give
+
+
+
+
+
+
+
+Info For:
+
+
+
+
+Current Students
+
+
+
+
+
+Alumni & Friends
+
+
+
+
+
+Faculty & Staff
+
+
+
+
+
+Parents
+
+
+
+
+
+
+
+
+
+News
+
+
+
+
+
+Events
+
+
+
+
+
+Athletics
+
+
+
+
+Arts
+
+
+
+
+
+
+
+
+COVID-19 Info
+
+
+
+ 
+ 
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

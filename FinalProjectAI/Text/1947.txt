@@ -1,0 +1,813 @@
+
+
+
+
+
+
+
+Blog | Muhlenberg College
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Skip to Main Content
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Muhlenberg College
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Visit
+
+
+
+
+
+
+
+
+Apply
+
+
+
+
+
+
+
+
+Request Info
+
+
+
+
+
+
+
+
+
+Give
+
+
+
+
+
+
+
+
+
+Menu
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Home
+Muhlenberg College School of Continuing StudiesBlogBlog 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Blog
+
+
+
+
+
+
+
+
+
+
+
+
+
+Request Information
+Mission and History
+
+Undergraduate Studies Home
+
+Graduate Studies Home
+
+Transfer
+
+Staff Directory
+
+
+
+
+
+
+
+
+
+
+
+
+
+Home
+Muhlenberg College School of Continuing StudiesBlogBlog 
+
+
+
+
+
+
+
+
+
+
+
+Top 7 Data Analytics Careers With Six-Figure Earning Potential
+
+
+
+	 Friday, June 11, 2021  03:09 PM
+
+Big data is more than just a buzzword. Itâs something that almost every industry has in common these days. Businesses gather data from customer databases, mobile applications, social networks, business transactions, medical records and Internet of Things sensors. And while âbig dataâ means something different to each specific industry, every business needs someone who can take high volumes of data and turn it into insights that executives can use to make better decisions faster.
+Thatâs why data analytics remains a career where opportunities abound, even during a global pandemic. According to the career website Glassdoor, data scientist ranks No. 2 on the list of â50 Best Jobs in America for 2021.â An Analytics Insight survey conducted last year estimated that 3 million new job openings would be available in data science worldwide this year. And research compiled by the data skills platform Quanthub indicates that 39% of organizations list data science and analytics as an area they expect to have the most difficulty finding appropriate skillsets.
+In short, a career in data analytics gives you plenty of options, and professionals with masterâs degrees in areas such as applied analytics are qualified to take some of the best jobs available. Check out this list of the seven top data analytics careers with six-figure earning potential.
+1. Data warehouse manager. Average salary: $132,972
+All of that big data has to live somewhere. Most larger companies house their business intelligence data in a facility called a data warehouse. Data warehouse managers oversee the people who design, implement, maintain and support the data within that warehouse. They also oversee the design and creation of the data warehouseâs architecture. They evaluate performance and usage metrics, analyze data load and monitor the job usage of data. Data warehouse managers typically report to top management.
+2. Data Scientist. Average salary: $113,309
+Data scientists today will use emerging technologiesâincluding artificial intelligence and machine learningâto derive insights from multiple data streams. Theyâre considered a step above data analysts from a technical perspective. Data scientists will collect and clean data, build dashboards and reports, communicate results to business leaders and help them make better, faster decisions. They also may build new processes to model and mine data or develop new algorithms to create more accurate results.
+3. Data Architect. Average salary: $108,278
+In the same way traditional architects design and build houses, data architects design and build databases that store and process data efficiently and effectively. They are responsible for defining the structure, attributes and nomenclature of data elements. Data architects are strategic thinkers who oversee the acquisition, archiving and recovery of data. They also lead data access, ensuring the right areas within a business receive the right data.
+4. Quantitative Analyst. Average salary: $106,751
+Although most of the job categories on this list are universal across multiple industries, the quantitative analyst role is specific to finance and risk management. Often called âquants,â these analysts use data to help investment banks, asset managers, hedge funds, private equity firms and insurance companies find revenue-generating investment opportunities and manage risk. Quantitative analysts may work for one organization or may open their own firms.
+5. Database Manager. Average salary: $104,710
+While database architects design and build databases, database managers work with them to assist with the physical design and implementation of storage hardware and maintenance. Theyâre troubleshooters, finding any problems that occur within a database and fixing them. They also help organizations manage the shift of data from one database to another. Because they work with highly sensitive data, they must conduct themselves with high ethics. 
+6. Big Data Engineer. Average salary: $102,864
+This role is emerging within larger enterprises that have huge streams of dataâand need to make sense of it quickly. Companies rely on big data engineers to retrieve, interpret, analyze and report on business data that comes in from multiple sources. They will work with many different people on their team to ensure a companyâs overall data infrastructure can support both the volume of data and the speed at which that data can be gathered continuously (called real-time processing).
+7. Data Analytics Consultant. Average salary: $96,616
+While the average salary for a data analytics consultant is just a tick below six figures, note that itâs an average. This job also brings perksâincluding the opportunity to work remotely, a key differentiator in todayâs work-from-home environment. Data analytics consultants often work with several companies at once over shorter time periods, working on individual projects to help interpret data, tell a story with that data and deliver desired results.
+How do I compete for emerging big data jobs?
+The highest-paying jobs in data analytics most often require two thingsâhands-on experience with big data and a relevant masterâs degree. The Masterâs in Applied Analytics program at the Muhlenberg College School of Graduate Studies teaches students to find critical patterns within datasets, create data visualizations and effectively communicate results. Students in the two-year program will also complete a real-world data analysis project for a local not-for-profit organization, allowing them to gain valuable experience telling stories with data that they can add to their resumes. 
+Interested in learning more about the Muhlenberg College School of Graduate Studies?
+Set up an appointment with an advisor.
+
+
+
+About the Muhlenberg College School of Graduate StudiesThe Muhlenberg College School of Graduate Studies offers a variety of post-baccalaureate certificates and masterâs degrees aimed at enhancing intellectual and career development through challenging coursework grounded in the liberal arts. With a mix of graduate certificate pathways and masterâs degrees aligned with workforce and economic trends, the Muhlenberg College School of Graduate Studies enables students to prepare for professional work and career advancement, with a focus on leadership and innovation.
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Muhlenberg College
+
+
+
+
+
+
+
+
+
+
+Muhlenberg College
+2400 Chew St.
+Allentown, 
+PA
+18104
+
+
+
+
+
+
+
+484-664-3100
+
+
+
+
+
+
+
+
+Maps & Directions
+
+
+
+
+
+Accessibility
+
+
+
+
+
+Library
+
+
+
+
+Title IX
+
+
+
+
+
+Employment
+
+
+
+
+
+A-Z Index
+
+
+
+
+
+Conference & Event Services
+
+
+
+
+
+Diversity & Inclusion
+
+
+
+
+
+
+
+
+
+
+Social
+
+
+
+
+
+
+
+
+Facebook
+
+
+
+
+
+
+
+
+Twitter
+
+
+
+
+
+
+
+
+LinkedIn
+
+
+
+
+
+
+
+
+							©
+													
+ Muhlenberg College
+
+
+
+
+
+
+
+
+
+
+
+Muhlenburg College
+
+
+
+
+
+
+
+
+
+
+Search
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Who We Are
+
+
+
+
+
+
+
+
+
+
+
+Diversity and Inclusion
+
+
+
+
+Institutional Initiatives
+
+
+
+
+Office of the President
+
+
+
+
+College History
+
+
+
+
+Campus Map
+
+
+
+
+Directory Search
+
+
+
+
+
+
+Admissions
+
+
+
+
+
+
+
+
+
+
+
+Explore Your Visit Options
+
+
+
+
+Early Decision
+
+
+
+
+Regular Decision
+
+
+
+
+Transfer Students
+
+
+
+
+International Students
+
+
+
+
+Adult Accelerated & Evening Programs
+
+
+
+
+Graduate Studies
+
+
+
+
+Tuition and Fees
+
+
+
+
+Financial Aid
+
+
+
+
+First-Year Experience
+
+
+
+
+
+
+Academics
+
+
+
+
+
+
+
+
+
+
+
+Majors, Minors & Certifications
+
+
+
+
+Adult Accelerated & Evening Programs
+
+
+
+
+Summer Study
+
+
+
+
+Graduate Programs
+
+
+
+
+Preprofessional Programs
+
+
+
+
+Academic Partnerships
+
+
+
+
+Honors Programs
+
+
+
+
+Global Education
+
+
+
+
+Our Faculty
+
+
+
+
+Research & Scholarship
+
+
+
+
+
+
+Student Life
+
+
+
+
+
+
+
+
+
+
+
+Housing
+
+
+
+
+Dining
+
+
+
+
+Getting Involved
+
+
+
+
+Athletics
+
+
+
+
+Student Services
+
+
+
+
+Health & Wellness
+
+
+
+
+Religious & Spiritual Life
+
+
+
+
+
+
+Powerful Outcomes
+
+
+
+
+
+
+
+
+
+
+
+The Career Center
+
+
+
+
+Fellowships & Postgraduate Awards
+
+
+
+
+The Muhlenberg Network
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Visit
+
+
+
+
+
+
+
+
+Apply
+
+
+
+
+
+
+
+
+Request Info
+
+
+
+
+
+
+
+
+
+Give
+
+
+
+
+
+
+
+Info For:
+
+
+
+
+Current Students
+
+
+
+
+
+Alumni & Friends
+
+
+
+
+
+Faculty & Staff
+
+
+
+
+
+Parents
+
+
+
+
+
+
+
+
+
+News
+
+
+
+
+
+Events
+
+
+
+
+
+Athletics
+
+
+
+
+Arts
+
+
+
+
+
+
+ 
+ 
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

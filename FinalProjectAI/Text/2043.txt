@@ -1,0 +1,888 @@
+
+
+
+
+
+
+
+RET CP Project | Muhlenberg College
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Skip to Main Content
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Muhlenberg College
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Visit
+
+
+
+
+
+
+
+
+
+Apply
+
+
+
+
+
+
+
+
+
+Request Info
+
+
+
+
+
+
+
+
+
+Give
+
+
+
+
+
+
+
+
+
+Menu
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Home
+AcademicsMajors, Minors & CertificationsBiologyPlant-Insect Interactions NSFResources for EducatorsRET CP Project 
+
+
+
+
+
+
+RET CP Project
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+RET CP Project
+
+
+
+
+
+
+
+
+
+
+
+RET Beth ChartRET Beth ProjectCreating a ChartRET CP DataRET CP ProjectRET Dan DataRET Dan ProjectRET Emily ProjectRET Epimecis HortarisRET Field StudyRET GraphLindera BenzoinRET LinksRET MetricsNematode LessonRET Scientific MethodRET Sean ChartRET Sean DataRET Sean ProjectRET Shauna ProjectSticky Card LessonRET Sticky CardsRET Sticky Cards (cont'd)RET Student ProjectsRET StudentsRET Teachers
+
+
+
+
+
+
+
+
+
+
+
+Home
+AcademicsMajors, Minors & CertificationsBiologyPlant-Insect Interactions NSFResources for EducatorsRET CP Project 
+
+
+
+
+
+
+
+
+
+
+
+
+
+Induced Defense (How Spicebush Fights Back)
+(Induced defense in Lindera benzoin)
+
+The purpose of this experiment is to determine if spicebush (Lindera benzoin) exhibits induced defense characteristics and to see if these characteristics vary with light environment.
+STATE THE PROBLEM :
+The ability of a plant to defend itself from herbivores (caterpillars) seems to vary based on the number of resources (water, light, nitrogen) available to it.
+MAKE OBSERVATIONS:
+
+Plants in the shade appear to be slightly less healthy than the plants sun therefore they do not have noticeable defenses all the time.
+
+
+Plants in the sun appear to be very healthy and can afford to use energy towards always defending themselves whether there is an herbivore (caterpillar) present or not.
+
+Background Information (What questions were you trying to answer?):
+
+Is induced defense a set of characteristics expressed by plants that increase their ability to survive when herbivores (caterpillars) are present?
+
+
+Why do plants in different environments have different levels of defense?
+
+
+Is there a different in the ability of a plant to defend itself from damage based on how many resources (water, nitrogen, sun, etc.) it has available?
+
+FORM A HYPOTHESIS :
+
+It is expected that spicebush will fight back harder in shaded environments because in the shade, plants are resource limited (light is less available), which would require the plant to only display defense characteristics when herbivores (caterpilars) are present.
+
+EXPERIMENT:
+Materials:
+
+field site where spicebush grows
+32 spicebush plants (16 in sun/ 16 in shade)
+32 net bags
+32 large binder clips
+scissors
+40 caterpillars (Epimecis hortaria)
+jasmonic acid
+spray bottle
+32 aluminum tree tags
+flagging tape
+measuring tape
+balance
+32 small petri dishes
+
+Method:
+
+Choose four locations in the field where spicebush grows on the edge of the forest in the sun and in the forest where there is shade. Make sure these plants are fairly close together.
+You will need to mark off 2 transects (straight line of plants) per location. One in the sun and one in the shade. Each transect will have four plants. To mark your transects:
+Choose a spicebush plant to start with.
+Choose a branch on the plant that looks healthy.
+Label it at the base with an aluminum tree tag that has your name and identifying number for that plant. Also tie flagging tape to the branch so it is easier to see.
+From your starting plant, walk a straight line. Every 3m stop and label the closest spicebush as you did above.
+Each transect should have 4 plants labeled.
+
+At each transect you will need to treat the 4 plants differently.
+One plant will need to be left as is to be the control.
+One plant will need to have the branch sprayed with jasmonic acid until it is dripping from the branch.
+One plant will need to have an Epimecis caterpillar placed on the branch.
+One plant will need to have the leaves cut with scissors.
+
+Place a net bag on the branch of each spicebush plant that was just labeled and treated. Secure the bag with a large binder clip.
+Allow the branch to set with the treatment for one week.
+On the 6th day of your experiment, you will need to take your 32 remaining caterpillars and starve them in the lab.(This should be done first thing in the morning) Place each caterpillar in a small petri dish and do not provide it with any food for one day.
+The next morning, each caterpillar should be weighed and that weight should be recorded.
+You will then need to take your caterpillars to your field sites.
+Remove the caterpillars that are already on the branches in each transect.
+Place one of the starved caterpillars in each net bag so that every netted branch has a caterpillar. Be sure to label which caterpillar is on which branch to match weights later.
+Allow the starved caterpillars to feed on the leaves for one week.
+Recollect the caterpillars and bring them back to the lab at the end of one week.
+Re-weigh the caterpillars and compare their new weights to the old. Record all data.
+
+ 
+Example of a Graph
+
+ 
+DRAW A CONCLUSION :
+Analysis of Data:
+The data will be analyzed using a computer program, Microsoft Excel, to determine if there is any relationshio between caterpillar weight gain, amount of the leaf eaten, and light environment across treatments.
+Conclusion:
+The hypothesis that shade spicebush will fight back harder against herbivores (caterpillars) was proven to be incorrect. There was no obviouse difference in the amount of spicebush consumed (eaten) by the Epimecis on the sun plants versus the shade plants. There was also no major difference within the treatments (cutting/ caterpillar/ jasmonic acid). This could be due to the loss of caterpillars during the experiment.
+ 
+Return to Student Project Page
+Return to NSF-RET Homepage
+ 
+This material is based upon work supported by the National Science Foundation under Grant No. 0442049.
+Any opinions, findings, and conclusions or recommendations expressed in this material are those of the author(s) and do not necessarily reflect the views of the National Science Foundation.
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Muhlenberg College
+
+
+
+
+
+
+
+
+
+
+Muhlenberg College
+2400 Chew St.
+Allentown, 
+PA
+18104
+
+
+
+
+
+
+
+484-664-3100
+
+
+
+
+
+
+
+
+Maps & Directions
+
+
+
+
+
+Accessibility
+
+
+
+
+
+Library
+
+
+
+
+Title IX
+
+
+
+
+
+Employment
+
+
+
+
+
+A-Z Index
+
+
+
+
+
+Conference & Event Services
+
+
+
+
+
+Diversity & Inclusion
+
+
+
+
+
+
+Weather Update
+
+
+
+
+
+
+
+
+Social
+
+
+
+
+
+
+
+
+Facebook
+
+
+
+
+
+
+
+
+Instagram
+
+
+
+
+
+
+
+
+Twitter
+
+
+
+
+
+
+
+
+YouTube
+
+
+
+
+
+
+
+
+LinkedIn
+
+
+
+
+
+
+
+
+							©
+													
+ Muhlenberg College
+
+
+
+
+
+
+
+
+
+
+
+Muhlenburg College
+
+
+
+
+
+
+
+
+
+
+Search
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Who We Are
+
+
+
+
+
+
+
+
+
+
+
+Diversity and Inclusion
+
+
+
+
+Institutional Initiatives
+
+
+
+
+Office of the President
+
+
+
+
+College History
+
+
+
+
+Campus Map
+
+
+
+
+Directory Search
+
+
+
+
+
+
+Admissions
+
+
+
+
+
+
+
+
+
+
+
+Explore Your Visit Options
+
+
+
+
+Early Decision
+
+
+
+
+Regular Decision
+
+
+
+
+Transfer Students
+
+
+
+
+International Students
+
+
+
+
+Adult Accelerated & Evening Programs
+
+
+
+
+Graduate Studies
+
+
+
+
+Tuition and Fees
+
+
+
+
+Financial Aid
+
+
+
+
+First-Year Experience
+
+
+
+
+
+
+Academics
+
+
+
+
+
+
+
+
+
+
+
+Majors, Minors & Certifications
+
+
+
+
+Adult Accelerated & Evening Programs
+
+
+
+
+Summer Study
+
+
+
+
+Graduate Programs
+
+
+
+
+Preprofessional Programs
+
+
+
+
+Academic Partnerships
+
+
+
+
+Honors Programs
+
+
+
+
+Global Education
+
+
+
+
+Our Faculty
+
+
+
+
+Research & Scholarship
+
+
+
+
+
+
+Student Life
+
+
+
+
+
+
+
+
+
+
+
+Housing
+
+
+
+
+Dining
+
+
+
+
+Getting Involved
+
+
+
+
+Athletics
+
+
+
+
+Student Services
+
+
+
+
+Health & Wellness
+
+
+
+
+Religious & Spiritual Life
+
+
+
+
+
+
+Powerful Outcomes
+
+
+
+
+
+
+
+
+
+
+
+The Career Center
+
+
+
+
+Fellowships & Postgraduate Awards
+
+
+
+
+The Muhlenberg Network
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Visit
+
+
+
+
+
+
+
+
+
+Apply
+
+
+
+
+
+
+
+
+
+Request Info
+
+
+
+
+
+
+
+
+
+Give
+
+
+
+
+
+
+
+Info For:
+
+
+
+
+Current Students
+
+
+
+
+
+Alumni & Friends
+
+
+
+
+
+Faculty & Staff
+
+
+
+
+
+Parents
+
+
+
+
+
+
+
+
+
+News
+
+
+
+
+
+Events
+
+
+
+
+
+Athletics
+
+
+
+
+Arts
+
+
+
+
+
+
+
+
+COVID-19 Info
+
+
+
+ 
+ 
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

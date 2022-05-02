@@ -1,0 +1,557 @@
+
+
+
+
+Licensed to Fraulo Race Timing - Contractor License
+                                       HY-TEK's Meet Manager 1/25/2013 09:37 PM
+                2013 Muhlenberg Indoor Invitational - 1/25/2013                
+                       Muhlenberg College, Allentown,PA                        
+                                    Results                                    
+ 
+Event 1  Boys Pole Vault
+=========================================================================
+    Name                    Year School                  Seed     Finals 
+=========================================================================
+Finals
+  1       Hellings, Ryan         Muhlenberg             4.14m      4.11m  
+     3.20 3.35 3.50 3.66 3.81 3.96 4.11 4.27 
+        P    P    P    P    O   XO    O  XXX 
+  2       Orzol, Lee             DeSales                4.25m      3.96m  
+     3.20 3.35 3.50 3.66 3.81 3.96 4.11 
+        P    P    P    O    O    O  XXX 
+  3       Mathias, Adam          DeSales                4.00m     J3.96m  
+     3.20 3.35 3.50 3.66 3.81 3.96 4.11 
+        P    P    O    O  XXO    O  XXX 
+  4       Miller-Sobel, Jaco     Muhlenberg             3.66m      3.35m  
+     3.20 3.35 3.50 
+        O    O  XXX 
+ 
+Event 2  Girls Pole Vault
+=========================================================================
+    Name                    Year School                  Seed     Finals 
+=========================================================================
+  1       Saucier, Erin          Muhlenberg             3.35m      3.30m  
+     2.14 2.29 2.44 2.59 2.75 2.90 3.05 3.20 3.30 
+        P    P    P    P    P    P    O   XO    O 
+  2       Schmidt, Chelsea       DeSales                3.00m      2.75m  
+     2.14 2.29 2.44 2.59 2.75 2.90 
+        P    P    P    P    O  XXX 
+  3       Faust, Katrina         Muhlenberg             2.45m      2.44m  
+     2.14 2.29 2.44 2.59 
+        P    O   XO  XXX 
+  4       Rubenstein, Jamie      Muhlenberg             2.14m      2.14m  
+     2.14 2.29 
+        O  XXX 
+  5       Roberts, Brittany      Delaware Val           2.29m     J2.14m  
+     2.14 2.29 
+       XO  XXX 
+ --       Biondi, Breanne        Muhlenberg             2.74m         NH  
+     2.14 2.29 
+        P  XXX 
+ 
+Event 3  Girls High Jump
+=========================================================================
+    Name                    Year School                  Seed     Finals 
+=========================================================================
+  1       Faust, Colette         Muhlenberg             1.58m      1.52m  
+     1.27 1.32 1.37 1.42 1.47 1.52 
+        P    P    P    O    O    O 
+  2       Faust, Katrina         Muhlenberg             1.42m      1.42m  
+     1.27 1.32 1.37 1.42 1.47 
+        P    P    O    O  XXX 
+  3       Hull, Angelica         Albright               1.47m     J1.42m  
+     1.27 1.32 1.37 1.42 1.47 
+        P    O   XO    O  XXX 
+  4       Wojtkowski, Amber      Muhlenberg             1.39m      1.27m  
+     1.27 1.32 
+        O  XXX 
+ 
+Event 4  Boys High Jump
+=========================================================================
+    Name                    Year School                  Seed     Finals 
+=========================================================================
+  1       Tauber, Brandon        Muhlenberg             1.75m      1.80m  
+     1.60 1.65 1.70 1.75 1.80 1.85 
+        O    O    O   XO    O  XXX 
+  2       Bailey, Rasheed        Delaware Val           1.73m      1.75m  
+     1.60 1.65 1.70 1.75 1.80 
+       XO    O   XO    O  XXX 
+  3       Knight, James          Muhlenberg             1.75m      1.70m  
+     1.60 1.65 1.70 1.75 
+        O    O   XO  XXX 
+  4       Hellings, Ryan         Muhlenberg             1.65m      1.65m  
+     1.60 1.65 1.70 
+        O    O  XXX 
+  5       Johnson, Dalton        DeSales                1.67m     J1.65m  
+     1.60 1.65 1.70 
+       XO   XO  XXX 
+  6       Sikanowicz, Zach       DeSales                           1.60m  
+     1.60 1.65 
+        O  XXX 
+ --       Parisi, Tyler          DeSales                1.80m         NH  
+     1.60 1.65 
+        P  XXX 
+ --       Smith, Greyson         Delaware Val                         NH  
+     1.60 
+      XXX 
+ 
+Event 5  Girls Long Jump
+=========================================================================
+    Name                    Year School                  Seed     Finals 
+=========================================================================
+  1       Riley, Ashley          Muhlenberg             4.87m      4.77m  
+      4.77m  FOUL  FOUL  4.55m  4.63m  FOUL
+  2       Nassar, Ronya          Albright               4.57m      4.66m  
+      4.47m  FOUL  4.66m  FOUL  4.56m  4.49m
+  3       Brennan, Amanda        Muhlenberg             5.08m      4.50m  
+      4.40m  4.50m  4.43m  4.31m  FOUL  4.15m
+ 
+Event 6  Boys Long Jump
+=========================================================================
+    Name                    Year School                  Seed     Finals 
+=========================================================================
+  1       Vincent, Lewis         Delaware Val           6.17m      6.34m  
+      5.92m  6.01m  5.80m  6.17m  6.16m  6.34m
+  2       Johnson, Dalton        DeSales                5.80m      5.78m  
+      5.07m  5.25m  5.45m  5.62m  5.78m  5.69m
+  3       Reutter, Scott         Muhlenberg             5.49m      5.73m  
+      5.44m  5.72m  5.73m  5.46m  5.43m  5.44m
+  4       Rosario, Greg          Delaware Val                      5.65m  
+      5.44m  5.65m  FOUL  4.89m  FOUL  FOUL
+  5       Esterly, Brandon       DeSales                5.88m      5.61m  
+      5.61m  5.60m  5.52m  FOUL  FOUL  FOUL
+  6       Parisi, Tyler          DeSales                5.80m      5.32m  
+      5.01m  5.32m  5.26m  FOUL  FOUL  FOUL
+  7       Spells, Brian          Albright               5.18m      5.31m  
+      FOUL  FOUL  5.31m           
+  8       Smith, Greyson         Delaware Val           5.70m      5.27m  
+      5.21m  FOUL  5.27m           
+  9       Smith, Naeem           Albright               5.63m      5.09m  
+      5.09m  FOUL  5.01m           
+ 10       Lusk, Brady            Stevenson              4.52m      4.75m  
+      4.24m  4.55m  4.75m           
+ 
+Event 7  Girls Triple Jump
+=========================================================================
+    Name                    Year School                  Seed     Finals 
+=========================================================================
+  1       Riley, Ashley          Muhlenberg            10.00m     10.06m  
+      9.93m  10.06m  9.63m  FOUL  9.68m  9.30m
+  2       Nassar, Ronya          Albright               8.83m      9.23m  
+      8.87m  FOUL  9.23m  9.02m  FOUL  9.22m
+ 
+Event 8  Boys Triple Jump
+=========================================================================
+    Name                    Year School                  Seed     Finals 
+=========================================================================
+  1     1 Brookland, Marc        Unattached                       12.70m  
+      FOUL  12.70m  FOUL  FOUL  FOUL  FOUL
+  2       Smith, Greyson         Delaware Val          12.00m     11.96m  
+      11.72m  FOUL  11.81m  FOUL  FOUL  11.96m
+  3       Esterly, Brandon       DeSales               12.21m     11.93m  
+      11.91m  11.93m  FOUL  FOUL  11.69m  FOUL
+ 
+Event 9  Girls Shot Put
+=========================================================================
+    Name                    Year School                  Seed     Finals 
+=========================================================================
+  1       Appiah-Padi, Maafi     Goucher               10.25m     10.68m  
+      9.41m  10.62m  10.68m  10.32m  10.07m  9.77m
+  2       King, Samantha         Delaware Val           9.63m     10.33m  
+      10.07m  10.33m  10.18m  9.12m  10.01m  10.07m
+  3       McCardle, Teagan       Delaware Val           9.71m     10.25m  
+      9.45m  8.71m  9.50m  9.05m  9.39m  10.25m
+  4       Wallace, Sherrie       Stevenson              8.97m      9.77m  
+      8.69m  9.15m  9.60m  8.25m  9.68m  9.77m
+  5       Reid, Amanda           Delaware Val           9.37m      9.71m  
+      9.48m  9.06m  9.15m  9.16m  9.48m  9.71m
+  6       Boyle, EmmaRose        Delaware Val           9.26m      9.51m  
+      8.96m  9.51m  9.00m  8.78m  7.78m  8.36m
+  7       Thimmel, Jessica       Muhlenberg             9.27m      9.19m  
+      9.08m  8.92m  8.72m  FOUL  9.19m  FOUL
+  8       Wallace, Cora          Muhlenberg             9.01m      9.00m  
+      8.96m  8.76m  8.96m  8.34m  8.09m  9.00m
+  9       Briscoe, Brittany      Stevenson              9.15m      8.40m  
+      7.56m  7.98m  8.40m  8.16m  8.11m  8.17m
+ 10       Quinn, Kerry           Delaware Val                      8.30m  
+      7.87m  7.96m  8.30m         
+ 11       Rain, Victoria         Goucher                           7.44m  
+      7.44m  7.17m  7.04m         
+ 12       Nassar, Ronya          Albright               7.31m      6.82m  
+      5.99m  6.82m  FOUL         
+ 
+Event 10  Boys Shot Put
+=========================================================================
+    Name                    Year School                  Seed     Finals 
+=========================================================================
+  1       Hart, Ryan             DeSales               14.30m     14.10m  
+      12.55m  13.73m  12.87m  FOUL  14.10m  12.58m
+  2       Kulhamer, Justin       DeSales               13.80m     13.93m  
+      FOUL  11.86m  13.92m  FOUL  13.93m  FOUL
+  3       Lawler, Rob            DeSales               14.00m     12.91m  
+      FOUL  12.82m  FOUL  FOUL  FOUL  12.91m
+  4       Hamden, Rami           Muhlenberg            12.78m     12.54m  
+      12.54m  12.08m  12.22m  12.09m  11.95m  12.22m
+  5       Ware, Jesse            Delaware Val          12.17m     12.50m  
+      10.94m  12.50m  12.00m  FOUL  11.72m  FOUL
+  6       Gamrat, Jim            Muhlenberg            11.84m     11.72m  
+      10.36m  11.67m  9.71m  11.10m  10.46m  11.72m
+  7       Cano, Daniel           Muhlenberg            11.27m     11.22m  
+      10.53m  FOUL  FOUL  FOUL  11.22m  10.91m
+  8       Byrne, Chris           Goucher                9.21m     10.86m  
+      8.92m  8.75m  FOUL  10.86m  8.24m  7.85m
+  9       Parker, Marvin         Delaware Val          10.50m     10.74m  
+      10.74m  9.97m  FOUL  9.74m  10.00m  10.22m
+ 10       Ribeiro, Christian     Goucher                8.00m      6.51m  
+      6.21m  6.51m  4.90m            
+ 
+Event 11  Girls 1 Mile Run
+=========================================================================
+    Name                    Year School                  Seed     Finals 
+=========================================================================
+  1       Tramontina, Melani     Muhlenberg           5:30.24    5:28.90  
+  2       Currier, Katherine     Goucher              5:40.00    5:33.66  
+  3       Curry, Jessica         DeSales              5:40.00    5:33.73  
+  4       Guth, Cara             DeSales              5:40.00    5:38.43  
+  5       Braun, Sarah           DeSales              6:00.00    5:58.20  
+  6       Hawkins, Shanna        Albright             6:00.00    6:01.96  
+  7       Churchman, Stephan     DeSales              6:30.00    6:10.60  
+  8       Malkin, Zoe            Goucher              6:00.00    6:13.65  
+  9       Barkus, Michelle       DeSales              6:45.00    6:14.09  
+ 10       pruzinsky, amanda      DeSales              6:20.00    6:20.97  
+ 11       Sheard, Tamahra        Albright             6:00.00    6:21.96  
+ 12       Glen, Brianna          Stevenson            6:53.08    6:28.33  
+ 13       Pardus, Sarah          Goucher              6:00.00    6:28.72  
+ 14       Valentin, Taylor       DeSales              6:10.00    6:32.18  
+ 15       Cherry, Christine      Goucher              6:10.00    6:32.63  
+ 16       Myles, Samantha        DeSales              6:30.00    6:33.47  
+ 17       Haynes, Samantha       Albright             6:40.00    6:34.51  
+ 18       Augustson, Haley       Goucher                         6:41.96  
+ 19       costello, colleen      DeSales              6:35.00    6:48.59  
+ 20       Staab, Shea            Goucher              5:58.49    7:03.53  
+ 
+Event 12  Boys 1 Mile Run
+=========================================================================
+    Name                    Year School                  Seed     Finals 
+=========================================================================
+  1       Noll, Nate             DeSales              4:33.00    4:39.82  
+  2       Haines, Tim            DeSales              4:40.00    4:48.00  
+  3       Klinges, Henry         DeSales              4:39.27    4:48.74  
+  4       Monaghan, Stephen      DeSales              4:45.00    4:55.55  
+  5       Foley, Connor          DeSales              4:56.00    4:56.86  
+  6       Manta, Nick            Goucher              4:49.11    4:58.59  
+  7       Lifman, Zach           Muhlenberg           5:10.24    4:59.23  
+  8       Guth, Ryan             DeSales              4:57.00    5:02.97  
+  9       Panella, Brian         DeSales              4:57.10    5:06.05  
+ 10       Dupre, David           Albright             5:09.00    5:08.18  
+ 11       Michell, Mike          DeSales              5:00.00    5:09.06  
+ 12       Welker, Craig          Muhlenberg           5:05.95    5:09.19  
+ 13       Van Doran, Stephen     DeSales              4:50.00    5:14.38  
+ 14       Marcotte, Samuel       Albright             5:00.00    5:15.43  
+ 15       Doll, Jason            Delaware Val         5:00.00    5:25.40  
+ 16       Ferguson, Thomas       Stevenson            5:31.07    5:32.36  
+ 17       Janasek, Tj            Stevenson            5:34.27    5:36.13  
+ 18       Melick, Grier          Stevenson            5:43.17    5:44.10  
+ 19       Rhoads, Deege          Stevenson            5:33.27    5:46.91  
+ 20       Henderson, Richard     Stevenson            5:49.11    5:52.44  
+ 21       Swirdovich, Sam        Stevenson            6:42.57    6:42.41  
+ 
+Event 13  Girls 55 Meter Hurdles
+============================================================================
+    Name                    Year School                  Seed     Finals  H#
+============================================================================
+  1       Carnevale, Stephan     Muhlenberg              8.80       8.47   1 
+  2       Wojtkowski, Amber      Muhlenberg              9.37       8.89   1 
+  3       Kellon, Jaclyn         Goucher                 9.80       9.43   2 
+  4       Faust, Katrina         Muhlenberg              9.57       9.60   2 
+  5       Granger, Danielle      Goucher                10.00      10.19   2 
+  6       Brandt, Alyssa         DeSales                 9.48      10.23   1 
+  7       Correa, Stephanie      Goucher                10.50      10.32   3 
+  8       saylor, Chelsea        DeSales                 9.68      10.47   1 
+  9       McSwain, Jazmine       Stevenson                         10.60   3 
+ 10       Porter, Jewell         Goucher                           11.46   3 
+ 
+Event 14  Boys 55 Meter Hurdles
+============================================================================
+    Name                    Year School                  Seed     Finals  H#
+============================================================================
+  1       Jokic, Stephan         DeSales                 8.50       8.14   1 
+  2       Knight, James          Muhlenberg              8.62       8.54   1 
+  2       Orzol, Lee             DeSales                 8.77       8.54   2 
+  4       Rosario, Greg          Delaware Val            8.58       8.60   1 
+  5       Reutter, Scott         Muhlenberg              8.79       8.85   2 
+  6       Taylor, Dan            DeSales                 9.10      10.13   2 
+ 
+Event 15  Girls 55 Meter Dash
+============================================================================
+    Name                    Year School                  Seed     Finals  H#
+============================================================================
+  1       Higgs, Danisha         Albright                7.29       7.42   1 
+  2       Smith, Kamillah        Goucher                 7.83       7.48   1 
+  3       Carnevale, Stephan     Muhlenberg              7.85       7.63   2 
+  4       Diffenderfer, Katl     DeSales                 7.78       7.72   1 
+  5       Kutz, Taylor           Albright                7.91       7.77   2 
+  6       Kuchera, Kirsten       Muhlenberg              7.85       7.96   1 
+  7       Keegan, Tara           Muhlenberg              7.88       7.97   2 
+  8       Wojtkowski, Amber      Muhlenberg              8.01       8.01   4 
+  9       Chambers, Vanessa      Muhlenberg              7.98       8.02   3 
+ 10       Rivera, Carie          Albright                7.94       8.08   2 
+ 11       Pisani, Nicole         Muhlenberg              7.95       8.10   3 
+ 12       Adutwum, Josephine     Stevenson                          8.16   5 
+ 13       Olcheski, Shea         Albright                8.13       8.18   3 
+ 14       Nassar, Ronya          Albright                8.25       8.22   4 
+ 15       Miller, Amanda         DeSales                 8.30       8.23   4 
+ 16       Delmonte, Taylor       DeSales                 8.50       8.34   5 
+ 17       Brennan, Amanda        Muhlenberg              8.01       8.39   4 
+ 18       rutherford, emily      DeSales                 9.06       8.80   5 
+ 
+Event 16  Boys 55 Meter Dash
+============================================================================
+    Name                    Year School                  Seed     Finals  H#
+============================================================================
+  1       Carter, Brian          Delaware Val            6.59       6.57   1 
+  2       Vaughn, Isaiah         Muhlenberg              6.65       6.66   1 
+  3       Vincent, Lewis         Delaware Val            6.60       6.73   1 
+  4       Potter, Sean           Albright                6.79       6.75   1 
+  5       Evans III, William     Goucher                 6.80       6.76   2 
+  6       Ingalls, Braheem       DeSales                 7.10       6.92   3 
+  7       Diawara, Oumar         Albright                7.50       7.02   5 
+  8       Spells, Brian          Albright                7.00       7.03   3 
+  8       Jalloh, Alpha          Stevenson                          7.03   6 
+ 10       Crachi, Nico           DeSales                 7.20       7.09   4 
+ 11       Byrum, Zachary         Goucher                 7.20       7.10   3 
+ 12       Keri, Carl             DeSales                 6.92       7.13   2 
+ 13       Smith, Naeem           Albright                7.30       7.14   4 
+ 14       DePinto, Ryan          DeSales                 6.97       7.15   2 
+ 15       Reutter, Scott         Muhlenberg              7.07       7.21   3 
+ 16       Esterly, Brandon       DeSales                 7.20       7.31   4 
+ 17       Ashton, Ed             DeSales                            7.74   6 
+ 18       Spaide, Tyreek         Albright                7.71       7.88   5 
+ 19       McBurrows, Khalif      Delaware Val            7.30       8.19   5 
+ 
+Event 17  Girls 800 Meter Run
+=========================================================================
+    Name                    Year School                  Seed     Finals 
+=========================================================================
+  1       Sahl, Cassiah          Muhlenberg           2:32.24    2:33.20  
+  2       Vazzana, Caroline      Albright             2:30.00    2:37.72  
+  3       Guth, Cara             DeSales              2:40.00    2:38.32  
+  4       Curry, Jessica         DeSales              2:40.00    2:40.43  
+  5       Doss, Rebecca          Muhlenberg           2:32.24    2:41.45  
+  6       Swasey, Krystal        Albright             2:47.00    2:44.49  
+  7       Yarmus, Hallie         Goucher              3:00.00    2:48.78  
+  8       Hawkins, Shanna        Albright             2:45.00    2:49.44  
+  9       Barkus, Michelle       DeSales              3:08.70    2:51.02  
+ 10       pruzinsky, amanda      DeSales              3:08.71    2:56.49  
+ 11       Myles, Samantha        DeSales              2:50.00    2:57.74  
+ 12       Bortnick, Laura        Muhlenberg           2:59.24    2:57.82  
+ 13       Glen, Brianna          Stevenson                       3:02.92  
+ 14       Valentin, Taylor       DeSales              2:48.00    3:02.99  
+ 15       costello, colleen      DeSales              3:10.00    3:08.01  
+ 16       Castle-Miller, Hal     Goucher                         3:08.30  
+ 
+Event 18  Boys 800 Meter Run
+=========================================================================
+    Name                    Year School                  Seed     Finals 
+=========================================================================
+  1       Weiner, Alex           Muhlenberg           2:04.24    2:02.60  
+  2       Newcomb, Kieran        Muhlenberg           2:03.24    2:04.39  
+  3       Rennals, Scott         DeSales              2:04.00    2:04.65  
+  4       Kentwell, Forrest      Muhlenberg           2:09.24    2:07.85  
+  5       McMillan, Andrew       Delaware Val         2:12.00    2:08.79  
+  6       Drastura, Kevin        DeSales              2:12.00    2:10.08  
+  7       Dusza, Dave            DeSales              2:08.00    2:11.09  
+  8       McGuire, Tom           Muhlenberg           2:09.24    2:11.98  
+  9       Piazza, Nick           DeSales              2:10.00    2:15.13  
+ 10       Klinges, Henry         DeSales              2:05.00    2:18.11  
+ 11       Beard, Chris           Delaware Val         2:17.00    2:21.94  
+ 12       Henderson, Richard     Stevenson                       2:27.57  
+ 13       Ferguson, Thomas       Stevenson                       2:29.87  
+ 14       Melick, Grier          Stevenson            2:34.80    2:32.50  
+ 15       Janasek, Tj            Stevenson            2:36.31    2:39.00  
+ 16       Rhoads, Deege          Stevenson            2:23.44    2:42.24  
+ 17       Swirdovich, Sam        Stevenson                       3:13.45  
+ 
+Event 19  Girls 400 Meter Dash
+============================================================================
+    Name                    Year School                  Seed     Finals  H#
+============================================================================
+  1       Thorton, Claire        Muhlenberg           1:03.24    1:03.98   3 
+  2       Kuchera, Kirsten       Muhlenberg           1:02.24    1:04.82   1 
+  3       Keegan, Tara           Muhlenberg           1:04.24    1:05.31   2 
+  4       Daniels, Alexandra     Muhlenberg           1:03.24    1:05.40   1 
+  5       Aldrich, Francesca     Muhlenberg           1:06.24    1:08.52   3 
+  6       Pisani, Nicole         Muhlenberg           1:05.24    1:11.63   2 
+  7       Porter, Jewell         Goucher              1:10.48    1:12.50   1 
+  8       Braun, Sarah           DeSales                         1:13.79   1 
+  9       Griffin, Ryane         Stevenson            1:13.83    1:16.38   3 
+ 
+Event 20  Boys 400 Meter Dash
+============================================================================
+    Name                    Year School                  Seed     Finals  H#
+============================================================================
+  1       Diawara, Oumar         Albright               53.00      54.04   1 
+  2       Felix, Jarrett         Muhlenberg             54.04      55.10   1 
+  3       Altpeter, Eric         DeSales                54.47      55.59   2 
+  4       Davis, Darnell         Muhlenberg             54.24      55.92   2 
+  5       Mease, Keenan          Muhlenberg             54.10      56.02   1 
+  6       Roche, Pat             DeSales                54.70      56.03   3 
+  7       Phillips, Jeff         Muhlenberg             55.44      56.05   3 
+  8       Onimus, Andrew         Muhlenberg             52.94      56.44   1 
+  9       Suitovsky, Max         Muhlenberg             54.32      56.52   2 
+ 10       Jennings, Isaac        Goucher                56.46      57.97   4 
+ 11       Harkins, Bobby         Muhlenberg             55.85      58.45   3 
+ 12       Brown, Leodus          Stevenson              58.56      59.63   4 
+ 13       Sarver, Brendan        Stevenson              58.61      59.65   4 
+ 14       Simpson, Dalonte       Stevenson                       1:01.02   6 
+ 15       Crosby, Benjamin       Goucher                         1:03.62   6 
+ 16       Townes, Tobias         Stevenson            1:05.50    1:06.04   5 
+ 17       Dougherty, Sean        Stevenson            1:04.88    1:06.65   5 
+ 18       Hastings, Patrick      Delaware Val         1:06.56    1:07.41   5 
+ 19       Pegg, Garrett          Stevenson            1:01.44    1:07.50   4 
+ 
+Event 21  Girls 200 Meter Dash
+============================================================================
+    Name                    Year School                  Seed     Finals  H#
+============================================================================
+  1       Higgs, Danisha         Albright               27.42      27.93   1 
+  2       Kutz, Taylor           Albright               28.14      28.08   2 
+  3       Kellon, Jaclyn         Goucher                28.00      28.24   1 
+  4       Smith, Kamillah        Goucher                28.70      28.28   3 
+  5       Carnevale, Stephan     Muhlenberg             28.24      28.48   2 
+  6       Diffenderfer, Katl     DeSales                27.80      28.59   1 
+  7       Miller, Amanda         DeSales                27.70      28.69   1 
+  8       Rivera, Carie          Albright               28.44      29.31   2 
+  9       Brandt, Alyssa         DeSales                29.00      29.72   3 
+ 10       Chambers, Vanessa      Muhlenberg             28.31      29.87   2 
+ 11       Adutwum, Josephine     Stevenson              29.78      30.51   3 
+ 12       Olcheski, Shea         Albright               30.37      30.91   4 
+ 13       Churchman, Michell     DeSales                29.50      30.93   3 
+ 14       Delmonte, Taylor       DeSales                31.50      31.48   5 
+ 15       saylor, Chelsea        DeSales                31.00      32.34   4 
+ 16       Griffin, Ryane         Stevenson              31.16      32.40   4 
+ 17       McSwain, Jazmine       Stevenson              33.44      32.72   5 
+ 18       Correa, Stephanie      Goucher                           32.97   5 
+ 19       rutherford, emily      DeSales                32.88      34.82   5 
+ 
+Event 22  Boys 200 Meter Dash
+============================================================================
+    Name                    Year School                  Seed     Finals  H#
+============================================================================
+  1       Evans III, William     Goucher                23.50      23.98   1 
+  2       Potter, Sean           Albright               23.64      24.09   1 
+  3       Jalloh, Alpha          Stevenson              24.44      24.18   3 
+  4       Badilla, Ben           DeSales                23.90      24.30   1 
+  5       Crachi, Nico           DeSales                24.00      24.48   2 
+  6       Vincent, Lewis         Delaware Val           23.97      24.52   2 
+  7       Orzol, Lee             DeSales                24.00      24.55   2 
+  8       Ingalls, Braheem       DeSales                24.00      24.73   2 
+  9       Carter, Brian          Delaware Val           24.47      24.76   4 
+ 10       Sikanowicz, Zach       DeSales                24.30      25.10   3 
+ 11       Bailey, Rasheed        Delaware Val           24.75      25.23   5 
+ 12       Byrum, Zachary         Goucher                25.03      25.40   6 
+ 13       Spells, Brian          Albright               24.64      25.45   4 
+ 14       Rill, Aaron            Delaware Val           25.58      25.55   6 
+ 15       Smith, Naeem           Albright               25.32      25.57   6 
+ 16       Simpson, Dalonte       Stevenson                         25.69   8 
+ 17       Sarver, Brendan        Stevenson                         25.94   8 
+ 18       Reutter, Scott         Muhlenberg             25.01      26.38   5 
+ 19       DePinto, Ryan          DeSales                24.00      26.41   3 
+ 20       Keri, Carl             DeSales                24.40      26.43   3 
+ 21       Logue, Charles         Delaware Val           24.60      26.76   4 
+ 22       Miller-Sobel, Jaco     Muhlenberg             24.70      26.94   5 
+ 23       Pegg, Garrett          Stevenson                         27.15   9 
+ 24       Jokic, Stephan         DeSales                25.35      27.52   6 
+ 25       Ashton, Ed             DeSales                26.26      27.83   7 
+ 26       Brown, Leodus          Stevenson                         27.87   8 
+ 27       Townes, Tobias         Stevenson                         28.44   8 
+ 28       Crosby, Benjamin       Goucher                27.33      28.80   7 
+ 29       Dougherty, Sean        Stevenson                         29.26   9 
+ 30       Cullen, Sam            Delaware Val           26.50      30.19   7 
+ 31       Ribeiro, Christian     Goucher                           30.58   9 
+ 
+Event 25  Girls 4x400 Meter Relay
+============================================================================
+    School                                               Seed     Finals  H#
+============================================================================
+  1 DeSales  'A'                                      4:37.14    4:32.64   2 
+     1) Brandt, Alyssa                  2) Miller, Amanda                 
+     3) Diffenderfer, Katlyn            4) saylor, Chelsea                
+  2 Muhlenberg  'A'                                   4:20.24    4:35.59   1 
+     1) Kuchera, Kirsten                2) Pisani, Nicole                 
+     3) Doss, Rebecca                   4) Keegan, Tara                   
+  3 Albright  'A'                                     4:27.00    4:38.99   1 
+     1) Kutz, Taylor                    2) Rivera, Carie                  
+     3) Nassar, Ronya                   4) Higgs, Danisha                 
+  4 Goucher  'A'                                      4:34.07    4:44.38   1 
+     1) Granger, Danielle               2) Correa, Stephanie              
+     3) Porter, Jewell                  4) Kellon, Jaclyn                 
+  5 DeSales  'B'                                                 5:02.34   2 
+     1) Delmonte, Taylor                2) Braun, Sarah                   
+     3) Little, Katlyn                  4) costello, colleen              
+ 
+Event 26  Boys 4x400 Meter Relay
+============================================================================
+    School                                               Seed     Finals  H#
+============================================================================
+  1 Muhlenberg  'A'                                   3:30.24    3:41.54   1 
+     1) Onimus, Andrew                  2) Davis, Darnell                 
+     3) Vaughn, Isaiah                  4) Mease, Keenan                  
+  2 DeSales  'A'                                      3:33.00    3:43.13   1 
+     1) Badilla, Ben                    2) Crachi, Nico                   
+     3) Altpeter, Eric                  4) Sikanowicz, Zach               
+  3 Muhlenberg  'B'                                   3:32.24    3:44.65   1 
+     1) Elkan, Joshua                   2) Felix, Jarrett                 
+     3) Weiner, Alex                    4) Newcomb, Kieran                
+  4 Muhlenberg  'C'                                   3:32.24    3:49.25   3 
+     1) Phillips, Jeff                  2) Harkins, Bobby                 
+     3) Suitovsky, Max                  4) Kentwell, Forrest              
+  5 DeSales  'B'                                      3:41.00    3:52.10   2 
+     1) Ingalls, Braheem                2) Roche, Pat                     
+     3) Dusza, Dave                     4) Rennals, Scott                 
+  6 Delaware Valley  'A'                              3:48.00    3:52.75   2 
+     1) Smith, Greyson                  2) Rill, Aaron                    
+     3) Lane, Kyle                      4) Rosario, Greg                  
+  7 Goucher  'A'                                      3:38.00    4:00.63   2 
+     1) Byrum, Zachary                  2) Crosby, Benjamin               
+     3) Jennings, Isaac                 4) Ziegler, Gillian               
+  8 DeSales  'C'                                      3:45.00    4:05.26   3 
+     1) Taylor, Dan                     2) Van Doran, Stephen             
+     3) Drastura, Kevin                 4) Piazza, Nick                   
+  9 Delaware Valley  'B'                              4:04.00    4:26.39   3 
+     1) Beard, Chris                    2) Hastings, Patrick              
+     3) Cullen, Sam                     4) McMillan, Andrew               
+ 
+Event 27  Girls 4x800 Meter Relay
+=========================================================================
+    School                                               Seed     Finals 
+=========================================================================
+  1 DeSales  'A'                                     11:15.37   11:04.68  
+     1) Guth, Cara                      2) Curry, Jessica                 
+     3) Braun, Sarah                    4) Little, Katlyn                 
+  2 Albright  'A'                                    10:35.00   11:26.68  
+     1) Hawkins, Shanna                 2) Sheard, Tamahra                
+     3) Swasey, Krystal                 4) Vazzana, Caroline              
+  3 Goucher  'A'                                     10:30.00   11:27.69  
+     1) Malkin, Zoe                     2) Couraud, Hadley                
+     3) Staab, Shea                     4) Currier, Katherine             
+  4 DeSales  'B'                                     11:30.00   11:41.76  
+     1) Churchman, Michelle             2) Churchman, Stephanie           
+     3) pruzinsky, amanda               4) Kemmerer, Emma                 
+  5 Goucher  'B'                                                12:36.83  
+     1) Augustson, Haley                2) Castle-Miller, Haley           
+     3) Cherry, Christine               4) Pardus, Sarah                  
+ 
+Event 28  Boys 4x800 Meter Relay
+=========================================================================
+    School                                               Seed     Finals 
+=========================================================================
+  1 DeSales  'B'                                      9:00.00    9:09.98  
+     1) Panella, Brian                  2) Michell, Mike                  
+     3) Guth, Ryan                      4) Dusza, Sean                    
+  2 DeSales  'A'                                      8:20.00    9:20.41  
+     1) Noll, Nate                      2) Haines, Tim                    
+     3) Foley, Connor                   4) Monaghan, Stephen              
+
+
+

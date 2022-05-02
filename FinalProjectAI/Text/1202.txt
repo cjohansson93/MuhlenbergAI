@@ -1,0 +1,845 @@
+
+
+
+
+
+
+
+Proposed Projects | Muhlenberg College
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Skip to Main Content
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Muhlenberg College
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Visit
+
+
+
+
+
+
+
+
+
+Apply
+
+
+
+
+
+
+
+
+
+Request Info
+
+
+
+
+
+
+
+
+
+Give
+
+
+
+
+
+
+
+
+
+Menu
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Home
+AcademicsMajors, Minors & CertificationsMath & Computer ScienceREUProposed Projects 
+
+
+
+
+
+
+Proposed Projects
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Proposed Projects
+
+
+
+
+
+
+
+
+
+
+
+MentorsProposed ProjectsApplication ProcessMCMCS REU Calendar of Events2016 Program2017 Program2018 Program
+
+
+
+
+
+
+
+
+
+
+
+Home
+AcademicsMajors, Minors & CertificationsMath & Computer ScienceREUProposed Projects 
+
+
+
+
+
+
+
+
+
+
+
+
+Project 18.01: Domination on Permutation Graphs
+A dominating set, $D$, of a graph, $G$, is a subset of vertices so that every vertex of $G$ is either in $D$ or is adjacent to a vertex in $D$.  The domination number of a graph is the size of the smallest dominating set of the graph.  Graph domination has many applications, and has been looked at for several families of graphs.  The question of this problem is to determine the domination number for permutation graphs.  A natural integer sequence arises from these sets as we let the size of the permutations grow.
+ 
+Project 18.02: Sums of Polygonal Numbers
+A classical proof by Euler shows that a positive integer $a$ can be written as the sum of two squares if and only if each prime factor $p$ of $a$, with $q\equiv 3\pmod{4}$, appears to an even exponent in the prime factorization of $a$.  An analogue of this problem has recently been investigated in the ring $\mathbb{Z}_n$.  In this project will consider when an integer can be written as the sum of two polygonal numbers in $\mathbb{Z}_n$ and other rings.
+ 
+Project 18.03: Decomposition and Factorization of Integers
+This project is related to an interesting problem from John Conway.
+Two wizards who did not know each other were taking the same bus. 
+"The ages of all my kids are positive integers. The bus route number is exactly the sum of their ages and my age is exactly the prodcut of their ages, " said Wizard A.
+"If you tell me the number of kids you have and your age, maybe I can figure out all their ages," said Wizard B.
+"No, even if I tell you, you won't be able to figure out their ages," said Wizard A.
+"Alright, but at least I now know how old you are." said Wizard B.
+What is the age of Wizard A and what is the bus route number?
+To solve this problem, it is equivalent to finding a positive integer $n$ (representing the bus route number) such that there is a unique positive integer $p$ (representing the number of children or partitions) and a unique positive integer $a$ (representing the age of Wizard A) satisfying the following:
+
+$a$ can be factored as $a=x_{1}x_{2}\cdots x_{p} = y_{1}y_{2} \cdots y_{p}$,
+$x_{1} + x_{2} + \cdots + x_{p} = y_{1} + y_{2} + \cdots + y_{p} = n$, and
+$\left\{x_{1},x_{2},\dots, x_{p}\right\} \neq \left\{y_{1},y_{2},\dots, y_{p}\right\}$
+
+Given $n$, the number of such $p$ is denoted $f(n)$. It seems that this dequence $f(n)$ is new to OEIS. We can try to prove this sequence and/or discover other properties along the way.
+ 
+Project 18.04: Nimbers of Node-kayles on Certain Families of Graphs
+Given a simple graph $G$, node-kayle is a vertex coloring game between two players, Alice and Bob, according to the following rules:
+
+Alice and Bob take turns to color the vertices of $G$, one vertex at a time, with Alice starting first;
+Alice and Bob both use a common color $C$;
+once a vertex $v$ is colored with color $C$, then the vertex $V$ and all the neighbors of $V$ can no longer be further colored by either player;
+the first player without a legal move loses.
+
+When studying this game, we can use nimbers, developed by Berlekamp, Conway, and Guy in their book "Winning Ways for Your Mathematical Plays." The numbers of different families of graphs form interesting sequences. For example,
+
+the nimbers of paths $P_{n}$ is the OEIS sequence A002187, which is known to be periodic with period 34,
+the nimbers of the square of paths is the OEIS sequence A071426, which is not known to be periodic or not, and
+the nimbers of the ladder graphs is the sequence $1,0,1,0,1,0, \dots$
+
+ 
+Project 18.05: Theoretical Network Reliability Models
+Consider a network or graph $G = (V,E)$ and some property $P(G)$ which must occur in order for the network to be operational.  If the property $P$ is not present in $G$, then $G$ is said to be in a failure state.  Different pieces of networks can fail; vertices, edges, or both.  An interesting and valuable question is to try to find the most and least reliable graphs based on different properties $P$ under different failure models.   
+For example, if $P$ represents ``is connected,'' and edges can fail, then a network would be operational if the network is connect.  However if the network is disconnected, then it is in a failure state.  So we would be interested in finding the minimum number of edges to delete in order to disconnect the graph (this is also called the edge connectivity parameter).  
+In this project we will work with different network structures, different properties $P$ and different failure models to generate sequence based on graphs of increasing size and/or order.  We will also try to find the most extreme cases for particular properties by finding the most and least reliable network structures.  (See for example: A263296)
+Project 18.06: Dominating Number
+Consider a graph $G$.  A dominating set $D$ is a subset of vertices so that every vertex in $G$ is either in $D$ or adjacent to a vertex in $D$.  We can easily make a dominating set by letting $D$ be the set of all vertices in $G$.  However, we are interested in finding the smallest dominating set.  The size of the smallest dominating set is called the dominating number of a graph.  If a dominating set $D$ is of minimal size, we call it a minimum dominating set.  
+In this project, we will consider unique dominating sets.  There are particular graphs where there is only one dominating set of minimal size - hence it is unique.  For example, consider a star graph, which has a unique minimum dominating set of size 1.  
+Typically we start with a graph and try to find the dominating number.  However we will go backwards.  Assume we know the dominating number must be $d$.  Can we find the size, $m$, of the largest graph which has $d$ as a dominating number?  More importantly, can we find the size, $n$, of the largest graph which will have a unique minimum dominating set of size $d$?  
+Sequences can be generated based on our value of $d$ and $n$ based on many different variants of the problem.  Variants may include restrictions on the dominating sets, bounds on vertices and edges, or changes in the uniqueness criteria.  We will learn some classic examples and see recent advances in hopes of extending results.
+ 
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Muhlenberg College
+
+
+
+
+
+
+
+
+
+
+Muhlenberg College
+2400 Chew St.
+Allentown, 
+PA
+18104
+
+
+
+
+
+
+
+484-664-3100
+
+
+
+
+
+
+
+
+Maps & Directions
+
+
+
+
+
+Accessibility
+
+
+
+
+
+Library
+
+
+
+
+Title IX
+
+
+
+
+
+Employment
+
+
+
+
+
+A-Z Index
+
+
+
+
+
+Conference & Event Services
+
+
+
+
+
+Diversity & Inclusion
+
+
+
+
+
+
+Weather Update
+
+
+
+
+
+
+
+
+Social
+
+
+
+
+
+
+
+
+Facebook
+
+
+
+
+
+
+
+
+Instagram
+
+
+
+
+
+
+
+
+Twitter
+
+
+
+
+
+
+
+
+YouTube
+
+
+
+
+
+
+
+
+LinkedIn
+
+
+
+
+
+
+
+
+							©
+													
+ Muhlenberg College
+
+
+
+
+
+
+
+
+
+
+
+Muhlenburg College
+
+
+
+
+
+
+
+
+
+
+Search
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Who We Are
+
+
+
+
+
+
+
+
+
+
+
+Diversity and Inclusion
+
+
+
+
+Institutional Initiatives
+
+
+
+
+Office of the President
+
+
+
+
+College History
+
+
+
+
+Campus Map
+
+
+
+
+Directory Search
+
+
+
+
+
+
+Admissions
+
+
+
+
+
+
+
+
+
+
+
+Explore Your Visit Options
+
+
+
+
+Early Decision
+
+
+
+
+Regular Decision
+
+
+
+
+Transfer Students
+
+
+
+
+International Students
+
+
+
+
+Adult Accelerated & Evening Programs
+
+
+
+
+Graduate Studies
+
+
+
+
+Tuition and Fees
+
+
+
+
+Financial Aid
+
+
+
+
+First-Year Experience
+
+
+
+
+
+
+Academics
+
+
+
+
+
+
+
+
+
+
+
+Majors, Minors & Certifications
+
+
+
+
+Adult Accelerated & Evening Programs
+
+
+
+
+Summer Study
+
+
+
+
+Graduate Programs
+
+
+
+
+Preprofessional Programs
+
+
+
+
+Academic Partnerships
+
+
+
+
+Honors Programs
+
+
+
+
+Global Education
+
+
+
+
+Our Faculty
+
+
+
+
+Research & Scholarship
+
+
+
+
+
+
+Student Life
+
+
+
+
+
+
+
+
+
+
+
+Housing
+
+
+
+
+Dining
+
+
+
+
+Getting Involved
+
+
+
+
+Athletics
+
+
+
+
+Student Services
+
+
+
+
+Health & Wellness
+
+
+
+
+Religious & Spiritual Life
+
+
+
+
+
+
+Powerful Outcomes
+
+
+
+
+
+
+
+
+
+
+
+The Career Center
+
+
+
+
+Fellowships & Postgraduate Awards
+
+
+
+
+The Muhlenberg Network
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Visit
+
+
+
+
+
+
+
+
+
+Apply
+
+
+
+
+
+
+
+
+
+Request Info
+
+
+
+
+
+
+
+
+
+Give
+
+
+
+
+
+
+
+Info For:
+
+
+
+
+Current Students
+
+
+
+
+
+Alumni & Friends
+
+
+
+
+
+Faculty & Staff
+
+
+
+
+
+Parents
+
+
+
+
+
+
+
+
+
+News
+
+
+
+
+
+Events
+
+
+
+
+
+Athletics
+
+
+
+
+Arts
+
+
+
+
+
+
+
+
+COVID-19 Info
+
+
+
+ 
+ 
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

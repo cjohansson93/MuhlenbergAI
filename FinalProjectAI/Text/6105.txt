@@ -1,0 +1,483 @@
+
+
+
+
+Licensed to Fraulo Race Timing - Contractor License
+                                       HY-TEK's Meet Manager 1/27/2012 08:48 PM
+                2012 Muhlenberg Indoor Invitational - 1/27/2012                
+                       Muhlenberg College, Allentown,PA                        
+                                    Results                                    
+ 
+Event 1  Boys Pole Vault
+================================================================================
+    Name                    Year School                  Seed     Finals  Points
+================================================================================
+Finals
+  1   275 Pileggi, Domenic       Neumann                3.96m      4.12m  
+     3.20 3.36 3.51 3.66 3.81 3.97 4.12 4.27 
+        P    P    P    P   XO    O   XO  XXX 
+  2   212 Hellings, Ryan         Muhlenberg             4.19m      3.97m  
+     3.20 3.36 3.51 3.66 3.81 3.97 4.12 
+        P    P    P    P    O    O  XXX 
+  3    35 Runciman, Clark        Albright               3.96m     J3.97m  
+     3.20 3.36 3.51 3.66 3.81 3.97 4.12 
+        P    P    P    O    O  XXO  XXX 
+  4   140 Mathias, Adam          DeSales                3.50m      3.81m  
+     3.20 3.36 3.51 3.66 3.81 3.97 
+        P    O    O    O    O  XXX 
+  5   147 Orzol, Lee             DeSales                3.50m     J3.81m  
+     3.20 3.36 3.51 3.66 3.81 3.97 
+        P    O   XO    O   XO  XXX 
+  6   222 Miller-Sobel, Jaco     Muhlenberg             3.65m      3.36m  
+     3.20 3.36 3.51 
+        O    O  XXX 
+  7    21 Courter, Clayton       Albright               3.35m     J3.36m  
+     3.20 3.36 3.51 
+       XO   XO  XXX 
+  8   198 Baer, Michael          Muhlenberg             3.15m      3.20m  
+     3.20 3.36 
+        O  XXX 
+ --   229 Reutter, Scott         Muhlenberg             3.35m         NH  
+     3.20 
+      XXX 
+ 
+Event 2  Girls Pole Vault
+================================================================================
+    Name                    Year School                  Seed     Finals  Points
+================================================================================
+  1   102 Schmidt, Chelsea       DeSales                2.89m      2.84m  
+     2.14 2.29 2.44 2.54 2.74 2.84 3.05 
+        P    P    P    P    O  XXO  XXX 
+  2     8 James, Kayla           Albright               2.74m      2.54m  
+     2.14 2.29 2.44 2.54 2.74 
+        P   XO   XO   XO  XXX 
+  3   163 Bower, Mariah          Muhlenberg             2.74m      2.29m  
+     2.14 2.29 2.44 
+       XO  XXO  XXX 
+  4   186 Miller, Melissa        Muhlenberg             2.74m      2.14m  
+     2.14 2.29 
+        O  XXX 
+  5   190 Rubenstein, Jamie      Muhlenberg             2.59m     J2.14m  
+     2.14 2.29 
+      XXO  XXX 
+ --   161 Biondi, Breanne        Muhlenberg             2.74m         NH  
+     2.14 2.29 2.44 2.54 
+        P    P    P  XXX 
+ 
+Event 3  Girls High Jump
+================================================================================
+    Name                    Year School                  Seed     Finals  Points
+================================================================================
+  1   163 Bower, Mariah          Muhlenberg             1.47m      1.37m  
+     1.27 1.32 1.37 1.42 
+        P    O    O  XXX 
+  2     6 Hull, Angelica         Albright               1.32m     J1.37m  
+     1.27 1.32 1.37 1.42 
+        O    O  XXO  XXX 
+  3   194 Wojtkowski, Amber      Muhlenberg             1.40m      1.32m  
+     1.27 1.32 1.37 
+       XO    O  XXX 
+ 
+Event 4  Boys High Jump
+================================================================================
+    Name                    Year School                  Seed     Finals  Points
+================================================================================
+  1   139 MacNiven, Andrew       DeSales                           1.85m  
+     1.60 1.65 1.70 1.75 1.80 1.85 
+        P    P    P    O    O   XO 
+  2   198 Baer, Michael          Muhlenberg             1.72m      1.80m  
+     1.60 1.65 1.70 1.75 1.80 1.85 
+        P    O    O  XXO   XO  XXX 
+ --   229 Reutter, Scott         Muhlenberg             1.67m         NH  
+     1.60 
+      XXX 
+ --   212 Hellings, Ryan         Muhlenberg             1.65m         NH  
+     1.60 
+      XXX 
+ --    68 Winns, Zadren          Alvernia                             NH  
+     1.60 
+      XXX 
+ --   235 Sullivan, Kyle         Muhlenberg             1.72m         NH  
+     1.60 
+      XXX 
+ 
+Event 5  Girls Long Jump
+================================================================================
+    Name                    Year School                  Seed     Finals  Points
+================================================================================
+  1   180 Keegan, Tara           Muhlenberg             4.87m      4.84m  
+      FOUL  4.76m  4.84m  4.78m  4.68m   
+  2   167 Carnevale, Stephan     Muhlenberg             5.05m      4.72m  
+      4.38m  4.24m  4.72m  4.63m  4.45m   
+  3   248 Joseph, Jennifer       Neumann                4.34m      4.68m  
+      FOUL  4.62m  4.60m  4.62m  4.68m  FOUL
+  4   188 Pisani, Nicole         Muhlenberg             4.73m      4.45m  
+      4.30m  FOUL  4.30m  4.45m  4.37m  4.45m
+  5   168 Chambers, Vanessa      Muhlenberg             4.54m      4.38m  
+      FOUL  FOUL  FOUL  4.31m  4.22m  4.38m
+  6    13 Nassar, Ronya          Albright               3.96m      4.17m  
+      FOUL  4.17m  3.89m  FOUL  FOUL  FOUL
+ 
+Event 6  Boys Long Jump
+================================================================================
+    Name                    Year School                  Seed     Finals  Points
+================================================================================
+  1   200 Brookland, Marc        Muhlenberg             6.54m      6.54m  
+      6.54m  6.34m  FOUL         
+  2   139 MacNiven, Andrew       DeSales                6.20m      6.02m  
+      5.73m  5.90m  5.56m  6.02m  5.99m  5.80m
+  3    31 Ohlinger, Brad         Albright               5.79m      5.97m  
+      5.11m  FOUL  5.77m  5.97m  FOUL  FOUL
+  4   241 Wolfe, Alex            Muhlenberg             6.27m      5.94m  
+      FOUL  FOUL  5.85m  5.90m  5.94m  FOUL
+  5   122 Esterly, Brandon       DeSales                5.95m      5.90m  
+      5.75m  5.86m  5.67m  5.84m  5.90m  5.88m
+  6   151 Regensburg, Brian      DeSales                5.56m      5.85m  
+      5.85m  5.65m  5.36m  5.80m  5.18m  5.65m
+  7   236 Ullman, Jake           Muhlenberg             5.85m      5.63m  
+      5.30m  5.39m  5.63m         
+  8    68 Winns, Zadren          Alvernia               5.79m      5.51m  
+      5.39m  5.51m  5.46m         
+  9   265 Ellison, Joel          Neumann                           4.91m  
+      FOUL  FOUL  4.91m            
+ 
+Event 7  Girls Triple Jump
+================================================================================
+    Name                    Year School                  Seed     Finals  Points
+================================================================================
+  1   180 Keegan, Tara           Muhlenberg            10.38m     10.40m  
+      9.59m  9.84m  9.96m  10.24m  10.40m  FOUL
+  2   167 Carnevale, Stephan     Muhlenberg            10.05m      9.18m  
+      8.79m  FOUL  8.93m  9.18m      
+  3   244 Fontaine, Janelle      Neumann               10.00m      9.10m  
+      FOUL  FOUL  FOUL  FOUL  FOUL  9.10m
+ 
+Event 8  Boys Triple Jump
+================================================================================
+    Name                    Year School                  Seed     Finals  Points
+================================================================================
+  1   200 Brookland, Marc        Muhlenberg            13.56m     13.35m  
+      13.35m  FOUL  FOUL  FOUL     FOUL
+  2   139 MacNiven, Andrew       DeSales                          12.48m  
+      12.20m  12.48m  11.80m     11.94m  12.20m
+  3   122 Esterly, Brandon       DeSales               12.00m     12.42m  
+      FOUL  12.00m  12.03m  12.42m  12.19m  12.30m
+  4    31 Ohlinger, Brad         Albright              11.88m     11.78m  
+      FOUL  FOUL  11.78m  FOUL  11.74m  11.72m
+  5   265 Ellison, Joel          Neumann               10.00m     10.54m  
+      FOUL  9.74m  10.54m  FOUL  10.29m  10.12m
+ 
+Event 9  Girls Shot Put
+================================================================================
+    Name                    Year School                  Seed     Finals  Points
+================================================================================
+  1   101 Schmalzer, Erinne      DeSales               12.32m     11.72m  
+      10.95m  FOUL  11.20m  11.72m  11.31m  11.28m
+  2   247 Jones, Dara            Neumann               10.99m     11.09m  
+      11.09m  10.52m  10.63m  10.25m  FOUL  10.51m
+  3   106 Wade, Olivia           DeSales               11.71m     11.03m  
+      9.91m  FOUL  10.47m  10.31m  10.50m  11.03m
+  4   103 Stocks, Kammeron       DeSales               10.09m     10.04m  
+      9.53m  9.58m  10.04m  9.48m  9.92m  9.02m
+  5    50 Vega, Jazmyn           Alvernia              10.27m      9.94m  
+      9.65m  9.94m  9.30m  9.43m  FOUL  9.33m
+  6   105 wade, ashley           DeSales               10.42m      9.88m  
+      9.36m  9.88m  FOUL  9.35m  FOUL  FOUL
+  7     1 Boyd, Lindsay          Albright               7.92m      8.61m  
+      7.36m  7.55m  7.66m  8.53m  8.61m  8.49m
+  8     6 Hull, Angelica         Albright               8.53m      8.55m  
+      8.05m  8.50m  8.23m  8.40m  7.81m  8.55m
+  9   193 Stryker, Abigail       Muhlenberg             8.53m      7.65m  
+      7.34m  7.65m  7.50m           
+ 10     9 Jean-Baptiste, Est     Albright               7.01m      6.89m  
+      6.85m  6.57m  6.89m         
+ 
+Event 10  Boys Shot Put
+================================================================================
+    Name                    Year School                  Seed     Finals  Points
+================================================================================
+  1    19 Canonico, Dane         Albright              14.32m     14.13m  
+      14.13m  FOUL  FOUL  13.92m  14.10m  13.84m
+  2   136 Langton, John          DeSales               13.10m     13.58m  
+      13.25m  13.52m  13.58m  FOUL  13.05m  13.33m
+  3   135 Kulhamer, Justin       DeSales               12.73m     13.32m  
+      11.59m  12.33m  FOUL  FOUL  12.89m  13.32m
+  4    26 Gonzalez, Steffen      Albright              12.19m     12.92m  
+      FOUL  FOUL  11.83m  12.92m  FOUL  12.27m
+  5   145 Miller, Hank           DeSales               12.87m     12.76m  
+      12.22m  12.47m  FOUL  12.74m  12.76m  FOUL
+  6   199 Bauer, Tyler           Muhlenberg            11.48m     11.73m  
+      11.73m  11.71m  FOUL  FOUL  FOUL  11.20m
+  7   209 Gamrat, Jim            Muhlenberg            11.84m     11.61m  
+      FOUL  11.19m  11.18m  11.61m  FOUL  11.05m
+  8    57 Emery, Dillon          Alvernia              11.20m     10.97m  
+      10.86m  10.40m  10.97m  10.55m  10.73m  10.53m
+  9   229 Reutter, Scott         Muhlenberg             9.81m      9.95m  
+      9.95m  9.62m  8.88m         
+ 10    36 Schwartz, Michael      Albright              10.36m      9.85m  
+      9.77m  FOUL  9.85m         
+ 11   273 Mole, Kyle             Neumann                8.00m      9.59m  
+      9.59m  6.28m  6.50m         
+ 12   242 Wolfe, Andrew          Muhlenberg             9.90m      9.26m  
+      8.26m  FOUL  9.26m         
+ 13   267 Horton, Joe            Neumann               10.00m      9.06m  
+      FOUL  9.06m  8.93m         
+ 14    65 Streeter, Josh         Alvernia              10.00m      8.96m  
+      8.52m  8.36m  8.96m         
+ 15   263 Davis, Andrew          Neumann                8.00m      8.19m  
+      8.19m  7.93m  6.34m         
+ 16    66 Sweger, Michael        Alvernia                          6.93m  
+      FOUL  6.40m  6.93m         
+ --    18 Baldwin, Robert        Albright              11.58m       FOUL  
+      FOUL  FOUL  FOUL         
+ 
+Event 11  Girls 1 Mile Run
+================================================================================
+    Name                    Year School                  Seed     Finals  Points
+================================================================================
+  1    81 Guth, Cara             DeSales              5:42.16    5:41.50  
+  2   107 winters, rachel        DeSales                         5:50.22  
+  3    92 Little, Katlyn         DeSales              6:11.59    6:11.63  
+  4    71 Barkus, Michelle       DeSales              6:40.00    6:38.48  
+ 
+Event 12  Boys 1 Mile Run
+================================================================================
+    Name                    Year School                  Seed     Finals  Points
+================================================================================
+  1   112 Beck, Dan              DeSales              4:40.00    4:50.08  
+  2   205 Elkan, Joshua          Muhlenberg           5:00.24    4:51.02  
+  3   111 Bayeux, John           DeSales              4:42.00    4:57.43  
+  4   223 Munyan, Luke           Muhlenberg           4:50.24    4:58.66  
+  5   218 Lifman, Zach           Muhlenberg           5:00.24    5:00.92  
+  6   238 Welker, Craig          Muhlenberg           5:10.24    5:05.95  
+  7   159 Van Doran, Stephen     DeSales              4:50.00    5:12.34  
+  8   217 Leitmeyer, Jason       Muhlenberg           5:18.24    5:15.36  
+  9   268 Kane, Colin            Neumann              5:00.12    5:15.85  
+ 10   141 McClernand, Brian      DeSales              5:18.00    5:16.57  
+ 11   276 Smith, Andrew          Neumann                         5:23.75  
+ 
+Event 13  Girls 55 Meter Hurdles
+===================================================================================
+    Name                    Year School                  Seed     Finals  H# Points
+===================================================================================
+  1   167 Carnevale, Stephan     Muhlenberg              8.80       9.01   1 
+  2   194 Wojtkowski, Amber      Muhlenberg              9.88       9.37   1 
+  3    72 Brandt, Alyssa         DeSales                            9.48   2 
+  4   100 saylor, Chelsea        DeSales                10.27       9.68   2 
+  5   188 Pisani, Nicole         Muhlenberg             10.30       9.74   2 
+  6   244 Fontaine, Janelle      Neumann                 9.55       9.96   1 
+ 
+Event 14  Boys 55 Meter Hurdles
+===================================================================================
+    Name                    Year School                  Seed     Finals  H# Points
+===================================================================================
+  1   198 Baer, Michael          Muhlenberg              8.54       8.73   1 
+  2   229 Reutter, Scott         Muhlenberg              8.88       8.82   1 
+  3   156 Taylor, Dan            DeSales                 8.94       8.87   1 
+  4   216 Kurtis, David          Muhlenberg              9.11       9.14   2 
+  5    27 Grey, Jermaine         Albright                9.30       9.15   2 
+  6    68 Winns, Zadren          Alvernia                           9.37   2 
+  7   151 Regensburg, Brian      DeSales                            9.97   2 
+  8   123 Fox, Neal              DeSales                 8.40      12.61   1 
+ 
+Event 15  Girls 55 Meter Dash
+===================================================================================
+    Name                    Year School                  Seed     Finals  H# Points
+===================================================================================
+  1   245 Heath, Ciara           Neumann                 7.30       7.49   1 
+  2   260 Wright, Jayee          Neumann                 7.40       7.59   1 
+  3   256 Tingba, Adrienne       Neumann                 7.80       7.76   1 
+  4    10 Kutz, Taylor           Albright                7.85       7.79   2 
+  5   167 Carnevale, Stephan     Muhlenberg              7.85       7.87   2 
+  6   180 Keegan, Tara           Muhlenberg              7.95       7.88   2 
+  7   168 Chambers, Vanessa      Muhlenberg              7.80       7.98   1 
+  8   249 Kels, Whitley          Neumann                 7.98       8.01   3 
+  9   244 Fontaine, Janelle      Neumann                            8.04   5 
+ 10    52 Verdon, Erin           Alvernia                8.00       8.09   3 
+ 11   188 Pisani, Nicole         Muhlenberg              7.95       8.19   2 
+ 12   194 Wojtkowski, Amber      Muhlenberg              8.01       8.21   3 
+ 13    13 Nassar, Ronya          Albright                8.27       8.25   4 
+ 14    83 hellem, shannon        DeSales                            8.31   6 
+ 15    72 Brandt, Alyssa         DeSales                            8.45   6 
+ 16   165 Buonanno, Rebecca      Muhlenberg              8.28       8.79   4 
+ 17    11 Messner, Candace       Albright                8.67       8.82   4 
+ 18    96 piger, natalie         DeSales                 8.88       8.86   5 
+ 19   161 Biondi, Breanne        Muhlenberg              8.10       8.89   4 
+ 20    99 rutherford, emily      DeSales                            9.38   6 
+ 21    17 Zarra, Kristen         Albright                8.97       9.73   5 
+ 
+Event 16  Boys 55 Meter Dash
+===================================================================================
+    Name                    Year School                  Seed     Finals  H# Points
+===================================================================================
+  1   237 Vaughn, Isaiah         Muhlenberg              6.65       6.65   1 
+  2   235 Sullivan, Kyle         Muhlenberg              6.75       6.73   1 
+  3    33 Potter, Sean           Albright                6.72       6.79   1 
+  4   236 Ullman, Jake           Muhlenberg              7.01       6.90   2 
+  5   228 Reinhart, Jeff         Muhlenberg              7.01       6.91   2 
+  6   133 Keri, Carl             DeSales                 7.06       6.92   2 
+  7    38 Spells, Brian          Albright                7.00       6.96   1 
+  8   239 Wiener, Michael        Muhlenberg              7.11       7.07   3 
+  9   241 Wolfe, Alex            Muhlenberg              7.20       7.22   3 
+  9   113 Black, Dennis          DeSales                 7.03       7.22   2 
+ 11    67 Wilson, Zachary        Alvernia                7.25       7.38   3 
+ 11   127 Gutierrez, Camilo      DeSales                            7.38   5 
+ 13   156 Taylor, Dan            DeSales                            7.43   5 
+ 14   123 Fox, Neal              DeSales                            7.44   4 
+ 15    23 Dock, Joel             Albright                7.78       7.52   4 
+ 16    28 Grove, Christopher     Albright                7.52       7.53   3 
+ 17    37 Spaide, Tyreek         Albright                7.78       7.71   4 
+ 
+Event 17  Girls 800 Meter Run
+================================================================================
+    Name                    Year School                  Seed     Finals  Points
+================================================================================
+  1    81 Guth, Cara             DeSales              2:37.00    2:36.02  
+  2   173 Doss, Rebecca          Muhlenberg           2:38.24    2:38.77  
+  3   191 Sahl, Cassiah          Muhlenberg           2:38.24    2:39.04  
+  4   250 Lang, Bethany          Neumann                         2:39.60  
+  5   246 Hicks, Mia             Neumann              2:40.00    2:46.26  
+  6    49 Streleckis, Tine M     Alvernia             2:40.00    2:55.51  
+  7    71 Barkus, Michelle       DeSales              3:00.00    3:00.85  
+ 
+Event 18  Boys 800 Meter Run
+================================================================================
+    Name                    Year School                  Seed     Finals  Points
+================================================================================
+  1   230 Rice, Peter            Muhlenberg           2:03.24    2:07.43  
+  2   205 Elkan, Joshua          Muhlenberg           2:10.24    2:13.08  
+  3   150 Piazza, Nick           DeSales              2:07.00    2:13.42  
+  4   223 Munyan, Luke           Muhlenberg           2:10.24    2:18.57  
+  5   218 Lifman, Zach           Muhlenberg           2:10.24    2:19.32  
+  6   238 Welker, Craig          Muhlenberg           2:10.24    2:23.72  
+  7   217 Leitmeyer, Jason       Muhlenberg           2:20.24    2:25.00  
+ 
+Event 19  Girls 400 Meter Dash
+===================================================================================
+    Name                    Year School                  Seed     Finals  H# Points
+===================================================================================
+  1   183 Kuchera, Kirsten       Muhlenberg           1:02.95    1:04.78   1 
+  2   196 Zakheim, Lauren        Muhlenberg           1:03.10    1:05.35   1 
+  3   256 Tingba, Adrienne       Neumann              1:03.22    1:05.56   1 
+  4    89 Kunkle, Renee          DeSales              1:06.50    1:06.79   2 
+  5    75 Churchman, Michell     DeSales              1:07.50    1:08.54   2 
+  6   100 saylor, Chelsea        DeSales              1:09.42    1:11.41   2 
+  7   177 Haggerty, Samantha     Muhlenberg           1:08.35    1:12.47   2 
+ 
+Event 20  Boys 400 Meter Dash
+===================================================================================
+    Name                    Year School                  Seed     Finals  H# Points
+===================================================================================
+  1   110 Badilla, Ben           DeSales                53.50      52.83   1 
+  2   225 Onimus, Andrew         Muhlenberg             53.90      53.12   1 
+  3    25 Glass, Anthony         Albright               54.00      53.71   2 
+  4   204 Davis, Darnell         Muhlenberg             53.84      54.74   1 
+  5   198 Baer, Michael          Muhlenberg             54.01      55.19   2 
+  6   216 Kurtis, David          Muhlenberg             55.05      55.22   3 
+  7   109 Altpeter, Eric         DeSales                54.50      55.68   2 
+  8    33 Potter, Sean           Albright               57.00      56.05   5 
+  9   234 Suitovsky, Max         Muhlenberg             55.20      56.24   3 
+ 10   227 Price, Alex            Muhlenberg             55.25      56.63   3 
+ 11   154 Sikanowicz, Zach       DeSales                54.00      56.80   1 
+ 12   211 Harkins, Bobby         Muhlenberg             55.90      57.01   4 
+ 13    53 Bottinger, Ryan        Alvernia               56.50      58.76   5 
+ 14    67 Wilson, Zachary        Alvernia               55.50      59.01   4 
+ 15    56 Donovan, Colin         Alvernia             1:04.00    1:05.42   5 
+ 
+Event 21  Girls 200 Meter Dash
+===================================================================================
+    Name                    Year School                  Seed     Finals  H# Points
+===================================================================================
+  1    10 Kutz, Taylor           Albright               28.16      28.25   1 
+  2   168 Chambers, Vanessa      Muhlenberg             28.95      29.04   2 
+  3   260 Wright, Jayee          Neumann                26.90      29.07   1 
+  4    89 Kunkle, Renee          DeSales                29.00      30.36   2 
+  5    83 hellem, shannon        DeSales                28.00      31.14   1 
+  6    75 Churchman, Michell     DeSales                30.00      31.64   2 
+  7    11 Messner, Candace       Albright               31.00      32.54   2 
+  8   165 Buonanno, Rebecca      Muhlenberg             32.24      32.88   3 
+  9    96 piger, natalie         DeSales                33.99      33.86   3 
+ 10    99 rutherford, emily      DeSales                           36.82   3 
+ 
+Event 22  Boys 200 Meter Dash
+===================================================================================
+    Name                    Year School                  Seed     Finals  H# Points
+===================================================================================
+  1   237 Vaughn, Isaiah         Muhlenberg             23.35      23.90   1 
+  2   110 Badilla, Ben           DeSales                24.50      24.57   2 
+  3   140 Mathias, Adam          DeSales                25.20      24.91   3 
+  4    38 Spells, Brian          Albright               24.44      25.01   1 
+  5   127 Gutierrez, Camilo      DeSales                25.10      25.89   2 
+  6    28 Grove, Christopher     Albright               26.08      26.23   3 
+  7    67 Wilson, Zachary        Alvernia               24.50      26.26   1 
+  8   156 Taylor, Dan            DeSales                26.00      26.36   3 
+  9    34 Raison, Wayne          Albright               25.98      26.55   3 
+ 10    23 Dock, Joel             Albright               26.43      26.60   4 
+ 11   154 Sikanowicz, Zach       DeSales                24.60      26.98   2 
+ 12    37 Spaide, Tyreek         Albright               27.82      28.13   4 
+ 13    56 Donovan, Colin         Alvernia               28.00      28.35   4 
+ 
+Event 23  Girls 3000 Meter Run
+================================================================================
+    Name                    Year School                  Seed     Finals  Points
+================================================================================
+  1    93 Myles, Samantha        DeSales                        12:26.73  
+  2   104 Valentin, Taylor       DeSales                        12:38.98  
+  3    45 Mauroschadt, Laura     Alvernia            12:15.00   12:43.18  
+ 
+Event 24  Boys 3000 Meter Run
+================================================================================
+    Name                    Year School                  Seed     Finals  Points
+================================================================================
+  1   158 Todaro, Joe            DeSales             10:00.00    9:45.11  
+  2   118 Clemson, Alex          DeSales              9:45.00    9:47.33  
+  3   126 Guth, Ryan             DeSales              9:45.00    9:50.01  
+  4   134 Klinges, Henry         DeSales              9:35.00    9:57.83  
+  5   138 Lykens, Matt           DeSales             10:00.00   10:04.36  
+  6    60 MacNamee, Peter        Alvernia            10:15.00   10:19.02  
+  7   125 Grbas, Robert          DeSales             10:25.00   10:22.06  
+  8   155 Szilagyi, Dan          DeSales              9:36.00   10:39.23  
+  9   124 Gazzo, Anthony         DeSales             10:40.00   10:42.96  
+ 
+Event 25  Girls 4x400 Meter Relay
+================================================================================
+    School                                               Seed     Finals  Points
+================================================================================
+  1 Neumann  'A'                                      4:25.12    4:29.44  
+     1) 245 Heath, Ciara                2) 250 Lang, Bethany              
+     3) 256 Tingba, Adrienne            4) 246 Hicks, Mia                 
+  2 Muhlenberg  'A'                                   4:22.24    4:30.28  
+     1) 168 Chambers, Vanessa           2) 180 Keegan, Tara               
+     3) 183 Kuchera, Kirsten            4) 196 Zakheim, Lauren            
+  3 DeSales  'A'                                                 4:44.46  
+     1) 89 Kunkle, Renee                2) 83 hellem, shannon             
+     3) 70 adamalian, kayla             4) 84 Jeandell, Emily             
+ 
+Event 26  Boys 4x400 Meter Relay
+===================================================================================
+    School                                               Seed     Finals  H# Points
+===================================================================================
+  1 Muhlenberg  'A'                                   3:24.24    3:41.02   1 
+     1) 225 Onimus, Andrew              2) 236 Ullman, Jake               
+     3) 204 Davis, Darnell              4) 230 Rice, Peter                
+  2 Muhlenberg  'B'                                   3:36.24    3:43.07   1 
+     1) 237 Vaughn, Isaiah              2) 227 Price, Alex                
+     3) 228 Reinhart, Jeff              4) 239 Wiener, Michael            
+  3 DeSales  'A'                                      3:40.00    3:43.94   1 
+     1) 109 Altpeter, Eric              2) 110 Badilla, Ben               
+     3) 123 Fox, Neal                   4) 154 Sikanowicz, Zach           
+  4 Albright  'A'                                     3:46.00    3:50.75   2 
+     1) 33 Potter, Sean                 2) 34 Raison, Wayne               
+     3) 38 Spells, Brian                4) 25 Glass, Anthony              
+  5 DeSales  'B'                                      3:45.00    4:01.11   2 
+     1) 150 Piazza, Nick                2) 157 Tierno, Ryne               
+     3) 111 Bayeux, John                4) 134 Klinges, Henry             
+  6 DeSales  'D'                                      3:50.00    4:10.31   2 
+     1) 155 Szilagyi, Dan               2) 159 Van Doran, Stephen         
+     3) 125 Grbas, Robert               4) 156 Taylor, Dan                
+  7 DeSales  'C'                                      3:50.00    4:18.13   2 
+     1) 125 Grbas, Robert               2) 126 Guth, Ryan                 
+     3) 138 Lykens, Matt                4) 148 Panella, Brian             
+
+
+

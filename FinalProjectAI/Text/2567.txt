@@ -1,0 +1,36 @@
+
+
+Stats Screen
+
+
+
+
+## UC          K  E TA Hit%  A DG BS-BA| ## MUHL        K  E TA Hit%  A DG BS-BA
+2  McCartney,  0  4 10 -400  1  1  0-0 | 2  Pulice,Van  1  0  1 1000 16  2  0-0
+3  Oakman,Joy  0  0  0 .000  0  2  0-0 | 4  Weyhmuller  6  0  8 .750  1  2  1-0
+7  Thiele,Kar  4  6 18 -111  0  7  0-0 | 13 Josephson,  8  0 12 .667  1  0  2-1
+12 Murphy,Sam  6  2 15 .267  1  0  0-0 | 14 Garrison,E  0  0  0 .000  1  8  0-0
+13 Powers,Gin  3  2  6 .167 11  5  0-0 | 16 Boll,Kathe  4  3 10 .100  0  1  0-5
+18 Bogere,Phr  0  1  5 -200  0  0  0-0 | 18 Glass,Alli  7  1 20 .300  0  4  1-3
+1  Masiello,L  1  2  8 -125  1  7  0-0 | 5  Hynson,Hol  1  1  5 .000  0  2  0-3
+4  Raff,Allis  4  6 14 -143  0  1  0-0 | 6  Dickson,Ni  0  0  0 .000 11  3  0-0
+8  Dawson,Mor  0  0  0 .000  0  0  0-0 | 8  Noel,Ashle  0  0  0 .000  0  0  0-0
+9  van Mulbre  0  0  1 .000  4  1  0-0 | 9  Elkin,Juli  0  0  0 .000  0  3  0-0
+10 Doyle,Lind  0  0  0 .000  0  0  0-0 | 10 Kaser,Chel  0  0  1 .000  1  6  0-0
+11 Kenny,Dani  1  0  3 .333  0  0  0-0 | 11 Murphy,Eri  6  0  9 .667  0  1  0-0
+16 Howard,Jen  0  1  1-1000  0  0  0-0 |    Totals.... 33  5 66 .424 31 32 10.0
+   Totals.... 19 25 84 -071 18 24  0.0 |
+
+ATTACK/GAME - UC        ATTACK/GAME - MUHL          Score-by-Game
+Game  K  E  TA   Pct    Game  K  E  TA   Pct
+  1   5  7  30 -.067      1  13  2  27  .407        UC......  9 17  9
+  2   9  8  31  .032      2  12  1  24  .458    <*> MUHL.... 25 25 25
+  3   5 10  23 -.217      3   8  2  15  .400
+
+
+
+
+Last updated on Oct 29, 2014 08:01PM •
+
+
+

@@ -1,0 +1,912 @@
+
+
+
+
+
+
+
+Course Descriptions | Muhlenberg College
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Skip to Main Content
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Muhlenberg College
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Visit
+
+
+
+
+
+
+
+
+
+Apply
+
+
+
+
+
+
+
+
+
+Request Info
+
+
+
+
+
+
+
+
+
+Give
+
+
+
+
+
+
+
+
+
+Menu
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Home
+AcademicsMajors, Minors & CertificationsPhysicsCurriculumCourses and RequirementsCourse Descriptions 
+
+
+
+
+
+
+Course Descriptions
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Course Descriptions
+
+
+
+
+
+
+
+
+
+
+
+MajorMinorPhysical Science MajorCourse Descriptions
+
+
+
+
+
+
+
+
+
+
+
+Home
+AcademicsMajors, Minors & CertificationsPhysicsCurriculumCourses and RequirementsCourse Descriptions 
+
+
+
+
+
+
+
+
+
+
+
+
+
+Course Descriptions
+
+
+
+
+105. Physics for Life
+111. Introduction to Astronomy
+113. Cosmology: The Scientific Exploration of the Universe
+121. General Physics I
+122. General Physics II
+140. Physics of Music
+213. Modern Physics
+216. Analog & Digital Circuits
+226. Optics: From Lenses to Lasers
+250. Simulating Science
+
+
+241. Thermal & Statistical Physics
+313. Nuclear & Particle Physics
+319. Analytical Mechanics
+321. Advanced Mechanics
+329. Electromagnetism
+331. Advanced Electromagnetic Theory
+341. Introduction to Quantum Mechanics
+351. Solid State Physics
+450. CUE: Advanced Projects
+
+
+
+
+105. Physics for Life
+An inquiry-based introduction to the concepts of physics and physical science. Through in-depth study of simple physical systems, students gain direct experience with the process of science. The content of the course varies and will concentrate on one or two of the following topics: properties of matter, heat and temperature, light and color, magnets, electric circuits, and the physics of motion. No mathematical prerequisites beyond those of secondary school algebra and geometry.
+Meets general academic requirement S.
+Back to Course Listings
+111. Introduction to Astronomy
+A study of the structure, motions, and evolution of the bodies of the physical universe. Emphasis is given to understanding physical principles and the techniques used by astronomers to study the universe. Topics of special interest include the structure of the solar system, the properties of stars, stellar evolution and collapse, the structure of galaxies, and cosmology.
+Meets general academic requirement S.
+Back to Course Listings
+113. Cosmology: The Scientific Exploration of the Universe
+We are continually seeking the answers to the age-old questions about the origin, age, composition, structure, and the ultimate fate of the universe. Just as the cosmos is changing, our views of the cosmos are changing as new observations and interpretations emerge. This course will examine the generally accepted cosmological models, and the personalities responsible for these models, from the time of the ancient Greeks up to the present. Each of these models will be examined in light of the observational data available at the time. Primary emphasis will be given to understanding the most current observations about the universe and the prevailing inflationary Big Bang model of the universe. Offered as a course designed for Muhlenberg Scholars.
+Meets general academic requirement S.
+Back to Course Listings
+121. General Physics I
+An introductory, calculus-based physics course. This activity-based course meets for two two-hour sessions in the laboratory, where concepts are introduced through experimentation and other hands-on activities. Follow-up discussions, demonstrations, and problem solving are emphasized during lecture periods. Topics covered include one- and two-dimensional kinematics and dynamics, momentum, energy, rotational kinematics and dynamics.
+Prerequisite: MTH 121 Calculus I should be previously completed or enrolled concurrently.
+Meets general academic requirement S.
+Back to Course Listings
+122. General Physics II
+Extends the energy ideas introduced in PHY 211 General Physics I into the ideas of thermodynamics. It also introduces electrostatics, dc circuits, magnetism and electromagnetic induction, and some topics from modern physics. This course follows the same weekly format as General Physics I.
+Prerequisite: PHY 121 General Physics I
+Meets general academic requirement S.
+Back to Course Listings
+ 
+ 140. The Physics of Music
+The Physics of Music is designed for students with an interest in the phenomena of sound. This inquiry-based course offers hands-on activities to relate the physics of sound to the students’ everyday experiences of music. The theoretical principles of music, the ways composers write, the design of musical instruments, and our perceptions of music all have their foundations in physics. By studying the physical principles of simple harmonic motion, resonance, harmonic series, waveforms, Fourier analysis and electronic synthesis, we will relate the science of sound to the art of music. Does not count toward the physics major or minor.
+Prerequisite: MUS 111 Music Theory I or permission of instructors. Meets general academic requirement S and effective Fall 2013 SC.
+Back to Course Listings
+213. Modern Physics
+An introduction to twentieth-century developments in physics, with an emphasis on the special theory of relativity; Rutherford scattering; introduction to quantum theory; atomic structure; nuclear and particle physics.
+Prerequisite: PHY 122 General Physics II
+Back to Course Listings
+216. Analog & Digital Circuits
+Through a mix of classroom work, computer simulations and laboratory work, students will build and analyze analog and digital circuits found in many scientific and computer applications. Specific topics include passive and active filters, electronic feedback, operational amplifiers, oscillators, A/D and D/A conversion, digital waveshaping and instrumentation. This course meets in the laboratory for two hours, twice a week, and will be offered in alternate years.
+Prerequisite: PHY 122 General Physics II
+Back to Course Listings
+226. Optics: From Lenses to Lasers
+Through laboratories and simulations, the student will explore the field of optics, starting with the fundamentals of waves and electromagnetic theory, through geometrical and physical optics, and culminating in the study of selected topics from modern optics. The modern topics may include lasers, optical data processing, holography or nonlinear optics. This course meets for two hours, twice a week, and will be taught in a laboratory/discussion format. The course will be offered in alternate years.
+Prerequisite: PHY 122 General Physics II
+Back to Course Listings
+241. Thermal & Statistical Physics
+The laws of thermodynamics, their consequences and applications. Kinetic theory of an ideal gas and an introduction to statistical mechanics.
+Prerequisite: PHY 122 General Physics II
+Back to Course Listings
+250. Simulating Science
+Computer simulations are an integral part of contemporary basic and applied science and computation is becoming as important as theory and experiment. The ability “to compute” is now part of the essential repertoire of research scientists. This course will introduce students to methods of computer simulation with applications to biology, chemistry, physics and environmental science. Possible topics include: how populations change with time (biology), the kinetic theory of gases (chemistry), the effect of air resistance on falling objects (physics), and the change over time of pollution levels in lakes (environmental science). No programming experience is required; elements of structured programming and C++ will be presented as needed.
+Prerequisite: PHY 121 General Physics I
+Back to Course Listings
+313. Nuclear & Particle Physics
+Properties of nuclei; theories and models of nuclear structure; natural radioactivity; nuclear forces and reactions; elementary particles.
+Prerequisite: PHY 213 Modern Physics
+Back to Course Listings
+319. Analytical Mechanics
+A detailed study of the kinematics and dynamics of particles, systems of particles, and rigid bodies. Topics considered include projectile motion; the gravitational force and its influence on earthbound and heavenly bodies; rotating coordinate systems; and scattering theory.
+Prerequisite: PHY 122 General Physics II and MTH 122 Calculus II
+Back to Course Listings
+321. Advanced Mechanics
+A course designed to broaden and deepen the understanding of classical physics. Topics to be studied include Lagrangian and Hamiltonian mechanics; the mechanics of continuous media; the theory of small vibrations; perturbation theory; and relativistic dynamics.
+Prerequisite: PHY 319 Analytical Mechanics
+Back to Course Listings
+329. Electromagnetism
+A study of electrostatics, magnetostatics, electrical currents and their effects. Maxwell’s equations are derived. Vector methods are stressed and field notation is used.
+Prerequisite: PHY 319 Analytical Mechanics
+Back to Course Listings
+331. Advanced Electromagnetic Theory
+Deviation of the wave equations from Maxwell’s equations. Wave theory is explored in detail, including derivation of the fundamental principles of wave optics.
+Prerequisite: PHY 329 Electromagnetism
+Back to Course Listings
+341. Introduction to Quantum Mechanics
+Origin of quantum concepts; the wave function and its interpretation; the Schrodinger equation; treatment of the free particle; potential barriers and wells; the linear harmonic oscillator and the hydrogen atom. Representation of dynamical variables as operators and matrices; introduction to perturbation theory.
+Prerequisites: PHY 213 Modern Physics and PHY 319 Analytical Mechanics
+Back to Course Listings
+351. Solid State Physics
+Study of the properties of crystalline solids. Starting with a study of crystal structure, reciprocal lattice structure, energy bands, and the free electron gas, physical models will be developed to explain the electrical, magnetic, thermal and optical properties of solids.
+
+Prerequisite: instructor permission
+
+Back to Course Listings
+450. CUE: Advanced Projects
+Primarily a laboratory course focused on exploring classic and contemporary experiments from atomic, nuclear, thermal, and quantum physics, with an emphasis on interfacing instrumentation and error analysis. This course will culminate in an extended experimental or theoretical research project. Students will present results in both written and oral presentations. Five hours of class per week. Offered every spring.
+Prerequisites: PHY 213 Modern Physics and PHY 216 Analog & Digital Circuits plus one of the following: PHY241 or 242 Thermal & Statistical Physics, PHY319 Analytical Mechanics or PHY329 Electromagnetism.
+Back to Course Listings
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Muhlenberg College
+
+
+
+
+
+
+
+
+
+
+Muhlenberg College
+2400 Chew St.
+Allentown, 
+PA
+18104
+
+
+
+
+
+
+
+484-664-3100
+
+
+
+
+
+
+
+
+Maps & Directions
+
+
+
+
+
+Accessibility
+
+
+
+
+
+Library
+
+
+
+
+Title IX
+
+
+
+
+
+Employment
+
+
+
+
+
+A-Z Index
+
+
+
+
+
+Conference & Event Services
+
+
+
+
+
+Diversity & Inclusion
+
+
+
+
+
+
+Weather Update
+
+
+
+
+
+
+
+
+Social
+
+
+
+
+
+
+
+
+Facebook
+
+
+
+
+
+
+
+
+Instagram
+
+
+
+
+
+
+
+
+Twitter
+
+
+
+
+
+
+
+
+YouTube
+
+
+
+
+
+
+
+
+LinkedIn
+
+
+
+
+
+
+
+
+							©
+													
+ Muhlenberg College
+
+
+
+
+
+
+
+
+
+
+
+Muhlenburg College
+
+
+
+
+
+
+
+
+
+
+Search
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Who We Are
+
+
+
+
+
+
+
+
+
+
+
+Diversity and Inclusion
+
+
+
+
+Institutional Initiatives
+
+
+
+
+Office of the President
+
+
+
+
+College History
+
+
+
+
+Campus Map
+
+
+
+
+Directory Search
+
+
+
+
+
+
+Admissions
+
+
+
+
+
+
+
+
+
+
+
+Explore Your Visit Options
+
+
+
+
+Early Decision
+
+
+
+
+Regular Decision
+
+
+
+
+Transfer Students
+
+
+
+
+International Students
+
+
+
+
+Adult Accelerated & Evening Programs
+
+
+
+
+Graduate Studies
+
+
+
+
+Tuition and Fees
+
+
+
+
+Financial Aid
+
+
+
+
+First-Year Experience
+
+
+
+
+
+
+Academics
+
+
+
+
+
+
+
+
+
+
+
+Majors, Minors & Certifications
+
+
+
+
+Adult Accelerated & Evening Programs
+
+
+
+
+Summer Study
+
+
+
+
+Graduate Programs
+
+
+
+
+Preprofessional Programs
+
+
+
+
+Academic Partnerships
+
+
+
+
+Honors Programs
+
+
+
+
+Global Education
+
+
+
+
+Our Faculty
+
+
+
+
+Research & Scholarship
+
+
+
+
+
+
+Student Life
+
+
+
+
+
+
+
+
+
+
+
+Housing
+
+
+
+
+Dining
+
+
+
+
+Getting Involved
+
+
+
+
+Athletics
+
+
+
+
+Student Services
+
+
+
+
+Health & Wellness
+
+
+
+
+Religious & Spiritual Life
+
+
+
+
+
+
+Powerful Outcomes
+
+
+
+
+
+
+
+
+
+
+
+The Career Center
+
+
+
+
+Fellowships & Postgraduate Awards
+
+
+
+
+The Muhlenberg Network
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Visit
+
+
+
+
+
+
+
+
+
+Apply
+
+
+
+
+
+
+
+
+
+Request Info
+
+
+
+
+
+
+
+
+
+Give
+
+
+
+
+
+
+
+Info For:
+
+
+
+
+Current Students
+
+
+
+
+
+Alumni & Friends
+
+
+
+
+
+Faculty & Staff
+
+
+
+
+
+Parents
+
+
+
+
+
+
+
+
+
+News
+
+
+
+
+
+Events
+
+
+
+
+
+Athletics
+
+
+
+
+Arts
+
+
+
+
+
+
+
+
+COVID-19 Info
+
+
+
+ 
+ 
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

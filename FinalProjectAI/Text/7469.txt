@@ -1,0 +1,763 @@
+
+
+
+
+ 
+
+Licensed to Ultimate Sports - Contractor License          HY-TEK's Meet Manager
+                   Lafayette 8 Way Invitational - 3/29/2014                    
+                           Metzger Athletic Complex                            
+                         Lafayette College, Easton, PA                         
+                                    Results                                    
+ 
+Women 100 Meter Dash
+===============================================================================
+     D1 ECAC: E 12.08  2014                                                    
+     D3 ECAC: A 12.65  2014                                                    
+    Name                    Year School                  Finals  Wind H# Points
+===============================================================================
+Finals
+  1 Rachel Pierantozzi           East Strouds             13.19   2.4  1  10   
+  2 Brianna Wright               Moravian                 13.41   2.4  1   8   
+  3 Mara Blanchard               Lafayette                13.44   3.1  2   6   
+  4 Casey O'Brien                Lafayette                13.53   3.1  2   4   
+  5 Francesca Aldrich            Muhlenberg               13.56   3.1  2   2   
+  6 Erica Swinton                Lafayette                13.63   2.4  3   1   
+  7 Johanna Blume                Rider                    13.64   3.1  2 
+  8 Dejana Harris                Lafayette                13.73   3.1  2 
+  9 Brielle Sutter               Moravian                 13.77   3.1  2 
+ 10 Alicia Osley                 Rider                    13.80   2.4  1 
+ 11 Carly Montgomery             St. Joseph's             14.03   2.4  1 
+ 12 Lauren White                 Moravian                 14.06   2.4  3 
+ 13 Christelle Reglas            Moravian                 14.06   2.4  3 
+ 14 Lauryn Strebeck              Rider                    14.14   2.4  3 
+ 15 Vanessa Chambers             Muhlenberg               14.20   2.4  3 
+ 16 Hannah Hochman               Colgate                  14.63   2.4  3 
+ 17 Kat Titterton                Colgate                  14.66   2.4  3 
+ 18 Amber Lee Wojtkowski         Muhlenberg               14.68   2.4  3 
+ 19 Julia Hooks                  Colgate                  14.84   2.9  4 
+ 20 Courtney Joseph              Muhlenberg               16.06   2.9  4 
+ -- Danielle Smith               East Strouds                FS   2.4  1 
+ 
+Women 200 Meter Dash
+===============================================================================
+     D1 ECAC: E 24.74  2014                                                    
+     D3 ECAC: A 26.00  2014                                                    
+    Name                    Year School                  Finals  Wind H# Points
+===============================================================================
+  1 Alicia Minella               Colgate                  25.18A -1.3  1  10   
+  2 Devin Smith                  Lafayette                25.45A -1.3  1   8   
+  3 Mercedes Yanora              St. Joseph's             26.36  -1.3  1   6   
+  4 Haley Langton                Lafayette                26.61  -1.3  1   4   
+  5 Brielle Sutter               Moravian                 26.94  -1.3  1   2   
+  6 Catherine Carpenter          Colgate                  27.22  -2.2  2   1   
+  7 Brianna Wright               Moravian                 27.46  -2.2  2 
+  8 Drew Davis                   Lafayette                27.65  -2.2  2 
+  9 Casey O'Brien                Lafayette                27.66  -2.2  2 
+ 10 Lindsay Voltz                Lehigh                   28.26  -1.3  1 
+ 11 Miranda Roberts              Rider                    28.39  -2.2  2 
+ 12 Erica Swinton                Lafayette                28.57  -3.2  3 
+ 13 Dejana Harris                Lafayette                28.96  -2.2  2 
+ 14 Julie Vuotto                 Lafayette                28.97  -3.2  3 
+ 15 Jessica Rupp                 Lafayette                29.00  -3.2  3 
+ 16 Lauren White                 Moravian                 29.68  -2.9  4 
+ 17 Christie Stango              Rider                    30.03  -3.2  3 
+ 18 Julia Hooks                  Colgate                  30.12  -3.2  3 
+ 19 Jazzmin Devine               East Strouds             30.31  -2.9  4 
+ 20 Hannah Hochman               Colgate                  30.43  -3.2  3 
+ 
+Women 400 Meter Dash
+==========================================================================
+     D1 ECAC: E 55.94  2014                                                    
+     D3 ECAC: A 59.50  2014                                                    
+    Name                    Year School                  Finals  H# Points
+==========================================================================
+  1 Ashley Gerald                St. Joseph's             58.27A  1  10   
+  2 Courtney Foster              St. Joseph's             58.62A  1   8   
+  3 Jessica Kendzor              Lehigh                   58.70A  1   6   
+  4 Colleen Murphy               East Strouds             59.07A  1   4   
+  5 Katie Pratt                  St. Joseph's           1:00.03   1   2   
+  6 Erin Keen                    Lafayette              1:00.79   2   1   
+  7 Marina Rufo                  St. Joseph's           1:01.60   2 
+  8 Erin Brady                   East Strouds           1:01.96   2 
+  9 Lindsay Voltz                Lehigh                 1:02.53   2 
+ 10 Olivia Rosenberger           Rider                  1:02.69   1 
+ 11 Jessica Rupp                 Lafayette              1:04.40   2 
+ 12 Kirsten Kuchera              Muhlenberg             1:05.40   2 
+ 13 Corinne Glass                Moravian               1:05.92   1 
+ 14 Julie Vuotto                 Lafayette              1:06.51   3 
+ 15 Christie Stango              Rider                  1:07.87   2 
+ 16 Binetou Fall                 East Strouds           1:08.26   3 
+ 
+Women 800 Meter Run
+==========================================================================
+     D1 ECAC: E 2:10.94  2014                                                  
+     D3 ECAC: A 2:20.00  2014                                                  
+    Name                    Year School                  Finals  H# Points
+==========================================================================
+  1 Grace Watters                Lafayette              2:20.52   1  10   
+  2 Amanda Ruschel               Lehigh                 2:21.48   1   8   
+  3 Victoria Mullane             Lehigh                 2:21.94   1   6   
+  4 Marissa Karl                 Lehigh                 2:22.60   1   4   
+  5 Sara Radzwilka               St. Joseph's           2:23.77   2   2   
+  6 Kim Wernerspach              East Strouds           2:24.23   1   1   
+  7 Brenna Clark                 Lehigh                 2:25.31   1 
+  8 Gabrielle Randell            Rider                  2:26.32   1 
+  9 Tess Doggett                 St. Joseph's           2:26.83   1 
+ 10 Shannon Young                Colgate                2:27.30   2 
+ 11 Chandler Wood                Colgate                2:27.46   2 
+ 12 Meghan Ragard                East Strouds           2:29.17   1 
+ 13 Kelly Reager                 Lafayette              2:29.19   2 
+ 14 Alexandra Fiesel             St. Joseph's           2:31.43   2 
+ 15 Elizabeth Sinclair           Lehigh                 2:31.47   2 
+ 16 Kayla Lubonski               Rider                  2:32.02   2 
+ 17 Lauren Toth                  East Strouds           2:32.89   1 
+ 18 Alena Minitti                St. Joseph's           2:33.83   2 
+ 19 Jordan Chervin               Colgate                2:34.40   2 
+ 20 Alana Whitmarsh              St. Joseph's           2:35.77   3 
+ 21 Heather Spadola              East Strouds           2:35.94   3 
+ 22 Alyssa Tallon                Moravian               2:37.96   3 
+ 23 Ashley Bohnenberger          Lafayette              2:43.42   3 
+ 24 Larissa Strycharz            Moravian               2:48.40   3 
+ 25 Jennifer Parodi              Moravian               2:51.09   3 
+ 
+Women 1500 Meter Run
+==========================================================================
+     D1 ECAC: E 4:30.94  2014                                                  
+     D3 ECAC: A 4:49.00  2014                                                  
+    Name                    Year School                  Finals  H# Points
+==========================================================================
+  1 Kim Wernerspach              East Strouds           4:48.80A  1  10   
+  2 Rose Willey                  Lafayette              4:49.13   1   8   
+  3 Stephanie Benko              Lafayette              4:49.20   1   6   
+  4 Hannah Fuller                St. Joseph's           4:50.70   1   4   
+  5 Emily Chaundy                St. Joseph's           4:53.71   1   2   
+  6 Erin Giampietro              St. Joseph's           4:54.04   1   1   
+  7 Maureen O'Donnell            St. Joseph's           4:54.24   1 
+  8 Shannon Young                Colgate                4:55.47   1 
+  9 Ashley Strysko               Lehigh                 4:57.46   1 
+ 10 Rosemarie Roessel            Lehigh                 4:58.37   1 
+ 11 Katherine Howley             Lehigh                 4:59.33   1 
+ 12 Ann O'Connell                Lehigh                 5:01.02   2 
+ 13 Lauren Zakheim               Muhlenberg             5:03.87   2 
+ 14 Anne Birkenmaier             Lehigh                 5:04.36   2 
+ 15 Hallie Farber                Lafayette              5:06.06   1 
+ 16 Claire DelCasale             Moravian               5:10.42   2 
+ 17 Simran Bains                 Lafayette              5:10.83   2 
+ 18 Elizabeth Sinclair           Lehigh                 5:12.30   2 
+ 19 Jordan Chervin               Colgate                5:12.87   2 
+ 20 Devon Bedell                 Moravian               5:14.98   2 
+ 21 Anna Orientale               Colgate                5:17.49   2 
+ 22 Sarah Hughes                 Moravian               5:18.12   2 
+ 23 Erin Love                    Moravian               5:26.69   3 
+ 24 Jessie Goldberg              Moravian               5:27.63   3 
+ 25 Arielle Weiner               Lehigh                 5:27.63   2 
+ 26 Mary-Catherine Killoran      East Strouds           5:29.46   3 
+ 27 Kim McCarty                  Muhlenberg             5:31.07   3 
+ 28 Virginia Kain                Colgate                5:43.56   2 
+ 29 Lisa Chen                    St. Joseph's           5:50.38   3 
+ 30 Lindsay Muhs                 Muhlenberg             5:54.88   3 
+ 31 Kelli Meeker                 Muhlenberg             6:20.25   3 
+ 
+Women 3000 Meter Run
+=======================================================================
+     D1 ECAC: E 9:56.24  2014                                                  
+    Name                    Year School                  Finals  Points
+=======================================================================
+  1 Olivia Brackett              Colgate               10:30.60   10   
+  2 Nicole Cronin                Muhlenberg            10:35.43    8   
+  3 Isabella Maita               Lafayette             10:49.22    6   
+  4 Emily Lambright              Moravian              10:51.03    4   
+  5 Melanie Tramontina           Muhlenberg            10:55.83    2   
+  6 Holland Reynolds             Colgate               10:55.85    1   
+  7 Elizabeth Troisi             Lafayette             10:57.30  
+  8 Kathryn Cols                 St. Joseph's          11:00.52  
+  9 Zoe Nagasing                 Lafayette             11:14.56  
+ 10 Rebecca Easly                Colgate               11:26.98  
+ 11 Chelsea Rivenbark            Muhlenberg            11:35.65  
+ 12 Julia Spandorfer             Colgate               11:39.16  
+ 13 Jacqueline Pignataro         St. Joseph's          11:40.18  
+ 14 Hannah Binder                Muhlenberg            11:40.42  
+ 15 Meghan O'Keefe               St. Joseph's          11:46.76  
+ 16 Vanessa Rappold              Rider                 11:47.75  
+ 17 Lauren Monteith              East Strouds          11:50.88  
+ 18 Michelle Zazzero             East Strouds          11:55.49  
+ 19 Katie Williams               Rider                 12:02.30  
+ 20 Darcy O'Connor               St. Joseph's          12:20.19  
+ 21 Katie Thomas                 East Strouds          12:35.13  
+ 22 Rachel Yen                   East Strouds          12:43.89  
+ 
+Women 100 Meter Hurdles
+===============================================================================
+     D1 ECAC: E 14.34  2014                                                    
+     D3 ECAC: A 15.80  2014                                                    
+    Name                    Year School                  Finals  Wind H# Points
+===============================================================================
+  1 Dashana Ransome              Rider                    17.04   3.3  1  10   
+  2 Miranda Roberts              Rider                    17.37   3.3  1   8   
+  3 Carla Dutt                   East Strouds             17.73   2.7  2   6   
+  4 Morgan Redmond               Moravian                 18.06   3.3  1   4   
+  5 Amber Lee Wojtkowski         Muhlenberg               18.11   3.3  1   2   
+  6 Kelley Stuetz                East Strouds             18.76   3.3  1   1   
+  7 Meghan Newman                Moravian                 18.80   2.7  2 
+  8 Faith Robinson               East Strouds             18.85   2.7  2 
+  9 Tirzah Johnson               East Strouds             19.51   3.3  1 
+ 10 Giana Vecchio                Moravian                 19.69   2.7  2 
+ 11 Jazzmin Devine               East Strouds             19.98   2.7  2 
+ -- Stephanie Carnevale          Muhlenberg                 DNF   3.3  1 
+ 
+Women 400 Meter Hurdles
+==========================================================================
+     D1 ECAC: E 1:02.04  2014                                                  
+     D3 ECAC: A 1:06.30  2014                                                  
+    Name                    Year School                  Finals  H# Points
+==========================================================================
+  1 Juliann Brand                Rider                  1:06.69   1  10   
+  2 Tessa Broholm                Lafayette              1:07.41   1   8   
+  3 Madeline Hummel              Rider                  1:07.54   1   6   
+  4 Mia Greer                    St. Joseph's           1:09.03   1   4   
+  5 Morgan Redmond               Moravian               1:09.99   1   2   
+  6 Katrina Faust                Muhlenberg             1:11.82   1   1   
+  7 Kat Titterton                Colgate                1:13.29   2 
+  8 Kelley Stuetz                East Strouds           1:15.26   2 
+  9 Jennifer Dias                Colgate                1:18.00   1 
+ 10 Faith Robinson               East Strouds           1:19.24   2 
+ 11 Janee Williams               East Strouds           1:19.90   2 
+ 12 Meghan Newman                Moravian               1:21.25   2 
+ 13 Laura Hoyt                   East Strouds           1:21.83   2 
+ 
+Women 3000 Meter Steeplechase
+=======================================================================
+     D1 ECAC: E 10:50.24  2014                                                 
+     D3 ECAC: A 12:00.00  2014                                                 
+    Name                    Year School                  Finals  Points
+=======================================================================
+  1 Carlie Skellington           Lehigh                11:52.96A  10   
+  2 Brittany Callahan            East Strouds          12:14.37    8   
+  3 Stephanie Soni               East Strouds          12:19.27    6   
+  4 Kelly Fitzgibbons            East Strouds          13:00.06    4   
+ 
+Women 4x100 Meter Relay
+=======================================================================
+     D1 ECAC: E 47.94  2014                                                    
+     D3 ECAC: A 51.00  2014                                                    
+    School                                               Finals  Points
+=======================================================================
+  1 Lafayette  'A'                                        48.85A  10   
+     1) Erin Keen                       2) Haley Langton                  
+     3) Mara Blanchard                  4) Devin Smith                    
+  2 East Stroudsburg  'A'                                 49.35A   8   
+     1) Rachel Pierantozzi              2) Alexis Bell                    
+     3) Tirzah Johnson                  4) Danielle Smith                 
+  3 St. Joseph's (Pa.)  'A'                               49.70A   6   
+     1) Gabby Becattini                 2) Carly McGowan                  
+     3) Katie Koss                      4) Mercedes Yanora                
+  4 St. Joseph's (Pa.)  'B'                              x49.83A 
+     1) Carly Montgomery                2) Courtney Foster                
+     3) Georgia Mason                   4) Kati Polaski                   
+  5 Colgate  'A'                                          49.94A   4   
+     1) Kori Strother                   2) Alicia Minella                 
+     3) Hannah Hochman                  4) Catherine Carpenter            
+  6 Rider  'A'                                            49.98A   2   
+     1) Dashana Ransome                 2) Alicia Osley                   
+     3) Miranda Roberts                 4) La'tazah Coleman               
+  7 Moravian  'A'                                         50.59A   1   
+     1) Brianna Wright                  2) Brielle Sutter                 
+     3) Morgan Redmond                  4) Corinne Glass                  
+  8 Moravian  'B'                                        x52.38  
+     1) Lauren White                    2) Lauren Suelke                  
+     3) Meghan Newman                   4) Christelle Reglas              
+ 
+Women High Jump
+=================================================================================
+     D1 ECAC: E 1.70m  2014                                                    
+     D3 ECAC: A 1.58m  2014                                                    
+    Name                    Year School                  Finals            Points
+=================================================================================
+  1 Christina O'Connor           East Strouds             1.65mA   5-05.00  10   
+  2 La'tazah Coleman             Rider                    1.60mA   5-03.00   8   
+  3 Rachel Douglas               Lafayette                1.55m    5-01.00   6   
+  4 Kelley Stuetz                East Strouds             1.50m    4-11.00   4   
+  5 Emely Ramirez                St. Joseph's            J1.50m    4-11.00   2   
+  6 Katrina Faust                Muhlenberg               1.45m    4-09.00   1   
+  7 Jacqueline Jones             Muhlenberg              J1.45m    4-09.00 
+ -- Samantha Mason               East Strouds                NH            
+ -- Rachel Kline                 St. Joseph's                NH            
+ -- Taylor Harmon                Rider                       NH            
+ -- Sarah Weyhmuller             Muhlenberg                  NH            
+ 
+Women Long Jump
+======================================================================================
+     D1 ECAC: E 5.80m  2014                                                    
+     D3 ECAC: A 5.20m  2014                                                    
+    Name                    Year School                  Finals  Wind           Points
+======================================================================================
+  1 Olivia Rosenberger           Rider                    5.19m   1.7  17-00.50  10   
+  2 Tirzah Johnson               East Strouds             5.14m   3.8  16-10.50   8   
+  3 Brittany Powell              Lafayette                5.11m   2.1  16-09.25   6   
+  4 Gabby Becattini              St. Joseph's             5.10m   2.2  16-08.75   4   
+  5 Kati Polaski                 St. Joseph's            J5.10m   3.1  16-08.75   2   
+  6 Lauryn Strebeck              Rider                    5.04m   1.9  16-06.50   1   
+  7 Lauren Suelke                Moravian                 5.01m   1.7  16-05.25 
+  8 Casey Raymond                Moravian                 4.85m   3.4  15-11.00 
+  9 Ashley Riley                 Muhlenberg               4.78m   2.1  15-08.25 
+ 10 Samantha Mason               East Strouds             4.59m   1.6  15-00.75 
+ 11 Amanda Smilgis               Moravian                 4.37m   2.1  14-04.00 
+ 12 Kiara Bright                 Moravian                 4.31m   2.2  14-01.75 
+ 13 Erin Rothrock                East Strouds             4.15m   2.5  13-07.50 
+ 14 Kiersten Moylan              St. Joseph's             4.10m   1.6  13-05.50 
+ 15 Sarah Chen                   Colgate                  4.09m   2.5  13-05.00 
+ 16 Hailey Kester                Moravian                 4.05m   2.0  13-03.50 
+ 
+Women Triple Jump
+======================================================================================
+     D1 ECAC: E 12.05m  2014                                                   
+     D3 ECAC: A 10.90m  2014                                                   
+    Name                    Year School                  Finals  Wind           Points
+======================================================================================
+  1 Lauryn Strebeck              Rider                   11.07mA  2.0  36-04.00  10   
+  2 Olivia Rosenberger           Rider                   10.74m   2.8  35-03.00   8   
+  3 Carla Dutt                   East Strouds            10.18m   2.7  33-04.75   6   
+  4 Ashley Riley                 Muhlenberg              10.17m   3.0  33-04.50   4   
+  5 Kiara Bright                 Moravian                 9.89m   3.0  32-05.50   2   
+ -- Chelsea Bortz                Moravian                  FOUL                 
+ -- Giana Vecchio                Moravian                  FOUL                 
+ 
+Women Shot Put
+=================================================================================
+     D1 ECAC: E 13.60m  2014                                                   
+     D3 ECAC: A 11.60m  2014                                                   
+    Name                    Year School                  Finals            Points
+=================================================================================
+  1 Rachel Pena                  Lafayette               12.24mA  40-02.00  10   
+  2 Laura Oh                     Lafayette               11.13m   36-06.25   8   
+  3 Sarah Talmadge               Lafayette               11.05m   36-03.00   6   
+  4 Michelle Gaykowski           Muhlenberg              10.29m   33-09.25   4   
+  5 Cora Wallace                 Muhlenberg               9.78m   32-01.00   2   
+  6 Chinwe Igwe                  Rider                    9.62m   31-06.75   1   
+  7 Jessica Thimmel              Muhlenberg               9.49m   31-01.75 
+  8 Sarah Chen                   Colgate                  8.12m   26-07.75 
+  9 Skylar Carmody               East Strouds             8.05m   26-05.00 
+ -- Alysha Menzies               East Strouds              FOUL            
+ 
+Women Discus Throw
+=================================================================================
+     D1 ECAC: E 42.50m  2014                                                   
+     D3 ECAC: A 36.25m  2014                                                   
+    Name                    Year School                  Finals            Points
+=================================================================================
+  1 Cora Wallace                 Muhlenberg              34.66m     113-08  10   
+  2 Michelle Gaykowski           Muhlenberg              33.59m     110-02   8   
+  3 Laura Oh                     Lafayette               33.23m     109-00   6   
+  4 Rachel Pena                  Lafayette               32.30m     106-00   4   
+  5 Tyler Clore                  Moravian                31.62m     103-09   2   
+  6 Jessica Thimmel              Muhlenberg              30.60m     100-05   1   
+  7 Chinwe Igwe                  Rider                   30.31m      99-05 
+  8 Jenny Kratch                 Moravian                30.18m      99-00 
+  9 Jackie Finnegan              Moravian                29.57m      97-00 
+ 10 Sarah Talmadge               Lafayette               29.26m      96-00 
+ 11 Rhea Phipps                  Rider                   29.18m      95-09 
+ 12 Skylar Carmody               East Strouds            28.20m      92-06 
+ 13 Erin Saucier                 Muhlenberg              27.83m      91-04 
+ -- Alysha Menzies               East Strouds              FOUL            
+ 
+Women Hammer Throw
+=================================================================================
+     D1 ECAC: E 51.00m  2014                                                   
+     D3 ECAC: A 43.50m  2014                                                   
+    Name                    Year School                  Finals            Points
+=================================================================================
+  1 Rachel Pena                  Lafayette               56.82mE    186-05  10   
+  2 Rhea Phipps                  Rider                   50.32mA    165-01   8   
+  3 Sarah Talmadge               Lafayette               43.38m     142-04   6   
+  4 Jenny Kratch                 Moravian                42.21m     138-06   4   
+  5 Chinwe Igwe                  Rider                   40.44m     132-08   2   
+  6 Laura Oh                     Lafayette               37.94m     124-06   1   
+  7 Alysha Menzies               East Strouds            35.52m     116-06 
+  8 Skylar Carmody               East Strouds            33.73m     110-08 
+  9 Tyler Clore                  Moravian                26.10m      85-07 
+ -- Elizabeth Madden             East Strouds              FOUL            
+ -- Jackie Finnegan              Moravian                  FOUL            
+ 
+Women Javelin Throw
+=================================================================================
+     D1 ECAC: E 41.40m  2014                                                   
+     D3 ECAC: A 36.00m  2014                                                   
+    Name                    Year School                  Finals            Points
+=================================================================================
+  1 Allyx Hunsberger             Lafayette               38.20mA    125-04  10   
+  2 Victoria Elefther            East Strouds            34.10m     111-10   8   
+  3 Jaimie Sheppard              Lafayette               31.05m     101-10   6   
+  4 Maria Sassane                East Strouds            30.34m      99-06   4   
+  5 Karlee Corvasce              Moravian                28.92m      94-10   2   
+  6 Bonnie Malhotra              Lafayette               26.56m      87-02   1   
+ -- Brooke Zimmerman             East Strouds              FOUL            
+ 
+Men 100 Meter Dash
+===============================================================================
+     D1 IC4A: C 10.85  2014                                                    
+     D3 ECAC: A 11.05  2014                                                    
+    Name                    Year School                  Finals  Wind H# Points
+===============================================================================
+  1 David Robinson               Lafayette                11.50   3.0  1  10   
+  2 Keith Parker-Washington      East Strouds             11.64   3.0  1   8   
+  3 Jeffrey Herring              East Strouds             11.71   3.0  1   6   
+  4 Lamont Higgins               Rider                    11.75   3.0  1   4   
+  5 Anthony DeFranco             Rider                    11.82   3.0  1   2   
+  6 Austin Gardener              Moravian                 11.86   3.0  1   1   
+  7 Cody Geyer                   Muhlenberg               12.08   2.8  2 
+  8 Erik Adamcik                 Rider                    12.17   2.8  2 
+  9 Marcus Vilme                 Lafayette                12.18   3.0  1 
+ 10 Adam Schutsky                Rider                    12.28   2.8  2 
+ 11 Jamil Poole                  Moravian                 12.31   2.8  2 
+ 12 Michael Schwarz              Muhlenberg               12.64   2.8  2 
+ 13 Jesse Deffler                Muhlenberg               12.79   2.8  2 
+ 
+Men 200 Meter Dash
+===============================================================================
+     D1 IC4A: C 21.80  2014                                                    
+     D3 ECAC: A 22.30  2014                                                    
+    Name                    Year School                  Finals  Wind H# Points
+===============================================================================
+  1 Jarrel Bobb                  Lafayette                22.77  -1.8  1  10   
+  2 Jeffrey Herring              East Strouds             23.24  -1.8  1   8   
+  3 Steven Morgan                East Strouds             23.46  -1.8  1   6   
+  4 Kevin Barry                  St. Joseph's             23.72  -1.8  1   4   
+  5 Austin Gardener              Moravian                 23.98  -1.8  1   2   
+  6 Preston Bejabeng             Lafayette                24.21  -1.8  1   1   
+  7 Brandon Ossont               St. Joseph's             24.53  -3.4  2 
+  8 Adam Schutsky                Rider                    24.68  -1.8  1 
+  9 Andrew Kristofick            Lafayette                25.01  -1.8  1 
+ 10 Nic Marinaro                 Lafayette                25.11  -3.4  2 
+ 11 Jamil Poole                  Moravian                 25.38  -3.4  2 
+ 12 Matt Wilichowski             Lafayette                25.74  -3.4  2 
+ 
+Men 400 Meter Dash
+==========================================================================
+     D1 IC4A: C 48.50  2014                                                    
+     D3 ECAC: A 50.10  2014                                                    
+    Name                    Year School                  Finals  H# Points
+==========================================================================
+  1 Robert Banks                 St. Joseph's             49.58A  1  10   
+  2 Peter Larmann                St. Joseph's             49.76A  1   8   
+  3 Eddison Gulama               St. Joseph's             50.07A  1   6   
+  4 Darien Edwards               Rider                    50.38   1   4   
+  5 Kevin Barry                  St. Joseph's             51.75   1   2   
+  6 Christopher Reubel           Rider                    52.10   3   1   
+  7 John Ciavardelli             Lehigh                   52.27   2 
+  8 Tyler Dwyer                  Moravian                 52.47   2 
+  9 David Furman                 St. Joseph's             52.50   2 
+ 10 Andy Arencibia               St. Joseph's             52.64   3 
+ 11 Darnell Davis                Muhlenberg               52.85   4 
+ 12 Robert Garvey                East Strouds             53.07   1 
+ 13 Kendall Kirkland             Rider                    53.18   2 
+ 14 Andrew Kristofick            Lafayette                53.72   2 
+ 15 Marquise Bourgeois           Moravian                 53.96   4 
+ 16 Preston Bejabeng             Lafayette                53.97   3 
+ 17 Brandon Ossont               St. Joseph's             54.21   3 
+ 18 Jonathan Marrero             Muhlenberg               54.42   2 
+ 19 Jake Ullman                  Muhlenberg               54.47   3 
+ 20 Nic Marinaro                 Lafayette                55.26   3 
+ 21 Gavin Bailey                 Moravian                 55.67   2 
+ 22 Max Suitovsky                Muhlenberg               55.70   3 
+ 
+Men 800 Meter Run
+==========================================================================
+     D1 IC4A: C 1:51.80  2014                                                  
+     D3 ECAC: A 1:55.20  2014                                                  
+    Name                    Year School                  Finals  H# Points
+==========================================================================
+  1 Jamie Gentile                St. Joseph's           1:57.05   1  10   
+  2 Brady Deckert                St. Joseph's           1:57.76   1   8   
+  3 Matt Sampson                 Rider                  1:58.78   1   6   
+  4 Derrick Hargwood             Lafayette              1:58.79   1   4   
+  5 Simon Voorhees               Lehigh                 1:59.36   1   2   
+  6 Nicholas Molloy              Lehigh                 1:59.88   1   1   
+  7 Kenneth Wilkinson            Lehigh                 2:00.02   1 
+  8 Jack Magee                   St. Joseph's           2:00.49   1 
+  9 Scott Wood                   Rider                  2:01.43   2 
+ 10 Sebastian Nicewicz           Lehigh                 2:01.74   1 
+ 11 Ryan Vance                   St. Joseph's           2:02.30   2 
+ 12 James Clements               Lehigh                 2:03.63   2 
+ 13 Christian Kuntz              St. Joseph's           2:07.24   2 
+ 14 Sam Ansman                   Moravian               2:25.36   2 
+ 
+Men 1500 Meter Run
+==========================================================================
+     D1 IC4A: C 3:51.00  2014                                                  
+     D3 ECAC: A 3:59.00  2014                                                  
+    Name                    Year School                  Finals  H# Points
+==========================================================================
+  1 Quinn Davis                  St. Joseph's           4:05.36   1  10   
+  2 Thomas Day                   Lafayette              4:06.02   1   8   
+  3 Andrew Morra                 Lafayette              4:08.75   1   6   
+  4 Derek Lake                   Rider                  4:10.07   1   4   
+  5 Daniel Reilly                Lehigh                 4:11.17   1   2   
+  6 Jimmy Daniels                St. Joseph's           4:11.74   1   1   
+  7 Eric Stahl                   Lehigh                 4:11.89   2 
+  8 Cory Taggert                 Moravian               4:13.09   1 
+  9 Mike Rankin                  St. Joseph's           4:13.35   1 
+ 10 Tom McLaughlin               Rider                  4:14.98   1 
+ 11 Joshua Elkan                 Muhlenberg             4:16.09   2 
+ 12 Chris Ott                    East Strouds           4:16.30   1 
+ 13 Andrew Mitchell              Moravian               4:16.41   2 
+ 14 John Egan                    St. Joseph's           4:18.80   2 
+ 15 Alec Duncan                  Moravian               4:18.97   1 
+ 16 Zachary Talbert              East Strouds           4:21.39   2 
+ 17 Scott Baker                  Lafayette              4:23.84   2 
+ 18 Jarrett Felix                Muhlenberg             4:23.85   2 
+ 19 Zach Lifman                  Muhlenberg             4:31.61   2 
+ 20 Alex Fox                     Muhlenberg             4:41.20   2 
+ 21 Jason Leitmeyer              Muhlenberg             4:56.38   2 
+ 22 Corey Schauerman             Moravian               5:02.42   2 
+ 
+Men 3000 Meter Run
+==========================================================================
+    Name                    Year School                  Finals  H# Points
+==========================================================================
+  1 Chris Schneider              East Strouds           8:46.82   1  10   
+  2 Dillon Farrell               Moravian               8:48.51   1   8   
+  3 Jonathan Mazzio              St. Joseph's           8:52.48   1   6   
+  4 Patrick Donnelly             St. Joseph's           8:52.58   1   4   
+  5 Ryan Cooney                  Lehigh                 8:55.93   1   2   
+  6 Stephen Sroka                Muhlenberg             8:56.17   1   1   
+  7 Kyle Leonard                 Lehigh                 8:56.53   1 
+  8 Andrew Warshauer             Lafayette              9:01.77   1 
+  9 Luke Munyan                  Muhlenberg             9:02.05   1 
+ 10 Salman Khalid                Rider                  9:04.44   1 
+ 11 Kevin Smith                  Lafayette              9:05.85   2 
+ 12 Andrew Haff                  Lafayette              9:06.36   1 
+ 13 Charlie Kline                Muhlenberg             9:07.73   1 
+ 14 Nicholas Ward                Lehigh                 9:11.25   1 
+ 15 Casey Gilboy                 Lehigh                 9:11.28   2 
+ 16 Nicholas Hirdt               Lehigh                 9:13.78   2 
+ 17 Sean Staltari                St. Joseph's           9:18.42   1 
+ 18 Kevin Trimmer                St. Joseph's           9:18.83   2 
+ 19 Alec Lederer                 East Strouds           9:19.76   2 
+ 20 Eric Stahl                   Lehigh                 9:19.96   2 
+ 21 Michael Cassidy              St. Joseph's           9:25.12   2 
+ 22 Anthony Ruiz                 East Strouds           9:27.55   2 
+ 23 Kieran Newcomb               Muhlenberg             9:34.53   2 
+ 24 Zachary Talbert              East Strouds           9:39.42   2 
+ 25 Taylor Piekos                East Strouds           9:47.97   2 
+ 26 Richard Dufresne             Rider                  9:50.84   2 
+ 27 Michael Cassidy              St. Joseph's           9:50.88   2 
+ 28 Sam Brinton                  Lafayette              9:53.13   2 
+ 29 Phil DeFroscia               Rider                  9:54.22   2 
+ 30 Jeremy Rigotti               Moravian               9:56.51   2 
+ 31 Chris Bencivengo             St. Joseph's          10:02.88   2 
+ 32 Alex Sobel                   Moravian              10:13.14   2 
+ 33 Max Korten                   Moravian              10:15.76   2 
+ 
+Men 110 Meter Hurdles
+===============================================================================
+     D1 IC4A: C 14.85  2014                                                    
+     D3 ECAC: A 15.70  2014                                                    
+    Name                    Year School                  Finals  Wind H# Points
+===============================================================================
+  1 Wilfred Asamoah              Rider                    15.64   2.8  1  10   
+  2 Steven Morgan                East Strouds             15.67   2.8  1   8   
+  3 Ronald D'Eliseo              East Strouds             15.73   2.8  1   6   
+  4 Derrick Washington           East Strouds             15.74   2.8  1   4   
+  5 Devon Jefferson              Rider                    16.18   2.8  1   2   
+  6 Adam Robertino               East Strouds             16.36   2.8  1   1   
+  7 Scott Reutter                Muhlenberg               17.59   2.2  2 
+  8 Eric Conard                  East Strouds             17.78   2.2  2 
+  9 Ryan Sickler                 Moravian                 18.19   2.2  2 
+ 10 Kevin Sheldon                Lehigh                   19.38   2.2  2 
+ -- Craig Arner                  Moravian                   DNF   2.8  1 
+ 
+Men 400 Meter Hurdles
+==========================================================================
+     D1 IC4A: C 53.84  2014                                                    
+     D3 ECAC: A 56.25  2014                                                    
+    Name                    Year School                  Finals  H# Points
+==========================================================================
+  1 Tim Shaw                     Lafayette                54.89A  1  10   
+  2 Neil Franzese                Lafayette                55.03A  1   8   
+  3 Torey Doaty                  St. Joseph's             55.66A  1   6   
+  4 Derek Henry                  St. Joseph's             56.05A  1   4   
+  5 Ronald D'Eliseo              East Strouds             56.85   1   2   
+  6 Matt Sutorius                St. Joseph's             57.40   2   1   
+  7 Wilfred Asamoah              Rider                    57.68   1 
+  8 Adam Robertino               East Strouds             59.48   2 
+  9 Nick Beninato                St. Joseph's             59.63   2 
+ 10 Jalen Thomas                 Rider                  1:00.35   2 
+ 11 Garrett Camp                 Rider                  1:01.11   3 
+ 12 Jake Waleski                 Muhlenberg             1:01.45   2 
+ 13 Jordan Sweeney               Moravian               1:05.87   3 
+ 14 Ryan Sickler                 Moravian               1:06.54   3 
+ 15 Scott Reutter                Muhlenberg             1:08.50   3 
+ 16 Mike Hoffman                 Moravian               1:08.58   3 
+ 
+Men 3000 Meter Steeplechase
+=======================================================================
+     D1 IC4A: C 9:15.00  2014                                                  
+     D3 ECAC: A 9:40.00  2014                                                  
+    Name                    Year School                  Finals  Points
+=======================================================================
+  1 Steve Ruch                   East Strouds           9:45.55   10   
+  2 Stephen Keith                Lehigh                 9:57.34    8   
+  3 Bradley Meixsell             East Strouds          10:22.10    6   
+  4 Jaryd Flank                  Muhlenberg            10:30.30    4   
+ 
+Men 4x100 Meter Relay
+=======================================================================
+     D1 IC4A: C 42.50  2014                                                    
+     D3 ECAC: A 43.75  2014                                                    
+    School                                               Finals  Points
+=======================================================================
+ -- Rider  'B'                                              DNF  
+     1) Erik Adamcik                    2) Kyle Bryant                    
+     3) Adam Schutsky                   4) Quintin Robin                  
+ -- Rider  'A'                                              DNF  
+     1) Wilfred Asamoah                 2) David Prater                   
+     3) Anthony DeFranco                4) Lamont Higgins                 
+ -- East Stroudsburg  'A'                                   DNF  
+     1) Seth Bailey                     2) Ronald D'Eliseo                
+     3) Steven Morgan                   4) Keith Parker-Washington        
+ -- Lafayette  'A'                                           DQ   Out of Zone exchange
+     1) David Robinson                  2) Michael Smitelli               
+     3) Marcus Vilme                    4) Jarrel Bobb                    
+ 
+Men High Jump
+=================================================================================
+     D1 IC4A: C 2.04m  2014                                                    
+     D3 ECAC: A 1.93m  2014                                                    
+    Name                    Year School                  Finals            Points
+=================================================================================
+  1 Will Berry                   East Strouds             1.99mA   6-06.25  10   
+  2 Kyle Bryant                  Rider                    1.94mA   6-04.25   8   
+  3 Austin Wiles                 Lafayette               J1.94mA   6-04.25   6   
+  4 Wes Shipp                    Lafayette                1.89m    6-02.25   4   
+  5 Quintin Robin                Rider                    1.79m    5-10.50   2   
+  6 La Treil Ridgeway            East Strouds             1.74m    5-08.50   1   
+  7 Chris Castello               Lafayette               J1.74m    5-08.50 
+  8 Trevor Luck                  Muhlenberg               1.69m    5-06.50 
+  9 Brandon Tauber               Muhlenberg              J1.69m    5-06.50 
+ -- Seth Bailey                  East Strouds                NH            
+ -- Kevin Sheldon                Lehigh                      NH            
+ 
+Men Long Jump
+======================================================================================
+     D1 IC4A: C 7.10m  2014                                                    
+     D3 ECAC: A 6.70m  2014                                                    
+    Name                    Year School                  Finals  Wind           Points
+======================================================================================
+  1 Greg Smith                   Rider                    6.59m   2.1  21-07.50  10   
+  2 Kahron Walker                Moravian                 6.26m   1.4  20-06.50   8   
+  3 Scott Reutter                Muhlenberg               6.12m   2.6  20-01.00   6   
+  4 Chris Ossont                 Moravian                 5.97m   1.6  19-07.00   4   
+  5 Michael Yap                  St. Joseph's             5.96m   2.7  19-06.75   2   
+  6 John Alston                  East Strouds             5.92m   2.1  19-05.25   1   
+  7 Michael Schwarz              Muhlenberg               5.83m   2.2  19-01.50 
+  8 Adam Schutsky                Rider                    5.82m   2.0  19-01.25 
+  9 Kyle Polinski-Frost          Lafayette                5.76m   1.6  18-10.75 
+ 10 David Prater                 Rider                    5.71m   1.6  18-09.00 
+ 11 Kevin Sheldon                Lehigh                   5.57m   2.8  18-03.25 
+ 12 Kyle Hagerty                 Moravian                 5.50m   1.9  18-00.50 
+ 
+Men Triple Jump
+======================================================================================
+     D1 IC4A: C 14.50m  2014                                                   
+     D3 ECAC: A 13.50m  2014                                                   
+    Name                    Year School                  Finals  Wind           Points
+======================================================================================
+  1 Kyle Bryant                  Rider                   13.75m   3.2  45-01.50  10   
+  2 Chris Ossont                 Moravian                12.89m   3.0  42-03.50   8   
+  3 Prince Charles Yakubu        St. Joseph's            12.07m   1.8  39-07.25   6   
+  4 La Treil Ridgeway            East Strouds            12.02m   2.3  39-05.25   4   
+ 
+Men Shot Put
+=================================================================================
+     D1 IC4A: C 15.80m  2014                                                   
+     D3 ECAC: A 14.20m  2014                                                   
+    Name                    Year School                  Finals            Points
+=================================================================================
+  1 George Solujich              Rider                   15.47mA  50-09.25  10   
+  2 Charles Wilks                Rider                   13.96m   45-09.75   8   
+  3 George Osti                  Rider                   13.15m   43-01.75   6   
+  4 Andrew Pozo                  Rider                   13.14m   43-01.50   4   
+  5 Jacob Fritz                  Moravian                13.11m   43-00.25   2   
+  6 Mac Maguire                  Lafayette               13.10m   42-11.75   1   
+  7 Patrick Corcoran             Lafayette               13.07m   42-10.75 
+  8 Jordan Kain                  East Strouds            12.88m   42-03.25 
+  9 Parker Munson                Moravian                12.81m   42-00.50 
+ 10 Ljuboslav Boskic             Moravian                12.66m   41-06.50 
+ 11 Kyle Kersting                Moravian                11.69m   38-04.25 
+ 12 Daniel Cano                  Muhlenberg              11.66m   38-03.25 
+ 13 John Alston                  East Strouds            10.44m   34-03.00 
+ -- Nick Weiss                   Rider                     FOUL            
+ -- Andrew Loehwing              Moravian                  FOUL            
+ 
+Men Discus Throw
+=================================================================================
+     D1 IC4A: C 47.50m  2014                                                   
+     D3 ECAC: A 43.60m  2014                                                   
+    Name                    Year School                  Finals            Points
+=================================================================================
+  1 George Solujich              Rider                   45.10mA    147-11  10   
+  2 Charles Wilks                Rider                   44.02mA    144-05   8   
+  3 Juannell Riley               Lafayette               41.53m     136-03   6   
+  4 Daniel Cano                  Muhlenberg              40.89m     134-02   4   
+  5 Andrew Pozo                  Rider                   40.08m     131-06   2   
+  6 George Osti                  Rider                   38.99m     127-11   1   
+  7 Parker Munson                Moravian                38.90m     127-07 
+  8 Levi Haldeman                East Strouds            38.72m     127-00 
+  9 Greg Cahill                  Moravian                37.00m     121-05 
+ 10 Mac Maguire                  Lafayette               36.83m     120-10 
+ 11 Frank Yannotta               Moravian                34.01m     111-07 
+ 
+Men Hammer Throw
+=================================================================================
+     D1 IC4A: C 53.00m  2014                                                   
+     D3 ECAC: A 48.00m  2014                                                   
+    Name                    Year School                  Finals            Points
+=================================================================================
+  1 Juannell Riley               Lafayette               53.37mC    175-01  10   
+  2 Mac Maguire                  Lafayette               51.72mA    169-08   8   
+  3 Andrew Pozo                  Rider                   51.16mA    167-10   6   
+  4 Mike Smith                   East Strouds            50.95mA    167-02   4   
+  5 George Osti                  Rider                   49.20mA    161-05   2   
+  6 Patrick Corcoran             Lafayette               47.10m     154-06   1   
+  7 Casey Ciaston                East Strouds            44.82m     147-00 
+  8 Joe Vicini                   Rider                   43.81m     143-09 
+  9 George Solujich              Rider                   42.51m     139-06 
+ 10 Jordan Kain                  East Strouds            41.67m     136-08 
+ 11 Nick Weiss                   Rider                   40.71m     133-07 
+ 12 Jeffrey Gallagher            Moravian                40.30m     132-03 
+ 13 Matt Jones                   Moravian                39.75m     130-05 
+ 14 Kyle Kersting                Moravian                37.33m     122-06 
+ -- Levi Haldeman                East Strouds              FOUL            
+ 
+Men Javelin Throw
+=================================================================================
+     D1 IC4A: C 58.70m  2014                                                   
+     D3 ECAC: A 55.50m  2014                                                   
+    Name                    Year School                  Finals            Points
+=================================================================================
+  1 Chris Luna                   Lafayette               56.16mA    184-03  10   
+  2 Thomas Freid                 East Strouds            55.59mA    182-04   8   
+  3 Eric Conard                  East Strouds            52.05m     170-09   6   
+  4 Alex Van Hoof                Lafayette               48.63m     159-06   4   
+  5 Mike Moralle                 Lafayette               48.37m     158-08   2   
+  6 Collin Owen                  Lafayette               47.74m     156-07   1   
+  7 Billy Stahlman               East Strouds            47.73m     156-07 
+ 
+                    Women - Team Rankings - 17 Events Scored
+===============================================================================
+    1) Lafayette                  152        2) East Stroudsburg           98   
+    3) Rider                       84        4) St. Joseph's (Pa.)         53   
+    5) Muhlenberg                  45        6) Lehigh                     34   
+    7) Moravian                    31        8) Colgate                    26   
+ 
+                    Men - Team Rankings - 17 Events Scored
+===============================================================================
+    1) Rider                      120        2) Lafayette                 110   
+    3) East Stroudsburg           109        4) St. Joseph's (Pa.)         88   
+    5) Moravian                    33        6) Lehigh                     15   
+    6) Muhlenberg                  15                                           
+
+
+
+

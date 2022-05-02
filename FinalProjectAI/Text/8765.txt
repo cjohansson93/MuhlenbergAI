@@ -1,0 +1,823 @@
+
+
+
+
+
+
+
+Cell Phone and Mobile Device Usage Policy | Muhlenberg College
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Skip to Main Content
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Muhlenberg College
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Visit
+
+
+
+
+
+
+
+
+
+Apply
+
+
+
+
+
+
+
+
+
+Request Info
+
+
+
+
+
+
+
+
+
+Give
+
+
+
+
+
+
+
+
+
+Menu
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Home
+Who We AreCollege OfficesInformation TechnologyAbout ITPolicies and ProceduresCell Phone and Mobile Device Usage Policy 
+
+
+
+
+
+
+Cell Phone and Mobile Device Usage Policy
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Cell Phone and Mobile Device Usage Policy
+
+
+
+
+
+
+
+
+
+
+
+Cell Phone and Mobile Device Usage PolicyCloud StorageComputer Policy for Faculty and StaffElectronic Communications and IT PolicyEmail and Network Account PolicyGuidelines for Strong PasswordsHEOA P2P ComplianceIT Data and Security Privacy PolicyRemote Employee PolicyStudent Laptop Loaner ProgramStudent ResponsibilitiesWeb Privacy Statement
+
+
+
+
+
+
+
+
+
+
+
+Home
+Who We AreCollege OfficesInformation TechnologyAbout ITPolicies and ProceduresCell Phone and Mobile Device Usage Policy 
+
+
+
+
+
+
+
+
+
+
+
+Cell Phone and Mobile Device Usage Policy
+
+Muhlenberg College supports cell phone and mobile device usage and connectivity to our systems both through college-provided phones as well as personal devices (âBYODâ). This policy document governs and delineates the usage of both in terms of personal and business use, as well as security measures to be taken respective to Muhlenberg College data.
+We have taken a number of steps to ensure security of college-owned devices. We utilize Mobile Device Management (MDM) software to provide a high level of security. For personally-owned devices, we have provided a policy governing what security settings should be implemented prior to accessing college systems.
+Requests for a College owned cell phone can only be made by oneâs Director with approval from one's VP. Requests must also be approved by the CIO and CBO.
+College-Provided Phones and Devices
+All college-provided devices run Apple iOS, and we utilize the Jamf Pro Suite for MDM. We have implemented a number of security policies. These include:
+
+Limitations on use of games and entertainment. Services such as YouTube which may be relevant to business use remain available
+Requirement of a 6-digit PIN code for unlocking (other unlock options such as fingerprint (TouchID) or face recognition permitted)
+Enforcement of device encryption
+Requirement of auto-lockout/sleep on devices of 5 minutes
+Limits on cloud backup of photos, files, and passwords
+Remote-wipe capability in the event of device loss or theft
+
+In addition, note that all content and data on college-owned devices belongs to the College. While some personal use is inevitable and to be expected, the device is intended for work purposes only and should be handled accordingly.
+Personally-Owned Devices
+We expect all faculty and staff that use their personal phones and devices to connect to college systems (email, file servers, cloud storage, etc) to take appropriate security measures.
+
+All devices should use a numeric PIN for unlocking. We require 4 digits but 6 digits would be ideal. Other unlock options such as fingerprint (TouchID) should not be used
+Enrollment in available âauto wipeâ service (eg - Find My iPhone for iOS, Android Device Manager for Android)
+Activation of device encryption
+
+We also ask faculty and staff to be sensitive to the types of files they are downloading to their phone, either from email or cloud storage. While it is perhaps inevitable that a covered file is downloaded, efforts should be made to delete that from storage if possible following use.
+ 
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Muhlenberg College
+
+
+
+
+
+
+
+
+
+
+Muhlenberg College
+2400 Chew St.
+Allentown, 
+PA
+18104
+
+
+
+
+
+
+
+484-664-3100
+
+
+
+
+
+
+
+
+Maps & Directions
+
+
+
+
+
+Accessibility
+
+
+
+
+
+Library
+
+
+
+
+Title IX
+
+
+
+
+
+Employment
+
+
+
+
+
+A-Z Index
+
+
+
+
+
+Conference & Event Services
+
+
+
+
+
+Diversity & Inclusion
+
+
+
+
+
+
+Weather Update
+
+
+
+
+
+
+
+
+Social
+
+
+
+
+
+
+
+
+Facebook
+
+
+
+
+
+
+
+
+Instagram
+
+
+
+
+
+
+
+
+Twitter
+
+
+
+
+
+
+
+
+YouTube
+
+
+
+
+
+
+
+
+LinkedIn
+
+
+
+
+
+
+
+
+							©
+													
+ Muhlenberg College
+
+
+
+
+
+
+
+
+
+
+
+Muhlenburg College
+
+
+
+
+
+
+
+
+
+
+Search
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Who We Are
+
+
+
+
+
+
+
+
+
+
+
+Diversity and Inclusion
+
+
+
+
+Institutional Initiatives
+
+
+
+
+Office of the President
+
+
+
+
+College History
+
+
+
+
+Campus Map
+
+
+
+
+Directory Search
+
+
+
+
+
+
+Admissions
+
+
+
+
+
+
+
+
+
+
+
+Explore Your Visit Options
+
+
+
+
+Early Decision
+
+
+
+
+Regular Decision
+
+
+
+
+Transfer Students
+
+
+
+
+International Students
+
+
+
+
+Adult Accelerated & Evening Programs
+
+
+
+
+Graduate Studies
+
+
+
+
+Tuition and Fees
+
+
+
+
+Financial Aid
+
+
+
+
+First-Year Experience
+
+
+
+
+
+
+Academics
+
+
+
+
+
+
+
+
+
+
+
+Majors, Minors & Certifications
+
+
+
+
+Adult Accelerated & Evening Programs
+
+
+
+
+Summer Study
+
+
+
+
+Graduate Programs
+
+
+
+
+Preprofessional Programs
+
+
+
+
+Academic Partnerships
+
+
+
+
+Honors Programs
+
+
+
+
+Global Education
+
+
+
+
+Our Faculty
+
+
+
+
+Research & Scholarship
+
+
+
+
+
+
+Student Life
+
+
+
+
+
+
+
+
+
+
+
+Housing
+
+
+
+
+Dining
+
+
+
+
+Getting Involved
+
+
+
+
+Athletics
+
+
+
+
+Student Services
+
+
+
+
+Health & Wellness
+
+
+
+
+Religious & Spiritual Life
+
+
+
+
+
+
+Powerful Outcomes
+
+
+
+
+
+
+
+
+
+
+
+The Career Center
+
+
+
+
+Fellowships & Postgraduate Awards
+
+
+
+
+The Muhlenberg Network
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Visit
+
+
+
+
+
+
+
+
+
+Apply
+
+
+
+
+
+
+
+
+
+Request Info
+
+
+
+
+
+
+
+
+
+Give
+
+
+
+
+
+
+
+Info For:
+
+
+
+
+Current Students
+
+
+
+
+
+Alumni & Friends
+
+
+
+
+
+Faculty & Staff
+
+
+
+
+
+Parents
+
+
+
+
+
+
+
+
+
+News
+
+
+
+
+
+Events
+
+
+
+
+
+Athletics
+
+
+
+
+Arts
+
+
+
+
+
+
+
+
+COVID-19 Info
+
+
+
+ 
+ 
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

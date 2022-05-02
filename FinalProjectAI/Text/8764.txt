@@ -1,0 +1,846 @@
+
+
+
+
+
+
+
+Guidelines for Strong Passwords | Muhlenberg College
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Skip to Main Content
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Muhlenberg College
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Visit
+
+
+
+
+
+
+
+
+
+Apply
+
+
+
+
+
+
+
+
+
+Request Info
+
+
+
+
+
+
+
+
+
+Give
+
+
+
+
+
+
+
+
+
+Menu
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Home
+Who We AreCollege OfficesInformation TechnologyAbout ITPolicies and ProceduresGuidelines for Strong Passwords 
+
+
+
+
+
+
+Guidelines for Strong Passwords
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Guidelines for Strong Passwords
+
+
+
+
+
+
+
+
+
+
+
+Cell Phone and Mobile Device Usage PolicyCloud StorageComputer Policy for Faculty and StaffElectronic Communications and IT PolicyEmail and Network Account PolicyGuidelines for Strong PasswordsHEOA P2P ComplianceIT Data and Security Privacy PolicyRemote Employee PolicyStudent Laptop Loaner ProgramStudent ResponsibilitiesWeb Privacy Statement
+
+
+
+
+
+
+
+
+
+
+
+Home
+Who We AreCollege OfficesInformation TechnologyAbout ITPolicies and ProceduresGuidelines for Strong Passwords 
+
+
+
+
+
+
+
+
+
+
+
+Guidelines for Strong Passwords
+Originally prepared May 9, 2016Credit to Lafayette College ITS "Guidelines for Strong Passwords" for much of this content. Updated Dec 6, 2021
+The Office of IT (OIT) requires that passwords used to access any Muhlenberg College system be strong. It is advisable that all passwords used to access any system, even those not associated with Muhlenberg (e.g. Facebook, Google), be strong.
+Strong passwords are difficult to guess by either a person or a machine (through brute-force methods).  A number of characteristics of strong passwords are listed below. The more one includes in any given password, the stronger it will be.
+CHARACTERISTICS OF STRONG PASSWORDS
+
+At least 12 characters (required for your Muhlenberg password)âthe more characters, the better
+A mixture of both uppercase and lowercase letters
+A mixture of letters and numbers 
+Inclusion of at least one special character, e.g., ! @ # ? ]
+
+Note: do not use < or > in your password, as both can cause problems in Web browsers
+A strong password is hard to guess, but it should be easy for you to rememberâa password that has to be written down is not strong, no matter how many of the above characteristics are employed.
+All Muhlenberg systems can support strong passwords based on the characteristics above. However, some outside systems may not support all of the above characteristics. For example, a system may not recognize case, may have a limit on the number of characters, or may not allow special characters.  OIT recommends that in these situations users incorporate as many strong password characteristics as the system will allow.
+
+EXAMPLES OF WEAK PASSWORDS
+
+Any word that can be found in a dictionary, in any language (e.g., airplane or aeroplano).
+A dictionary word with some letters simply replaced by numbers (e.g., a1rplan3 or aer0plan0).
+A repeated character or a series of characters (e.g., AAAAA or 12345).
+A keyboard series of characters (e.g., qwerty or poiuy).
+Personal information (e.g., birthdays, names of pets or friends, Social Security number, addresses).
+
+TIPS FOR KEEPING YOUR PASSWORD SECURE
+
+Change it regularlyâonce every three to six months.
+Change it if you have the slightest suspicion that the password has become known by a human or a machine.
+Avoid typing it on computers that you do not trust; for example, in an Internet cafÃ©.
+Never save it for a web form on a computer that you do not control or that is used by more than one person.
+Never tell it to anyone.
+Never write it down.
+
+TIPS FOR CREATING A STRONG PASSWORD
+
+Think of a word or phrase, and then substitute the letters with numbers and special characters and mix the case. For example,
+
+Snoopy and Woodstock becomes Sno0py&ws
+In the dog house becomes !nTh3dawgHs
+Letâs have dinner at 8:00 p.m. becomes Lhd@800pm
+
+
+Think of a word and a number, then intermix them and mix the case. For example, your elementary school name (Main Street Elementary) and your petâs birth month and year (12/96) becomes m1A2/i9n6
+
+MULTI-FACTOR AUTHENTICATION
+Where available, OIT strongly recommends the use of multi-factor authentication (MFA). MFA requires a 2nd element â usually a pin code sent via text or a special mobile app â for login. Many popular services including Google, Amazon and Twitter support multi-factor authentication.
+Our Application Portal requires a second factor for off campus access, and always for some departments.
+If you ever receive a request for or notification of an MFA 2nd element without your knowledge, immediately change the password for that service. Such a request or notification indicates someone is trying to access your account, and already has the password.
+PASSWORD MANAGERS
+Using a service to manage your passwords and remember login credentials provides an easy way to incorporate the use of strong, unique passwords. There are many password managers in the marketplace such as LastPass and LogMeOnce.  While it is not institutionally required, we highly recommend the use of one. Remembering a long list of strong, unique passwords is not an easy feat. Password managers are a great tool for encrypting your login credentials in a secure location. 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Muhlenberg College
+
+
+
+
+
+
+
+
+
+
+Muhlenberg College
+2400 Chew St.
+Allentown, 
+PA
+18104
+
+
+
+
+
+
+
+484-664-3100
+
+
+
+
+
+
+
+
+Maps & Directions
+
+
+
+
+
+Accessibility
+
+
+
+
+
+Library
+
+
+
+
+Title IX
+
+
+
+
+
+Employment
+
+
+
+
+
+A-Z Index
+
+
+
+
+
+Conference & Event Services
+
+
+
+
+
+Diversity & Inclusion
+
+
+
+
+
+
+Weather Update
+
+
+
+
+
+
+
+
+Social
+
+
+
+
+
+
+
+
+Facebook
+
+
+
+
+
+
+
+
+Instagram
+
+
+
+
+
+
+
+
+Twitter
+
+
+
+
+
+
+
+
+YouTube
+
+
+
+
+
+
+
+
+LinkedIn
+
+
+
+
+
+
+
+
+							©
+													
+ Muhlenberg College
+
+
+
+
+
+
+
+
+
+
+
+Muhlenburg College
+
+
+
+
+
+
+
+
+
+
+Search
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Who We Are
+
+
+
+
+
+
+
+
+
+
+
+Diversity and Inclusion
+
+
+
+
+Institutional Initiatives
+
+
+
+
+Office of the President
+
+
+
+
+College History
+
+
+
+
+Campus Map
+
+
+
+
+Directory Search
+
+
+
+
+
+
+Admissions
+
+
+
+
+
+
+
+
+
+
+
+Explore Your Visit Options
+
+
+
+
+Early Decision
+
+
+
+
+Regular Decision
+
+
+
+
+Transfer Students
+
+
+
+
+International Students
+
+
+
+
+Adult Accelerated & Evening Programs
+
+
+
+
+Graduate Studies
+
+
+
+
+Tuition and Fees
+
+
+
+
+Financial Aid
+
+
+
+
+First-Year Experience
+
+
+
+
+
+
+Academics
+
+
+
+
+
+
+
+
+
+
+
+Majors, Minors & Certifications
+
+
+
+
+Adult Accelerated & Evening Programs
+
+
+
+
+Summer Study
+
+
+
+
+Graduate Programs
+
+
+
+
+Preprofessional Programs
+
+
+
+
+Academic Partnerships
+
+
+
+
+Honors Programs
+
+
+
+
+Global Education
+
+
+
+
+Our Faculty
+
+
+
+
+Research & Scholarship
+
+
+
+
+
+
+Student Life
+
+
+
+
+
+
+
+
+
+
+
+Housing
+
+
+
+
+Dining
+
+
+
+
+Getting Involved
+
+
+
+
+Athletics
+
+
+
+
+Student Services
+
+
+
+
+Health & Wellness
+
+
+
+
+Religious & Spiritual Life
+
+
+
+
+
+
+Powerful Outcomes
+
+
+
+
+
+
+
+
+
+
+
+The Career Center
+
+
+
+
+Fellowships & Postgraduate Awards
+
+
+
+
+The Muhlenberg Network
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Visit
+
+
+
+
+
+
+
+
+
+Apply
+
+
+
+
+
+
+
+
+
+Request Info
+
+
+
+
+
+
+
+
+
+Give
+
+
+
+
+
+
+
+Info For:
+
+
+
+
+Current Students
+
+
+
+
+
+Alumni & Friends
+
+
+
+
+
+Faculty & Staff
+
+
+
+
+
+Parents
+
+
+
+
+
+
+
+
+
+News
+
+
+
+
+
+Events
+
+
+
+
+
+Athletics
+
+
+
+
+Arts
+
+
+
+
+
+
+
+
+COVID-19 Info
+
+
+
+ 
+ 
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

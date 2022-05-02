@@ -1,0 +1,909 @@
+
+
+
+
+
+
+
+Research Talk | Muhlenberg College
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Skip to Main Content
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Muhlenberg College
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Visit
+
+
+
+
+
+
+
+
+
+Apply
+
+
+
+
+
+
+
+
+
+Request Info
+
+
+
+
+
+
+
+
+
+Give
+
+
+
+
+
+
+
+
+
+Menu
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Home
+AcademicsMajors, Minors & CertificationsPsychologyResearch Talk 
+
+
+
+
+
+
+Research Talk
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Research Talk
+
+
+
+
+
+
+
+
+
+
+
+Student PortalFacultyResearch CollaborationExperiential LearningMission Major RequirementsFacilitiesAlumni Senior Thesis
+
+
+
+
+
+
+
+
+
+
+
+Home
+AcademicsMajors, Minors & CertificationsPsychologyResearch Talk 
+
+
+
+
+
+
+
+
+
+
+
+Giving an Empirical Presentation in Psychology
+ 
+What is described below is a presentation about an empirical project. The presentation is assumed to be 15 minutes long, with 3-5 of those minutes left for questions. While each presentation will differ by topic, methodology, etc., these are some general guidelines for âstandardâ psychology talks. This 15 minute format is common at undergraduate conferences, and common for short "Hot Topic" presentations at professional conferences.
+
+Length
+Your presentation should be no longer than 10-12 minutes, leaving 3-5 minutes for questions. Within that time frame, the following format is often appropriate:
+
+
+Introduction & Method: 4 minutes
+Results & Discussion: 6 minutes
+
+
+These suggestions depend heavily on the theoretical and/or methodological complexity of your project. 
+ 
+Content
+Unlike your written work where you are asked to provide a great deal of detail, and (in particular) an extensive literature review, a talk is a summary of your work. As painful as it may be to NOT discuss certain literature or, even, certain hypotheses or questionnaires included in your research, you need to figure out what your main/most important point in your research is and just present that. In general, you want to be precise, but present only the basic information that is needed to understand what you did, why you did it, what you found, and why that matters.
+ General guidelines:
+
+Introduction: This should be very focused background information briefly citing key studies leading up to your main hypothesis. As succinctly as possible, you want to tell the audience âhere is what we knowâ and âhere is the gap my project fills.â That being said, make your opening sentence an interesting question or dilemma about human nature/peopleâ¦ try to capture interest in the first sentence. Note, in many ways you are telling a story.
+
+Your visuals (e.g., PowerPoint slides) for the Introduction should have simple bullet points which refer to the topic. Do not use the author, date citations as your bullet points. You may put the author and date citations in smaller font on the visual, but keep the major outline points directed toward the content of your talk, not its sources.
+
+
+Method: In general you should just be presenting the basics here â you can always answer questions about extraneous details at the end if people are curious. The basics do include, however, a quick run down of # of subjects, relevant demographics, etc.
+
+Your goal is to be clear and concise, so you should feel a bit of freedom to organize this section in whatever way seems to tell the best story. (Note, an audience at an oral presentation may have trouble remembering long, complex methodological procedures by the time you get to results.)
+In addition to the basics, you might (depending on your project) want to set up any big qualifications or holes you think people will see in your data (e.g., spend extra time talking about the poor internal consistency of a particular questionnaire). You can follow up this set up in the discussion.
+
+
+Results & Discussion: Often there is not a sharp line between results and discussion. A listening audience canât keep track of more than one or two results at a time and may forget what you found by the time you get to discussion. So, feel free to have what feels like a normal conversation and discuss each result as you present it or a cluster of inter-related statistical results. Include statistical information (e.g., significance, effect sizes), but you should not read every word of the statistical findings out loud. Do point out relevant aspects of the statistics (e.g., note an effect size if it is especially small or large; review the means for an interaction). Where possible, use a figure (graph) or a table.
+
+For example,
+
+DON'T:  "Our F value was 3.45 and our p value was .03. The mean for Protestants was 5.56, the mean for Catholics was 4.58, the mean for Rastafarians was...."
+DO: "We found main effect for religion. As you can see from this figure, Protestants scored higher than Catholics, but lower than Rastafarians. We think this is interesting because it suggests that...."
+
+
+
+
+Discussion: You should eventually wind your way to a pure discussion section.
+
+At that time do one or more of the following:
+
+note and discuss possible alternative explanations or limitations for your significant findings
+note and discuss possible explanations for non-significant findings (consider: could it statistical (e.g., low power), methodological (e.g., did you use an effective scale/measure), conceptual (e.g., re-examine the support for your hypothesis)
+note and discuss how your results add to or change the existing literature
+note and discuss the direction future research could take
+
+
+When discussing limitations, DO NOT downplay the quality of your research. We talk about problems/alternative explanations for our own research because a psychologist holds an opinion only as long as the evidence supports it, and is always open to new evidence. Thus, if your results didn't turn out as hypothesized, your job is to discuss what could have caused the gap between your reasoning and your results. If your results did support the hypothesis, you donât want to seem clueless about potential problems with your conclusions or the limits of what one can infer from your findings. Do not undercut your work when you discuss possible problems. Also, do not list every single limitation. Remember you are telling an abbreviated story: stick to the most important or obvious issues.
+No matter what you talk about in the discussion, try to end up tying your talk back to the opening of your introduction.
+
+
+Extra Information:  Have a page with extra information handy (e.g., descriptive statistics, or âfollow-upâ analyses). You wonât present these things, but it is impressive when you can answer a question quickly with a precise finding.
+
+ 
+Visuals 
+
+You probably want to use a presentation tool like PowerPoint to guide the audience through your talk and/or communicate key information more clearly with visuals (e.g., graphs or images).
+LESS = MORE. A "kiss of death" mistake is to write complete sentences on your slides and read them out loud during the presentation. Put the text of what you want to say in your notes. On the slides, use bullet points and phrases. Do not put every last thought on a slide, no need for complete sentences, and do not list and excessive number of citations. An audience should be able to âlook atâ your slide. If they must âreadâ it, they will stop listening to you and ultimately get lost. If you do put up detailed information, be sure to give your audience enough time to examine it. 
+Try for the biggest font you can on each slide. Minimum font size: 24pt. Bigger is better.
+Use a dark background with light font or a light background with dark font. Go for maximum contrast. What you see on your computer screen often looks very different on a large projection screen, so keep it basic.
+Your visuals should be attractive, but professionally attractive. In other words, no flowers or hearts, no excessive colors, the same font and background should be used for all slides, and be very very careful with clip art or photographs that are not directly relevant to your study. A bit of humor can be nice, but it should not be distracting. No decorative animations or gifs. Watch out for presentation templates that have sounds.
+Think about how you will access your presentation at the venue. For example, will you need to login to Google? Do you have 2-factor authentication meaning you'll need to get a text before you can login? Is there time for all of that? If you emailed the presentation to yourself, is there anything in your email you would not want a room full of people seeing? Macbook users: if you want to connect your own laptop, do you have the right connector? Ask the conference organizers what you can expect. Try to bring a copy of your presentation in multiple formats - perhaps a USB drive and email it to yourself. Also, be ready to give your presentation without the slides. Computers and projectors break, USB drives fail, internet connections go on the fritz - you just never know. Have print outs of graphs/figures and consider writing them on a chalkboard or whiteboard if needed.
+
+A typical talk should probably have the following visuals:
+
+Titleâ one slide with the title, your name(s) and your college.
+Introduction â perhaps one slide per major point/study variable.
+Method â often you just need two or three methods slides unless your procedure is complex. You should include example items for surveys. If you have a factorial experiment, consider putting up the grid to help your audience conceptualize the study. Tip: sometimes speakers put # of subjects, relevant demographics, basic descriptive statistics, etc. on a slide, but then just summarize the information out loud. Although you would not typically want to put something on a slide and not talk about it, in this instance it is a nice way to both save time and show that you did assess all those little details. If you do this, be certain you leave enough time for the audience to see the information.
+Results â you will probably have several results slides. Graphs and figures are best. Tables are okay. In general, remember the guideline that audience members should be able to "look at" your slides rather than "read" them. Try to be as true to that as possible with statistical results. You can put significance levels, F or t values, etc. in smaller font on these slides. Often one slide per statistical test helps the audience keep track as you move through multiple findings.
+Discussion - often just two or three slides is enough. 
+
+ 
+Answering Questions
+âI donât know.â Say it now, out loud. In fact, you will know âtheâ answer, or âanâ answer (or that fact that there is no answer) to most questions you are asked. However, âI donât knowâ is also a perfectly legitimate response. Your honesty will be appreciated more than posturing. However, there are multiple ways to say âI donât knowâ including:
+
+
+âThatâs an interesting question. What do you think?â
+âI havenât considered that option, Iâll have to think about that â thank you for the suggestion.â (Then write down whatever they said if you actually think it has merit).
+
+
+ When you âkind ofâ understand what they are askingâ¦
+
+
+âIâm not sure I understand exactly what you are asking â could you say that again?â
+âIâm not sure I am completely following your question, but let me say this and see if it addresses the problemâ¦â [follow with information you think is related; then ask them if that addressed their point].
+âIâm not actually familiar with Theory X, but this may speak to your general pointâ¦â [follow with information related to their question].
+
+
+SILENCE is not your enemy. Remember, you are the expert who has read all the literature and spent time thinking about your topic. It is perfectly legitimate to listen to a question, pause, breathe, think about all that stuff you know and then respond. Your more thoughtful response will be appreciated.
+ 
+Additional Tips
+
+PRACTICE, PRACTICE, PRACTICE!
+Don't assume your audience has much knowledge of your topic, but you can assume a basic understanding of scientific research, hypothesis-testing, etc.
+Presenters often put their speaker notes on stapled pages of paper rather than note cards (or use the Presenter Notes feature in PowerPoint or other presentation programs). The use of pages rather than note cards emphasizes the collegial tone of most psychology presentations; i.e., you are sharing information, not dictating a speech.
+A "kiss of death" mistake is to write complete sentences on your slides and them read them aloud. Put the text of what you want to say in your notes. Then, try to avoid reading those notes directly from the page. However, if you are very nervous, it is better to read than to stumble and not know what to say. If you do read your talk, follow two tips:
+
+Make eye contact with the audience occasionally. If you have to, actually write in your notes: "LOOK UP,"  then highlight that spot so you can find your place on the page easily when you look back down.
+Try to avoid SOUNDING like you are reading. Practice enough that you can give an engaging read with inflection, pauses, etc. Go slow, breathe.
+
+
+When referring to something up on a slide (e.g., pointing out one bar on a bar graph), consider walking to the screen and pointing at the screen (if possible).
+Practice working with the visuals: what you want to point at, when you advance to the next slide.
+PRACTICE, PRACTICE, PRACTICE
+Dress professionally but be comfortable (psychology conferences are often "business casual" type events). Go ahead and take the time/effort to pick out an outfit you feel confident and comfortable in. After youâve done that, you can then forget about what you are wearing and focus on the important stuff.
+PRACTICE, PRACTICE, PRACTICE
+RELAX! Think of your audience as consisting of people who are simply interested in what you did and what you found, not a group of people who are evaluating YOU. This is, in fact, the truth about audiences at most psychology presentations.
+Be confident! You know your project better than anyone else in the room. You are the expert. This is your chance to show off your excellent work!
+
+ Click here for advice on poster presentations.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Muhlenberg College
+
+
+
+
+
+
+
+
+
+
+Muhlenberg College
+2400 Chew St.
+Allentown, 
+PA
+18104
+
+
+
+
+
+
+
+484-664-3100
+
+
+
+
+
+
+
+
+Maps & Directions
+
+
+
+
+
+Accessibility
+
+
+
+
+
+Library
+
+
+
+
+Title IX
+
+
+
+
+
+Employment
+
+
+
+
+
+A-Z Index
+
+
+
+
+
+Conference & Event Services
+
+
+
+
+
+Diversity & Inclusion
+
+
+
+
+
+
+Weather Update
+
+
+
+
+
+
+
+
+Social
+
+
+
+
+
+
+
+
+Facebook
+
+
+
+
+
+
+
+
+Instagram
+
+
+
+
+
+
+
+
+Twitter
+
+
+
+
+
+
+
+
+YouTube
+
+
+
+
+
+
+
+
+LinkedIn
+
+
+
+
+
+
+
+
+							©
+													
+ Muhlenberg College
+
+
+
+
+
+
+
+
+
+
+
+Muhlenburg College
+
+
+
+
+
+
+
+
+
+
+Search
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Who We Are
+
+
+
+
+
+
+
+
+
+
+
+Diversity and Inclusion
+
+
+
+
+Institutional Initiatives
+
+
+
+
+Office of the President
+
+
+
+
+College History
+
+
+
+
+Campus Map
+
+
+
+
+Directory Search
+
+
+
+
+
+
+Admissions
+
+
+
+
+
+
+
+
+
+
+
+Explore Your Visit Options
+
+
+
+
+Early Decision
+
+
+
+
+Regular Decision
+
+
+
+
+Transfer Students
+
+
+
+
+International Students
+
+
+
+
+Adult Accelerated & Evening Programs
+
+
+
+
+Graduate Studies
+
+
+
+
+Tuition and Fees
+
+
+
+
+Financial Aid
+
+
+
+
+First-Year Experience
+
+
+
+
+
+
+Academics
+
+
+
+
+
+
+
+
+
+
+
+Majors, Minors & Certifications
+
+
+
+
+Adult Accelerated & Evening Programs
+
+
+
+
+Summer Study
+
+
+
+
+Graduate Programs
+
+
+
+
+Preprofessional Programs
+
+
+
+
+Academic Partnerships
+
+
+
+
+Honors Programs
+
+
+
+
+Global Education
+
+
+
+
+Our Faculty
+
+
+
+
+Research & Scholarship
+
+
+
+
+
+
+Student Life
+
+
+
+
+
+
+
+
+
+
+
+Housing
+
+
+
+
+Dining
+
+
+
+
+Getting Involved
+
+
+
+
+Athletics
+
+
+
+
+Student Services
+
+
+
+
+Health & Wellness
+
+
+
+
+Religious & Spiritual Life
+
+
+
+
+
+
+Powerful Outcomes
+
+
+
+
+
+
+
+
+
+
+
+The Career Center
+
+
+
+
+Fellowships & Postgraduate Awards
+
+
+
+
+The Muhlenberg Network
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Visit
+
+
+
+
+
+
+
+
+
+Apply
+
+
+
+
+
+
+
+
+
+Request Info
+
+
+
+
+
+
+
+
+
+Give
+
+
+
+
+
+
+
+Info For:
+
+
+
+
+Current Students
+
+
+
+
+
+Alumni & Friends
+
+
+
+
+
+Faculty & Staff
+
+
+
+
+
+Parents
+
+
+
+
+
+
+
+
+
+News
+
+
+
+
+
+Events
+
+
+
+
+
+Athletics
+
+
+
+
+Arts
+
+
+
+
+
+
+
+
+COVID-19 Info
+
+
+
+ 
+ 
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

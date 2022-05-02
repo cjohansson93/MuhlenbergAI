@@ -1,0 +1,985 @@
+
+
+
+
+
+
+
+Pathways | Muhlenberg College
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Skip to Main Content
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Muhlenberg College
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Visit
+
+
+
+
+
+
+
+
+
+Apply
+
+
+
+
+
+
+
+
+
+Request Info
+
+
+
+
+
+
+
+
+
+Give
+
+
+
+
+
+
+
+
+
+Menu
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Home
+AcademicsMuhlenberg College School of Graduate StudiesGraduate AcademicsGraduate ProgramsApplied Analytics4+1 ProgramPathways 
+
+
+
+
+
+
+Pathways
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Pathways
+
+
+
+
+
+
+
+
+
+
+
+EligibilityMajorsApplying to 4+1Financial AidRequired CoursesPathways
+
+
+
+
+
+
+
+
+
+
+
+Home
+AcademicsMuhlenberg College School of Graduate StudiesGraduate AcademicsGraduate ProgramsApplied Analytics4+1 ProgramPathways 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Possible Pathways for the 4+1 Program
+The following lists of courses in each pathway include only the needed undergraduate courses (and the course prerequisites) students can use to count toward the 4+1 program. Additionally, students earning a B or better in the following undergraduate courses would demonstrate the level of proficiency needed to satisfy the requirements for the following graduate courses:
+
+
+
+
+Undergraduate Course
+(Earning a B or better)
+
+
+Graduate Course Satisfied
+
+
+
+
+MTH 219 Statistical Models
+
+
+MAA 502 Statistical Tools in Analytics
+
+
+
+
+MTH 319 Title to Be Determined
+
+
+MAA 506 Predictive Analytics
+
+
+
+
+CSI 220 Data Structures and Algorithms
+
+
+MAA 512 An Introduction to Programming Languages
+
+
+
+
+CSI 305 Database Systems
+
+
+MAA 508 Data Warehousing & Mining
+
+
+
+
+Computer Science Major + Statistics Minor
+
+ CSI 10X (as prereq for CSI 111)
+ CSI 111 Required in CS Major
+ CSI 220 Required in CS Major -> MAA 512
+ CSI 305 Chosen as one of the 3 CS electives -> MAA 508
+MTH 119 Required for Stat Minor
+MTH 219 Required for Stat Minor -> MAA 502
+MTH 319 Chosen elective for Stat Minor -> MAA 506
+
+ Computer Science Major + Math Minor
+
+CSI 10X (as prereq for CSI 111)
+ CSI 111 Required in CS Major
+CSI 220 Required in CS Major -> MAA 512
+CSI 305 Chosen as one of the 3 CS electives -> MAA 508
+MTH 119 elective for math Minor
+MTH 219 elective for math Minor -> MAA 502
+MTH 319 elective for math Minor -> MAA 506
+
+ Mathematics Major + Computer Science Minor
+
+MTH 119 Required for Math Major
+MTH 219 Chosen elective as the 200-level math class in Math Major -> MAA 502
+MTH 319 Chosen elective as one of the 300-level math classes -> MAA 506
+CSI 10X Required for Math Major
+CSI 111 Required for CS Minor
+CSI 220 Required for CS Minor -> MAA 512
+CSI 305 Chosen elective for CS minor -> MAA 508
+
+ Computer Science Minor and Statistics Minor
+
+CSI 10X (as pre-req for CSI 111)
+CSI 111 Required for CS Minor
+CSI 220 Required for CS Minor -> MAA 512
+CSI 305 Chosen elective for CS minor -> MAA 508
+MTH 119 Required for Stat Minor
+MTH 219 Required for Stat Minor -> MAA 502
+ MTH 319 Chosen elective for Stat Minor -> MAA 506
+
+ Computer Science Minor and Math Minor
+
+CSI 10X (as pre-req for CSI 111)
+CSI 111 Required for CS Minor
+CSI 220 Required for CS Minor -> MAA 512
+CSI 305 Chosen elective for CS minor -> MAA 508
+MTH 119 elective for math Minor
+MTH 219 elective for math Minor -> MAA 502
+MTH 319 elective for math Minor -> MAA 506
+
+ Mathematics Major (Only)
+
+MTH 119 Required for Math Major
+MTH 219 Chosen Elective as the 200-level math class in Math Major -> MAA 502
+MTH 319 Chosen elective as one of the 300-level math classes -> MAA 506
+
+And
+
+MAA 508 as general BS elective
+MAA 512 as general BS elective
+
+ Computer Science Major (Only)
+
+CSI 10X (as prereq for CSI 111)
+CSI 111 Required in CS Major
+CSI 220 Required in CS Major -> MAA 512
+CSI 305 Chosen as one of the 3 CS electives -> MAA 508
+MTH 119 Required in CS Major
+
+And
+
+MTH 219 or MAA 502 as a general elective for BS degree
+MTH 319 or MAA 506 as a general elective for BS degree
+
+ Computer Science Minor (Only)
+
+CSI 10X (as prereq for CSI 111)
+CSI 111 Required for CS Minor
+CSI 220 Required for CS Minor -> MAA 512
+CSI 305 Chosen elective for CS minor -> MAA 508
+
+And
+
+MTH 119 as general BS elective
+MTH 219 or MAA 502 as a general elective for BS degree
+MTH 319 or MAA 506 as a general elective for BS degree
+
+ Statistics Minor (Only)
+
+ MTH 119 Required for Stat Minor
+MTH 219 Required for Stat Minor -> MAA 502
+ MTH 319 Chosen elective for Stat Minor -> MAA 506
+
+And
+
+ MAA 508 as general BS elective
+MAA 512 as general BS elective
+
+ The following pathways would include any Muhlenberg Student whose major & minor are outside the Mathematics and Computer Science Department. 
+ Any Major + Combination of Undergrad & Grad Courses
+
+MTH 119 could count as RG course
+ MTH 219 could count as SC course
+MTH 319 general elective for BS degree
+MAA 508 general electives for BS degree
+MAA 512 general electives for BS degree
+
+ Any Major + All undergraduate courses
+
+ MTH 119 or CSI 10X can count as RG
+ MTH or CSI course can count as SC
+ All 5 additional courses would be electives (4 if they tested out of CSI 10X)
+
+ Any Major + All Graduate Courses
+
+MAA 502 +MAA 506 + MAA 508 + MAA 512 would count as 4 electives in BS degree
+
+To request information about the 4+1 program, please fill in this form.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Muhlenberg College
+
+
+
+
+
+
+
+
+
+
+Muhlenberg College
+2400 Chew St.
+Allentown, 
+PA
+18104
+
+
+
+
+
+
+
+484-664-3100
+
+
+
+
+
+
+
+
+Maps & Directions
+
+
+
+
+
+Accessibility
+
+
+
+
+
+Library
+
+
+
+
+Title IX
+
+
+
+
+
+Employment
+
+
+
+
+
+A-Z Index
+
+
+
+
+
+Conference & Event Services
+
+
+
+
+
+Diversity & Inclusion
+
+
+
+
+
+
+Weather Update
+
+
+
+
+
+
+
+
+Social
+
+
+
+
+
+
+
+
+Facebook
+
+
+
+
+
+
+
+
+Instagram
+
+
+
+
+
+
+
+
+Twitter
+
+
+
+
+
+
+
+
+YouTube
+
+
+
+
+
+
+
+
+LinkedIn
+
+
+
+
+
+
+
+
+							©
+													
+ Muhlenberg College
+
+
+
+
+
+
+
+
+
+
+
+Muhlenburg College
+
+
+
+
+
+
+
+
+
+
+Search
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Who We Are
+
+
+
+
+
+
+
+
+
+
+
+Diversity and Inclusion
+
+
+
+
+Institutional Initiatives
+
+
+
+
+Office of the President
+
+
+
+
+College History
+
+
+
+
+Campus Map
+
+
+
+
+Directory Search
+
+
+
+
+
+
+Admissions
+
+
+
+
+
+
+
+
+
+
+
+Explore Your Visit Options
+
+
+
+
+Early Decision
+
+
+
+
+Regular Decision
+
+
+
+
+Transfer Students
+
+
+
+
+International Students
+
+
+
+
+Adult Accelerated & Evening Programs
+
+
+
+
+Graduate Studies
+
+
+
+
+Tuition and Fees
+
+
+
+
+Financial Aid
+
+
+
+
+First-Year Experience
+
+
+
+
+
+
+Academics
+
+
+
+
+
+
+
+
+
+
+
+Majors, Minors & Certifications
+
+
+
+
+Adult Accelerated & Evening Programs
+
+
+
+
+Summer Study
+
+
+
+
+Graduate Programs
+
+
+
+
+Preprofessional Programs
+
+
+
+
+Academic Partnerships
+
+
+
+
+Honors Programs
+
+
+
+
+Global Education
+
+
+
+
+Our Faculty
+
+
+
+
+Research & Scholarship
+
+
+
+
+
+
+Student Life
+
+
+
+
+
+
+
+
+
+
+
+Housing
+
+
+
+
+Dining
+
+
+
+
+Getting Involved
+
+
+
+
+Athletics
+
+
+
+
+Student Services
+
+
+
+
+Health & Wellness
+
+
+
+
+Religious & Spiritual Life
+
+
+
+
+
+
+Powerful Outcomes
+
+
+
+
+
+
+
+
+
+
+
+The Career Center
+
+
+
+
+Fellowships & Postgraduate Awards
+
+
+
+
+The Muhlenberg Network
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Visit
+
+
+
+
+
+
+
+
+
+Apply
+
+
+
+
+
+
+
+
+
+Request Info
+
+
+
+
+
+
+
+
+
+Give
+
+
+
+
+
+
+
+Info For:
+
+
+
+
+Current Students
+
+
+
+
+
+Alumni & Friends
+
+
+
+
+
+Faculty & Staff
+
+
+
+
+
+Parents
+
+
+
+
+
+
+
+
+
+News
+
+
+
+
+
+Events
+
+
+
+
+
+Athletics
+
+
+
+
+Arts
+
+
+
+
+
+
+
+
+COVID-19 Info
+
+
+
+ 
+ 
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

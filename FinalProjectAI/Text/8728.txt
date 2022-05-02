@@ -1,0 +1,831 @@
+
+
+
+
+
+
+
+Course Schedule & Descriptions | Muhlenberg College
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Skip to Main Content
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Muhlenberg College
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Visit
+
+
+
+
+
+
+
+
+Apply
+
+
+
+
+
+
+
+
+Request Info
+
+
+
+
+
+
+
+
+
+Give
+
+
+
+
+
+
+
+
+
+Menu
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Home
+AcademicsMuhlenberg College School of Graduate StudiesGraduate AcademicsGraduate ProgramsApplied AnalyticsCourse Schedule & Descriptions 
+
+
+
+
+
+
+Course Schedule & Descriptions
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Home
+AcademicsMuhlenberg College School of Graduate StudiesGraduate AcademicsGraduate ProgramsApplied AnalyticsCourse Schedule & Descriptions 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Course Schedule
+The courses listed below are eight week courses, completed in the sequence listed in the table. Full course descriptions located below the course schedule. 
+Optional CourseMAA 500- Math for Applied Analytics will be offered as an optional half-unit course in early August 2020.
+
+
+Course
+
+
+
+
+MAA 502- Statistical Tools for Analytics
+MAA 504- Business Intelligence
+
+
+
+
+MAA 506- Predictive Analytics
+MAA 508- Data Warehousing and Mining
+
+
+
+
+MAA 512- Introduction to Programming Languages
+MAA 514- Data Visualization
+
+
+
+
+MAA 610- Introduction to Cloud Computing
+MAA 612- Introduction to Data-Driven User Experience Design
+
+
+
+
+MAA 614- Artificial Intelligence and Machine Learning Concepts
+MAA 616- Stochastic Modeling for Analytics
+
+
+
+
+MAA 640- Ethical Leadership and Communication
+MAA 690- Capstone
+
+
+
+
+Masterâs Program in Applied Analytics - Course Descriptions
+MAA 500 Math for Applied Analytics
+This pre-course is designed to review with learners the basic mathematics needed to be successful in the Masterâs Program in Applied Analytics. 
+MAA 502 Statistical Tools for Analytics
+The goal of this course is to help students learn a variety of statistical tools useful in summarizing past events and information. Students will learn how to transform raw data into descriptive summaries that can be easily presented and understood. Topics include: Aggregate Analysis, Correlation, Trends, and Distributions (normal, binomial, chi-square, etc.), Confidence Intervals, Hypothesis Testing, Sampling (one sample, two sample, many samples, etc.), Estimation, Correlation and Simple Linear Regression. The software tool âR Studioâ will be integral to studying these topics.
+MAA 504 Business Intelligence
+In today's highly-competitive business landscape, it is crucial that an organization makes sense of the sea of data in which it operates. Raw transactional data acquired from both structured and unstructured sources must be vetted, categorized, enhanced, stored, secured and ultimately transformed into organizational knowledge. This is only accomplished if the integrity of the information is ensured and that the information is properly used. This survey course provides an overview of the concepts, processes and technologies necessary to provide decision-makers with actionable intelligence to make good decisions and understand the drivers of their Key Performance Indicators (KPIâs). Consideration will be given to both tactical and strategic intelligence with special emphasis on environmental requirements including data governance, regulatory compliance and ethics.
+MAA 506 Predictive Analytics
+This course explores a variety of statistical techniques useful in making predictions about future events. The culmination of the course will lead students to employ predictive analytics to assist in decision making and transforming statistics into useful prescriptive analytics. The course will cover the use of statistical software to process data, fit statistical models, and assess the modelsâ performance. Statistical models will include Linear & Non-Linear Regression Analysis with a focus on forecasting. Examples of models that will be covered include Logit & Probit Regression, Ordinal Regression, Survival Analysis (time to event and hazard rate), Data Segmentation, and Time Series Analysis. The course culminates in a predictive analysis on a topic of the student's choice, and requires multiple iterations of model forms, model testing, and awareness of the path for possible future model improvements.
+MAA 508 Data Warehouse and Mining
+Technology has become integral to our lives and as crucial to modern society as the most basic utilities. As a result, data is being generated at an unprecedented rate, and for an organization to compete, it must make sense of it. This course will take an information technology approach to examining the theory, concepts and technologies required to transform data into actionable intelligence in support of decision-making. The warehousing and mining of data represent two ends of a symbiotic process and are examined in detail, from data extraction, transformation and loading to the establishment of an appropriate mining architecture, algorithm and technique. A variety of current tools and technologies will be reviewed and evaluated.  The unique challenges presented by "Big Data" will be explored in this course.
+MAA 512 An Introduction to Programming Languages
+Managing the underlying data for analytics can require specific languages for programming and development. This course will be an overview of programming concepts including hands-on learning with the programming language Python. This course provides students with the practical understanding and skills required to manage data and data structures at the field level as well as how Python has a place in data analytics, game design, and artificial intelligence applications.
+MAA 514 Data Visualization
+In the world of big data, there is a need to âtell the storyâ clearly and efficiently with the goal of influencing decisions. The data behind the story can represent customer behaviors, healthcare trends, or research findings. The ability to organize and present data in an understandable, visual, and coherent manner is an essential skill required in todayâs world. This course teaches the student to explore innovative techniques to display data in an effective and compelling analysis of past performance, current state, and project future trends.  It also incorporates the soft skills that are necessary to influence decision makers. Students will learn effective visual communication methods for representing data. The student will learn and use a mix of statistics, data mining, and visual/graphic design skills with an introduction to several of the most prevalent tools.  As a culminating exercise, students will select, prepare, visualize and present a data project.
+MAA 610 Introduction to Cloud Computing
+This course on cloud computing and the concepts of âBig Dataâ is an introduction to the concepts underlying the systems and infrastructure required to manage large data sets. As organizations across many industries seek to house and analyze large amounts of data quickly and accurately, it will be important for the student to learn and understand the need to manage data methodically even when the data are from disparate sources and types. The student will learn about current technological tools and applications. The student will also learn aspects of data and server management, virtualization, and standard data solutions offered by Amazon, Google, Microsoft, and IBM.  Students will have hands-on experience with tools such as SQL, NoSQL, and Hadoop.
+MAA 612 Introduction to Data-Driven User Experience Design
+Companies such as Apple and Netflix use data collected at their sites to understand the userâs experience and whether or not their marketing efforts are working. Amazon uses its data to present to buyers other items that might be of interest. Companies know that data is most useful when it can help them further their mission and vision. Data can help companies optimize their customersâ web experience, understand which elements capture attention and which do not, and also customize to specific usersâ experiences. Students will be able to understand how to measure and report actionable data that help to improve the user experience.
+MAA 614 Artificial Intelligence and Machine Learning Concepts
+We have come to rely on the benefits of artificial intelligence and machine learning at an ever-increasing rate.  The algorithms underlying this technology have touched our lives with smartphones, smart-speakers, social media feeds, video and music streaming, video games, travel, and security. The course is an introductory course intended to provide students the underlying principles of artificial intelligence such as machine learning, natural language processing, game theory, algorithms, and discrete structures. Topics may include intelligent agents, searching, learning, planning, and classifying.
+MAA 616 Stochastic Modeling for Analytics
+How do companies and organizations use data to forecast what may lie ahead? Students will learn in this course the importance of stochastic methods and how probability and randomness are keys to simulation modeling. Applications of stochastic processes includes the analysis of stock market results and trends, vital medical information, seismology, and weather research. Students will learn via real-life case studies and methods such as the Markov chain. Students will learn how to use historical data to understand the likelihood of what may happen in the future using robust stochastic models.
+MAA 640 Ethical Leadership and Communication
+The misuse of available, accessible data can have ramifications for companies and millions of their customers.  The ownership of personal information has been in the public conscience for the past few years due to data breaches, identity theft, and misuse of data. As quickly as a company brand, people recognize company names recently scandalized such as Enron, Wells-Fargo, Facebook, and Cambridge Analytica. Just because data can be accessed, queried, and analyzed to understand a customerâs private details or a companyâs buying trends does not mean it should be. This course will cover the ethical standards in place for those in the data analytics industry; state, federal, and international regulatory rules in place to mitigate misuse.
+MAA 690 Capstone
+The individual/small team will utilize knowledge gained from the previous course modules to provide actionable information for decision makers to enhance an organizationâs effectiveness. The topic chosen may be an âexisting realâ topic from an outside organization or use data sets from open source data repositories. The process will scope the project, formalize a question, locate data sources, determine the method of analysis, implement analytical procedures, visualize and communicate the results of the organizational issue. This process will allow students to integrate their learning over the entirety of the program.
+ 
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Muhlenberg College
+
+
+
+
+
+
+
+
+
+
+Muhlenberg College
+2400 Chew St.
+Allentown, 
+PA
+18104
+
+
+
+
+
+
+
+484-664-3100
+
+
+
+
+
+
+
+
+Maps & Directions
+
+
+
+
+
+Accessibility
+
+
+
+
+
+Library
+
+
+
+
+Title IX
+
+
+
+
+
+Employment
+
+
+
+
+
+A-Z Index
+
+
+
+
+
+Conference & Event Services
+
+
+
+
+
+Diversity & Inclusion
+
+
+
+
+
+
+
+
+
+
+Social
+
+
+
+
+
+
+
+
+Facebook
+
+
+
+
+
+
+
+
+Twitter
+
+
+
+
+
+
+
+
+LinkedIn
+
+
+
+
+
+
+
+
+							©
+													
+ Muhlenberg College
+
+
+
+
+
+
+
+
+
+
+
+Muhlenburg College
+
+
+
+
+
+
+
+
+
+
+Search
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Who We Are
+
+
+
+
+
+
+
+
+
+
+
+Diversity and Inclusion
+
+
+
+
+Institutional Initiatives
+
+
+
+
+Office of the President
+
+
+
+
+College History
+
+
+
+
+Campus Map
+
+
+
+
+Directory Search
+
+
+
+
+
+
+Admissions
+
+
+
+
+
+
+
+
+
+
+
+Explore Your Visit Options
+
+
+
+
+Early Decision
+
+
+
+
+Regular Decision
+
+
+
+
+Transfer Students
+
+
+
+
+International Students
+
+
+
+
+Adult Accelerated & Evening Programs
+
+
+
+
+Graduate Studies
+
+
+
+
+Tuition and Fees
+
+
+
+
+Financial Aid
+
+
+
+
+First-Year Experience
+
+
+
+
+
+
+Academics
+
+
+
+
+
+
+
+
+
+
+
+Majors, Minors & Certifications
+
+
+
+
+Adult Accelerated & Evening Programs
+
+
+
+
+Summer Study
+
+
+
+
+Graduate Programs
+
+
+
+
+Preprofessional Programs
+
+
+
+
+Academic Partnerships
+
+
+
+
+Honors Programs
+
+
+
+
+Global Education
+
+
+
+
+Our Faculty
+
+
+
+
+Research & Scholarship
+
+
+
+
+
+
+Student Life
+
+
+
+
+
+
+
+
+
+
+
+Housing
+
+
+
+
+Dining
+
+
+
+
+Getting Involved
+
+
+
+
+Athletics
+
+
+
+
+Student Services
+
+
+
+
+Health & Wellness
+
+
+
+
+Religious & Spiritual Life
+
+
+
+
+
+
+Powerful Outcomes
+
+
+
+
+
+
+
+
+
+
+
+The Career Center
+
+
+
+
+Fellowships & Postgraduate Awards
+
+
+
+
+The Muhlenberg Network
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Visit
+
+
+
+
+
+
+
+
+Apply
+
+
+
+
+
+
+
+
+Request Info
+
+
+
+
+
+
+
+
+
+Give
+
+
+
+
+
+
+
+Info For:
+
+
+
+
+Current Students
+
+
+
+
+
+Alumni & Friends
+
+
+
+
+
+Faculty & Staff
+
+
+
+
+
+Parents
+
+
+
+
+
+
+
+
+
+News
+
+
+
+
+
+Events
+
+
+
+
+
+Athletics
+
+
+
+
+Arts
+
+
+
+
+
+
+ 
+ 
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

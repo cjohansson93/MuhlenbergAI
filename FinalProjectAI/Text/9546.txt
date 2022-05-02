@@ -1,0 +1,976 @@
+
+
+
+
+
+
+
+Tech Support | Muhlenberg College
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Skip to Main Content
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Muhlenberg College
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Visit
+
+
+
+
+
+
+
+
+
+Apply
+
+
+
+
+
+
+
+
+
+Request Info
+
+
+
+
+
+
+
+
+
+Give
+
+
+
+
+
+
+
+
+
+Menu
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Home
+News & EventsNews Archive 2019Tech Support 
+
+
+
+
+
+
+Tech Support
+Two Muhlenberg sports teams turn to data-gathering devices to bring about better results and improved safety.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Home
+News & EventsNews Archive 2019Tech Support 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+By Mike Falk | Photos by Maggie Ewald
+Light rain turned into a heavy downpour at Varsity Field just prior to the start of the Muhlenberg soccer game against Centenary University on September 14. As the Mules took to the field and began their match, their white jerseys quickly became see-through, revealing the racerback outline of what they wore underneath. Nothing terribly surprising hereâexcept that this was a menâs soccer game.
+The players wore the sports-bra-like vests beneath their jerseys not to make a fashion statement, but because they housed two pieces of technology that are among Muhlenbergâs first forays into sports science. Two fields down, at Scotty Wood Stadium, the Muhlenberg football team has also begun incorporating scientific monitoring of its athletes.
+The purpose of the tech? To improve performance and, most importantly, athlete safety.
+Upping the Ante
+âWeâve been looking at this for years, but itâs been so expensive that it just hasnât made sense,â says Head Menâs Soccer Coach Sean Topping â98. âNow theyâve finally come out with some products that are more affordable for teams like us.â
+The team uses a system called Catapult Sports PlayerTek+, which is also used by organizations ranging from the Duke University menâs basketball team to Swedenâs national womenâs soccer team. Players wear a heart monitor and GPS trackerâhoused inside the vestsâduring practices and games. Topping uploads the data collected by the GPS trackers (called âpodsâ), allowing players and coaches to monitor metrics such as sprint distance, distance covered, player load (a measure of physical exertion) and top speed.
+The coaches use the data to see how hard players are working in practices and games and to determine recovery time on days after games. Players are given âload pointsâ based on their exertion rates; 500 is considered average for a game, so if the numbers are higher following a particularly intense game, the next dayâs practice will be engineered toward lower numbers.
+âIt keeps us reigned in a little bit and makes sure weâre not overworking them,â says Topping. âBut we also want to make sure we get the work in.â
+Although the Mules do not currently view the data in real time, it can be used during games to monitor which players are growing fatigued and in need of substitution. In Muhlenbergâs 1-1 tie against national powerhouse Messiah College, the PlayerTek stats matched the game stats. The Mules got off to a slow start but played much better in the later stages; the metrics showed they worked harder in the second half.
+The technology also has a competitive side to it, since players have access to the data on their computers and phones.
+âI can compare myself with another athlete, and I can see how far Iâve run against him,â says Zach Cimring â20, who checks his profile every day. âThat brings out another competitive level, which Iâve noticed on the field. We always want to see who has run more. If thatâs the case, then everyone works harder and it shows in the results.â
+And it has shown in the results for the Mules, who were regionally ranked for most of the 2018 season and needed only six games to score more goals than they did in 17 games all last year.
+âWhen the guys put it on, they feel professional, and they feel like someoneâs monitoring them,â says Topping. âIt ups the ante for them at practice a little bit because they know theyâre being watched, so to speak, and they enjoy it. So itâs been good.â
+
+
+
+
+
+
+Tech Support
+Data-Gathering Devices Aid Athlete Safety
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Open Gallery
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+Soccer players wear their Catapult Sports PlayerTek+ vests over their jerseys during practice for comfort.
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+The football coaching staff monitors hits in real time.
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+Muhlenberg Football utilizes InSite, an impact response system developed by Riddell, one of the teamâs helmet providers.
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+Greyson King â23 helps Jordan Cimring â20 into his vest.
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+GPS trackers are stored in a case when not being worn inside the soccer playersâ vests. 
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+An extra layer inside the helmets helps track the force and location of hits.
+
+
+
+ 
+
+
+
+
+
+
+
+Training Opportunities
+âItâs a question we get every single week in recruiting,â says Head Football Coach Nate Milne about parentsâ concerns regarding player safety.
+To help answer the question, the Mules began using InSite, an impact response system developed by Riddell, one of the teamâs helmet providers.
+The system consists of an extra layer, inserted into the helmet, that has sensor points that track not only the force at which the helmet received an impact, but also the location. Muhlenbergâs athletic trainers carry a sideline pack at practice and receive an alert every time there is an abnormality (called a âtraining opportunityâ), whether that be an unusually hard hit or one in a vulnerable spot, such as the back of the head.
+âIt becomes kind of like an extra eye for the training staff,â says Milne. âWith 118 individuals out there, thereâs no way to see everybody at once. But when Player X shows that he was hit in the back of the head, our athletic training staff can find that young man and do their evaluation to make sure that there was no significant head trauma.â
+The data is also uploaded to Riddellâs website, where coaches can see at what point during practice training opportunities occur. Milne has noticed more happening at the end of practices, when players are fatigued and in bad positions.
+That presents a powerful teaching opportunity for the coaches. âWeâve had a couple of players come up when they have a training opportunity and watch the actual play on film,â says Milne. âFrom a coaching perspective, itâs great to be able to show a young man, âhey, your head was down in this situation,â or âyouâre in a poor position.ââ
+One of those players was running back Mark Riggio â20. âI remember the exact play when I was running up the middle and went head-to-head with [safety] Joe OâHagan. It wasnât a bad hit or anything, just the perfect spot. After practice, Coach and [Assistant Athletic Trainer] Jamie [Scalise] came up to me and they asked if I was all right, and I was like, âyeah, Iâm fine, whatâs the big deal?â They explained that my helmet went off and it was that hit. Itâs definitely making me think more about how Iâm running the ball and how Iâm playing the game.â
+A handful of players, spanning different positions and different classes, are using the technology this year with brand-new helmetsâthey are reminded to turn their helmets on before every practiceâand Milne would like to retrofit all the helmets next season.
+âI am happy with it,â says Milne. âIt makes our players more aware, more conscious that theyâre not just throwing their bodies out there willy nilly. If theyâre going to lay it out on the line on Saturday, weâve got to be really smart on Sunday through Friday in what weâre doing, and this will help us do that.â
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Muhlenberg Magazine
+
+
+
+Muhlenberg Athletics
+
+
+News and Stories
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Muhlenberg College
+
+
+
+
+
+
+
+
+
+
+Muhlenberg College
+2400 Chew St.
+Allentown, 
+PA
+18104
+
+
+
+
+
+
+
+484-664-3100
+
+
+
+
+
+
+
+
+Maps & Directions
+
+
+
+
+
+Accessibility
+
+
+
+
+
+Library
+
+
+
+
+Title IX
+
+
+
+
+
+Employment
+
+
+
+
+
+A-Z Index
+
+
+
+
+
+Conference & Event Services
+
+
+
+
+
+Diversity & Inclusion
+
+
+
+
+
+
+Weather Update
+
+
+
+
+
+
+
+
+Social
+
+
+
+
+
+
+
+
+Facebook
+
+
+
+
+
+
+
+
+Instagram
+
+
+
+
+
+
+
+
+Twitter
+
+
+
+
+
+
+
+
+YouTube
+
+
+
+
+
+
+
+
+LinkedIn
+
+
+
+
+
+
+
+
+							©
+													
+ Muhlenberg College
+
+
+
+
+
+
+
+
+
+
+
+Muhlenburg College
+
+
+
+
+
+
+
+
+
+
+Search
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Who We Are
+
+
+
+
+
+
+
+
+
+
+
+Diversity and Inclusion
+
+
+
+
+Institutional Initiatives
+
+
+
+
+Office of the President
+
+
+
+
+College History
+
+
+
+
+Campus Map
+
+
+
+
+Directory Search
+
+
+
+
+
+
+Admissions
+
+
+
+
+
+
+
+
+
+
+
+Explore Your Visit Options
+
+
+
+
+Early Decision
+
+
+
+
+Regular Decision
+
+
+
+
+Transfer Students
+
+
+
+
+International Students
+
+
+
+
+Adult Accelerated & Evening Programs
+
+
+
+
+Graduate Studies
+
+
+
+
+Tuition and Fees
+
+
+
+
+Financial Aid
+
+
+
+
+First-Year Experience
+
+
+
+
+
+
+Academics
+
+
+
+
+
+
+
+
+
+
+
+Majors, Minors & Certifications
+
+
+
+
+Adult Accelerated & Evening Programs
+
+
+
+
+Summer Study
+
+
+
+
+Graduate Programs
+
+
+
+
+Preprofessional Programs
+
+
+
+
+Academic Partnerships
+
+
+
+
+Honors Programs
+
+
+
+
+Global Education
+
+
+
+
+Our Faculty
+
+
+
+
+Research & Scholarship
+
+
+
+
+
+
+Student Life
+
+
+
+
+
+
+
+
+
+
+
+Housing
+
+
+
+
+Dining
+
+
+
+
+Getting Involved
+
+
+
+
+Athletics
+
+
+
+
+Student Services
+
+
+
+
+Health & Wellness
+
+
+
+
+Religious & Spiritual Life
+
+
+
+
+
+
+Powerful Outcomes
+
+
+
+
+
+
+
+
+
+
+
+The Career Center
+
+
+
+
+Fellowships & Postgraduate Awards
+
+
+
+
+The Muhlenberg Network
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Visit
+
+
+
+
+
+
+
+
+
+Apply
+
+
+
+
+
+
+
+
+
+Request Info
+
+
+
+
+
+
+
+
+
+Give
+
+
+
+
+
+
+
+Info For:
+
+
+
+
+Current Students
+
+
+
+
+
+Alumni & Friends
+
+
+
+
+
+Faculty & Staff
+
+
+
+
+
+Parents
+
+
+
+
+
+
+
+
+
+News
+
+
+
+
+
+Events
+
+
+
+
+
+Athletics
+
+
+
+
+Arts
+
+
+
+
+
+
+
+
+COVID-19 Info
+
+
+
+ 
+ 
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

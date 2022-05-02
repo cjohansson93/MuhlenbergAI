@@ -1,0 +1,827 @@
+
+
+
+
+
+
+
+For New Videos | Muhlenberg College
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Skip to Main Content
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Muhlenberg College
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Visit
+
+
+
+
+
+
+
+
+
+Apply
+
+
+
+
+
+
+
+
+
+Request Info
+
+
+
+
+
+
+
+
+
+Give
+
+
+
+
+
+
+
+
+
+Menu
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Home
+Who We AreCollege OfficesInformation TechnologyInstructional Technology and Digital LearningFor New Videos 
+
+
+
+
+
+
+For New Videos
+
+
+
+
+
+
+
+
+
+
+
+
+
+For New Videos
+
+
+
+
+
+
+
+
+
+
+
+About Us and Contact InformationAccessibilityCalendarGolf Cart Pedagogy IntlTechTipsCollaborationMaterialsClassroom TechLearning Management SystemMedia ServicesPodcastsStudent EmploymentTip of the WeekWeb ConferencingVideoFor New Videos
+
+
+
+
+
+
+
+
+
+
+
+Home
+Who We AreCollege OfficesInformation TechnologyInstructional Technology and Digital LearningFor New Videos 
+
+
+
+
+
+
+
+
+
+
+
+We have designed this webpage into sections based on existing user familiarity with video and lecture capture as well as the situation bringing you to our resources.
+General Support Information
+I'm new to this
+It's a new semester
+I'm stuck/needing help
+General Support Information
+Preference is for Panopto to be used when creating new videos as the migration from Kaltura occurs. Our documentation on this page continues to grow based on user interests and needs. Please contact us at itms@muhlenberg.edu should you have any needs, questions, and/or requests for additional documentation.
+Have video from a campus event or wish to share academic video content with the public? Please contact Media Services for assistance, such as associating videos on Video@Muhlenberg at the category level.
+The ITMS team can also assist faculty and students with creating videos within Panopto and within Canvas.
+For academic videos which are not your own productions and for related copyright questions, please contact Trexler Library staff to inquire about Trexler Reserves. 
+Know that Panopto has a status update webpage related to any known/reported issues or maintenance. They also have an on-demand video repository about many of the most commonly-asked about items and about the various Panopto features.
+In addition to the ITMS and OIT team support, you also have access to Panopto support resources 24 hours a day, 7 days a week. Muhlenberg faculty and staff may contact Panopto Support at support@panopto.com and use this document for hours of support, types of support, and additional means of contacting Panopto Support.
+We are also developing a frequently asked questions document here, including tips on how to use Panopto shortcuts like hotkeys on Mac and PC devices.
+ 
+I'm new to this
+To learn about the "getting started" first steps into Panopto, please refer to these respective Panopto links for Windows and for Mac.
+To use the desktop client, here are the respective Windows and Mac installation resources. Also, there are details on the Panopto mobile app here.  
+These Panopto resources discuss optimal screen settings and configurations for devices while using Panopto.
+This Panopto resource discusses how to record a video. Do note that you may use Panopto without a webcam, and that there is ability within the platform to adjust what secondary tracks are used as well.
+You may upload existing video files into Panopto. You can batch copy and move Panopto videos. 
+Automatic captions are completed with each new video. You will need to go through these steps to activate and edit them. Do note that Panopto link mentions that there is a delay from the initial activation until the captions show (can be 8 hours for an hour videoâs captions to appear as an example).
+You may upload caption files manually if you had them edited in Kaltura previously.
+To use the folders in Panopto, there is the following documentation. Caution: Once a Panopto folder is created within Canvas, it must remain in its original location. This will avoid any access issues or interruptions.
+ To get Zoom recordings in Panopto, please refer to this one minute ITMS video and the accompanying documentation on how the Zoom to Panopto process works.
+It's a new semester
+Refer to the "I'm new to this" section above for the steps related to creating videos.
+When it comes to moving Panopto videos from one course to another, please refer to this Panopto guide on copying and moving sessions. Caution: Once a Panopto folder is created within Canvas, it must remain in its original location. This will avoid any access issues or interruptions.
+For academic videos which are not your own productions and for related copyright questions, please contact Trexler Library staff to inquire about Trexler Reserves. 
+For viewing Panopto recordings, please refer to this Panopto resource, and there is this additional resource for troubleshooting any issues  that might arise depending on device using, etc.
+For using Panopto content within Canvas, please refer to the ITMS documentation about using Panopto in a Canvas course and within a discussion board. Caution: Once a Panopto folder is created within Canvas, it must remain in its original location. This will avoid any access issues or interruptions.
+I'm stuck/needing help
+Have a video ready for closed captioning? Since you are using Panopto at Muhlenberg, do know that you can use its accompanying captioning program to caption your videos.
+For viewing Panopto recordings, please refer to this Panopto resource, and there is this additional resource for troubleshooting any issues that might arise depending on device using, etc.
+Automatic captions are completed with each new video. You will need to go through these steps to activate and edit them. Do note that Panopto link mentions that there is a delay from the initial activation until the captions show (can be 8 hours for an hour videoâs captions to appear as an example).
+You may upload caption files manually if you had them edited in Kaltura previously.
+We are also developing a frequently asked questions document here, including tips on how to use Panopto shortcuts like hotkeys on Mac and PC devices.
+Have suggestions for additional items for our new video website? Please contact the team at itms@muhlenberg.edu with items you will like included or if something you are seeking is not currently present/available.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Muhlenberg College
+
+
+
+
+
+
+
+
+
+
+Muhlenberg College
+2400 Chew St.
+Allentown, 
+PA
+18104
+
+
+
+
+
+
+
+484-664-3100
+
+
+
+
+
+
+
+
+Maps & Directions
+
+
+
+
+
+Accessibility
+
+
+
+
+
+Library
+
+
+
+
+Title IX
+
+
+
+
+
+Employment
+
+
+
+
+
+A-Z Index
+
+
+
+
+
+Conference & Event Services
+
+
+
+
+
+Diversity & Inclusion
+
+
+
+
+
+
+Weather Update
+
+
+
+
+
+
+
+
+Social
+
+
+
+
+
+
+
+
+Facebook
+
+
+
+
+
+
+
+
+Instagram
+
+
+
+
+
+
+
+
+Twitter
+
+
+
+
+
+
+
+
+YouTube
+
+
+
+
+
+
+
+
+LinkedIn
+
+
+
+
+
+
+
+
+							©
+													
+ Muhlenberg College
+
+
+
+
+
+
+
+
+
+
+
+Muhlenburg College
+
+
+
+
+
+
+
+
+
+
+Search
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Who We Are
+
+
+
+
+
+
+
+
+
+
+
+Diversity and Inclusion
+
+
+
+
+Institutional Initiatives
+
+
+
+
+Office of the President
+
+
+
+
+College History
+
+
+
+
+Campus Map
+
+
+
+
+Directory Search
+
+
+
+
+
+
+Admissions
+
+
+
+
+
+
+
+
+
+
+
+Explore Your Visit Options
+
+
+
+
+Early Decision
+
+
+
+
+Regular Decision
+
+
+
+
+Transfer Students
+
+
+
+
+International Students
+
+
+
+
+Adult Accelerated & Evening Programs
+
+
+
+
+Graduate Studies
+
+
+
+
+Tuition and Fees
+
+
+
+
+Financial Aid
+
+
+
+
+First-Year Experience
+
+
+
+
+
+
+Academics
+
+
+
+
+
+
+
+
+
+
+
+Majors, Minors & Certifications
+
+
+
+
+Adult Accelerated & Evening Programs
+
+
+
+
+Summer Study
+
+
+
+
+Graduate Programs
+
+
+
+
+Preprofessional Programs
+
+
+
+
+Academic Partnerships
+
+
+
+
+Honors Programs
+
+
+
+
+Global Education
+
+
+
+
+Our Faculty
+
+
+
+
+Research & Scholarship
+
+
+
+
+
+
+Student Life
+
+
+
+
+
+
+
+
+
+
+
+Housing
+
+
+
+
+Dining
+
+
+
+
+Getting Involved
+
+
+
+
+Athletics
+
+
+
+
+Student Services
+
+
+
+
+Health & Wellness
+
+
+
+
+Religious & Spiritual Life
+
+
+
+
+
+
+Powerful Outcomes
+
+
+
+
+
+
+
+
+
+
+
+The Career Center
+
+
+
+
+Fellowships & Postgraduate Awards
+
+
+
+
+The Muhlenberg Network
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Visit
+
+
+
+
+
+
+
+
+
+Apply
+
+
+
+
+
+
+
+
+
+Request Info
+
+
+
+
+
+
+
+
+
+Give
+
+
+
+
+
+
+
+Info For:
+
+
+
+
+Current Students
+
+
+
+
+
+Alumni & Friends
+
+
+
+
+
+Faculty & Staff
+
+
+
+
+
+Parents
+
+
+
+
+
+
+
+
+
+News
+
+
+
+
+
+Events
+
+
+
+
+
+Athletics
+
+
+
+
+Arts
+
+
+
+
+
+
+
+
+COVID-19 Info
+
+
+
+ 
+ 
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

@@ -1,0 +1,821 @@
+
+
+
+
+
+
+
+Cloud Storage | Muhlenberg College
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Skip to Main Content
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Muhlenberg College
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Visit
+
+
+
+
+
+
+
+
+
+Apply
+
+
+
+
+
+
+
+
+
+Request Info
+
+
+
+
+
+
+
+
+
+Give
+
+
+
+
+
+
+
+
+
+Menu
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Home
+Who We AreCollege OfficesInformation TechnologyAbout ITPolicies and ProceduresCloud Storage 
+
+
+
+
+
+
+Cloud Storage
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Cloud Storage
+
+
+
+
+
+
+
+
+
+
+
+Cell Phone and Mobile Device Usage PolicyCloud StorageComputer Policy for Faculty and StaffElectronic Communications and IT PolicyEmail and Network Account PolicyGuidelines for Strong PasswordsHEOA P2P ComplianceIT Data and Security Privacy PolicyRemote Employee PolicyStudent Laptop Loaner ProgramStudent ResponsibilitiesWeb Privacy Statement
+
+
+
+
+
+
+
+
+
+
+
+Home
+Who We AreCollege OfficesInformation TechnologyAbout ITPolicies and ProceduresCloud Storage 
+
+
+
+
+
+
+
+
+
+
+
+Cloud Storage and Confidential Materials Policy
+
+Scope:
+This policy covers use of Cloud Storage and specifically Google Drive for the storage of files that may be considered confidential. Cloud storage refers to dedicated file storage locations hosted by a third-party and off-site. This does not include the storage of files within a larger third-party software system, such as a Software-as-a-Service (SaaS) solution.
+Privacy and Google Suite for Education
+Our contract with Google states that we will always own our data, they will not share that data with other parties, and that they will not datamine our information. However, this does not mean that all data is appropriate for storage or transmission via Google Suite services.
+Google Drive
+Google Drive is the cloud storage solution provided by Google Suite for Education, Muhlenberg Collegeâs Communication & Collaboration platform. It is a core part of G Suite, and therefore is available to all users. Drive is available via a browser interface or can be installed as a local folder and synchronized with copies in the cloud using a software application. Drive is the official cloud storage solution provided by Muhlenberg College.  G Suite for Education can be used in compliance with the Family Educational Rights and Privacy Act (FERPA). For details on FERPA, reference the FERPA information provided by the Registrar's Office.  
+Other Cloud Storage
+A number of other products such as Dropbox and Box are available to users for cloud storage. All Muhlenberg College users should make use of Google Drive for College work product.
+College Local Storage
+Muhlenberg College provides secure on-site storage via Windows and Macintosh ânetwork drives.â These are storage options located on College servers and are backed-up using College systems using encryption tools. These locations appear as local drives once authenticated into our Novell network environment.
+For Microsoft Windows users, these file shares are the Shared drive for a department, mapped as the âk:â drive and a userâs personal home drive, mapped as the âh:â drive.
+For Apple Macintosh users, these are called Shared and Home.
+What Should Not Be Stored in the Cloud
+In general, any documents that contain:
+
+Health Insurance Portability Accountability Act (HIPAA) Protected Health Information (PHI)
+Personal Identifying Information (PII) (e.g. social security numbers)
+Financial information (e.g. payment/credit card information)
+Confidential college work product
+Intellectual property
+
+Additionally, any document that has been password-protected should not be stored in the cloud.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Muhlenberg College
+
+
+
+
+
+
+
+
+
+
+Muhlenberg College
+2400 Chew St.
+Allentown, 
+PA
+18104
+
+
+
+
+
+
+
+484-664-3100
+
+
+
+
+
+
+
+
+Maps & Directions
+
+
+
+
+
+Accessibility
+
+
+
+
+
+Library
+
+
+
+
+Title IX
+
+
+
+
+
+Employment
+
+
+
+
+
+A-Z Index
+
+
+
+
+
+Conference & Event Services
+
+
+
+
+
+Diversity & Inclusion
+
+
+
+
+
+
+Weather Update
+
+
+
+
+
+
+
+
+Social
+
+
+
+
+
+
+
+
+Facebook
+
+
+
+
+
+
+
+
+Instagram
+
+
+
+
+
+
+
+
+Twitter
+
+
+
+
+
+
+
+
+YouTube
+
+
+
+
+
+
+
+
+LinkedIn
+
+
+
+
+
+
+
+
+							©
+													
+ Muhlenberg College
+
+
+
+
+
+
+
+
+
+
+
+Muhlenburg College
+
+
+
+
+
+
+
+
+
+
+Search
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Who We Are
+
+
+
+
+
+
+
+
+
+
+
+Diversity and Inclusion
+
+
+
+
+Institutional Initiatives
+
+
+
+
+Office of the President
+
+
+
+
+College History
+
+
+
+
+Campus Map
+
+
+
+
+Directory Search
+
+
+
+
+
+
+Admissions
+
+
+
+
+
+
+
+
+
+
+
+Explore Your Visit Options
+
+
+
+
+Early Decision
+
+
+
+
+Regular Decision
+
+
+
+
+Transfer Students
+
+
+
+
+International Students
+
+
+
+
+Adult Accelerated & Evening Programs
+
+
+
+
+Graduate Studies
+
+
+
+
+Tuition and Fees
+
+
+
+
+Financial Aid
+
+
+
+
+First-Year Experience
+
+
+
+
+
+
+Academics
+
+
+
+
+
+
+
+
+
+
+
+Majors, Minors & Certifications
+
+
+
+
+Adult Accelerated & Evening Programs
+
+
+
+
+Summer Study
+
+
+
+
+Graduate Programs
+
+
+
+
+Preprofessional Programs
+
+
+
+
+Academic Partnerships
+
+
+
+
+Honors Programs
+
+
+
+
+Global Education
+
+
+
+
+Our Faculty
+
+
+
+
+Research & Scholarship
+
+
+
+
+
+
+Student Life
+
+
+
+
+
+
+
+
+
+
+
+Housing
+
+
+
+
+Dining
+
+
+
+
+Getting Involved
+
+
+
+
+Athletics
+
+
+
+
+Student Services
+
+
+
+
+Health & Wellness
+
+
+
+
+Religious & Spiritual Life
+
+
+
+
+
+
+Powerful Outcomes
+
+
+
+
+
+
+
+
+
+
+
+The Career Center
+
+
+
+
+Fellowships & Postgraduate Awards
+
+
+
+
+The Muhlenberg Network
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Visit
+
+
+
+
+
+
+
+
+
+Apply
+
+
+
+
+
+
+
+
+
+Request Info
+
+
+
+
+
+
+
+
+
+Give
+
+
+
+
+
+
+
+Info For:
+
+
+
+
+Current Students
+
+
+
+
+
+Alumni & Friends
+
+
+
+
+
+Faculty & Staff
+
+
+
+
+
+Parents
+
+
+
+
+
+
+
+
+
+News
+
+
+
+
+
+Events
+
+
+
+
+
+Athletics
+
+
+
+
+Arts
+
+
+
+
+
+
+
+
+COVID-19 Info
+
+
+
+ 
+ 
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

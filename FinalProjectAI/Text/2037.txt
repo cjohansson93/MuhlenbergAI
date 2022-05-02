@@ -1,0 +1,873 @@
+
+
+
+
+
+
+
+RET Graph | Muhlenberg College
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Skip to Main Content
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Muhlenberg College
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Visit
+
+
+
+
+
+
+
+
+
+Apply
+
+
+
+
+
+
+
+
+
+Request Info
+
+
+
+
+
+
+
+
+
+Give
+
+
+
+
+
+
+
+
+
+Menu
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Home
+AcademicsMajors, Minors & CertificationsBiologyPlant-Insect Interactions NSFResources for EducatorsRET Graph 
+
+
+
+
+
+
+RET Graph
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+RET Graph
+
+
+
+
+
+
+
+
+
+
+
+RET Beth ChartRET Beth ProjectCreating a ChartRET CP DataRET CP ProjectRET Dan DataRET Dan ProjectRET Emily ProjectRET Epimecis HortarisRET Field StudyRET GraphLindera BenzoinRET LinksRET MetricsNematode LessonRET Scientific MethodRET Sean ChartRET Sean DataRET Sean ProjectRET Shauna ProjectSticky Card LessonRET Sticky CardsRET Sticky Cards (cont'd)RET Student ProjectsRET StudentsRET Teachers
+
+
+
+
+
+
+
+
+
+
+
+Home
+AcademicsMajors, Minors & CertificationsBiologyPlant-Insect Interactions NSFResources for EducatorsRET Graph 
+
+
+
+
+
+
+
+
+
+
+
+
+
+GRAPHING BASICS
+
+What are graphs and why do we use them?
+Graphs help us to display relationships between numbers (data sets) by representing them in the form of a picture, diagram, or drawing. There are many different types of graphs, each having a specific use for representing data. To generate a graph, data must be analized to determine labels and values as well as the appropriate scale. When done correctly, a graph will be able to show trends and patterns in information gathered from experimenting. It will also allow you to make decsions or answer a question relating to your data. Using a graph, multiple variables can be examined to understand how they relate to each other.
+ 
+Types of Graphs:
+While there are many differnt types of graphs, we will look at how to create three of the most common graphs: bar graphs, line graphs, and circle graphs (pie charts).
+BAR GRAPHS: A bar graph shows values of amounts by using vertical or horozontal bars. Bar graphs are generally used to show frequencies or to make comparisons to show “how much of something”. A bar graph has two axis, the x-axis which is horozontal and the y-axis which is the vertical. The x-axis is the trait used to sort. The y-axis is the actual count. The bars on your graph will be directly proportional to frequency, meaning, the higher the bar, the higher the frequency of occurrence.
+Sample bar graph:
+LINE GRAPHS: A line graph shows change over time or continuous data. This style of graph helps the observer make counts, compare frequency, determine highs and lows, and look for data patterns. Line graphs are great for predicting future events based on patterns of the past. To make a line graph, you need to have two seperate scales of numbers that organize the data, one on the x-axis and one on the y-axis.
+Sample line graph:
+CIRCLE OR PIE GRAPHS: The purpose of a circle or pie graph is to show how parts relate to a whole. This is done by showing percentages or fractions of of the whole, in this case being a circle. The entire circle represents all of the data, or 100 percent. Each part when that circle is broken down represents groups within the data.
+Sample circle/pie graph:
+ 
+How do I make a graph?
+Before you can begin a graph, make sure that you have a complete data table. Your graph will take the values from your data table and make sense of them.
+STEP 1: Determine the type of graph appropriate for your observations and measurements.
+
+Bar Graphs - show relationships between variables
+Line Graphs - change over time, continuous data
+Circle/Pie Graphs - percentages, how parts equal a whole
+ 
+
+STEP 2: Create your graph. The easiest way to create a graph is to use a computer program that allows you to make a table and then generate a graph from the informaton in your table. Using a computer is helpful because you can easily make more than one type of graph by highlighting the data you wish to use. If you do not have a computer available, follow these simple steps below.
+
+• Bar Graph:
+
+Using graph paper, draw a set of axis (x-axis being the horizontal and the y-axis being the vertical.
+Give your bar graph a title that clearly states what the data is showing. (Place your title at the top of the graph.)
+The x-axis will be your independent variable. Label the axis with the variable (Example: Light Environment) and the variables you used (Example: Sun, Shade, etc.).
+Label the vertical y-axis with your dependent variable. (Height (cm)) This axis will also need a scale that includes all of the values of your dependent variable. This scale should be increment marks that are evenly spaced and in chronological order.
+For each independent variable, draw a a bar from the minimum value on your y-axis to the height of your collected value on the axis. Do this for all of your values.
+
+• Line Graph:
+
+Using graph paper, draw a set of axis (x-axis being the horizontal and the y-axis being the vertical.
+Give your line graph a title that clearly states what the data is showing. (Place your title at the top of the graph.)
+The x-axis will be your independent variable. Label the axis with the variable (Example: Months) and the unit of measure (Example: January, February, etc. ).
+Label the vertical y-axis with your dependent variable. (Height (cm)) This axis will also need a scale that includes all of the values of your dependent variable. This scale should be increment marks that are evenly spaced and in chronological order.
+For each value, plot a point on your graph.
+Once all points have been plotted, connect them with a line.
+
+
+• Circle/Pie Graph:
+
+Draw a circle using a compass to make sure that it is even all the way around. (Make your circle large enough to display your data clearly.)
+Give your circle/pie graph a title that clearly states what the data is showing. (Place your title at the top of the graph.)
+Make a small mark in the very center of your circle to show where each “slice” or wedge will begin.
+Determine what size wedge will be needed to show each level of your independent variable. To do this, you will need to convert your data from percentages to angle degrees. Example: 30% of Spicebush is growing in the sun, the wedge would need to be 30% of a 360 degree circle. This can value can be determined by using multiplication. (360 X .3 = 108)
+Draw your wedges using a protractor. Place the protractor at the center point of the circle. Mark 0 degrees and the degree that matches your value by drawing points on the edge of the circle. Draw a line from each point to the center of the circle.
+Label the wedge (include its percentage).
+Begin your next wedge from the edge of the first. If done correctly, your entire circle will be filled up and your percentages will add up to 360 degrees when you are done.
+
+STEP 3: Review your work. Use the "TAILS" method to double-check yourself.
+
+
+Title - Shows relationship between the x and y axis
+Axis - x-axis on the horozontal, records the independent variable
+
+y-axis on the vertical, records the dependent variable
+
+Intervals - same size, chronological order
+Label - axis, units of measure
+Scale - 50% or more of the axis is used
+
+
+ 
+Return to Scientific Method
+Return to Students Page
+ 
+This material is based upon work supported by the National Science Foundation under Grant No. 0442049.
+Any opinions, findings, and conclusions or recommendations expressed in this material are those of the author(s) and do not necessarily reflect the views of the National Science Foundation.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Muhlenberg College
+
+
+
+
+
+
+
+
+
+
+Muhlenberg College
+2400 Chew St.
+Allentown, 
+PA
+18104
+
+
+
+
+
+
+
+484-664-3100
+
+
+
+
+
+
+
+
+Maps & Directions
+
+
+
+
+
+Accessibility
+
+
+
+
+
+Library
+
+
+
+
+Title IX
+
+
+
+
+
+Employment
+
+
+
+
+
+A-Z Index
+
+
+
+
+
+Conference & Event Services
+
+
+
+
+
+Diversity & Inclusion
+
+
+
+
+
+
+Weather Update
+
+
+
+
+
+
+
+
+Social
+
+
+
+
+
+
+
+
+Facebook
+
+
+
+
+
+
+
+
+Instagram
+
+
+
+
+
+
+
+
+Twitter
+
+
+
+
+
+
+
+
+YouTube
+
+
+
+
+
+
+
+
+LinkedIn
+
+
+
+
+
+
+
+
+							©
+													
+ Muhlenberg College
+
+
+
+
+
+
+
+
+
+
+
+Muhlenburg College
+
+
+
+
+
+
+
+
+
+
+Search
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Who We Are
+
+
+
+
+
+
+
+
+
+
+
+Diversity and Inclusion
+
+
+
+
+Institutional Initiatives
+
+
+
+
+Office of the President
+
+
+
+
+College History
+
+
+
+
+Campus Map
+
+
+
+
+Directory Search
+
+
+
+
+
+
+Admissions
+
+
+
+
+
+
+
+
+
+
+
+Explore Your Visit Options
+
+
+
+
+Early Decision
+
+
+
+
+Regular Decision
+
+
+
+
+Transfer Students
+
+
+
+
+International Students
+
+
+
+
+Adult Accelerated & Evening Programs
+
+
+
+
+Graduate Studies
+
+
+
+
+Tuition and Fees
+
+
+
+
+Financial Aid
+
+
+
+
+First-Year Experience
+
+
+
+
+
+
+Academics
+
+
+
+
+
+
+
+
+
+
+
+Majors, Minors & Certifications
+
+
+
+
+Adult Accelerated & Evening Programs
+
+
+
+
+Summer Study
+
+
+
+
+Graduate Programs
+
+
+
+
+Preprofessional Programs
+
+
+
+
+Academic Partnerships
+
+
+
+
+Honors Programs
+
+
+
+
+Global Education
+
+
+
+
+Our Faculty
+
+
+
+
+Research & Scholarship
+
+
+
+
+
+
+Student Life
+
+
+
+
+
+
+
+
+
+
+
+Housing
+
+
+
+
+Dining
+
+
+
+
+Getting Involved
+
+
+
+
+Athletics
+
+
+
+
+Student Services
+
+
+
+
+Health & Wellness
+
+
+
+
+Religious & Spiritual Life
+
+
+
+
+
+
+Powerful Outcomes
+
+
+
+
+
+
+
+
+
+
+
+The Career Center
+
+
+
+
+Fellowships & Postgraduate Awards
+
+
+
+
+The Muhlenberg Network
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Visit
+
+
+
+
+
+
+
+
+
+Apply
+
+
+
+
+
+
+
+
+
+Request Info
+
+
+
+
+
+
+
+
+
+Give
+
+
+
+
+
+
+
+Info For:
+
+
+
+
+Current Students
+
+
+
+
+
+Alumni & Friends
+
+
+
+
+
+Faculty & Staff
+
+
+
+
+
+Parents
+
+
+
+
+
+
+
+
+
+News
+
+
+
+
+
+Events
+
+
+
+
+
+Athletics
+
+
+
+
+Arts
+
+
+
+
+
+
+
+
+COVID-19 Info
+
+
+
+ 
+ 
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

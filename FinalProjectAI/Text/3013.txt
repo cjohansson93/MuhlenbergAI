@@ -1,0 +1,750 @@
+
+Union vs Muhlenberg (09/19/09)
+
+Union vs Muhlenberg (09/19/09)
+
+
+Game Summary
+Team Statistics
+Individual Statistics
+Drive Chart
+Defensive Statistics
+Play-by-Play
+
+
+
+ 
+Scoring Summary
+
+
+
+                            Scoring Summary (Final)
+                        Union (1-1) vs. Muhlenberg (1-1)
+Date: 09/19/09      Site: Allentown, Pa.        Stadium: Scotty Wood Stadium
+Attendance: 2350
+
+Score by Quarters     1  2  3  4   Score
+-----------------    -- -- -- --   -----
+Union...............  0  7  0  0  -  7
+Muhlenberg..........  0  7  7  3  - 17
+
+
+
+Scoring Summary:
+2nd 05:49 MUHL - Phil Cresta 7 yd pass from Justin Kreamer (Michael Katz kick)
+                                               6 plays, 16 yards, TOP 3:20, UNION 0 - MUHL 7
+    00:13 UNION - Justin Gallo 7 yd pass from Drew Connolly (Zach Epley kick)
+                                               5 plays, 49 yards, TOP 1:06, UNION 7 - MUHL 7
+3rd 14:46 MUHL - Chase Nadell 87 yd kickoff return (Michael Katz kick)
+                                                                           UNION 7 - MUHL 14
+4th 14:56 MUHL - Michael Katz 21 yd field goal
+                                             16 plays, 95 yards, TOP 8:49, UNION 7 - MUHL 17
+
+
+
+Kickoff time: 1:00      End of Game: 3:35      Total elapsed time: 2:35
+Officials: Referee: Mark Fanelli; Umpire: Joseph Orso; Linesman: Larry Foster;
+Line judge: David Frey; Back judge: Robert Lynn; Field judge: Jim Turner;
+Side judge: Josh Cesare;
+Temperature: 70        Wind: slight    Weather: sunny and beautiful!
+
+
+
+
+
+
+
+ 
+Team Statistics
+
+
+                            Team Statistics (Final)
+                                  UNION     MUHL
+
+FIRST DOWNS...................        9       17
+  Rushing.....................        4        8
+  Passing.....................        4        6
+  Penalty.....................        1        3
+Rushing Attempts..............       29       51
+Yards Gained Rushing..........      105      221
+Yards Lost Rushing............       28       28
+NET YARDS RUSHING.............       77      193
+NET YARDS PASSING.............      141       62
+  Passes Attempted............       27       24
+  Passes Completed............       10       10
+  Had Intercepted.............        2        2
+TOTAL OFFENSIVE PLAYS.........       56       75
+TOTAL NET YARDS...............      218      255
+  Average Gain Per Play.......      3.9      3.5
+Fumbles: Number-Lost..........      1-1      0-0
+Penalties: Number-Yards.......     4-60     8-60
+Number of Punts-Yards.........    8-346    5-188
+  Average Per Punt............     43.2     37.6
+Punt Returns: Number-Yards....      1-0     6-66
+Kickoff Returns: Number-Yards.     3-60     2-98
+Interceptions: Number-Yards...      2-0      2-6
+Fumble Returns: Number-Yards..      0-0      1-7
+Miscellaneous Yards...........        0        0
+Possession Time...............    21:22    38:38
+Third-Down Conversions........  3 of 12 10 of 19
+Fourth-Down Conversions.......   0 of 1   0 of 2
+Red-Zone Scores-Chances.......      1-1      2-4
+Sacks By: Number-Yards........     2-17     2-21
+
+
+
+
+
+
+ 
+Individual Statistics
+
+
+                                 Individual Statistics (Final)
+
+UnionRushing              No Gain Loss  Net TD Lg  Avg
+-------------------------------------------------
+Chris Coney          20   67    7   60  0 11  3.0
+Kyle Holmes           5   25    0   25  0  6  5.0
+Isa. Carpenter        1    3    0    3  0  3  3.0
+Drew Connolly         3   10   21  -11  0 10 -3.7
+Totals...            29  105   28   77  0 11  2.7
+
+Passing              Att-Cmp-Int Yds TD Long Sck
+------------------------------------------------
+Drew Connolly          27-10-2   141  1   42   2
+Totals...              27-10-2   141  1   42   2
+
+Receiving             No.  Yds   TD Long
+----------------------------------------
+Chris Coney             4   40    0   36
+Justin Gallo            2   49    1   42
+Chas. Kaliades          2   42    0   22
+Mike Concannon          1    6    0    6
+Jared Gourrier          1    4    0    4
+Totals...              10  141    1   42
+
+Punting               No.  Yds   Avg Long In20
+----------------------------------------------
+Blaise Ancona           8  346  43.2   61    3
+Totals...               8  346  43.2   61    3
+
+                       Punts   Kickoffs  Intercept
+All Returns          No.Yds.Lg No.Yds.Lg No.Yds.Lg
+--------------------------------------------------
+Kevin Valenti         0   0  0  2  41 22  0   0  0
+Eric Baxter           0   0  0  0   0  0  2   0  0
+Cam Johnson           1   0  0  0   0  0  0   0  0
+Isa. Carpenter        0   0  0  1  19 19  0   0  0
+Totals...             1   0  0  3  60 22  2   0  0
+
+Field goal attempts
+----------------------------------------
+
+FUMBLES: Union-Drew Connolly 1-1. Muhlenberg-None.
+
+
+MuhlenbergRushing              No Gain Loss  Net TD Lg  Avg
+-------------------------------------------------
+Terrence Dandridge   24  115    3  112  0 29  4.7
+Joe Montemurro       12   39    1   38  0 10  3.2
+Justin Kreamer        9   56   21   35  0 34  3.9
+Phil Cresta           1    7    0    7  0  7  7.0
+Codie Bender          1    3    0    3  0  3  3.0
+MJ Rus                1    1    0    1  0  1  1.0
+TEAM                  3    0    3   -3  0  0 -1.0
+Totals...            51  221   28  193  0 34  3.9
+
+Passing              Att-Cmp-Int Yds TD Long Sck
+------------------------------------------------
+Justin Kreamer         23-9-2     67  1   11   2
+Michael Peischl         1-1-0     -5  0    0   0
+Totals...              24-10-2    62  1   11   2
+
+Receiving             No.  Yds   TD Long
+----------------------------------------
+Phil Cresta             6   46    1   10
+Terrence Dandridge      1   11    0   11
+Bobby Bushong           1    8    0    8
+Codie Bender            1    2    0    2
+Matt Boland             1   -5    0    0
+Totals...              10   62    1   11
+
+Punting               No.  Yds   Avg Long In20
+----------------------------------------------
+Jason LoPipero          5  188  37.6   50    2
+Totals...               5  188  37.6   50    2
+
+                       Punts   Kickoffs  Intercept
+All Returns          No.Yds.Lg No.Yds.Lg No.Yds.Lg
+--------------------------------------------------
+Codie Bender          0   0  0  1  11 11  0   0  0
+Steve Nissley         4  52 19  0   0  0  0   0  0
+Scott Gavin           0   0  0  0   0  0  1   4  4
+Chase Nadell          0   0  0  1  87 87  0   0  0
+Chris Hartzell        0   0  0  0   0  0  1   2  2
+Joe Montemurro        2  14 10  0   0  0  0   0  0
+Totals...             6  66 19  2  98 87  2   6  4
+
+Field goal attempts
+----------------------------------------
+Michael Katz         4th 14:56  21 yds - Good
+
+FUMBLES: Union-Drew Connolly 1-1. Muhlenberg-None.
+
+
+
+
+
+ 
+Drive Chart
+
+
+                              Drive Chart (Final)
+                 Drive Started             Drive Ended             Consumed
+Team     Qtr Spot Time   Obtained      Spot Time   How Lost      Pl-Yds   TOP 
+-------------------------------------------------------------------------------------
+UNION    1st U28  15:00  Kickoff       U37  12:58  Punt           3-9   02:02
+UNION    1st U15  10:02  Punt          M47  07:47  Interception   6-38  02:15
+UNION    1st U25  05:09  Downs         M42  03:44  Interception   3-33  01:25
+UNION    1st U16  01:45  Punt          U20  00:14  Punt           3-4   01:31
+UNION    2nd U21  12:04  Punt          U23  09:09  Fumble         7-2   02:55
+UNION    2nd U27  05:44  Kickoff       U29  04:46  Punt           3-2   00:58
+UNION    2nd U33  03:03  Punt          U49  01:38  Punt           5-16  01:25
+UNION    2nd M49  01:19  Interception  M00  00:13 *TOUCHDOWN      5-49  01:06#
+UNION    3rd U20  14:46  Kickoff       U26  13:27  Punt           3-6   01:19
+UNION    3rd U28  11:57  Downs         M40  08:45  Punt           7-32  03:12
+UNION    4th U33  14:51  Kickoff       U32  13:57  Punt           3--1  00:54
+UNION    4th U41  11:14  Interception  U43  09:51  Punt           3-2   01:23
+UNION    4th U27  06:22  Punt          M47  05:35  Downs          5-26  00:47
+
+MUHL     1st M34  12:58  Punt          M48  10:02  Punt           6-14  02:56
+MUHL     1st M43  07:47  Interception  U25  05:09  Downs          6-32  02:38#
+MUHL     1st M42  03:44  Interception  M34  01:45  Punt           3--8  01:59
+MUHL     1st M45  00:14  Punt          U46  12:04  Punt           7-9   03:10
+MUHL     2nd U16  09:09  Fumble        U00  05:49 *TOUCHDOWN      6-16  03:20#
+MUHL     2nd M14  04:46  Punt          M22  03:03  Punt           3-8   01:43
+MUHL     2nd M19  01:38  Punt          M23  01:19  Interception   3-4   00:19
+MUHL     2nd M43  00:09  Kickoff       M42  15:00  End of half    1--1  00:09
+MUHL     3rd U00  14:46  Kickoff       U00  14:46 *TOUCHDOWN      0-0   00:00
+MUHL     3rd U49  13:27  Punt          U27  11:57  Downs          6-22  01:30
+MUHL     3rd M01  08:45  Punt          U04  14:56 *FIELD GOAL    16-95  08:49#
+MUHL     4th M36  13:57  Punt          M49  11:14  Interception   5-13  02:43
+MUHL     4th M24  09:51  Punt          M42  06:22  Punt           4-18  03:29
+MUHL     4th M47  05:35  Downs         U20  00:00  End of half   10-33  05:35#
+
+UNION                     1st   2nd   3rd   4th     1st   2nd       
+                          Qtr   Qtr   Qtr   Qtr    Half  Half  Total
+---------------------------------------------------------------------------
+Time of possession       07:13 06:29 04:31 03:09   13:42 07:40 21:22
+3rd Down Conversions      1/3   1/3   1/3   0/3     2/6   1/6   3/12
+Avg Field Position        U21   U33   U24   U33     U27   U29   U28
+4th Down Conversions      0/0   0/0   0/0   0/1     0/0   0/1   0/1
+
+MUHL                      1st   2nd   3rd   4th     1st   2nd       
+                          Qtr   Qtr   Qtr   Qtr    Half  Half  Total
+---------------------------------------------------------------------------
+Time of possession       07:47 08:31 10:29 11:51   16:18 22:20 38:38
+3rd Down Conversions      1/4   2/5   4/6   3/4     3/9   7/10 10/19
+Avg Field Position        M41   M40   M50   M35     M40   M43   M41
+4th Down Conversions      0/1   0/0   0/1   0/0     0/1   0/1   0/2
+
+
+                            Drive Chart (By Quarter)
+
+                 Drive Started             Drive Ended             Consumed
+Team     Qtr Spot Time   Obtained      Spot Time   How Lost      Pl-Yds   TOP 
+-------------------------------------------------------------------------------------
+UNION    1st U28  15:00  Kickoff       U37  12:58  Punt           3-9   02:02
+MUHL     1st M34  12:58  Punt          M48  10:02  Punt           6-14  02:56
+UNION    1st U15  10:02  Punt          M47  07:47  Interception   6-38  02:15
+MUHL     1st M43  07:47  Interception  U25  05:09  Downs          6-32  02:38#
+UNION    1st U25  05:09  Downs         M42  03:44  Interception   3-33  01:25
+MUHL     1st M42  03:44  Interception  M34  01:45  Punt           3--8  01:59
+UNION    1st U16  01:45  Punt          U20  00:14  Punt           3-4   01:31
+MUHL     1st M45  00:14  Punt          U46  12:04  Punt           7-9   03:10
+
+UNION    2nd U21  12:04  Punt          U23  09:09  Fumble         7-2   02:55
+MUHL     2nd U16  09:09  Fumble        U00  05:49 *TOUCHDOWN      6-16  03:20#
+UNION    2nd U27  05:44  Kickoff       U29  04:46  Punt           3-2   00:58
+MUHL     2nd M14  04:46  Punt          M22  03:03  Punt           3-8   01:43
+UNION    2nd U33  03:03  Punt          U49  01:38  Punt           5-16  01:25
+MUHL     2nd M19  01:38  Punt          M23  01:19  Interception   3-4   00:19
+UNION    2nd M49  01:19  Interception  M00  00:13 *TOUCHDOWN      5-49  01:06#
+MUHL     2nd M43  00:09  Kickoff       M42  15:00  End of half    1--1  00:09
+
+MUHL     3rd U00  14:46  Kickoff       U00  14:46 *TOUCHDOWN      0-0   00:00
+UNION    3rd U20  14:46  Kickoff       U26  13:27  Punt           3-6   01:19
+MUHL     3rd U49  13:27  Punt          U27  11:57  Downs          6-22  01:30
+UNION    3rd U28  11:57  Downs         M40  08:45  Punt           7-32  03:12
+MUHL     3rd M01  08:45  Punt          U04  14:56 *FIELD GOAL    16-95  08:49#
+
+UNION    4th U33  14:51  Kickoff       U32  13:57  Punt           3--1  00:54
+MUHL     4th M36  13:57  Punt          M49  11:14  Interception   5-13  02:43
+UNION    4th U41  11:14  Interception  U43  09:51  Punt           3-2   01:23
+MUHL     4th M24  09:51  Punt          M42  06:22  Punt           4-18  03:29
+UNION    4th U27  06:22  Punt          M47  05:35  Downs          5-26  00:47
+MUHL     4th M47  05:35  Downs         U20  00:00  End of half   10-33  05:35#
+
+
+
+
+
+
+ 
+Defensive Statistics
+
+
+                                Defensive Statistics (Final)
+
+Union               
+## Player               Solo  Ast  Tot  TFL/Yds  FF FR-Yd Intc  PD  Blkd Sack/Yds QH
+-------------------------------------------------------------------------------------------
+34 John Peters             6    8   14  1.5/6    .   .     .    .    .      /     .
+43 St.Modliszewski         4    4    8     .     .   .     .    .    .      /     .
+5  Cam Johnson             5    2    7     .     .   .     .    1    .      /     .
+9  Connor Cohn             4    3    7  1.0/12   .   .     .    .    .   1.0/12   .
+57 Rich. Sixto, Jr         4    2    6  0.5/1    .   .     .    .    .      /     .
+18 Eric Baxter             2    4    6     .     .   .    2-0   2    .      /     .
+69 Sean Conerly            3    2    5     .     .   .     .    .    .      /     .
+92 P.HavilandEduah         1    4    5  1.0/2    .   .     .    1    .   0.5/2    .
+13 Char. Hovsepian         2    2    4     .     .   .     .    1    .      /     .
+41 Tim Romano              .    4    4  0.5/2    .   .     .    .    .      /     .
+23 Chris Brolley           2    1    3     .     .   .     .    1    .      /     .
+3  JP Sticco               2    1    3     .     .   .     .    .    .      /     .
+47 Dave Carson             1    2    3     .     .   .     .    .    .      /     .
+48 M. SantaBarbara         2    .    2     .     .   .     .    .    .      /     .
+97 Chris Gross             .    2    2  0.5/3    .   .     .    .    .   0.5/3    .
+7  Justin Gallo            1    .    1     .     .   .     .    .    .      /     .
+52 A. Trochanowski         1    .    1     .     .   .     .    .    .      /     .
+50 AJ Rocchio              1    .    1     .     .   .     .    .    .      /     .
+94 Kevin Quillinan         .    1    1     .     .   .     .    .    .      /     .
+
+Muhlenberg          
+## Player               Solo  Ast  Tot  TFL/Yds  FF FR-Yd Intc  PD  Blkd Sack/Yds QH
+-------------------------------------------------------------------------------------------
+11 Patrick McDonough       3    6    9     .     .   .     .    .    .      /     .
+8  Frank Emmett            4    3    7     .     .  1-7    .    1    .      /     .
+31 Scott Lissner           3    2    5  0.5/1    .   .     .    .    .      /     .
+46 Andy Curley             2    3    5  2.0/10   .   .     .    1    .   1.0/8    .
+10 Chris Hartzell          3    1    4  1.0/6    .   .    1-2   1    .      /     .
+91 Jake Floyd              1    3    4     .     .   .     .    .    .      /     .
+22 Steve Nissley           2    1    3     .     .   .     .    .    .      /     .
+36 Jeremiah Lachaud        2    1    3  1.0/13   1   .     .    .    .   1.0/13   .
+6  Kevin Ryan              1    2    3     .     .   .     .    .    .      /     .
+56 Ewan Wright             .    3    3     .     .   .     .    1    .      /     1
+54 Joe Germano             2    .    2     .     .   .     .    .    .      /     .
+43 Mark Accomando          1    1    2     .     .   .     .    .    .      /     .
+30 Scott Gavin             .    2    2     .     .   .    1-4   1    .      /     1
+1  JJ Contessa             1    .    1     .     .   .     .    .    .      /     .
+89 Steve Liparini          1    .    1     .     .   .     .    .    .      /     .
+39 Ryan Keeley             1    .    1     .     .   .     .    .    .      /     .
+78 Garrett Orr             1    .    1     .     .   .     .    .    .      /     .
+2  Michael Kellum          .    1    1     .     .   .     .    .    .      /     .
+94 Brandon Turner          .    1    1  0.5/1    .   .     .    .    .      /     .
+
+
+
+
+
+
+ 
+Play-by-Play Summary
+
+
+                               Play-by-Play Summary (1st quarter)
+               Muhlenberg won the toss and deferred
+               Union to receive and defend the East goal
+  U 1-10 U30   MUHL ball on MUHL30.
+      M 1-10 M30   Clock 15:00.
+
+                   Michael Katz kickoff 61 yards to the UNION9, Kevin Valenti return 19
+                   yards to the UNION28 (Joe Germano).
+  U 1-10 U28   Chris Coney rush right for 5 yards to the UNION33 (Garrett Orr).
+  U 2-5  U33   Drew Connolly pass complete to Jared Gourrier for 4 yards to the UNION37 (P.
+               McDonough).
+  U 3-1  U37   Chris Coney rush right for no gain to the UNION37 (Scott Lissner).
+  U 4-1  U37   Blaise Ancona punt 39 yards to the MUHL24, Joe Montemurro return 10 yards to
+               the MUHL34 (John Peters;Char. Hovsepian).
+--------------- 3 plays, 9 yards, TOP 02:02 ---------------
+
+      M 1-10 M34   MUHLENBERG drive start at 12:58 (1st).
+      M 1-10 M34   T. Dandridge rush right for 4 yards to the MUHL38 (Tim
+                   Romano;P.HavilandEduah).
+      M 2-6  M38   T. Dandridge rush left for 5 yards to the MUHL43 (P.HavilandEduah).
+                   DeLuca injured on play
+      M 3-1  M43   Justin Kreamer pass complete to Phil Cresta for 9 yards to the UNION48,
+                   1ST DOWN MUHL (Cam Johnson).
+      M 1-10 U48   Justin Kreamer pass incomplete to Phil Cresta (Cam Johnson).
+      M 2-10 U48   PENALTY MUHL illegal procedure 5 yards to the MUHL47.
+      M 2-15 M47   Justin Kreamer pass complete to Phil Cresta for 5 yards to the UNION48
+                   (Rich. Sixto, Jr).
+      M 3-10 U48   Justin Kreamer rush for loss of 4 yards to the MUHL48.
+      M 4-14 M48   Jason LoPipero punt 37 yards to the UNION15, fair catch by Cam Johnson.
+--------------- 6 plays, 14 yards, TOP 02:56 ---------------
+
+  U 1-10 U15   UNION drive start at 10:02 (1st).
+  U 1-10 U15   Chris Coney rush right for 4 yards to the UNION19 (Ewan Wright;P.
+               McDonough).
+  U 2-6  U19   Chris Coney rush left for 10 yards to the UNION29, 1ST DOWN UNION
+               (Frank Emmett).
+  U 1-10 U29   Drew Connolly pass incomplete to Jared Gourrier, QB hurry by Ewan Wright.
+  U 2-10 U29   Kyle Holmes rush left for 4 yards to the UNION33 (Frank Emmett).
+  U 3-6  U33   Drew Connolly pass complete to Chas. Kaliades for 20 yards to the MUHL47,
+               1ST DOWN UNION (Mark Accomando;Andy Curley).
+  U 1-10 M47   Drew Connolly pass intercepted by Chris Hartzell at the MUHL41, Chris
+               Hartzell return 2 yards to the MUHL43 (Dave Carson) (Frank Emmett).
+--------------- 6 plays, 38 yards, TOP 02:15 ---------------
+
+      M 1-10 M43   MUHLENBERG drive start at 07:47 (1st).
+      M 1-10 M43   T. Dandridge rush up middle for 3 yards to the MUHL46 (Sean Conerly).
+      M 2-7  M46   Justin Kreamer pass complete to T. Dandridge for 11 yards to the
+                   UNION43, 1ST DOWN MUHL (Sean Conerly).
+      M 1-10 U43   PENALTY UNION personal foul 15 yards to the UNION28, 1ST DOWN
+                   MUHL.
+      M 1-10 U28   T. Dandridge rush right for 6 yards to the UNION22, out-of-bounds (JP
+                   Sticco).
+      M 2-4  U22   PENALTY MUHL delay of game 5 yards to the UNION27.
+      M 2-9  U27   Justin Kreamer pass incomplete to Phil Cresta (Chris Brolley).
+      M 3-9  U27   Justin Kreamer rush right for 7 yards to the UNION20, out-of-bounds
+                   (St.Modliszewski).
+      M 4-2  U20   Michael Peischl pass complete to Matt Boland for loss of 5 yards to the
+                   UNION25 (John Peters).
+--------------- 6 plays, 32 yards, TOP 02:38 ---------------
+
+  U 1-10 U25   UNION drive start at 05:09 (1st).
+  U 1-10 U25   Drew Connolly pass complete to Chris Coney for loss of 3 yards to the
+               UNION22 (Andy Curley;Brandon Turner).
+  U 2-13 U22   Drew Connolly pass complete to Chris Coney for 36 yards to the MUHL42,
+               1ST DOWN UNION (Chris Hartzell).
+  U 1-10 M42   Drew Connolly pass intercepted by Scott Gavin at the MUHL38, Scott Gavin
+               return 4 yards to the MUHL42 (Justin Gallo).
+--------------- 3 plays, 33 yards, TOP 01:25 ---------------
+
+      M 1-10 M42   MUHLENBERG drive start at 03:44 (1st).
+      M 1-10 M42   T. Dandridge rush up middle for 2 yards to the MUHL44 (John Peters).
+      M 2-8  M44   T. Dandridge rush left for 2 yards to the MUHL46 (P.HavilandEduah),
+                   PENALTY MUHL illegal motion 5 yards to the MUHL39, NO PLAY.
+      M 2-13 M39   Justin Kreamer pass incomplete to Phil Cresta.
+      M 3-13 M39   Justin Kreamer sacked for loss of 5 yards to the MUHL34 (Chris
+                   Gross;P.HavilandEduah).
+      M 4-18 M34   Jason LoPipero punt 50 yards to the UNION16, Cam Johnson return 0 yards
+                   to the UNION16 (Chris Hartzell).
+--------------- 3 plays, minus 8 yards, TOP 01:59 ---------------
+
+  U 1-10 U16   UNION drive start at 01:45 (1st).
+  U 1-10 U16   Chris Coney rush right for 2 yards to the UNION18 (Jake Floyd;Frank Emmett).
+  U 2-8  U18   Chris Coney rush left for 2 yards to the UNION20 (Frank Emmett;Jer.
+               Lachaud).
+  U 3-6  U20   Drew Connolly pass incomplete to Kyle Holmes.
+  U 4-6  U20   Blaise Ancona punt 45 yards to the MUHL35, Steve Nissley return 10 yards to
+               the MUHL45 (Dave Carson;Char. Hovsepian).
+--------------- 3 plays, 4 yards, TOP 01:31 ---------------
+
+      M 1-10 M45   MUHLENBERG drive start at 00:14 (1st).
+      M 1-10 M45   Phil Cresta rush reverse for 7 yards to the UNION48 (Cam Johnson).
+
+                                     ==END OF 1st QUARTER==
+                                     UNION 0, MUHLENBERG 0
+                                     ======================
+
+Play-by-Play Summary (2nd quarter)M 2-3  U48   Start of 2nd quarter, clock 15:00.
+      M 2-3  U48   Joe Montemurro rush left for 3 yards to the UNION45, 1ST DOWN
+                   MUHL (Rich. Sixto, Jr;P.HavilandEduah).
+      M 1-10 U45   Joe Montemurro rush right for 6 yards to the UNION39 (Tim Romano;John
+                   Peters).
+      M 2-4  U39   Joe Montemurro rush left for 5 yards to the UNION34, 1ST DOWN
+                   MUHL (John Peters).
+      M 1-10 U34   Justin Kreamer pass incomplete to Phil Cresta.
+      M 2-10 U34   Justin Kreamer sacked for loss of 12 yards to the UNION46 (Connor Cohn).
+      M 3-22 U46   Justin Kreamer pass incomplete to Steve Liparini.
+      M 4-22 U46   Jason LoPipero punt 25 yards to the UNION21, out-of-bounds.
+--------------- 7 plays, 9 yards, TOP 03:10 ---------------
+
+  U 1-10 U21   UNION drive start at 12:04 (2nd).
+  U 1-10 U21   Chris Coney rush up middle for 7 yards to the UNION28 (Frank Emmett).
+  U 2-3  U28   Chris Coney rush up middle for 2 yards to the UNION30 (Michael Kellum;P.
+               McDonough).
+  U 3-1  U30   Kyle Holmes rush right for 6 yards to the UNION36 (Steve Nissley;Frank
+               Emmett), PENALTY UNION personal foul 15 yards to the UNION21.
+  U 3-10 U21   1st and 10.
+  U 1-10 U21   Kyle Holmes rush right for 6 yards to the UNION27 (P. McDonough;Chris
+               Hartzell).
+  U 2-4  U27   Chris Coney rush right for 7 yards to the UNION34, 1ST DOWN UNION
+               (Scott Lissner;P. McDonough).
+  U 1-10 U34   Chris Coney rush right for 2 yards to the UNION36 (Jake Floyd).
+  U 2-8  U36   Drew Connolly sacked for loss of 13 yards to the UNION23 (Jer. Lachaud),
+               fumble by Drew Connolly recovered by MUHL Frank Emmett at UNION23, Frank
+               Emmett for 7 yards to the UNION16, out-of-bounds.
+--------------- 7 plays, 2 yards, TOP 02:55 ---------------
+
+      M 1-10 U16   MUHLENBERG drive start at 09:09 (2nd), MUHL ball on UNION16.
+      M 1-10 U16   Joe Montemurro rush right for 2 yards to the UNION14 (John Peters;Eric
+                   Baxter), PENALTY MUHL illegal shift 5 yards to the UNION21, NO PLAY.
+      M 1-15 U21   Joe Montemurro rush right for 10 yards to the UNION11 (JP
+                   Sticco;St.Modliszewski).
+      M 2-5  U11   Joe Montemurro rush right for 3 yards to the UNION8 (St.Modliszewski).
+      M 3-2  U08   Joe Montemurro rush up middle for 3 yards to the UNION5, 1ST DOWN
+                   MUHL (John Peters;Eric Baxter).
+      M 1-G  U05   PENALTY MUHL illegal procedure 5 yards to the UNION10.
+      M 1-G  U10   Joe Montemurro rush right for 3 yards to the UNION7 (Connor Cohn;Chris
+                   Gross).
+      M 2-G  U07   Justin Kreamer pass incomplete to MJ Rus (Char. Hovsepian).
+      M 3-G  U07   Justin Kreamer pass complete to Phil Cresta for 7 yards to the UNION0,
+                   TOUCHDOWN, clock 05:49.
+                   Michael Katz kick attempt good.
+
+                                     ======================
+                                     UNION 0, MUHLENBERG 7
+                                     ======================
+
+--------------- 6 plays, 16 yards, TOP 03:20 ---------------
+
+                   Michael Katz kickoff 65 yards to the UNION5, Kevin Valenti return 22
+                   yards to the UNION27 (Joe Germano).
+  U 1-10 U27   UNION drive start at 05:44 (2nd).
+  U 1-10 U27   Chris Coney rush right for 2 yards to the UNION29 (Kevin Ryan).
+  U 2-8  U29   Drew Connolly pass incomplete to Justin Gallo.
+  U 3-8  U29   Drew Connolly pass incomplete to Chas. Kaliades.
+  U 4-8  U29   Blaise Ancona punt 61 yards to the MUHL10, Joe Montemurro return 4 yards to
+               the MUHL14 (Dave Carson;John Peters).
+--------------- 3 plays, 2 yards, TOP 00:58 ---------------
+
+      M 1-10 M14   MUHLENBERG drive start at 04:46 (2nd).
+      M 1-10 M14   T. Dandridge rush right for 2 yards to the MUHL16 (Sean
+                   Conerly;St.Modliszewski).
+      M 2-8  M16   T. Dandridge rush left for 4 yards to the MUHL20 (Rich. Sixto, Jr).
+      M 3-4  M20   Justin Kreamer pass complete to Codie Bender for 2 yards to the MUHL22
+                   (John Peters).
+      M 4-2  M22   Timeout Union, clock 03:17.
+      M 4-2  M22   Jason LoPipero punt 45 yards to the UNION33, downed.
+--------------- 3 plays, 8 yards, TOP 01:43 ---------------
+
+  U 1-10 U33   UNION drive start at 03:03 (2nd).
+  U 1-10 U33   Drew Connolly pass incomplete to Chris Coney.
+  U 2-10 U33   Chris Coney rush left for 11 yards to the UNION44, 1ST DOWN UNION,
+               out-of-bounds (Mark Accomando).
+  U 1-10 U44   Drew Connolly pass incomplete to Alex Scheier, QB hurry by Scott Gavin.
+  U 2-10 U44   Chris Coney rush up middle for 2 yards to the UNION46 (Frank Emmett).
+  U 3-8  U46   Drew Connolly pass complete to Chris Coney for 3 yards to the UNION49 (Andy
+               Curley).
+  U 4-5  U49   Timeout Muhlenberg, clock 01:43.
+  U 4-5  U49   Blaise Ancona punt 32 yards to the MUHL19, out-of-bounds.
+--------------- 5 plays, 16 yards, TOP 01:25 ---------------
+
+      M 1-10 M19   MUHLENBERG drive start at 01:38 (2nd).
+      M 1-10 M19   Justin Kreamer rush left for 4 yards to the MUHL23, out-of-bounds (Rich.
+                   Sixto, Jr).
+      M 2-6  M23   Justin Kreamer pass incomplete to Phil Cresta.
+      M 3-6  M23   Justin Kreamer pass intercepted by Eric Baxter at the MUHL49, Eric
+                   Baxter return 0 yards to the MUHL49 (Steve Liparini).
+--------------- 3 plays, 4 yards, TOP 00:19 ---------------
+
+  U 1-10 M49   UNION drive start at 01:19 (2nd).
+  U 1-10 M49   Drew Connolly pass complete to Mike Concannon for 6 yards to the MUHL43.
+  U 2-4  M43   Drew Connolly pass complete to Justin Gallo for 42 yards to the MUHL1,
+               1ST DOWN UNION (Steve Nissley).
+  U 1-G  M01   Timeout Union, clock 00:48.
+  U 1-G  M01   Chris Coney rush up middle for no gain to the MUHL1 (P. McDonough;Jake
+               Floyd).
+  U 2-G  M01   Chris Coney rush right for loss of 6 yards to the MUHL7 (Chris Hartzell).
+  U 3-G  M07   Timeout Union, clock 00:19.
+  U 3-G  M07   Drew Connolly pass complete to Justin Gallo for 7 yards to the MUHL0,
+               TOUCHDOWN, clock 00:13.
+               Zach Epley kick attempt good.
+
+                                     ======================
+                                     UNION 7, MUHLENBERG 7
+                                     ======================
+
+--------------- 5 plays, 49 yards, TOP 01:06 ---------------
+
+               Blaise Ancona kickoff 38 yards to the MUHL32, Codie Bender return 11 yards
+               to the MUHL43 (A. Trochanowski).
+      M 1-10 M43   MUHLENBERG drive start at 00:09 (2nd).
+      M 1-10 M43   TEAM rush for loss of 1 yard to the MUHL42.
+      M 2-11 M42   End of 1st half, clock 00:00.
+      M 2-11 M42   UNION ball on UNION30.
+
+                                     ==END OF 2nd QUARTER==
+                                     UNION 7, MUHLENBERG 7
+                                     ======================
+
+Play-by-Play Summary (3rd quarter)U 2-11 U30   Start of 3rd quarter, clock 15:00.
+--------------- 1 plays, minus 1 yards, TOP 00:09 ---------------
+
+               Blaise Ancona kickoff 57 yards to the MUHL13, Chase Nadell return 87 yards
+               to the UNION0, TOUCHDOWN, clock 14:46.
+                   Michael Katz kick attempt good.
+
+                                     ======================
+                                     UNION 7, MUHLENBERG 14
+                                     ======================
+
+
+                   Michael Katz kickoff 70 yards to the UNION0, touchback.
+  U 1-10 U20   UNION drive start at 14:46 (3rd).
+  U 1-10 U20   Chris Coney rush right for 5 yards to the UNION25 (Kevin Ryan;Scott Gavin).
+  U 2-5  U25   Chris Coney rush up middle for 1 yard to the UNION26 (Scott Lissner).
+  U 3-4  U26   Drew Connolly pass incomplete to Justin Gallo.
+  U 4-4  U26   Blaise Ancona punt 42 yards to the MUHL32, Steve Nissley return 19 yards to
+               the UNION49 (M. SantaBarbara).
+--------------- 3 plays, 6 yards, TOP 01:19 ---------------
+
+      M 1-10 U49   MUHLENBERG drive start at 13:27 (3rd).
+      M 1-10 U49   Justin Kreamer pass incomplete (P.HavilandEduah).
+      M 2-10 U49   T. Dandridge rush left for 3 yards to the UNION46 (St.Modliszewski).
+      M 3-7  U46   PENALTY UNION personal foul 15 yards to the UNION31, 1ST DOWN
+                   MUHL.
+      M 1-10 U31   Justin Kreamer pass incomplete to Phil Cresta.
+      M 2-10 U31   T. Dandridge rush right for 4 yards to the UNION27 (Eric Baxter;John
+                   Peters).
+      M 3-6  U27   Justin Kreamer pass incomplete to Phil Cresta.
+      M 4-6  U27   Justin Kreamer rush for no gain to the UNION27 (Char. Hovsepian).
+--------------- 6 plays, 22 yards, TOP 01:30 ---------------
+
+  U 1-10 U27   UNION drive start at 11:57 (3rd).
+  U 1-10 U27   UNION ball on UNION28.
+  U 1-10 U28   Kyle Holmes rush left for 6 yards to the UNION34 (Ewan Wright;Kevin Ryan).
+  U 2-4  U34   Kyle Holmes rush up middle for 3 yards to the UNION37 (Scott Lissner).
+  U 3-1  U37   Chris Coney rush right for 4 yards to the UNION41, 1ST DOWN UNION (P.
+               McDonough;Scott Gavin).
+  U 1-10 U41   Isa. Carpenter rush left for 3 yards to the UNION44 (P. McDonough).
+  U 2-7  U44   Drew Connolly pass incomplete to Mike Concannon (Chris Hartzell), PENALTY
+               MUHL pass interference 15 yards to the MUHL41, 1ST DOWN UNION, NO
+               PLAY.
+               Ryan injured on play
+  U 1-10 M41   Drew Connolly pass incomplete to Jared Gourrier.
+  U 2-10 M41   Chris Coney rush right for 1 yard to the MUHL40 (Jake Floyd;Ewan Wright).
+  U 3-9  M40   Drew Connolly pass incomplete to Justin Gallo.
+  U 4-9  M40   Blaise Ancona punt 39 yards to the MUHL1, out-of-bounds.
+--------------- 7 plays, 32 yards, TOP 03:12 ---------------
+
+      M 1-10 M01   MUHLENBERG drive start at 08:45 (3rd).
+      M 1-10 M01   MJ Rus rush up middle for 1 yard to the MUHL2 (Tim Romano;Sean Conerly).
+      M 2-9  M02   T. Dandridge rush right for 1 yard to the MUHL3 (Eric Baxter).
+      M 3-8  M03   Justin Kreamer pass complete to Bobby Bushong for 8 yards to the MUHL11,
+                   1ST DOWN MUHL.
+      M 1-10 M11   T. Dandridge rush right for 7 yards to the MUHL18 (Cam Johnson),
+                   PENALTY MUHL unsportsmanlike conduct off-setting, PENALTY UNION
+                   unsportsmanlike conduct off-setting.
+      M 2-3  M18   T. Dandridge rush left for no gain to the MUHL18 (Char. Hovsepian).
+      M 3-3  M18   Justin Kreamer rush quarterback draw for 34 yards to the UNION48, 1ST
+                   DOWN MUHL (Chris Brolley).
+      M 1-10 U48   Justin Kreamer pass incomplete to Phil Cresta, PENALTY UNION pass
+                   interference 15 yards to the UNION33, 1ST DOWN MUHL, NO PLAY.
+      M 1-10 U33   T. Dandridge rush right for 9 yards to the UNION24 (Rich. Sixto, Jr).
+      M 2-1  U24   Justin Kreamer pass incomplete to Phil Cresta.
+      M 3-1  U24   T. Dandridge rush up middle for 2 yards to the UNION22, 1ST DOWN
+                   MUHL (Connor Cohn).
+      M 1-10 U22   T. Dandridge rush left for 3 yards to the UNION19
+                   (St.Modliszewski;Connor Cohn).
+      M 2-7  U19   Justin Kreamer rush SC for 4 yards to the UNION15 (St.Modliszewski;Eric
+                   Baxter).
+      M 3-3  U15   Justin Kreamer pass complete to Phil Cresta for 9 yards to the UNION6,
+                   1ST DOWN MUHL (Cam Johnson).
+      M 1-G  U06   Timeout Muhlenberg, timeout Union, clock 01:58.
+      M 1-G  U06   T. Dandridge rush right for 5 yards to the UNION1 (Eric Baxter;Cam
+                   Johnson).
+      M 2-G  U01   T. Dandridge rush up middle for no gain to the UNION1 (Kevin
+                   Quillinan;Connor Cohn).
+      M 3-G  U01   T. Dandridge rush left for loss of 3 yards to the UNION4 (Tim
+                   Romano;Rich. Sixto, Jr).
+
+                                     ==END OF 3rd QUARTER==
+                                     UNION 7, MUHLENBERG 14
+                                     ======================
+
+Play-by-Play Summary (4th quarter)M 4-G  U04   Start of 4th quarter, clock 15:00.
+      M 4-G  U04   Michael Katz field goal attempt from 21 GOOD, clock 14:56.
+
+                                     ======================
+                                     UNION 7, MUHLENBERG 17
+                                     ======================
+
+--------------- 16 plays, 95 yards, TOP 08:49 ---------------
+
+                   Michael Katz kickoff 56 yards to the UNION14, Isa. Carpenter return 19
+                   yards to the UNION33 (Ryan Keeley).
+  U 1-10 U33   UNION drive start at 14:51 (4th).
+  U 1-10 U33   Drew Connolly pass incomplete to Jared Gourrier.
+  U 2-10 U33   Chris Coney rush left for loss of 1 yard to the UNION32 (Scott Lissner;Andy
+               Curley).
+  U 3-11 U32   Timeout Union, clock 14:13.
+  U 3-11 U32   Drew Connolly pass incomplete to Chas. Kaliades.
+  U 4-11 U32   Blaise Ancona punt 47 yards to the MUHL21, Steve Nissley return 15 yards to
+               the MUHL36 (M. SantaBarbara).
+--------------- 3 plays, minus 1 yards, TOP 00:54 ---------------
+
+      M 1-10 M36   MUHLENBERG drive start at 13:57 (4th).
+      M 1-10 M36   Joe Montemurro rush left for 3 yards to the MUHL39 (Chris Brolley;John
+                   Peters).
+      M 2-7  M39   Joe Montemurro rush left for 1 yard to the MUHL40 (Sean Conerly).
+      M 3-6  M40   Justin Kreamer pass complete to Phil Cresta for 10 yards to the 50
+                   yardline, 1ST DOWN MUHL, out-of-bounds.
+      M 1-10 M50   Joe Montemurro rush up middle for loss of 1 yard to the MUHL49 (John
+                   Peters;P.HavilandEduah).
+      M 2-11 M49   Justin Kreamer pass intercepted by Eric Baxter at the UNION41, Eric
+                   Baxter return 0 yards to the UNION41 (JJ Contessa).
+--------------- 5 plays, 13 yards, TOP 02:43 ---------------
+
+  U 1-10 U41   UNION drive start at 11:14 (4th).
+  U 1-10 U41   Drew Connolly sacked for loss of 8 yards to the UNION33 (Andy Curley).
+  U 2-18 U33   Timeout Union, clock 10:44.
+  U 2-18 U33   Drew Connolly rush SC for 10 yards to the UNION43 (P. McDonough).
+  U 3-8  U43   Drew Connolly pass incomplete to Chas. Kaliades (Andy Curley).
+  U 4-8  U43   Blaise Ancona punt 41 yards to the MUHL16, Steve Nissley return 8 yards to
+               the MUHL24 (John Peters).
+--------------- 3 plays, 2 yards, TOP 01:23 ---------------
+
+      M 1-10 M24   MUHLENBERG drive start at 09:51 (4th).
+      M 1-10 M24   T. Dandridge rush right for 29 yards to the UNION47, 1ST DOWN
+                   MUHL, PENALTY MUHL illegal block 10 yards to the MUHL43.
+      M 1-20 M43   1st and 10.
+      M 1-10 M43   Joe Montemurro rush right for no gain to the MUHL43 (Connor Cohn).
+      M 2-10 M43   Justin Kreamer rush SC for 4 yards to the MUHL47 (Kevin Regan;Connor
+                   Cohn), PENALTY MUHL holding 10 yards to the MUHL33, NO PLAY.
+      M 2-20 M33   Joe Montemurro rush draw play for 2 yards to the MUHL35 (Cam Johnson).
+      M 3-18 M35   Justin Kreamer rush right for 7 yards to the MUHL42 (John Peters;Cam
+                   Johnson).
+      M 4-11 M42   Jason LoPipero punt 31 yards to the UNION27, downed.
+--------------- 4 plays, 18 yards, TOP 03:29 ---------------
+
+  U 1-10 U27   UNION drive start at 06:22 (4th).
+  U 1-10 U27   Drew Connolly pass complete to Chas. Kaliades for 22 yards to the UNION49,
+               1ST DOWN UNION (Steve Nissley).
+  U 1-10 U49   Drew Connolly pass incomplete to Justin Gallo.
+  U 2-10 U49   Drew Connolly pass incomplete (Ewan Wright).
+  U 3-10 U49   Drew Connolly pass incomplete to Jared Gourrier.
+  U 4-10 U49   Drew Connolly pass complete to Chris Coney for 4 yards to the MUHL47 (Jer.
+               Lachaud).
+--------------- 5 plays, 26 yards, TOP 00:47 ---------------
+
+      M 1-10 M47   MUHLENBERG drive start at 05:35 (4th).
+      M 1-10 M47   T. Dandridge rush up middle for 4 yards to the UNION49
+                   (St.Modliszewski).
+      M 2-6  U49   T. Dandridge rush left for 1 yard to the UNION48 (Eric Baxter).
+      M 3-5  U48   Justin Kreamer pass complete to Phil Cresta for 6 yards to the UNION42,
+                   1ST DOWN MUHL (JP Sticco).
+      M 1-10 U42   Justin Kreamer pass incomplete to Phil Cresta.
+      M 2-10 U42   T. Dandridge rush right for 9 yards to the UNION33 (AJ Rocchio).
+      M 3-1  U33   Codie Bender rush up middle for 3 yards to the UNION30, 1ST DOWN
+                   MUHL (Connor Cohn).
+      M 1-10 U30   T. Dandridge rush up middle for 2 yards to the UNION28 (John Peters).
+      M 2-8  U28   T. Dandridge rush left for 10 yards to the UNION18, 1ST DOWN MUHL
+                   (Chris Brolley).
+      M 1-10 U18   TEAM rush for loss of 1 yard to the UNION19.
+      M 2-11 U19   TEAM rush for loss of 1 yard to the UNION20.
+      M 3-12 U20   End of 2nd half, clock 00:00.
+--------------- 10 plays, 33 yards, TOP 05:35 ---------------
+
+                                     ======FINAL SCORE=====
+                                     UNION 7, MUHLENBERG 17
+                                     ======================
+
+
+
+
+
+
+

@@ -1,0 +1,777 @@
+
+
+
+
+Licensed to Half-Mile Timing - Contractor License
+                                       HY-TEK's Meet Manager 4/26/2009 09:24 AM
+                     Lehigh Games - 4/24/2009 to 4/25/2009                     
+                               Lehigh University                               
+                                 Allentown, PA                                 
+                                    Results                                    
+ 
+Women 100 Meter Dash
+============================================================================
+    Name                    Year School                  Seed     Finals  H#
+============================================================================
+Finals
+  1 Edwards, Brianne             Monmouth               13.00      12.40   2 
+  2 McGinnis, Bridgette          DeSales                12.69      12.7h   1 
+  2 Winder, Esteem               Monmouth               12.81      12.7h   1 
+  2 Coldren, Emily               St. Joseph's (Pa       12.66      12.7h   1 
+  5 Mack, Charrell               Lehigh                 13.30      12.90   2 
+  5 Hartnett, Cassandra          Lehigh                 13.10      12.90   2 
+  5 Simmons, Sarah               Monmouth               12.71      12.9h   1 
+  5 Cuvilly, Ashley              Monmouth               12.64      12.9h   1 
+  9 Martini, Amanda              Muhlenberg             13.35      12.93   3 
+ 10 Webb, shannon                DeSales                13.20      13.00   2 
+ 10 Clyde, Kelly                 Lafayette              12.75      13.0h   1 
+ 10 Rupp, Alyssa                 East Stroudsburg       12.75      13.0h   1 
+ 13 Darling, Meaghan             Lafayette              13.30      13.20   2 
+ 14 Weidmann, Lindsey            Muhlenberg             14.20      13.23   3 
+ 15 Dick, Laura                  Muhlenberg             14.10      13.45   3 
+ 16 Gadomski, Sarah              Muhlenberg             14.22      13.48   3 
+ 17 Wade, Hannah                 Muhlenberg             14.04      13.84   3 
+ 
+Women 200 Meter Dash
+============================================================================
+    Name                    Year School                  Seed     Finals  H#
+============================================================================
+  1 Doersam, Alexandra           Lehigh                 26.82      26.40   2 
+  2 Coldren, Emily               St. Joseph's (Pa       25.88      26.50   1 
+  3 Edwards, Brianne             Monmouth               27.50      26.70   3 
+  4 Simmons, Sarah               Monmouth               26.50      26.90   1 
+  5 Webb, shannon                DeSales                26.89      27.30   2 
+  6 Schillinger, Amilee          East Stroudsburg       26.80      27.40   1 
+  7 Winder, Esteem               Monmouth               26.94      27.50   2 
+  8 McGinnis, Bridgette          DeSales                26.80      27.60   1 
+  9 Rupp, Alyssa                 East Stroudsburg       26.80      27.70   1 
+ 10 Martini, Amanda              Muhlenberg             27.89      27.90   3 
+ 10 chicky, nicole               DeSales                27.00      27.90   2 
+ 12 Annucci, Lauren              DeSales                27.10      28.10   2 
+ 13 fitzpatrick, amy             DeSales                28.60      28.40   4 
+ 14 Dick, Laura                  Muhlenberg             29.02      28.50   4 
+ 15 Weidmann, Lindsey            Muhlenberg             28.53      28.60   3 
+ 16 Knowles, Brittany            East Stroudsburg       27.50      28.70   3 
+ 17 franko, mara                 DeSales                28.00      28.90   3 
+ 18 Gadomski, Sarah              Muhlenberg             29.78      29.10   4 
+ 19 devivo, amy                  DeSales                30.00      29.30   4 
+ 20 Wade, Hannah                 Muhlenberg             29.80      29.50   4 
+ 
+Women 400 Meter Dash
+============================================================================
+    Name                    Year School                  Seed     Finals  H#
+============================================================================
+  1 Doyle, Katherine             East Stroudsburg       58.50      57.90   1 
+  2 Gray, Kyara                  Lafayette              58.20      58.90   1 
+  3 Wenzel, Lauren               St. Joseph's (Pa       59.88    1:00.50   1 
+  4 chicky, nicole               DeSales              1:01.57    1:01.80   1 
+  5 Annucci, Lauren              DeSales              1:00.87    1:02.10   1 
+  6 Yalango, Kim                 Muhlenberg           1:01.94    1:02.80   1 
+  7 franko, mara                 DeSales              1:03.97    1:03.79   2 
+  8 fitzpatrick, amy             DeSales              1:02.50    1:04.88   2 
+  9 devivo, amy                  DeSales              1:05.00    1:05.21   2 
+ 10 Olsen, Emily                 Muhlenberg           1:06.24    1:09.03   2 
+ 11 Kist, Kassandra              Muhlenberg           1:07.24    1:10.89   2 
+ 12 Dessimone, Renee             Muhlenberg           1:07.24    1:15.45   2 
+ 
+Women 800 Meter Run
+=========================================================================
+    Name                    Year School                  Seed     Finals 
+=========================================================================
+  1 Hawkey, Allison              Lafayette            2:13.00    2:17.3h  
+  2 Randolph, Jillian            Lehigh               2:15.80    2:17.6h  
+  3 Neville, Alexandra           Lehigh               2:15.00    2:18.0h  
+  4 Mascaro, Andrea              Lehigh               2:19.00    2:20.6h  
+  5 Pencek, Kate                 St. Joseph's (Pa     2:19.54    2:21.6h  
+  6 Lambright, Beth              St. Joseph's (Pa     2:22.67    2:25.60  
+  6 Peters, Samantha             St. Joseph's (Pa     2:19.78    2:25.6h  
+  8 Mitchell, Hannah             Muhlenberg           2:21.24    2:26.5h  
+  9 Kerestes, Kenslie            Monmouth             2:26.00    2:28.06  
+ 10 Trexler, Jonna               East Stroudsburg     2:28.00    2:28.48  
+ 11 Faller, Laura                St. Joseph's (Pa     2:22.64    2:28.60  
+ 12 Bier, Kim                    Muhlenberg           2:27.24    2:28.98  
+ 13 Schwarzkopf, Caroline        Lehigh               2:28.50    2:29.32  
+ 14 Hollick, Emily               East Stroudsburg     2:25.00    2:29.80  
+ 15 Miller, Nicolette            Muhlenberg           2:25.24    2:30.25  
+ 16 Mee, Erin                    Lafayette            2:25.00    2:31.10  
+ 17 kurowski, allison            DeSales              2:25.00    2:31.40  
+ 18 Szulewski, Erin              Monmouth             2:24.80    2:32.00  
+ 19 Clark, Lindsey               East Stroudsburg     2:32.00    2:34.95  
+ 20 Welsh, Liz                   St. Joseph's (Pa     2:27.66    2:35.90  
+ 21 Simons, Abby                 Muhlenberg           2:26.24    2:36.73  
+ 22 Lagasse, Sarah               Monmouth             2:26.12    2:38.50  
+ 23 Barrett, Katie               St. Joseph's (Pa     2:22.48    2:39.00  
+ 24 Segarra, Damaris             Monmouth             2:30.90    2:39.07  
+ 25 Athan, Carly                 Monmouth             2:33.00    2:41.35  
+ 26 rau, emily                   DeSales              2:31.00    2:49.59  
+ 27 Kearns, Maggie               Monmouth             2:36.00    2:55.58  
+ 28 roberson, lizzy              DeSales              2:38.00    3:01.89  
+ 29 sprenkle, morgan             DeSales                         3:32.30  
+ 
+Women 1500 Meter Run
+=========================================================================
+    Name                    Year School                  Seed     Finals 
+=========================================================================
+  1 Rhein, Amy                   St. Joseph's (Pa     4:49.77    4:45.96  
+  2 Welsh-Huggins, Sarah         Lafayette            4:40.00    4:47.78  
+  3 Grimm, Kaitlin               Lehigh               4:47.00    4:48.27  
+  4 Morelli, Christina           St. Joseph's (Pa     4:46.34    4:49.53  
+  5 Scotto, Kimberly             Lehigh               4:45.00    4:51.17  
+  6 Robinson, Elizabeth          Lehigh               4:45.00    4:51.57  
+  7 DiCicco, Jessica             St. Joseph's (Pa     4:47.34    4:53.62  
+  8 Pierce, Katherine            Lehigh               4:46.00    4:56.01  
+  9 Barrett, Katie               St. Joseph's (Pa     4:54.44    4:57.50  
+ 10 Page, Nicole                 Lehigh               4:52.00    4:57.64  
+ 11 Curran, Jennifer             Lehigh               4:50.00    5:00.19  
+ 12 Tobiasen, Catherine          Lehigh               4:57.00    5:00.30  
+ 13 Faller, Laura                St. Joseph's (Pa     4:55.44    5:00.90  
+ 14 Roe, Colleen                 Scranton             5:08.00    5:02.73  
+ 15 Filiberto, Jennifer          Lehigh               4:52.35    5:02.90  
+ 16 Chegwidden, Aimee            St. Joseph's (Pa     4:57.55    5:05.30  
+ 17 Lagasse, Sarah               Monmouth             5:09.96    5:08.54  
+ 18 Pedersen, Lindsay            Monmouth             5:02.90    5:11.50  
+ 19 Lambright, Beth              St. Joseph's (Pa     4:53.44    5:13.60  
+ 20 Welsh, Liz                   St. Joseph's (Pa     5:05.63    5:14.25  
+ 21 harmon, cassie               DeSales              5:07.00    5:15.53  
+ 22 Pasquarella, Niki            East Stroudsburg     5:05.00    5:17.94  
+ 23 Stensland, Juli              St. Joseph's (Pa     4:52.48    5:23.20  
+ 24 Athan, Carly                 Monmouth             5:19.00    5:28.11  
+ 25 Fancher, Jenna               Keystone             5:35.46    5:28.23  
+ 26 lamastro, alessandra         DeSales              5:10.05    5:32.43  
+ 27 Walsh, Jeanine               DeSales              5:10.78    5:39.37  
+ 28 Wilczek, Alyssa              Keystone             5:30.70    5:40.89  
+ 29 Kearns, Maggie               Monmouth             5:27.00    5:48.46  
+ 30 Kelly, Bree                  East Stroudsburg     5:40.00    5:51.02  
+ 31 Lower, Lisa                  East Stroudsburg     5:40.00    5:52.43  
+ 32 Moratz, Amy                  East Stroudsburg     5:40.00    6:01.54  
+ 33 hughes, sam                  DeSales              5:43.00    6:03.12  
+ 34 Geary, Rebecca               Keystone             6:04.00    6:09.42  
+ 35 osbourne, jamie              DeSales              5:50.00    6:34.79  
+ 
+Women 5000 Meter Run
+=========================================================================
+    Name                    Year School                  Seed     Finals 
+=========================================================================
+  1 Kelly, Lauren                Lafayette           18:50.00   19:31.20  
+  1 Mahon, Kaela                 Lafayette           18:30.00   19:31.20  
+  3 Kelly, Tracey                Lafayette           18:50.00   19:31.60  
+  4 Huth, Stephanie              Scranton            19:35.00   19:58.30  
+  5 Baskin, Hana                 Lehigh              18:55.00   20:02.70  
+  5 Kenney, Kristin              Lehigh              18:55.00   20:02.70  
+  7 Sullivan, Katherine          Scranton            19:35.00   20:23.30  
+  8 Holck, Lauren                Lafayette           19:45.00   20:25.90  
+  9 Cifone, Maria                Scranton            20:20.00   21:14.10  
+ 10 Hayes, Erin                  Scranton            21:30.00   23:23.20  
+ 
+Women 100 Meter Hurdles
+============================================================================
+    Name                    Year School                  Seed     Finals  H#
+============================================================================
+  1 Matias, Idelis               Lehigh                 15.72      14.86   2 
+  2 Fromm, Theresa               Lehigh                 15.32      15.55   1 
+  3 Knowles, Brittany            East Stroudsburg       15.43      15.77   1 
+  4 Zabilowicz, Stefani          St. Joseph's (Pa       15.44      15.89   1 
+  5 Dieter, Adrienne             East Stroudsburg       17.25      16.08   2 
+  6 Volz, Amy                    St. Joseph's (Pa       15.67      16.09   1 
+  7 Chen, Jessica                St. Joseph's (Pa       15.50      16.16   1 
+  8 Bixler, Anna                 East Stroudsburg       16.80      16.32   2 
+  9 Brodt, Brianna               East Stroudsburg       17.25      18.25   2 
+ -- Brock, Lucy                  Muhlenberg             16.25        DNF   2 
+ 
+Women 400 Meter Hurdles
+============================================================================
+    Name                    Year School                  Seed     Finals  H#
+============================================================================
+  1 Rutecki, Colleen             Monmouth             1:03.98    1:05.47   1 
+  2 Walsh, Lindsey               Monmouth             1:05.30    1:05.92   1 
+  3 Kline, Lauranne              Lehigh               1:06.00    1:06.71   1 
+  4 Rea, Skylar                  St. Joseph's (Pa     1:06.23    1:07.98   1 
+  5 Volz, Amy                    St. Joseph's (Pa     1:07.72    1:08.20   2 
+  6 Mentrikoski, Janelle         Muhlenberg           1:06.98    1:09.03   1 
+  7 Rogers, Shannon              Monmouth             1:07.20    1:10.20   2 
+  8 Brock, Lucy                  Muhlenberg           1:13.51    1:14.40   2 
+  9 ellenberger, lisa            DeSales              1:18.00    1:20.60   2 
+ 10 Fromm, Jessica               Lehigh               1:14.39    1:22.30   2 
+ 
+Women 3000 Meter Steeplechase
+=========================================================================
+    Name                    Year School                  Seed     Finals 
+=========================================================================
+  1 McClernand, Kathleen         Lehigh              11:48.00   12:22.80  
+  2 Slaybaugh, Beth              DeSales             14:00.00   14:10.80  
+  3 Wysocki, Sarah               East Stroudsburg    12:55.00   14:44.20  
+ 
+Women 4x100 Meter Relay
+=========================================================================
+    School                                               Seed     Finals 
+=========================================================================
+  1 St. Joseph's (Pa.)  'A'                             49.66      49.20  
+     1) Cahill, Karly                   2) Coldren, Emily                 
+     3) Wenzel, Lauren                  4) Zabilowicz, Stefani            
+  2 Lehigh  'A'                                         48.17      49.32  
+     1) Corbetta, Lindsey               2) Grese, Allison                 
+     3) Doersam, Alexandra              4) Hartnett, Cassandra            
+  3 East Stroudsburg  'A'                               52.50      53.15  
+     1) Knowles, Brittany               2) Littrell, Kayla                
+     3) Dieter, Adrienne                4) Weber, Steph                   
+ -- DeSales  'A'                                        50.00        DNF  
+     1) chicky, nicole                  2) kelly, katie                   
+     3) McGinnis, Bridgette             4) Webb, shannon                  
+ 
+Women 4x400 Meter Relay
+=========================================================================
+    School                                               Seed     Finals 
+=========================================================================
+  1 East Stroudsburg  'A'                             4:00.00    4:08.83  
+     1) Doyle, Katherine                2) Hollick, Emily                 
+     3) Carito, Trina                   4) Parillo, Kara                  
+  2 East Stroudsburg  'B'                             4:24.00    4:37.61  
+     1) Bixler, Anna                    2) Dieter, Adrienne               
+     3) Littrell, Kayla                 4) Lavelle, Kathleen              
+ 
+Women High Jump
+=========================================================================
+ Starting Ht 1.50m
+    Name                    Year School                  Seed     Finals 
+=========================================================================
+  1 Carito, Trina                East Stroudsburg       1.60m      1.65m  
+  1 Walsh, Lindsey               Monmouth               1.61m      1.65m  
+  1 Emerich, Devyn               East Stroudsburg       1.69m      1.65m  
+  1 Tarsan, Jennifer             Monmouth               1.60m      1.65m  
+  1 Buzzell, Jessica             Lafayette              1.65m      1.65m  
+  1 Mayer, Lynn                  East Stroudsburg       1.70m      1.65m  
+  1 Miller, Natalie              St. Joseph's (Pa       1.70m      1.65m  
+  1 Smith, Janelle               East Stroudsburg       1.65m      1.65m  
+  9 Smith, Allison               St. Joseph's (Pa       1.64m      1.60m  
+  9 Rogers, Shannon              Monmouth               1.55m      1.60m  
+  9 Dantley, Kelly               Monmouth               1.59m      1.60m  
+ 12 Harris-Shea, Abigail         Lehigh                 1.52m      1.55m  
+ 12 Slack, Lauren                St. Joseph's (Pa       1.55m      1.55m  
+ 12 Horowitz, Nina               Lafayette              1.53m      1.55m  
+ -- Fromm, Jessica               Lehigh                 1.49m         NH  
+ 
+Women Pole Vault
+=========================================================================
+ Starting Ht  3.05m
+    Name                    Year School                  Seed     Finals 
+=========================================================================
+  1 Atwell, Ashlee               Lehigh                 3.45m      3.20m  
+  1 Belick, Krista               Lehigh                 3.20m      3.20m  
+  3 Hinkel, Kelly                Lafayette              3.05m      3.05m  
+  3 Fatale, Christine            Monmouth               3.15m      3.05m  
+  3 Telofski, Michelle           Monmouth               2.89m      3.05m  
+  6 Myers, Laura                 Monmouth               3.15m      2.90m  
+  6 Weber, Steph                 East Stroudsburg       3.20m      2.90m  
+  6 Morby, Kristen               East Stroudsburg       3.20m      2.90m  
+  9 Webb, shannon                DeSales                2.65m      2.60m  
+  9 Syed, Sara                   Lehigh                 3.05m      2.60m  
+ -- traub, michelle              DeSales                2.20m         NH  
+ -- seigel, amy                  DeSales                2.35m         NH  
+ -- Weidmann, Lindsey            Muhlenberg             2.59m         NH  
+ -- Jablonowski, Carolyn         East Stroudsburg       2.44m         NH  
+ -- Riggs, Heleen                Monmouth               2.95m         NH  
+ -- Miller, Melissa              Muhlenberg             2.43m         NH  
+ 
+Women Long Jump
+=========================================================================
+ Min Measurement after 1st Jump 5.00m
+    Name                    Year School                  Seed     Finals 
+=========================================================================
+  1 Mack, Charrell               Lehigh                 5.10m      5.38m  
+  2 Walsh, Lindsey               Monmouth               5.21m      5.36m  
+  3 Hazlett, Stephanie           Lafayette              5.15m      5.34m  
+  4 Walsh, MaryKate              Monmouth               5.17m      5.25m  
+  5 Doersam, Alexandra           Lehigh                 5.15m      5.13m  
+  6 Rutecki, Colleen             Monmouth               5.00m      5.09m  
+  7 Getty, Beth                  St. Joseph's (Pa       5.21m      5.05m  
+  8 kelly, katie                 DeSales                5.12m      5.03m  
+  9 Tarsan, Jennifer             Monmouth               5.04m      4.79m  
+ 10 Woodward, Krista             Lafayette              5.15m      4.78m  
+ 11 Swan, Jennifer               Monmouth               4.86m      4.70m  
+ 12 Jablonowski, Carolyn         East Stroudsburg       4.40m      4.64m  
+ 13 meehan, crissy               DeSales                4.92m      4.61m  
+ 14 Bixler, Anna                 East Stroudsburg       4.87m      4.50m  
+ 15 Gadomski, Sarah              Muhlenberg             4.41m      4.40m  
+ 16 smith, jen                   DeSales                3.95m      4.02m  
+ 17 kline, kristina              DeSales                4.26m      3.94m  
+ -- Slack, Lauren                St. Joseph's (Pa       5.42m       FOUL  
+ 
+Women Triple Jump
+=========================================================================
+ Min Measurement After 1st Jump 10.70m
+    Name                    Year School                  Seed     Finals 
+=========================================================================
+  1 Nimpson, Nohjay              St. Joseph's (Pa      11.70m     11.44m  
+  2 Walsh, MaryKate              Monmouth              11.21m     11.05m  
+  3 Carito, Trina                East Stroudsburg      11.39m     10.89m  
+  4 Swan, Jennifer               Monmouth              10.64m     10.82m  
+  5 Cuvilly, Ashley              Monmouth              11.30m     10.49m  
+  6 kelly, katie                 DeSales               10.26m     10.17m  
+  7 Getty, Beth                  St. Joseph's (Pa      10.50m     10.10m  
+  8 Bruscella, Jackie            Lafayette             10.36m     10.09m  
+  9 meehan, crissy               DeSales                9.90m      9.68m  
+ 10 Martini, Amanda              Muhlenberg            10.05m      9.47m  
+ 11 kline, kristina              DeSales                8.53m      9.02m  
+ 12 smith, jen                   DeSales                8.59m      8.60m  
+ 
+Women Shot Put
+=========================================================================
+ Min Measurement After 1 st Throw 10.36m
+    Name                    Year School                  Seed     Finals 
+=========================================================================
+  1 Sines, Amanda                East Stroudsburg      12.23m     12.23m  
+  2 Fisher, Symmone              Monmouth              12.65m     12.08m  
+  3 Carothers, Emily             East Stroudsburg      11.49m     11.71m  
+  4 Laws, Danielle               East Stroudsburg      10.96m     11.66m  
+  5 Dantley, Kelly               Monmouth              12.56m     11.54m  
+  6 Berthlesen, Jackie           East Stroudsburg      11.89m     11.42m  
+  7 Knapp, Deanna                East Stroudsburg      11.67m     11.35m  
+  8 Toritto, Jessica             Monmouth              12.00m     11.27m  
+  9 Graziano, Rebecca            Lehigh                11.60m     11.25m  
+ 10 Kloc, Monica                 Monmouth              10.00m     10.71m  
+ 11 Weber, Meghan                DeSales               11.70m     10.35m  
+ 12 Ankrom, Laura                Monmouth              10.37m     10.18m  
+ 13 Hegmann, Samantha            Monmouth              10.69m      9.94m  
+ 14 Hazlett, Stephanie           Lafayette              9.34m      9.72m  
+ 15 wade, ashley                 DeSales                9.04m      9.26m  
+ 16 fryer, amber                 DeSales                8.00m      7.92m  
+ 17 Tice, Shayna                 Monmouth               8.23m      7.36m  
+ 18 Hackett, Dara                St. Joseph's (Pa       7.00m      7.20m  
+ 
+Women Discus Throw
+=========================================================================
+ Min Measurement After 1st Throw 32.48m
+    Name                    Year School                  Seed     Finals 
+=========================================================================
+  1 Sines, Amanda                East Stroudsburg      36.35m     38.10m  
+  2 Laws, Danielle               East Stroudsburg      39.42m     37.62m  
+  3 Root, Amanda                 Monmouth              37.20m     37.55m  
+  4 Graybill, Liz                Lafayette             37.50m     37.35m  
+  5 Slater, Kelsey               Lafayette             38.96m     36.75m  
+  6 Toritto, Jessica             Monmouth              34.32m     36.08m  
+  7 Dantley, Kelly               Monmouth              31.40m     35.17m  
+  8 Kloc, Monica                 Monmouth              34.97m     34.64m  
+  9 Carothers, Emily             East Stroudsburg      37.05m     33.24m  
+ 10 Berthlesen, Jackie           East Stroudsburg      32.72m     33.14m  
+ 10 Fisher, Symmone              Monmouth              36.94m     33.14m  
+ 12 Hegmann, Samantha            Monmouth              30.76m     32.09m  
+ 13 Sekely, Jess                 East Stroudsburg      32.00m     31.07m  
+ 14 wade, ashley                 DeSales               27.95m     30.42m  
+ 15 Knapp, Deanna                East Stroudsburg      32.00m     30.38m  
+ 16 Graziano, Rebecca            Lehigh                30.00m     30.06m  
+ 17 Pimental, Dannielle          Lehigh                26.69m     28.52m  
+ 18 Ankrom, Laura                Monmouth              30.00m     27.39m  
+ 19 Tice, Shayna                 Monmouth              29.30m     24.75m  
+ 20 DeVirgilio, Allyson          Monmouth              20.76m     20.00m  
+ -- Crockett, Debra              Muhlenberg            35.05m       FOUL  
+ -- fryer, amber                 DeSales               27.96m       FOUL  
+ -- Weber, Meghan                DeSales               35.96m       FOUL  
+ 
+Women Hammer Throw
+=========================================================================
+ Min Measurement After 1st Throw 39.62m
+    Name                    Year School                  Seed     Finals 
+=========================================================================
+  1 Fisher, Symmone              Monmouth              48.52m     51.79m  
+  2 Melroy, Vicky                Lafayette             50.50m     50.83m  
+  2 Settle, Emily                Lehigh                49.88m     50.83m  
+  4 Sines, Amanda                East Stroudsburg      45.08m     46.37m  
+  5 wade, ashley                 DeSales               28.45m     46.13m  
+  6 Dantley, Kelly               Monmouth              47.25m     45.96m  
+  7 Keen, Caitlin                East Stroudsburg      40.76m     44.56m  
+  8 Hegmann, Samantha            Monmouth              41.67m     43.77m  
+  9 Graybill, Liz                Lafayette             43.96m     43.29m  
+ 10 Carothers, Emily             East Stroudsburg      41.87m     42.02m  
+ 11 Graziano, Rebecca            Lehigh                41.47m     41.40m  
+ 12 Ankrom, Laura                Monmouth              40.44m     40.08m  
+ 13 Sekely, Jess                 East Stroudsburg      34.11m     39.69m  
+ 14 DeVirgilio, Allyson          Monmouth              37.30m     39.32m  
+ 15 Toritto, Jessica             Monmouth              34.21m     38.41m  
+ 16 Tredennick, Kate             Monmouth              39.97m     38.21m  
+ 17 fryer, amber                 DeSales               32.71m     37.72m  
+ 18 Weber, Meghan                DeSales               30.48m     33.40m  
+ 19 Kloc, Monica                 Monmouth              36.52m     32.20m  
+ 20 Berthlesen, Jackie           East Stroudsburg      30.79m     29.22m  
+ 21 Tice, Shayna                 Monmouth              22.49m     22.18m  
+ 
+Women Javelin Throw
+=========================================================================
+ Min Measurement After 1st Throw 30.48m
+    Name                    Year School                  Seed     Finals 
+=========================================================================
+  1 Cardullo, Allyson            East Stroudsburg      40.25m     38.19m  
+  2 Tether, Allison              Lafayette             38.25m     36.46m  
+  3 Taylor, Alana                Lafayette             39.53m     36.45m  
+  4 Jackson, Courtney            East Stroudsburg      36.20m     34.99m  
+  5 Dell'Olio, Danyelle          Lafayette             32.83m     31.70m  
+  6 Heffern, Caitlin             Muhlenberg            33.68m     30.52m  
+  7 Pimental, Dannielle          Lehigh                28.51m     28.74m  
+  8 Archibald, Kaitlyn           Muhlenberg            25.90m     25.85m  
+  9 Bigelow, Catherine           Lehigh                24.38m     25.69m  
+ 10 wade, ashley                 DeSales               23.28m     24.11m  
+ 11 Dantley, Kelly               Monmouth              25.54m     23.97m  
+ 12 Tice, Shayna                 Monmouth                          9.28m  
+ -- fryer, amber                 DeSales               24.77m       FOUL  
+ 
+Men 100 Meter Dash
+============================================================================
+    Name                    Year School                  Seed     Finals  H#
+============================================================================
+  1 Lachaud, Jeremiah            Muhlenberg             10.95      10.9h   1 
+  1 McClenton, Jeff              East Stroudsburg       11.04      10.9h   1 
+  3 Ashfield, Asher              East Stroudsburg       11.03      11.0h   1 
+  4 Kammerer, Greg               Monmouth               11.89      11.2h   1 
+  4 Gori, Adam                   DeSales                11.44      11.2h   1 
+  6 Stauder, Joe                 Keystone               11.35      11.4h   1 
+  7 Yates, Derek                 Muhlenberg             11.95      11.41   2 
+  8 Tanzola, Chris               Monmouth               11.94      11.48   2 
+  9 Slater, Brian                Keystone               11.65      11.5h   1 
+  9 Weiner, Michael              Muhlenberg             11.84      11.5h   1 
+ 11 Bogarde, Robert              DeSales                11.93      11.60   2 
+ 12 Wolfe, Alex                  Muhlenberg             11.94      11.80   2 
+ 13 Touhill, Dave                DeSales                12.23      11.81   2 
+ 14 Bolden, Michael              Keystone               12.12      12.04   2 
+ 
+Men 200 Meter Dash
+============================================================================
+    Name                    Year School                  Seed     Finals  H#
+============================================================================
+  1 Rice, Peter                  Muhlenberg             22.95      22.70   1 
+  2 Lachaud, Jeremiah            Muhlenberg             22.35      22.80   1 
+  3 Pammer, Greg                 East Stroudsburg       22.80      23.20   1 
+  4 Gori, Adam                   DeSales                23.45      23.60   2 
+  5 Yeager, Eric                 DeSales                23.70      23.90   2 
+  5 Ryan, William                Muhlenberg             23.04      23.90   1 
+  5 Modesto, John                DeSales                24.10      23.90   3 
+  5 Yates, Derek                 Muhlenberg             24.30      23.90   3 
+  9 Vlahos, Alex                 Muhlenberg             23.50      24.10   2 
+  9 Reals, Sam                   DeSales                23.80      24.10   2 
+  9 Weiner, Michael              Muhlenberg             24.30      24.10   3 
+ 12 Evans, Maurice               Keystone               24.50      24.20   3 
+ 13 Fegley, Ryan                 Keystone               24.50      24.40   3 
+ 14 Goldstein, Dan               Muhlenberg             23.95      24.50   2 
+ 15 Touhill, Dave                DeSales                24.90      24.80   4 
+ 16 Holtz, Tom                   Muhlenberg             24.65      25.20   4 
+ 17 Bolden, Michael              Keystone               24.75      25.30   4 
+ 17 Price, Alex                  Muhlenberg             24.95      25.30   4 
+ 19 Pambianco, Luke              Keystone               25.80      26.50   4 
+ 
+Men 400 Meter Dash
+============================================================================
+    Name                    Year School                  Seed     Finals  H#
+============================================================================
+  1 Rice, Peter                  Muhlenberg             50.44      49.90   1 
+  2 Casey, Sean                  Lafayette              50.50      50.00   1 
+  3 Forrest, Kyle                Lehigh                 50.80      50.30   1 
+  4 Moreni, Pete                 DeSales                51.70      50.73   2 
+  5 Ryan, William                Muhlenberg             51.85      51.89   2 
+  6 Dolan, Chris                 Muhlenberg             52.84      52.83   2 
+  7 Clauser, Brent               DeSales                52.25      53.33   2 
+  8 Filanowski, Brian            DeSales                53.80      53.41   3 
+  9 Evans, Maurice               Keystone               57.50      54.1h   4 
+ 10 Lysenko, Chris               Muhlenberg             53.14      54.21   3 
+ 11 Vlahos, Alex                 Muhlenberg             53.76      54.65   3 
+ 12 Filanowski, Pat              DeSales                53.80      54.85   3 
+ 13 Fegley, Ryan                 Keystone               54.00      54.97   3 
+ 14 Henry, Andrew                Muhlenberg             54.04      55.17   3 
+ 15 Holtz, Tom                   Muhlenberg             55.55      55.5h   4 
+ 16 Price, Alex                  Muhlenberg             54.95      56.4h   4 
+ 17 Pambianco, Luke              Keystone               56.20      57.6h   4 
+ 18 Cohler, Max                  Muhlenberg             54.84      57.64   3 
+ 
+Men 800 Meter Run
+=========================================================================
+    Name                    Year School                  Seed     Finals 
+=========================================================================
+  1 Torphy, Bob                  Muhlenberg           1:53.24    1:55.40  
+  2 Pregler, Chris               Lafayette            1:57.50    1:57.14  
+  3 Forgath, Pete                Unattached                      1:57.40  
+  4 Janssen, Sam                 East Stroudsburg     1:56.00    1:57.81  
+  5 Buckley, Niall               Lehigh               1:54.00    1:59.10  
+  6 Hess, Pat                    DeSales              1:57.40    1:59.47  
+  7 Improta, Vin                 Monmouth             1:55.44    1:59.70  
+  8 Lowrie, Michael              Lehigh               1:56.50    2:00.26  
+  9 Doyle, Ryan                  East Stroudsburg     2:01.00    2:00.42  
+ 10 Wright, Phillip              Lehigh               2:00.00    2:00.55  
+ 11 Caffarelli, J.J.             Monmouth             1:59.00    2:01.32  
+ 12 Maloney, Bear                Keystone             2:01.90    2:01.39  
+ 13 Adragna, Frank               East Stroudsburg     1:58.50    2:01.84  
+ 14 Aldeen, Mahmoud              East Stroudsburg     1:59.00    2:02.16  
+ 15 Lundy, Ryan                  Monmouth             2:00.00    2:03.10  
+ 16 Zadroga, Chris               East Stroudsburg     2:01.00    2:03.51  
+ 17 Mulligan, Ryan               Monmouth             2:03.00    2:04.06  
+ 18 O'Connor, Kyle               Lehigh               1:54.00    2:04.20  
+ 19 Lennon, Robert               Lafayette            2:04.00    2:05.83  
+ 20 Laders, Dylan                East Stroudsburg     2:00.44    2:06.36  
+ 21 Hoffman, Paul                Keystone             2:04.00    2:06.46  
+ 22 Strouse, Eric                Muhlenberg           2:04.24    2:06.82  
+ 23 Mydlowski, Evan              Monmouth             2:02.90    2:09.18  
+ 24 Langianese, Colton           Monmouth             1:55.60    2:09.40  
+ 25 Noonan, Geoffrey             Keystone             2:09.10    2:10.18  
+ 26 Tran, Kevin                  Unattached                      2:12.08  
+ 27 Decker, Eric                 DeSales              2:15.00    2:12.71  
+ 28 Knott, Zachary               Keystone             2:21.61    2:29.23  
+ 
+Men 1500 Meter Run
+=========================================================================
+    Name                    Year School                  Seed     Finals 
+=========================================================================
+  1 Hutterer, Ben                Monmouth             3:59.00    4:02.71  
+  2 Contino, Christopher         Lehigh               4:00.00    4:02.93  
+  3 Nihen, Robert                Muhlenberg           4:03.24    4:03.47  
+  4 Inacio, Jordan               Lehigh               4:01.00    4:04.41  
+  5 Lauletti, Matthew            Muhlenberg           4:05.24    4:04.51  
+  6 Thornton, Pat                Muhlenberg           3:59.24    4:05.38  
+  7 Curry, Mike                  DeSales              4:05.00    4:06.02  
+  8 Weir, Kyle                   East Stroudsburg     4:12.00    4:10.02  
+  9 Flach, Evan                  Lehigh               4:00.50    4:12.25  
+ 10 Degenhart, Mark              Lehigh               4:12.00    4:12.88  
+ 11 Mulligan, Ryan               Monmouth             4:06.00    4:13.46  
+ 12 Quinlan, Ian                 Lehigh               4:12.00    4:13.65  
+ 13 Ferretti, Andrew             DeSales              4:14.00    4:15.11  
+ 14 Shotto, Eric                 Keystone             4:13.31    4:15.28  
+ 15 Zarnoch, Tom                 East Stroudsburg     4:15.00    4:15.45  
+ 16 Ecker, Paul                  DeSales              4:07.00    4:15.65  
+ 17 Wilson, Ryan                 Muhlenberg           4:10.24    4:16.37  
+ 18 Bowden, Dan                  East Stroudsburg     4:16.81    4:16.98  
+ 19 Clemson, Alex                DeSales              4:15.00    4:18.11  
+ 20 Carr, Pat                    East Stroudsburg     4:06.00    4:20.31  
+ 21 Mydlowski, Evan              Monmouth             4:15.00    4:20.41  
+ 22 Taboas, Marcos               Scranton             4:19.00    4:21.4h  
+ 23 Buck, Jeff                   East Stroudsburg     4:30.00    4:21.6h  
+ 24 Langianese, Colton           Monmouth             4:08.90    4:24.34  
+ 25 Evans, Jeremy                Scranton             4:20.00    4:26.0h  
+ 26 Szilagyi, Dan                DeSales              4:25.00    4:26.7h  
+ 27 Cook, Matt                   East Stroudsburg     4:15.00    4:30.15  
+ 28 Dowd, Billy                  Monmouth             4:14.90    4:34.95  
+ 29 Cohler, Max                  Muhlenberg           4:15.24    4:35.31  
+ 30 Lykens, Matt                 DeSales              4:40.00    4:45.8h  
+ 31 Toye, Dan                    Keystone             4:22.27    4:50.1h  
+ 32 Leitmeyer, Keith             Muhlenberg           4:45.24    5:00.2h  
+ 33 Knott, Zachary               Keystone             4:55.00    5:02.0h  
+ 
+Men 5000 Meter Run
+=========================================================================
+    Name                    Year School                  Seed     Finals 
+=========================================================================
+  1 Slater, Mitch                East Stroudsburg    15:30.00   16:04.61  
+  2 Bohenek, Jason               Scranton            16:07.00   16:13.11  
+  3 Cody, Jeff                   Monmouth            16:06.00   16:17.62  
+  4 Hilderbrandt, Matthew        Lehigh              15:35.00   16:22.46  
+  5 DeBlasio, Garth              Monmouth            16:00.00   16:23.87  
+  6 Edwards, Mark                Unattached                     17:06.40  
+  7 Gallagher, Joe               Scranton            16:45.00   17:33.54  
+  8 Booth, Robert                Keystone            16:50.00   17:36.90  
+  9 McGoldrick, Brendan          Monmouth            16:48.00   18:31.47  
+ -- Kingsbury, Adam              Muhlenberg          16:18.24        DNF  
+ -- Laria, Greg                  East Stroudsburg    15:30.00        DNF  
+ 
+Men 110 Meter Hurdles
+============================================================================
+    Name                    Year School                  Seed     Finals  H#
+============================================================================
+  1 Takirambudde, Sifiso         Lafayette              15.40      15.74   1 
+  2 Tanzola, Chris               Monmouth               15.02      15.74   1 
+  3 Hillman, Brandon             East Stroudsburg       15.81      16.21   1 
+  4 Koch, Ben                    East Stroudsburg       15.80      16.39   1 
+  5 Taikina, TJ                  Unattached                        16.95   2 
+  6 Haviland, Frank              DeSales                17.20      17.11   2 
+  7 Brophy, Pat                  DeSales                16.84      17.21   1 
+  8 Krupka, Zachary              Monmouth               18.71      17.29   2 
+  9 Johnson, Dan                 East Stroudsburg       17.35      17.36   2 
+ 10 Maurer, Alexander            Lehigh                 17.00      17.90   1 
+ 11 Brown, Mark                  Lafayette              16.30      18.02   1 
+ 12 Baer, Michael                Muhlenberg             17.90      18.08   2 
+ 13 Feeney, Colin                East Stroudsburg       17.00      18.20   2 
+ 14 Stein, Matt                  Muhlenberg             17.60      18.53   2 
+ 15 Kurtis, David                Muhlenberg             17.85      18.94   2 
+ 
+Men 400 Meter Hurdles
+============================================================================
+    Name                    Year School                  Seed     Finals  H#
+============================================================================
+  1 Robinson, Scott              Lehigh                 52.50      54.70   1 
+  2 Smith, Russell               East Stroudsburg       54.25      56.00   1 
+  3 Kirk, Brendan                Muhlenberg             55.16      56.40   1 
+  4 Fitzpatrick, Dan             Monmouth               56.21      57.10   1 
+  5 Monetti, Brian               Unattached                        59.20   2 
+  6 Kurtis, David                Muhlenberg             58.24    1:00.10   1 
+  7 Stein, Matt                  Muhlenberg             58.99    1:00.30   1 
+  8 Brophy, Pat                  DeSales              1:03.00    1:01.40   2 
+  9 Baer, Michael                Muhlenberg           1:02.24    1:03.20   2 
+  9 Filanowski, Pat              DeSales                         1:03.20   2 
+ 
+Men 3000 Meter Steeplechase
+=========================================================================
+    Name                    Year School                  Seed     Finals 
+=========================================================================
+  1 Jervis, Andrew               Lehigh               9:44.00    9:51.99  
+  2 Hoffman, Paul                Keystone            10:23.50   10:24.48  
+  3 Richardson, Alec             Monmouth            10:25.00   11:25.13  
+  4 Anzovino, Tim                DeSales                        11:42.63  
+ 
+Men 4x100 Meter Relay
+=========================================================================
+    School                                               Seed     Finals 
+=========================================================================
+  1 Muhlenberg  'A'                                     42.98      43.30  
+     1) Kirk, Brendan                   2) Ryan, William                  
+     3) Rice, Peter                     4) Lachaud, Jeremiah              
+  2 Lehigh  'A'                                         43.00      44.40  
+     1) Edochie, Ifeanyi                2) Robinson, Scott                
+     3) Tutunjian, Stephen              4) Forrest, Kyle                  
+  3 DeSales  'A'                                        44.81      44.70  
+     1) Gori, Adam                      2) Reals, Sam                     
+     3) Dougherty, Pat                  4) Moreni, Pete                   
+  4 Keystone  'A'                                       46.00      44.90  
+     1) Stauder, Joe                    2) Slater, Brian                  
+     3) Fegley, Ryan                    4) Mosley, Isaiah                 
+ 
+Men 4x400 Meter Relay
+=========================================================================
+    School                                               Seed     Finals 
+=========================================================================
+  1 East Stroudsburg  'A'                             3:28.50    3:33.30  
+     1) Koch, Ben                       2) Janssen, Sam                   
+     3) Hillman, Brandon                4) Johnson, Dan                   
+  2 East Stroudsburg  'C'                             3:36.00    3:41.70  
+     1) Adragna, Frank                  2) Zadroga, Chris                 
+     3) Carr, Pat                       4) Bowden, Dan                    
+ 
+Men High Jump
+=========================================================================
+ Starting Ht: 1.79m
+    Name                    Year School                  Seed     Finals 
+=========================================================================
+  1 Maurer, Alexander            Lehigh                 2.00m      1.94m  
+  2 Johnson, Dan                 East Stroudsburg       2.00m      1.89m  
+  3 Shaia, Matthew               Lafayette              1.95m      1.84m  
+  4 Krajunus, John               Monmouth               1.80m      1.79m  
+  4 Burrows, Shane               East Stroudsburg       1.89m      1.79m  
+ -- Rodriguez, Julio             Monmouth               1.85m         NH  
+ -- Baer, Michael                Muhlenberg             1.70m         NH  
+ 
+Men Pole Vault
+=========================================================================
+ Starting Ht 4.05m
+    Name                    Year School                  Seed     Finals 
+=========================================================================
+  1 Gallup, Matthew              East Stroudsburg       4.85m      4.50m  
+  2 Thompson, Michael            Lafayette              4.35m     J4.50m  
+  3 Aversa, Domenic              Lehigh                 4.55m      4.35m  
+  3 Matano, Pete                 Monmouth               4.25m      4.35m  
+  5 Henderson, Nick              Lafayette              4.20m      4.20m  
+  5 Butala, Bryant               East Stroudsburg       4.11m      4.20m  
+  7 Feeney, Colin                East Stroudsburg       4.29m     J4.20m  
+  8 Cabral, Brandon              Monmouth               4.50m     J4.20m  
+ -- Forrest, Kyle                Lehigh                 3.00m         NH  
+ 
+Men Long Jump
+=========================================================================
+ Min Measurement after 1st Jump 6.10m
+    Name                    Year School                  Seed     Finals 
+=========================================================================
+  1 McClenton, Jeff              East Stroudsburg       6.95m      6.79m  
+  2 Lewis, Joshua                Monmouth               6.76m      6.76m  
+  3 Forrest, Kyle                Lehigh                 6.20m      6.51m  
+  4 Tutunjian, Stephen           Lehigh                 6.80m      6.41m  
+  5 Hillman, Brandon             East Stroudsburg       6.71m      6.34m  
+  6 Brookland, Marc              Muhlenberg             6.48m      6.24m  
+  7 Medvecky, Josh               DeSales                6.00m      6.04m  
+  8 Clifford, Pat                DeSales                6.10m      5.59m  
+  9 Bolden, Michael              Keystone               5.56m      5.58m  
+ 10 Purdie, Justin               DeSales                5.53m      5.39m  
+ -- Wolfe, Alex                  Muhlenberg             6.09m       FOUL  
+ 
+Men Triple Jump
+=========================================================================
+ Min Measurement After 1st Jump 12.40m
+    Name                    Year School                  Seed     Finals 
+=========================================================================
+  1 Johnson, Franklin            Lehigh                14.63m     14.63m  
+  2 Tutunjian, Stephen           Lehigh                13.95m     14.19m  
+  3 Hillman, Brandon             East Stroudsburg      14.50m     14.03m  
+  4 Brookland, Marc              Muhlenberg            13.41m     13.88m  
+  5 Burrows, Shane               East Stroudsburg      12.49m     12.05m  
+ 
+Men Shot Put
+=========================================================================
+ Min Mearsurement After 1st Throw 13.11m
+    Name                    Year School                  Seed     Finals 
+=========================================================================
+  1 Keller, Christian            Monmouth              17.65m     15.73m  
+  2 Ray, Nicholas                Lehigh                16.21m     15.53m  
+  3 Gordet, Jeremy               Monmouth              14.00m     13.41m  
+  4 Devens, Ken                  DeSales               13.37m     13.09m  
+  5 Sheppard, Evan               Muhlenberg            14.27m     12.98m  
+  6 Hershman, Seth               Muhlenberg            11.73m     11.61m  
+  7 Miller, Hank                 DeSales               11.66m     11.40m  
+  8 Krupka, Zachary              Monmouth              11.60m     10.62m  
+  9 Johnson, Dan                 East Stroudsburg      10.14m     10.50m  
+ 10 Gianndrea, Joseph            Lehigh                12.08m      9.67m  
+ 11 Feeney, Colin                East Stroudsburg      10.08m      9.42m  
+ 12 Bennett, Tristan             Keystone               9.44m      8.85m  
+ 
+Men Discus Throw
+=========================================================================
+ Min Measurement After 1st Throw 37.80
+    Name                    Year School                  Seed     Finals 
+=========================================================================
+  1 Keller, Christian            Monmouth              54.62m     49.74m  
+  2 McGee, Connor                Lafayette             42.19m     43.04m  
+  3 Crystal, Matt                Lafayette                        42.84m  
+  4 Miller, Hank                 DeSales               41.70m     42.11m  
+  5 Sheppard, Evan               Muhlenberg            41.14m     39.08m  
+  6 Devens, Ken                  DeSales               37.59m     38.25m  
+  7 Gianndrea, Joseph            Lehigh                37.78m     37.37m  
+  8 Dempsey, Timothy             Lehigh                41.15m     36.07m  
+  9 Gordet, Jeremy               Monmouth              36.52m     35.16m  
+ 10 Colder, Karl                 Muhlenberg            35.05m     33.86m  
+ 11 Maurer, Alexander            Lehigh                           29.64m  
+ 12 Bennett, Tristan             Keystone              27.22m     26.64m  
+ 13 Patterson, Devaughn          Keystone              22.86m     13.85m  
+ -- Krupka, Zachary              Monmouth              30.70m       FOUL  
+ -- Goodrich, John               Muhlenberg            30.48m       FOUL  
+ -- Hennigan, Peter              Unattached                      X40.07m  
+ 
+Men Hammer Throw
+=========================================================================
+ Min Measurement after 1st Throw 39.62m
+    Name                    Year School                  Seed     Finals 
+=========================================================================
+  1 Keller, Christian            Monmouth              57.55m     54.66m  
+  2 Sutor, Tom                   East Stroudsburg      52.48m     54.59m  
+  3 Crystal, Matt                Lafayette             49.00m     47.88m  
+  4 Devens, Ken                  DeSales               46.76m     46.91m  
+  5 McGee, Connor                Lafayette             49.00m     46.68m  
+  6 Ray, Nicholas                Lehigh                47.95m     46.33m  
+  7 Miller, Hank                 DeSales               41.74m     43.73m  
+  8 Dempsey, Timothy             Lehigh                41.43m     42.44m  
+  9 Gordet, Jeremy               Monmouth              37.59m     37.01m  
+ 10 Gianndrea, Joseph            Lehigh                35.26m     32.62m  
+ 11 Smith, Michael               Monmouth              33.50m     28.96m  
+ -- Bryce, Chris                 Unattached                      X67.89m  
+ 
+Men Javelin Throw
+=========================================================================
+ Min Measurement After 1st Throw 45.72m
+    Name                    Year School                  Seed     Finals 
+=========================================================================
+  1 Pachucki, James              Lehigh                61.60m     57.55m  
+  2 Hontz, Josh                  East Stroudsburg      59.40m     54.91m  
+  3 Paul, Eric                   Monmouth              54.42m     50.96m  
+  4 Hershman, Josh               Muhlenberg            51.20m     50.22m  
+  5 Mizerek, Matt                Monmouth              55.49m     49.69m  
+  6 DePalma, James               DeSales               57.80m     48.48m  
+  7 Harding, Doug                DeSales               53.12m     48.47m  
+  8 Boland, Matt                 Muhlenberg            47.54m     47.37m  
+  9 Smith, Michael               Monmouth              52.16m     47.15m  
+ 10 Georges, Stefano             Muhlenberg            47.24m     45.77m  
+ 11 Hershman, Seth               Muhlenberg            46.45m     44.62m  
+ 12 Champtaloup, Max             Lehigh                51.40m     44.47m  
+ 13 Krupka, Zachary              Monmouth              43.32m     42.63m  
+ 14 Ridinger, Derek              Lafayette             49.00m     39.33m  
+ 15 Maurer, Alexander            Lehigh                           35.52m  
+
+
+
