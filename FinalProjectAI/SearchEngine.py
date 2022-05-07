@@ -23,7 +23,7 @@ TOTAL_DOCUMENTS = 10393
 
 class SearchEngine:
 
-    def __init__(self, query="The current president."):
+    def __init__(self, query="Jorge Silveyra"):
         self.query = query
         self.invertedIndex = dict()
         self.stopWords = REMOVE_STOPWORDS
@@ -133,7 +133,7 @@ class SearchEngine:
 
     def results(self):
         query = self.processQuery()
-        print(query)
+        print("Query: " + self.query)
         for term in query:
             if term in self.invertedIndex:
                 for i in range(query.get(term)):
@@ -148,10 +148,10 @@ class SearchEngine:
             value = self.numerator.get(key) / math.sqrt(self.denominator.get("q") + self.denominator.get(key))
             heapq.heappush(heap, (value, key))
 
-        for i in range(10):
-            pop = heapq.heappop(heap)
-            with open('Pages/page' + pop[1] + '.txt', 'r', encoding='utf-8') as f:
-                print(str(pop[0]) + ": " + f.read())
+        print("Top 10 Page Results: \n")
+        for i in heapq.nlargest(10, heap):
+            with open('Pages/page' + i[1] + '.txt', 'r', encoding='utf-8') as f:
+                print("Value: {:.3f}".format(i[0]) + ", URL: " + f.read())
 
 
 t = SearchEngine()
