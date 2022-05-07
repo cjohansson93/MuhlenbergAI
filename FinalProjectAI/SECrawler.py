@@ -3,7 +3,9 @@ Christian Johansson
 Artificial Intelligence, Final Project
 5/1/2022
 Professor Silveyra
-
+This file is a website crawler, gathering all links, then valid links
+are from that page and so on. Each page has its URL stored in .txt file, and
+complete text in HTML code written to a .txt file
 """
 
 import requests
@@ -18,10 +20,10 @@ def Crawler():
     visited = list()
     # Stores total number of page links per page
     numPages = 0
-
+    # Loads in stack, visited and numPages from previous run if cut off by server
     with open('PreviousCrawlPageNum.txt', 'r') as f:
         previousNum = int(f.read())
-        if 0 < previousNum < 20000:
+        if 0 < previousNum < 10393:
             numPages = previousNum
             with open('PreviousCrawlStack.txt', 'r', encoding='utf-8') as g:
                 stack = g.read().split()
@@ -31,13 +33,14 @@ def Crawler():
         else:
             # Indicates starting page for crawl
             stack.append("https://www.muhlenberg.edu/")
-    while len(stack) and numPages < 20000:
+    while len(stack) and numPages < 10393:
         r = requests.get(stack.pop())
         # Code 200 reflects a valid/unbroken link
         if r.status_code == 200:
             if r.url not in visited:
                 visited.append(r.url)
                 numPages += 1
+                # Writing stack, visited and numPages to .txt files if cut off by server
                 with open('PreviousCrawlStack.txt', 'w', encoding='utf-8') as f:
                     for i in stack:
                         f.write("{}\n".format(i))
@@ -50,6 +53,7 @@ def Crawler():
                 print(str(numPages) + ": " + r.url)
                 # Stores HTML page
                 page = r.text
+                # Enables use of libraries parsing to get text later
                 soup = BeautifulSoup(page, 'html.parser')
                 # Find valid URLS
                 allLinks = re.findall(r'href="(.*?)"', page)
@@ -69,12 +73,12 @@ def Crawler():
                         stack.append(url)
                 # Write to .txt file in directory 'Pages'
                 # Each page has its URL written to pageX.txt
-                # and word contents written to X.txt
+                # and word contents written to X.txt in
+                # directory 'Text'
                 with open('Pages/page'+str(numPages)+'.txt', 'w', encoding='utf-8') as f:
                     f.write("{}\n".format(r.url))
                 with open('Text/'+str(numPages)+'.txt', 'w', encoding='utf-8') as f:
                     f.write(soup.get_text())
-                # Increment counter for each page
 
 
 Crawler()
